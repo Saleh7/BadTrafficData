@@ -1122,3 +1122,4 @@ vf555.id:443
 /shellx0.php?up=true
 /special?page=5
 example.com:80
+/?gclid=Cj0KCQjwpNuyBhCuARIsANJqL9O41rxqZ-nnH1nBLGXarc4bzbZ05ACYgzljVe60a-Jphb8jTZCJm_caAiPnEALw_wcB
