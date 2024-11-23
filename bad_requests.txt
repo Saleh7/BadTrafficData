@@ -1119,3 +1119,4 @@ vf555.id:443
 /vendor/.env
 /storage/.env
 /public/.env
+/shellx0.php?up=true
