@@ -1124,3 +1124,4 @@ vf555.id:443
 example.com:80
 /?gclid=Cj0KCQjwpNuyBhCuARIsANJqL9O41rxqZ-nnH1nBLGXarc4bzbZ05ACYgzljVe60a-Jphb8jTZCJm_caAiPnEALw_wcB
 /wordpress/wp-login.php
+/blog/wp-login.php
