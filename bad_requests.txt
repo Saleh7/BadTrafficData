@@ -1242,3 +1242,4 @@ example.com:80
 /?gclid=CjwKCAiAg9urBhB_EiwAgw88mYhyObgQlCbPjMOPe_G4FeFonHkt1p9X0NpAsxtdjYs-0ByqIYCIaxoCSl8QAvD_BwE
 /wp-includes/cmd
 /docs/wp-login.php
+/portfolio/wp-login.php
