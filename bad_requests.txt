@@ -1237,3 +1237,4 @@ example.com:80
 /wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
 /forum/wp-login.php
 /?s=08
+/wp-ver.php
