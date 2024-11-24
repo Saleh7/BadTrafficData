@@ -1241,4 +1241,3 @@ example.com:80
 /readme.html
 /response.redirect;
 /?gclid=CjwKCAiAg9urBhB_EiwAgw88mYhyObgQlCbPjMOPe_G4FeFonHkt1p9X0NpAsxtdjYs-0ByqIYCIaxoCSl8QAvD_BwE
-/login?telephone=0532488870
