@@ -1235,3 +1235,4 @@ example.com:80
 /customize.php
 /.well-known/pki-validation/about_php
 /wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+/forum/wp-login.php
