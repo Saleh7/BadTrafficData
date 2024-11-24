@@ -1238,3 +1238,4 @@ example.com:80
 /forum/wp-login.php
 /?s=08
 /wp-ver.php
+/readme.html
