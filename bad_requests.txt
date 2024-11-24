@@ -1243,3 +1243,4 @@ example.com:80
 /wp-includes/cmd
 /docs/wp-login.php
 /portfolio/wp-login.php
+/cevrimici-kurs-turkiye-de-kumar-casino
