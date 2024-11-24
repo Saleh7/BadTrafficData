@@ -1239,3 +1239,4 @@ example.com:80
 /?s=08
 /wp-ver.php
 /readme.html
+/response.redirect;
