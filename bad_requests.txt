@@ -1187,3 +1187,4 @@ example.com:80
 /login.php
 /tinyfilemanager/tinyfilemanager.php
 /wp-signup.php?FoX=sQFLZ
+/url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400
