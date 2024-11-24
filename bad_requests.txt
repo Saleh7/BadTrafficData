@@ -1234,3 +1234,4 @@ example.com:80
 /as/function.php
 /customize.php
 /.well-known/pki-validation/about_php
+/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
