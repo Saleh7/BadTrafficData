@@ -1262,3 +1262,4 @@ example.com:80
 /typo3/
 www.google.com:443
 /events/wp-login.php
+/admin/index.php
