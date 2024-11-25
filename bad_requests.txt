@@ -1252,3 +1252,4 @@ example.com:80
 /.well-known/acme-challenge/2index.php
 /.well-known/acme-challenge/sxx.php
 /.well-known/acme-challenge/65afag.php
+/.well-known/acme-challenge/classwithtostring.php
