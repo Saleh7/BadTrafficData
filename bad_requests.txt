@@ -1261,3 +1261,4 @@ example.com:80
 /fciMMbLiFQDf
 /typo3/
 www.google.com:443
+/events/wp-login.php
