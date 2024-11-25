@@ -1245,3 +1245,5 @@ example.com:80
 /portfolio/wp-login.php
 /cevrimici-kurs-turkiye-de-kumar-casino
 /.git/HEAD
+/.well-known/acme-challenge/makeasmtp.php?p=
+/.well-known/acme-challenge/setting.php
