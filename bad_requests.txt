@@ -1258,3 +1258,5 @@ example.com:80
 /tinymce/filemanager/dialog.php
 /editor/plugins/filemanager/dialog.php
 /tinymce/js/tinymce/plugins/filemanager/dialog.php
+/fciMMbLiFQDf
+/typo3/
