@@ -1263,3 +1263,5 @@ example.com:80
 www.google.com:443
 /events/wp-login.php
 /admin/index.php
+/wp-admin/setup-config.php?step=1
+/wordpress/wp-admin/setup-config.php?step=1
