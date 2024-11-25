@@ -1247,3 +1247,8 @@ example.com:80
 /.git/HEAD
 /.well-known/acme-challenge/makeasmtp.php?p=
 /.well-known/acme-challenge/setting.php
+/.well-known/acme-challenge/bs.php
+/.well-known/acme-challenge/wp-sigunq.php
+/.well-known/acme-challenge/2index.php
+/.well-known/acme-challenge/sxx.php
+/.well-known/acme-challenge/65afag.php
