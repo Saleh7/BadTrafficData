@@ -21,3 +21,4 @@ Opera/9.10( (X11; Linux i686; U; pl))
 Hello, World
 fasthttp
 Abcd
+Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/537.36)
