@@ -1265,3 +1265,4 @@ www.google.com:443
 /admin/index.php
 /wp-admin/setup-config.php?step=1
 /wordpress/wp-admin/setup-config.php?step=1
+/core
