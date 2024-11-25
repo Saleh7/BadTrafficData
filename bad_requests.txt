@@ -1260,3 +1260,4 @@ example.com:80
 /tinymce/js/tinymce/plugins/filemanager/dialog.php
 /fciMMbLiFQDf
 /typo3/
+www.google.com:443
