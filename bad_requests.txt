@@ -1281,3 +1281,10 @@ www.google.com:443
 /go.html
 /administrator/
 /members/wp-login.php
+/wp-content/themes/oceanwp/functions.php
+/wp-content/themes/twentythirteen/functions.php
+/wp-content/themes/kadence/functions.php
+/wp-content/themes/twentyeleven/functions.php
+/wp-content/themes/twentytwenty/functions.php
+/hoot.php
+/geju.php
