@@ -1271,3 +1271,8 @@ www.google.com:443
 /test/wp-login.php
 /class_api.php
 /wp-content/defaults.php
+/wp-admin/click.php
+/wp-admin/item.php
+/wp-content/click.php
+/.well-known/pki-validation/bless.php
+/.well-known/pki-validation/class_api.php
