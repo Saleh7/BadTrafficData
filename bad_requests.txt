@@ -1267,3 +1267,4 @@ www.google.com:443
 /wordpress/wp-admin/setup-config.php?step=1
 /core
 /news/wp-login.php
+/wp-content/plugins/mm-forms/includes/doajaxfileupload.php
