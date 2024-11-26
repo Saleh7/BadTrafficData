@@ -1279,3 +1279,4 @@ www.google.com:443
 /wp-includes/PHPMailer/radio.php
 /wp-content/class_api.php
 /go.html
+/administrator/
