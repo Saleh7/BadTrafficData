@@ -1278,3 +1278,4 @@ www.google.com:443
 /.well-known/pki-validation/class_api.php
 /wp-includes/PHPMailer/radio.php
 /wp-content/class_api.php
+/go.html
