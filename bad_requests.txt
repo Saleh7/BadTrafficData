@@ -1280,3 +1280,4 @@ www.google.com:443
 /wp-content/class_api.php
 /go.html
 /administrator/
+/members/wp-login.php
