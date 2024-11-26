@@ -1268,3 +1268,4 @@ www.google.com:443
 /core
 /news/wp-login.php
 /wp-content/plugins/mm-forms/includes/doajaxfileupload.php
+/test/wp-login.php
