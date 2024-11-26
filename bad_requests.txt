@@ -1276,3 +1276,5 @@ www.google.com:443
 /wp-content/click.php
 /.well-known/pki-validation/bless.php
 /.well-known/pki-validation/class_api.php
+/wp-includes/PHPMailer/radio.php
+/wp-content/class_api.php
