@@ -1269,3 +1269,5 @@ www.google.com:443
 /news/wp-login.php
 /wp-content/plugins/mm-forms/includes/doajaxfileupload.php
 /test/wp-login.php
+/class_api.php
+/wp-content/defaults.php
