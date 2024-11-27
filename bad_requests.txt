@@ -1311,3 +1311,4 @@ http://2024.ip138.com/
 /app_dev.php/_profiler/open?file=app/config/parameters.yml
 /.env.example
 /product/product/autocomplete
+/?gclid=CjwKCAjw48-vBhBbEiwAzqrZVOdq8-DyXlroOd1yJYjpeWZ1ReAYgfY2eJ1ZbfD0ivm-BM91CVrfqxoCy0EQAvD_BwE
