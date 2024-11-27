@@ -1288,3 +1288,13 @@ www.google.com:443
 /wp-content/themes/twentytwenty/functions.php
 /hoot.php
 /geju.php
+/wp-content/plugins/wso.php
+/fresh
+/lib.php
+/wp-content/languages/wp-login.php
+/wp-content/themes/twentytwenty/404.php
+/.well-known/pki-validation/autoload_classmap.php
+/wp-includes/customize/chosen.php
+/aa.php
+/wp-content/atomlib.php
+/search/label/PHP-Shells
