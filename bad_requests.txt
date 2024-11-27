@@ -1373,3 +1373,4 @@ http://2024.ip138.com/
 /controlpanel/
 /manager/login.aspx
 /painel/
+/wp-content/plugins/woocommerce-payments/readme.txt
