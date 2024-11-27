@@ -1299,3 +1299,14 @@ www.google.com:443
 /wp-content/atomlib.php
 /search/label/PHP-Shells
 http://2024.ip138.com/
+/credentials
+/.env.production
+/infos/
+/info/
+/crm/.env
+/api/.env
+/demo/.env
+/pinfo.php
+/backend/.env
+/app_dev.php/_profiler/open?file=app/config/parameters.yml
+/.env.example
