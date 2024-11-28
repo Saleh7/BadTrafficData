@@ -1390,3 +1390,13 @@ http://2024.ip138.com/
 /wp-admin/images/chosen.php
 proxyscrape.com:443
 /index./wp-login.php
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+/server
+/about
+/server-status
+/v2/_catalog
+/login.action
+/s/33e27393e2431313e2838313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+/debug/default/view?panel=config
+/_all_dbs
+/telescope/requests
