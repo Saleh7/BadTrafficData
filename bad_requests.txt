@@ -1400,3 +1400,4 @@ proxyscrape.com:443
 /debug/default/view?panel=config
 /_all_dbs
 /telescope/requests
+/data/admin/allowurl.txt
