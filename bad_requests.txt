@@ -1408,3 +1408,11 @@ proxyscrape.com:443
 /wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php
 /wp-includes/assets/winnner.php
 /dmvoopfa.php?Fox=d3wL7
+/wp-includes/rest-api/search/makeasmtp.php?p=
+/wp-includes/block-patterns/makeasmtp.php?p=
+/wp-admin/js/makeasmtp.php?p=
+/wp-content/uploads/makeasmtp.php?p=
+/makeasmtp.php?p=
+/wp-includes/style-engine/makeasmtp.php?p=
+/wp-admin/css/makeasmtp.php?p=
+/wp-includes/certificates/makeasmtp.php?p=
