@@ -1416,3 +1416,11 @@ proxyscrape.com:443
 /wp-includes/style-engine/makeasmtp.php?p=
 /wp-admin/css/makeasmtp.php?p=
 /wp-includes/certificates/makeasmtp.php?p=
+/wp-admin/images/autoload_classmap.php
+/wp-includes/block-patterns/autoload_classmap.php
+/wp-includes/pomo/autoload_classmap.php
+/wp-includes/SimplePie/autoload_classmap.php
+/wp-includes/widgets/autoload_classmap.php
+/wp-includes/sitemaps/autoload_classmap.php
+/wp-admin/css/autoload_classmap.php
+/wp-includes/js/autoload_classmap.php
