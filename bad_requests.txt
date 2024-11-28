@@ -1435,3 +1435,4 @@ proxyscrape.com:443
 /links.php
 /wp-content/hehe.php
 /wp-content/asd.php
+/tel:+966539300880
