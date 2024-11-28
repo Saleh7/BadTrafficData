@@ -1407,3 +1407,4 @@ proxyscrape.com:443
 /go.php
 /wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php
 /wp-includes/assets/winnner.php
+/dmvoopfa.php?Fox=d3wL7
