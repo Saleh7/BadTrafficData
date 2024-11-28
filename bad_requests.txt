@@ -1433,3 +1433,5 @@ proxyscrape.com:443
 /wp-includes/fonts/links.php
 /wp-admin/css/colors/ectoplasm/links.php
 /links.php
+/wp-content/hehe.php
+/wp-content/asd.php
