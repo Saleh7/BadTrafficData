@@ -1437,3 +1437,5 @@ proxyscrape.com:443
 /wp-content/asd.php
 /tel:+966539300880
 http://112.124.42.80:63435/
+/qlmgxhok.php?Fox=d3wL7
+/vjqykpuv.php?Fox=d3wL7
