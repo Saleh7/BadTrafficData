@@ -1424,3 +1424,12 @@ proxyscrape.com:443
 /wp-includes/sitemaps/autoload_classmap.php
 /wp-admin/css/autoload_classmap.php
 /wp-includes/js/autoload_classmap.php
+/wp-admin/images/links.php
+/wp-admin/includes/links.php
+/wp-includes/ID3/links.php
+/wp-admin/maint//links.php
+/wp-content/upgrade/links.php
+/wp-includes/IXR/links.php
+/wp-includes/fonts/links.php
+/wp-admin/css/colors/ectoplasm/links.php
+/links.php
