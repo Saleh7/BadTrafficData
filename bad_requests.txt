@@ -1374,3 +1374,17 @@ http://2024.ip138.com/
 /manager/login.aspx
 /painel/
 /wp-content/plugins/woocommerce-payments/readme.txt
+/ynz.PhP7
+/wp-includes/css.php
+/wp-includes/Requests/library/about.php
+/wp-includes/css/about.php7
+/wp-content/plugins/seoo/ulc2.php
+/todo.php
+/wp-includes/IXR/moon.php
+/cgi-bin/install.php
+/.well-known/caches.php.suspected
+/admin/wp-signup.php
+/wp-includes/PHPMailer/about.php
+/used
+/aged.php
+/wp-admin/images/chosen.php
