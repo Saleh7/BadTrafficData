@@ -1937,3 +1937,7 @@ www.baidu.com:443
 /application/application/text/html
 /text/product/application/x-ecmascript
 /text/application/extension/maza/product/product/autocomplete
+/wp-content/plugins/shell/noimg.php
+/wp-admin/network/wp-GhD3xj.php
+/wp-GhD3xj.php
+/wp-content/plugins/linkpreview/db.php
