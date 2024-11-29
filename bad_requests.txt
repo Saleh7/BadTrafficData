@@ -1703,3 +1703,16 @@ www.baidu.com:443
 /product
 /control
 /sql
+/application/extension/maza/product/product/autocomplete
+/text/application/javascript
+/text/text/jscript
+/application/b03e4c226c4a5e92ae399778-text/javascript
+/text/product/search
+/application/text/html
+/text/application/ecmascript
+/text/2f9420598876ecdf1d012f83-text/javascript
+/text/extension/maza/product/product/autocomplete
+/application/text/plain
+/application/text/xml
+/application/application/x-www-form-urlencoded
+/application/product/search
