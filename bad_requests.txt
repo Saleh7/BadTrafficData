@@ -2051,3 +2051,6 @@ www.baidu.com:443
 /blog/wp-admin/install.php
 /test/wp-admin/install.php
 /cms/wp-admin/install.php
+/web/wp-admin/install.php
+/site/wp-admin/install.php
+/backup/wp-admin/install.php
