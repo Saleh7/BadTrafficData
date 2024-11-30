@@ -2081,3 +2081,4 @@ www.baidu.com:443
 /blog/installer.php
 /shop/installer.php
 /store/installer.php
+/wp-conflg.php?vf=9b9b9b
