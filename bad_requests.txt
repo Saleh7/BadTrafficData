@@ -1946,3 +1946,13 @@ www.baidu.com:443
 /.well-known/acme-challenge/aj.php
 /.well-known/acme-challenge/blurbs.php
 /.well-known/acme-challenge/aboudt.php
+/assets/js/filemanager/dialog.php
+/admin/assets/global/plugins/filemanager/dialog.php
+/admin/themes/filemanager/dialog.php
+/admin/global/plugins/filemanager/dialog.php
+/admin/ckeditor/plugins/filemanager/dialog.php
+/admin/assets/js/ckeditor/filemanager/dialog.php
+/admin/editor/filemanager/dialog.php
+/js/tinymce/plugins/filemanager/dialog.php
+/public/scripts/filemanager/dialog.php
+/admin/js/filemanager/dialog.php
