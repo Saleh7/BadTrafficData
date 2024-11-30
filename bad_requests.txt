@@ -1942,3 +1942,7 @@ www.baidu.com:443
 /wp-GhD3xj.php
 /wp-content/plugins/linkpreview/db.php
 /?s=1
+/.well-known/acme-challenge/parx.php
+/.well-known/acme-challenge/aj.php
+/.well-known/acme-challenge/blurbs.php
+/.well-known/acme-challenge/aboudt.php
