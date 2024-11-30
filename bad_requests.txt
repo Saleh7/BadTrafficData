@@ -2048,3 +2048,6 @@ www.baidu.com:443
 /old/wp-admin/install.php
 /wordpress/wp-admin/install.php
 /new/wp-admin/install.php
+/blog/wp-admin/install.php
+/test/wp-admin/install.php
+/cms/wp-admin/install.php
