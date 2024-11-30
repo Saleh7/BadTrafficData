@@ -2045,3 +2045,6 @@ www.baidu.com:443
 /elp.php
 /wp-content/plugins/videowhisper-video-presentation/vp/translation.php
 /wp/wp-admin/install.php
+/old/wp-admin/install.php
+/wordpress/wp-admin/install.php
+/new/wp-admin/install.php
