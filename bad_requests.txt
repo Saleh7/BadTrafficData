@@ -2044,3 +2044,4 @@ www.baidu.com:443
 /mah/index.php
 /elp.php
 /wp-content/plugins/videowhisper-video-presentation/vp/translation.php
+/wp/wp-admin/install.php
