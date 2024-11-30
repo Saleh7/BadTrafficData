@@ -2024,3 +2024,4 @@ www.baidu.com:443
 /wp//wp-admin/wp-setup.php
 /wp-includes/ID3/51Sge/index.php
 /administrator/index.php
+/example.com/
