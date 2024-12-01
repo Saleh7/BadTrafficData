@@ -2124,3 +2124,12 @@ www.baidu.com:443
 /wp-includes/block-bindings/alfa-rex.php
 /wp-includes/js/mediaelement/alfa-rex.php
 /wp-includes/css/alfa-rex.php
+/2014/installer.php
+/2015/installer.php
+/2010/installer.php
+/BLOG/installer.php
+/2017/installer.php
+/2012/installer.php
+/2016/installer.php
+/2009/installer.php
+/2013/installer.php
