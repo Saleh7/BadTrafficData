@@ -2083,3 +2083,17 @@ www.baidu.com:443
 /store/installer.php
 /wp-conflg.php?vf=9b9b9b
 /a.nel.cloud
+/wp-includes/interactivity-api/alfa-rex.php
+/wp-includes/PHPMailer/alfa-rex.php
+/wp-includes/l10n/alfa-rex.php
+/wp-includes/style-engine/wp/alfa-rex.php
+/wp-includes/images/media/alfa-rex.php
+/wp-includes/IXR/alfa-rex.php
+/wp-includes/rest-api/endpoints/alfa-rex.php
+/wp-includes/SimplePie/HTTP/alfa-rex.php
+/wp-includes/pomo/alfa-rex.php
+/wp-includes/Requests/alfa-rex.php
+/wp-includes/random_compat/alfa-rex.php
+/wp-includes/rest-api/alfa-rex.php
+/wp-content/languages/alfa-rex.php
+/wp-includes/Text/Diff/alfa-rex.php
