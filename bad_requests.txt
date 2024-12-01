@@ -2250,3 +2250,4 @@ www.baidu.com:443
 myip.wtf:443
 google.com:443
 /fjwUmtnOUhNA
+/system/logs/error.txt
