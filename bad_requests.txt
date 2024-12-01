@@ -2248,3 +2248,4 @@ www.baidu.com:443
 /js/kcfinder/upload.php
 /assets/kcfinder/upload.php
 myip.wtf:443
+google.com:443
