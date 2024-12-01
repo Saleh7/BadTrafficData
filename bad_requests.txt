@@ -2138,3 +2138,4 @@ www.baidu.com:443
 /Blog/installer.php
 /NEW/installer.php
 /New/installer.php
+/wp-content/plugins/wp-catcher/index.php
