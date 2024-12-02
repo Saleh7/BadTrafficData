@@ -2452,3 +2452,4 @@ google.com:443
 /orders.php
 /services.php
 /ssl_check.php
+/wp-content/plugins/newsfeed/nf.php
