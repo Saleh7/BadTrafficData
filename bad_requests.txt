@@ -2455,3 +2455,10 @@ google.com:443
 /wp-content/plugins/newsfeed/nf.php
 /1
 /done
+/wp-includes/customize/plugins.php
+/wp-admin/maint/plugins.php
+/wp-includes/ID3/plugins.php
+/.well-known/pki-validation/plugins.php
+/.tmb/plugins.php
+/wp-includes/random_compat/plugins.php
+/wp-admin/css/colors/blue/plugins.php
