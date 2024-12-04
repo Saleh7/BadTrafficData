@@ -2566,3 +2566,5 @@ google.com:443
 /config.php.original
 /config.php_
 /config.php.inc
+/Store
+/store
