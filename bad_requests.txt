@@ -2568,3 +2568,4 @@ google.com:443
 /config.php.inc
 /Store
 /store
+/?gclid=EAIaIQobChMIxPv8jOijggMV-F2RBR3XJgVzEAEYASAAEgKAevD_BwE
