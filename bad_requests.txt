@@ -2573,3 +2573,4 @@ google.com:443
 /pe
 /wordpress/xmlrpc.php
 /wp/xmlrpc.php
+/public/assets/plugins/plupload/examples/upload.php
