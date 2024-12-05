@@ -2574,3 +2574,4 @@ google.com:443
 /wordpress/xmlrpc.php
 /wp/xmlrpc.php
 /public/assets/plugins/plupload/examples/upload.php
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php
