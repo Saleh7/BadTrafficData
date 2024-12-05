@@ -2664,3 +2664,10 @@ google.com:443
 /cadastro-2.php
 /log/
 /stripe/
+/smewYW.php
+/strcmp.php
+/sidebarg.php
+/tanamshell.php
+/sys.php
+/tejdTP.php
+/taxonomy-compiler.php
