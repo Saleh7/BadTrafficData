@@ -2662,3 +2662,4 @@ google.com:443
 /alumni_reg.php
 /bihnmimh.php
 /cadastro-2.php
+/log/
