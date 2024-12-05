@@ -2663,3 +2663,4 @@ google.com:443
 /bihnmimh.php
 /cadastro-2.php
 /log/
+/stripe/
