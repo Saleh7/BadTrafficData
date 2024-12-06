@@ -2812,3 +2812,4 @@ google.com:443
 /_vti_pvt/authors.pwd
 /config/database.php
 /?gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2AaVL3NeJcErMowYmKeoADuHr5JhzmvvN3d8p3naqMFW51e-F1687oaAgm7EALw_wcB
+/style2.php
