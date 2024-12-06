@@ -2826,3 +2826,6 @@ google.com:443
 /up.php7
 /up.php5
 /marjan.php
+/leafmailer.php
+/wsoshell.php
+/wp-scr1pts.php
