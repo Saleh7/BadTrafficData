@@ -2833,3 +2833,15 @@ google.com:443
 /rsx.php
 /exploit.php
 /vuln.php
+/naz.php
+/cgi.php
+/erby.php
+/alexus.php
+/z3d007.php
+/wso01.php
+/400.php
+/pekok.php
+/sayangku.php
+/302.php
+/ox.php
+/102.php
