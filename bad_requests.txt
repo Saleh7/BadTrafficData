@@ -2879,3 +2879,12 @@ google.com:443
 /leafmailer2.8.php
 /legion.php
 /larva.php
+/gastenboek.php
+/index2.php
+/hiking-giardia.php
+/foxwsov1.php
+/gb.php
+/frontend_dev.php
+/gaza.php
+/gaestebuch.php
+/foxwso.php
