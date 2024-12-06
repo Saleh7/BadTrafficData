@@ -2860,3 +2860,6 @@ google.com:443
 /vita.php
 /YOnQShfmsFxp
 /wwos.php
+/srx.php
+/styles.php
+/rss.php
