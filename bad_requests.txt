@@ -2888,3 +2888,13 @@ google.com:443
 /gaza.php
 /gaestebuch.php
 /foxwso.php
+/gel.php
+/bakindex.php
+/alexuse.php
+/bbsindex.php
+/getcfg.php
+/backupwp-login.php
+/base.php
+/bbs.php
+/alfa123.php
+/get_password.php
