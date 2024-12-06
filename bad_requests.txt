@@ -2821,3 +2821,8 @@ google.com:443
 /hi.php
 /seo.php
 /DCS.php
+/indoxploit.php
+/indosec.php
+/up.php7
+/up.php5
+/marjan.php
