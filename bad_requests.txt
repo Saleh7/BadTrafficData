@@ -2856,3 +2856,7 @@ google.com:443
 /wprahma.php
 /wp-rss.php
 /wsi.php
+/upel.php
+/vita.php
+/YOnQShfmsFxp
+/wwos.php
