@@ -2851,3 +2851,8 @@ google.com:443
 /Indox.php
 /cpanel.php
 /sh3ll.php
+/yapgb.php
+/wso1337.php
+/wprahma.php
+/wp-rss.php
+/wsi.php
