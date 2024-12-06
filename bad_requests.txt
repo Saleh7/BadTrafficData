@@ -2788,3 +2788,4 @@ google.com:443
 /?rest_route=/wp/v2/users/
 /s/2323e20363e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /zFcEjwvhJpMd
+/admin/assets/plugins/plupload/examples/upload.php
