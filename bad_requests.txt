@@ -2875,3 +2875,7 @@ google.com:443
 /marvins.php
 /mi.php
 /omda.php
+/kiss.php
+/leafmailer2.8.php
+/legion.php
+/larva.php
