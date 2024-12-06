@@ -2789,3 +2789,5 @@ google.com:443
 /s/2323e20363e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 /zFcEjwvhJpMd
 /admin/assets/plugins/plupload/examples/upload.php
+/s/833323e23323e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+/s/2343e2431323e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
