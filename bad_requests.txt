@@ -2783,3 +2783,7 @@ google.com:443
 /wp-includes/block-patterns/xleet.php
 /wp-content/banners/xleet.php
 /images/xleet.php
+/.DS_Store
+/s/738313e2738313e27363e2237313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+/?rest_route=/wp/v2/users/
+/s/2323e20363e21323e2430313/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
