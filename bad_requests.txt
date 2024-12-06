@@ -2907,3 +2907,13 @@ google.com:443
 /yecyq.php
 /rex.php
 /7jlhb.php
+/bingo.php
+/phpmailer.php
+/aboutus.php
+/fileman.php
+/chk.php
+/demo.php
+/demo.html
+/config.inc.php
+/common.php
+/cs.php
