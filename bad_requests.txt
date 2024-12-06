@@ -2898,3 +2898,7 @@ google.com:443
 /bbs.php
 /alfa123.php
 /get_password.php
+/098.php
+/alfindex.php
+/41.php
+/50btc.php
