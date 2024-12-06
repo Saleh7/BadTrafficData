@@ -2871,3 +2871,7 @@ google.com:443
 /sendemail.php
 /rueiindex.php
 /rxr.php?rxr
+/logo_img.php
+/marvins.php
+/mi.php
+/omda.php
