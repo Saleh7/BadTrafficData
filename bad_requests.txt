@@ -2829,3 +2829,7 @@ google.com:443
 /leafmailer.php
 /wsoshell.php
 /wp-scr1pts.php
+/88.php
+/rsx.php
+/exploit.php
+/vuln.php
