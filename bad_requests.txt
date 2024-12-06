@@ -2845,3 +2845,9 @@ google.com:443
 /302.php
 /ox.php
 /102.php
+/xmlrpz.php
+/xamppindex.php
+/xo.php
+/Indox.php
+/cpanel.php
+/sh3ll.php
