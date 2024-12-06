@@ -2902,3 +2902,8 @@ google.com:443
 /alfindex.php
 /41.php
 /50btc.php
+/nqgo2.php
+/1337.php
+/yecyq.php
+/rex.php
+/7jlhb.php
