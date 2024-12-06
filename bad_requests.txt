@@ -2863,3 +2863,11 @@ google.com:443
 /srx.php
 /styles.php
 /rss.php
+/serverphp
+/seter.php
+/shareduserlogin.php
+/olu.php
+/scarbook.php
+/sendemail.php
+/rueiindex.php
+/rxr.php?rxr
