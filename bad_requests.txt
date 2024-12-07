@@ -2920,3 +2920,4 @@ google.com:443
 /hotnews.php
 /ip.php
 /geko.php
+/boaform/admin/formLogin?username=ec8&psd=ec8
