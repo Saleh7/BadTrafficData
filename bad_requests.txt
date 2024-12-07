@@ -2924,3 +2924,4 @@ google.com:443
 /bitbucket-pipelines.yml
 /wp-content/plugins/1-flash-gallery/readme.txt
 /boaform/admin/formLogin?username=adminisp&psd=adminisp
+/wp-includes/Text/Diff/index.php
