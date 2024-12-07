@@ -2925,3 +2925,4 @@ google.com:443
 /wp-content/plugins/1-flash-gallery/readme.txt
 /boaform/admin/formLogin?username=adminisp&psd=adminisp
 /wp-includes/Text/Diff/index.php
+/assets/admin/plugins/plupload/examples/upload.php
