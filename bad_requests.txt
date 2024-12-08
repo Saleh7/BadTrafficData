@@ -3310,3 +3310,4 @@ google.com:443
 /0z.php
 /wp-admin/css/colors/blue/blue.php
 /wp-includes/pomo/fgertreyersd.php.suspected
+/?route=information/tracking
