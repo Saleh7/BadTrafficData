@@ -3311,3 +3311,9 @@ google.com:443
 /wp-admin/css/colors/blue/blue.php
 /wp-includes/pomo/fgertreyersd.php.suspected
 /?route=information/tracking
+/order/
+/wishlist/
+/?route=account/return/add
+/address/
+/account/
+/new_contact/
