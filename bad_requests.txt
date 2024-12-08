@@ -3227,3 +3227,7 @@ google.com:443
 /temp-upload.php
 //wp-content/uploads/upload_index.php?auth=a
 /404.php123123/wp-includes/js/xleet.php
+/autoload_classmap.php?p=
+/.well-known/makeasmtp.php?p=
+/abouts.php?p=
+/admin.php?p=
