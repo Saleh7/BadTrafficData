@@ -3250,3 +3250,4 @@ google.com:443
 /wp-includes/about.php?p=
 /wp-includes/widgets/about.php?p=
 /wp-login.php?action=register
+/includ
