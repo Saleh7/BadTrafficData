@@ -3247,3 +3247,6 @@ google.com:443
 /filemanager.php?p=
 /m.php?p=
 /cong.php?p=
+/wp-includes/about.php?p=
+/wp-includes/widgets/about.php?p=
+/wp-login.php?action=register
