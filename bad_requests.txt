@@ -3225,3 +3225,4 @@ google.com:443
 /test-restore.php
 /upload-file.php
 /temp-upload.php
+//wp-content/uploads/upload_index.php?auth=a
