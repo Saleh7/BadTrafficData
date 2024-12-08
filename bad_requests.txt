@@ -3251,3 +3251,5 @@ google.com:443
 /wp-includes/widgets/about.php?p=
 /wp-login.php?action=register
 /includ
+/wp-login.php?wp_lang=en_US&action=lostpassword
+/?rest_route=/wp/v2/users
