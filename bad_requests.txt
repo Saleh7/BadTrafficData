@@ -3334,3 +3334,4 @@ google.com:443
 /assets/
 /files/
 /upload/
+/terms
