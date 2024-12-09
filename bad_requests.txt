@@ -3336,3 +3336,4 @@ google.com:443
 /upload/
 /terms
 /delivery
+/static/common/user/uedit/php/controller.php?action=catchimage
