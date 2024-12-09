@@ -3335,3 +3335,4 @@ google.com:443
 /files/
 /upload/
 /terms
+/delivery
