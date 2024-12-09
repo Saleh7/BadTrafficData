@@ -3340,3 +3340,4 @@ google.com:443
 /blog_article?article_id=30
 /public/plugins/plupload/examples/upload.php
 /login.php?s=Admin/login
+/pages/about-us
