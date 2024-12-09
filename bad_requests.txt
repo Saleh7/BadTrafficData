@@ -3321,3 +3321,12 @@ google.com:443
 /?amp;author_id=2&route=extension/maza/blog/author
 /klpeacwb.php?Fox=d3wL7
 /?srsltid=AfmBOoqme2T26BtxGvEp5q8FQZUYcpo8NyzWpNnny21gHgqtmRbaF-n_
+/wp-includes/css/dist/
+/wp-content/wflogs/
+/wp-content/languages/
+/wp-content/maintenance/
+/wp-includes/Text/Diff/
+/wp-content/ai1wm-backups/
+/assets/include/
+/wp-content/cache/
+/img/
