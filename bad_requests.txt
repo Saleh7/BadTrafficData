@@ -3339,3 +3339,4 @@ google.com:443
 /static/common/user/uedit/php/controller.php?action=catchimage
 /blog_article?article_id=30
 /public/plugins/plupload/examples/upload.php
+/login.php?s=Admin/login
