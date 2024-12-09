@@ -3337,3 +3337,4 @@ google.com:443
 /terms
 /delivery
 /static/common/user/uedit/php/controller.php?action=catchimage
+/blog_article?article_id=30
