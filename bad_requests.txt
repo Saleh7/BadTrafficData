@@ -3540,3 +3540,4 @@ google.com:443
 /wp-content/shell.php
 /wp-content/themes/include.php
 /wp-content/themes/digital-download/up.php
+/blog/
