@@ -3511,3 +3511,17 @@ google.com:443
 /wp-content/languages/autoload_classmap.php
 /wp-content/upgrade/flower.php
 /wp-includes/images/crystal/autoload_classmap.php
+/wp-admin/css/colors/sHQwacY.php
+/wp-admin/css/network.php
+/baxa1.phP8
+/wp-admin/css/DRzylG.php
+/templates/beez/jsstrings.php
+/wp-admin/js/QXUho.php
+/wp-admin/css/colors/blue/WSidp.php
+/wp-content/plugins/WordPressCore/index.php
+/wp-includes/wp-includes_function.php
+/wp-admin/css/dnIzIDf.php
+/wp-includes/images/media/UUmhXfq.php
+/wp-admin/css/colors/midnight/UwnDYGke.php
+/wp-admin/css/colors/HsFPDcD.php
+/wp-includes/class-wp-simple-js.php
