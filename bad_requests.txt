@@ -3593,3 +3593,7 @@ google.com:443
 /admin/language/en-gb/extension/extension/simple-shell.php?cmd=cat+/etc/passwd
 /admin/marion001.php
 /xPloiter.php
+/blog/phpinfo.php
+/config/info.php
+/cloudcontroller/config/application.yml/test.php
+/laravel/phpinfo.php
