@@ -3597,3 +3597,6 @@ google.com:443
 /config/info.php
 /cloudcontroller/config/application.yml/test.php
 /laravel/phpinfo.php
+/?SPX_KEY=testing&SPX_UI_URI=/
+/?SPX_KEY=devel&SPX_UI_URI=/
+/?SPX_KEY=prod&SPX_UI_URI=/
