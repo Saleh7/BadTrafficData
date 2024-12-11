@@ -3601,3 +3601,5 @@ google.com:443
 /?SPX_KEY=devel&SPX_UI_URI=/
 /?SPX_KEY=prod&SPX_UI_URI=/
 /miscadmin
+/api/v4/users/9
+/apps
