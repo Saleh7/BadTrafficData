@@ -35,3 +35,4 @@ Mozilla/5.0 (X11; Linux 3.8-6.dmz.1-liquorix-686 KHTML/4.8.4 (like Gecko) Konque
 Mozilla/5.0 (compatible; archive.org_bot; Wayback Machine Live Record; +http://archive.org/details/archive.org_bot)
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; FunWebProducts; rv:11.0 like Gecko)
 POLARIS/6.01 (BREW 3.1.5; U; en-us; LG; LX265; POLARIS/6.01/WAP) MMP/2.0 profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
