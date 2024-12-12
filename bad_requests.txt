@@ -3603,3 +3603,5 @@ google.com:443
 /miscadmin
 /api/v4/users/9
 /apps
+/actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName
+/phpmyadmin/server_import.php
