@@ -3605,3 +3605,4 @@ google.com:443
 /apps
 /actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName
 /phpmyadmin/server_import.php
+/user/login
