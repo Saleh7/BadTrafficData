@@ -3606,3 +3606,4 @@ google.com:443
 /actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationName
 /phpmyadmin/server_import.php
 /user/login
+/admin/assets/global/plugins/plupload/examples/upload.php
