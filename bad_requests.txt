@@ -3608,3 +3608,4 @@ google.com:443
 /user/login
 /admin/assets/global/plugins/plupload/examples/upload.php
 /wp-content/plugins/pwnd-2/pwnd.php
+/bootstrap.php
