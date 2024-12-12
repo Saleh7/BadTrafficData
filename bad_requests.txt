@@ -3609,3 +3609,7 @@ google.com:443
 /admin/assets/global/plugins/plupload/examples/upload.php
 /wp-content/plugins/pwnd-2/pwnd.php
 /bootstrap.php
+/wp-config-premigrate.php
+/wp-admin/css/colors/blue/.well-known/pki-validation/xmrlpc.php
+/wp-content/cache/index.php
+/temp.php
