@@ -3615,3 +3615,4 @@ google.com:443
 /temp.php
 /?srsltid=AfmBOoo6RMbq8vPVr8Qu4fd15LkF595kzX8mSoZia4DJKe1fNwPQ9Za8
 /admin/privilege.php?act=login
+/classmap.php
