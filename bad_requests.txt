@@ -3623,3 +3623,8 @@ google.com:443
 /vendor/htmlawed/htmlawed/gel4y.php
 /wp-admin/network/back.php
 /insoamv.php
+/wp-admin/js/network.php
+/sidwsi.PhP7
+/wp-admin/wso.php
+/lala.php
+/1.php?apx=upx
