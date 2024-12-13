@@ -3618,3 +3618,8 @@ google.com:443
 /classmap.php
 /gifts
 /?fbclid=PAZXh0bgNhZW0CMTEAAabf3zUtBXHkenTqWIO7FgaQIDk4wpyU7np19kJlro-3MxEcFzpIx7cHHFc_aem_vfrAlkCSPIqaTPteddxQeg
+/wp-admin/network/gzak2w.php
+/vendor/bin/loader.php
+/vendor/htmlawed/htmlawed/gel4y.php
+/wp-admin/network/back.php
+/insoamv.php
