@@ -3648,3 +3648,4 @@ google.com:443
 /hshs.php
 /wp-includes/Requests/network.php
 /wp-admin/network/wp-term.php
+/wp-content/plugins/shell/index.php
