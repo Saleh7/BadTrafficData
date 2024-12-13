@@ -3614,3 +3614,4 @@ google.com:443
 /wp-content/cache/index.php
 /temp.php
 /?srsltid=AfmBOoo6RMbq8vPVr8Qu4fd15LkF595kzX8mSoZia4DJKe1fNwPQ9Za8
+/admin/privilege.php?act=login
