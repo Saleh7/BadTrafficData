@@ -3616,3 +3616,4 @@ google.com:443
 /?srsltid=AfmBOoo6RMbq8vPVr8Qu4fd15LkF595kzX8mSoZia4DJKe1fNwPQ9Za8
 /admin/privilege.php?act=login
 /classmap.php
+/gifts
