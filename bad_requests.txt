@@ -3651,3 +3651,5 @@ google.com:443
 /wp-content/plugins/shell/index.php
 /modules/mod_simplefileuploadv1.3/elements/wcg9LbOHD14.php?action=768776e296b6f286f2a72607e276b62666c6d286
 /admin/controller/extension/extension/daDTLv3YPn6.php?action=768776e296b6f286f2a72607e276b62666c6d286
+/modules/mod_simplefileuploadv1.3/elements/udd.php
+/locations
