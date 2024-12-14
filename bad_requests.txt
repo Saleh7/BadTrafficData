@@ -3661,3 +3661,4 @@ google.com:443
 /wp-content/plugins/foxiplugin/Foxi.php
 /xmlrc.php
 /plupload/examples/upload.php
+/generator/data/generator.conf
