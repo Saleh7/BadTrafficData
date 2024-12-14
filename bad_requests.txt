@@ -3655,3 +3655,6 @@ google.com:443
 /locations
 /oils
 /app/
+/wp-content/plugins/newsfeed/newsfeed.php
+/retu1.php
+/retu.php
