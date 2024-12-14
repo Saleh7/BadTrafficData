@@ -3660,3 +3660,4 @@ google.com:443
 /retu.php
 /wp-content/plugins/foxiplugin/Foxi.php
 /xmlrc.php
+/plupload/examples/upload.php
