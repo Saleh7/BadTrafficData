@@ -3668,3 +3668,5 @@ google.com:443
 /?route=account/forgotten
 /register/
 /?path=4&route=product/category
+/?path=222_228&route=product/category
+/?path=222_227&route=product/category
