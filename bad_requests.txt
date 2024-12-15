@@ -3673,3 +3673,7 @@ google.com:443
 /?path=228&route=product/category
 /?path=227&route=product/category
 /?route=information/contact
+/public/javascript/filemanager//dialog.php
+/public/scripts/filemanager//dialog.php
+/media/filemanager/dialog.php
+/phpformbuilder/plugins/filemanager//dialog.php
