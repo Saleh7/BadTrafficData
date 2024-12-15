@@ -3672,3 +3672,4 @@ google.com:443
 /?path=222_227&route=product/category
 /?path=228&route=product/category
 /?path=227&route=product/category
+/?route=information/contact
