@@ -3667,3 +3667,4 @@ google.com:443
 /?route=product/catalog
 /?route=account/forgotten
 /register/
+/?path=4&route=product/category
