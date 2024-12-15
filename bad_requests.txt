@@ -3664,3 +3664,5 @@ google.com:443
 /generator/data/generator.conf
 /elfinder/connector
 /wp-content/plugins/clara/clara.php
+/?route=product/catalog
+/?route=account/forgotten
