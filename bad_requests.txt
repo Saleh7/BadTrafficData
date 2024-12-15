@@ -3662,3 +3662,4 @@ google.com:443
 /xmlrc.php
 /plupload/examples/upload.php
 /generator/data/generator.conf
+/elfinder/connector
