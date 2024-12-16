@@ -3677,3 +3677,4 @@ google.com:443
 /public/scripts/filemanager//dialog.php
 /media/filemanager/dialog.php
 /phpformbuilder/plugins/filemanager//dialog.php
+/plugins/plupload/examples/upload.php
