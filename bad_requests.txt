@@ -3708,3 +3708,6 @@ google.com:443
 /wp-content/plugins/pwnd-1/dropdown.php
 /wp-content/themes/Divi/includes/widgets/wp-blog.php
 /wp-content/themes/seotheme/dropdown.php
+/wp-admin/user/kx.php
+/wp-admin/network/cloud1.php
+/mini.phpa
