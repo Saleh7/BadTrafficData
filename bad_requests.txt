@@ -3695,3 +3695,16 @@ google.com:443
 /.tmb/wp-login.php
 /images/content.php
 /wp-admin/user/xmrlpc.php
+/system_log.php
+/wp-admin/maint/edit.php
+/wp-admin/includes/iR7SzrsOUEP.php
+/ws.php.php
+/wp-includes/wp-class.php/wp-content/themes/Divi/includes/widgets/wp-blog.php
+/wp-admin/css/colors/midnight/admin.php
+/wp-content/plugins/envato-market/inc/class-envato-market-github.php
+/wp-content/shell20211028.php
+/wp-content/upgrade/pdf.php
+/wp-includes/IXR/allez.php
+/wp-content/plugins/pwnd-1/dropdown.php
+/wp-content/themes/Divi/includes/widgets/wp-blog.php
+/wp-content/themes/seotheme/dropdown.php
