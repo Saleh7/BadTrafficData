@@ -3711,3 +3711,4 @@ google.com:443
 /wp-admin/user/kx.php
 /wp-admin/network/cloud1.php
 /mini.phpa
+/Shiddi
