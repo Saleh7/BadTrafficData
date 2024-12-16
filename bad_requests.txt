@@ -3679,3 +3679,7 @@ google.com:443
 /phpformbuilder/plugins/filemanager//dialog.php
 /plugins/plupload/examples/upload.php
 /login&popup=login
+/templates/beez3/jsstrings.php?action=768776e296b6f286f2a72607e276b62666c6d286
+/sites/all/themes/adminimal_theme/uqPfX5TiZbY.php?action=768776e296b6f286f2a72607e276b62666c6d286
+/administrator/templates/hathor/error.php?action=768776e296b6f286f2a72607e276b62666c6d286
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php?action=768776e296b6f286f2a72607e276b62666c6d286
