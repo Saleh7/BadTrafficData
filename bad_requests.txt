@@ -3678,3 +3678,4 @@ google.com:443
 /media/filemanager/dialog.php
 /phpformbuilder/plugins/filemanager//dialog.php
 /plugins/plupload/examples/upload.php
+/login&popup=login
