@@ -3687,3 +3687,11 @@ google.com:443
 /plugins-dist
 /?srsltid=AfmBOoqQ13UTt8lrAbJzKOVJgE6cFzwWvOsy1eenJJe2pgZtwCAcsWGU
 /about_us
+/wp-admin/css/colors/blue/xmrlpc.php
+/contents.php/lv.php
+/daddy.php
+/.tmb/admin.php
+/.well-known/pki-validation/themes.php
+/.tmb/wp-login.php
+/images/content.php
+/wp-admin/user/xmrlpc.php
