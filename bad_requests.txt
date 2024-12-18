@@ -3720,3 +3720,4 @@ google.com:443
 /config/.env
 /application/.env
 /QmcpEqVRbXtp
+/wp-content/plugins/aviary-image-editor-add-on-for-gravity-forms/includes/upload.php
