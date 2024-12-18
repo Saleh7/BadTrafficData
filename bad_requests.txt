@@ -3729,3 +3729,5 @@ http://azenv.net/
 api6.my-ip.io:443
 http://v6.ipv6-test.com/json/widgetdata.php?callback=?
 www.liveinternet.ru:443
+/blog/.env
+/docs/.env
