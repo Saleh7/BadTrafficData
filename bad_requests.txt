@@ -3850,3 +3850,13 @@ www.liveinternet.ru:443
 /wp-content/plugins/9vulkyw2/xleet.php
 /wp-content/plugins/5twduad5/autoload_classmap.php
 /fckeditor/editor/filemanager/connectors/php/upload.php?Type=Media
+/serverside/telerik.web.ui.dialoghandler.aspx
+/DesktopModules/RadEditorProvider/DialogHandler.aspx
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx
+/DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.DialogHandler.aspx
+/DesktopModules/TNComments/Telerik.Web.UI.DialogHandler.aspx
+/DesktopModules/Admin/RadEditorProvider/telerik.web.ui.dialoghandler.aspx
+/Telerik.Web.UI.DialogHandler.aspx
+/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx
+/feedback/Telerik.Web.UI.DialogHandler.aspx
+/Resources/Telerik.Web.UI.DialogHandler.aspx
