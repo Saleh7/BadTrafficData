@@ -3842,3 +3842,10 @@ www.liveinternet.ru:443
 /wp-content/plugins/eaiiajx8/autoload_classmap.php
 /wp-content/plugins/erinyani/baxa1.php
 /wp-content/plugins/f8cvmro7/xleet.php
+/wp-content/plugins/fn9hf7cj/autoload_classmap.php
+/plugin-development/wp-content/plugins/mp9z2q10/autoload_classmap.php
+/wp-content/plugins/wxvami88/autoload_classmap.php
+/wp-content/plugins/tan4lvfp/xleet.php
+/wp-content/plugins/48b16meu/autoload_classmap.php
+/wp-content/plugins/9vulkyw2/xleet.php
+/wp-content/plugins/5twduad5/autoload_classmap.php
