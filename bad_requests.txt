@@ -3870,3 +3870,14 @@ www.liveinternet.ru:443
 /app_master/telerik.web.ui.dialoghandler.aspx
 /modules/shop/manage/telerik.web.ui.dialoghandler.aspx
 /AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx
+/cms/portlets/telerik.web.ui.dialoghandler.aspx
+/desktopmodules/tcmodules/tccategory/telerik.web.ui.dialoghandler.aspx
+/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx
+/sitecore/shell/applications/contentmanager/telerik.web.ui.dialoghandler.aspx
+/system/providers/htmleditor/Telerik.Web.UI.DialogHandler.aspx
+/desktopmodules/base/editcontrols/telerik.web.ui.dialoghandler.aspx
+/portal/channels/fa/Cms_HtmlText_Manage/Telerik.Web.UI.DialogHandler.aspx
+/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx
+/desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx
+/DesktopModules/News/Telerik.Web.UI.DialogHandler.aspx
+/sitecore/shell/Controls/RichTextEditor/Telerik.Web.UI.DialogHandler.aspx
