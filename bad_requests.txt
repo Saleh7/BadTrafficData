@@ -3881,3 +3881,6 @@ www.liveinternet.ru:443
 /desktopmodules/telerikwebui/radeditorprovider/telerik.web.ui.dialoghandler.aspx
 /DesktopModules/News/Telerik.Web.UI.DialogHandler.aspx
 /sitecore/shell/Controls/RichTextEditor/Telerik.Web.UI.DialogHandler.aspx
+/brabantwallon/app_master/telerik.web.ui.dialoghandler.aspx
+/DesktopModules/YA.Controls/AngularMain/Telerik.Web.UI.DialogHandler.aspx
+/providers/htmleditorproviders/telerik/telerik.web.ui.dialoghandler.aspx
