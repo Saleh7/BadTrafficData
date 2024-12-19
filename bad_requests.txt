@@ -3860,3 +3860,13 @@ www.liveinternet.ru:443
 /Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx
 /feedback/Telerik.Web.UI.DialogHandler.aspx
 /Resources/Telerik.Web.UI.DialogHandler.aspx
+/Sitefinity/ControlTemplates/Blogs/Telerik.Web.UI.DialogHandler.aspx
+/overview/Telerik.Web.UI.DialogHandler.aspx
+/static/usercontrols/Telerik.Web.UI.DialogHandler.aspx
+/SiteTemplates/Telerik.Web.UI.DialogHandler.aspx
+/WebUIDialogs/Telerik.Web.UI.DialogHandler.aspx
+/dotnetnuke/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx
+/dashboard/UserControl/CMS/Page/Telerik.Web.UI.DialogHandler.aspx
+/app_master/telerik.web.ui.dialoghandler.aspx
+/modules/shop/manage/telerik.web.ui.dialoghandler.aspx
+/AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx
