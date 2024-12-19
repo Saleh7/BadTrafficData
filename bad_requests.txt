@@ -4017,3 +4017,4 @@ www.liveinternet.ru:443
 /wp-content/plugins/ydsk6r0c/autoload_classmap.php
 /wp-content/plugins/kvlw5rfo/autoload_classmap.php
 /.well-known/pki-validation/doc.php
+/admin/
