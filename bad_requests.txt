@@ -3849,3 +3849,4 @@ www.liveinternet.ru:443
 /wp-content/plugins/48b16meu/autoload_classmap.php
 /wp-content/plugins/9vulkyw2/xleet.php
 /wp-content/plugins/5twduad5/autoload_classmap.php
+/fckeditor/editor/filemanager/connectors/php/upload.php?Type=Media
