@@ -4113,3 +4113,7 @@ www.liveinternet.ru:443
 /wp-cli.php
 /?gclid=Cj0KCQjwwMqvBhCtARIsAIXsZpaPZpsqcAtR2S-q7gq0kkMIVP9cD5uJuhnp8oBzZEEBvz4Xs7Pt2OYaAsi4EALw_wcB
 /2025
+/.AWS_/credentials
+/.env.local
+/api/shared/config/config.env
+/contact/
