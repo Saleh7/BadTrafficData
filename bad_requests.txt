@@ -4019,3 +4019,8 @@ www.liveinternet.ru:443
 /.well-known/pki-validation/doc.php
 /admin/
 /?srsltid=AfmBOorFSIf1kPGEXvnDXc8yjch0quqM7E9PgWwqLfFupXpCKpots_vO
+/WP
+/up
+/WORDPRESS
+/username
+/WordPress
