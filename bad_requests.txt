@@ -4117,3 +4117,4 @@ www.liveinternet.ru:443
 /.env.local
 /api/shared/config/config.env
 /contact/
+/.well-known/openpgpkey/policy
