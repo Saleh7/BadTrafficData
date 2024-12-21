@@ -4118,3 +4118,4 @@ www.liveinternet.ru:443
 /api/shared/config/config.env
 /contact/
 /.well-known/openpgpkey/policy
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php
