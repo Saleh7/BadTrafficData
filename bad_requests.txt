@@ -4144,3 +4144,8 @@ www.liveinternet.ru:443
 /dashboard/phpinfo.php
 /asdf.php
 /.env.development.local
+/wp-content/plugins/woocommerce-photo-reviews/changelog.txt
+/wp-content/plugins/wp-time-capsule/readme.txt
+/wp-content/plugins/pie-register-premium/readme.txt
+/wp-content/plugins/indeed-wp-superbackup/languages/indeed-wp-superbackup.pot
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt
