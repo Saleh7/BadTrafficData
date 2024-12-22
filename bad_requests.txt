@@ -4153,3 +4153,4 @@ www.liveinternet.ru:443
 /global-protect/login.esp
 /index.php/wp-admin/
 /wp-content/plugins/json-api-user/readme.txt
+/admin-header.php
