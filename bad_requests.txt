@@ -4154,3 +4154,7 @@ www.liveinternet.ru:443
 /index.php/wp-admin/
 /wp-content/plugins/json-api-user/readme.txt
 /admin-header.php
+/word.php
+/class-wp-cmd.php/fied.php
+/zz.php
+/zwso.php
