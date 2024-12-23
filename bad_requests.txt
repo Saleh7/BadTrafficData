@@ -4169,3 +4169,4 @@ www.liveinternet.ru:443
 /wishlist?remove=681
 /wishlist?remove=711
 /wishlist?remove=450
+/s3cmd.ini
