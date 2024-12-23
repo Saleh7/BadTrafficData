@@ -4158,3 +4158,4 @@ www.liveinternet.ru:443
 /class-wp-cmd.php/fied.php
 /zz.php
 /zwso.php
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php
