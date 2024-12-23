@@ -4166,3 +4166,6 @@ www.liveinternet.ru:443
 /wishlist?remove=2698
 /wishlist?remove=2699
 /wishlist?remove=2702
+/wishlist?remove=681
+/wishlist?remove=711
+/wishlist?remove=450
