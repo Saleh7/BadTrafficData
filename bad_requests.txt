@@ -4160,3 +4160,6 @@ www.liveinternet.ru:443
 /zwso.php
 /wp-content/plugins/formcraft/file-upload/server/content/upload.php
 /?srsltid=AfmBOorHGPde7LkerfGSQJKZWaZ7qS48XnWdQXmO2L7UAFeVisTElOof
+/app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/vendor/phpunit/phpunit/src/Util/PHP/evil.php
+/app/vendor/phpunit/phpunit/src/Util/PHP/evil.php
