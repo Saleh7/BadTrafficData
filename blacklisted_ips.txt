@@ -3468,3 +3468,4 @@ Blacklisted IPs (IPv4 and IPv6):
 40.65.159.212
 34.30.244.4
 13.64.239.166
+2404:8280:a222:bbbb:bba1:43:ffff:ffff
