@@ -4177,3 +4177,5 @@ www.liveinternet.ru:443
 /wp-json/wp/v2/users
 /administrator/components/com_jclassifiedsmanager/helpers/upload.php
 /wp-content/plugins/erinyani/autoload_classmap.php
+/admin-area/
+/admin-area
