@@ -4189,3 +4189,5 @@ www.liveinternet.ru:443
 /fonts.gstatic.c
 /view/theme/igeek/css/main.cs
 /api.whatsapp.c
+/contact?srsltid=AfmBOoq4Q1vCJHynEhf0hLqNdz83r4wy9Jl1HWZLsw2em5qCJ867dRX6
+/?srsltid=AfmBOoqr7A3eR5-KeDtpfes4vBOE96CtyMJez_tQldxblb6DUksXHJ_u
