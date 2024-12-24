@@ -4179,3 +4179,4 @@ www.liveinternet.ru:443
 /wp-content/plugins/erinyani/autoload_classmap.php
 /admin-area/
 /admin-area
+/wp-content/plugins/helloblogs/wp-apxupx.php?apx=upx
