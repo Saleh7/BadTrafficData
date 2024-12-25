@@ -4191,3 +4191,10 @@ www.liveinternet.ru:443
 /api.whatsapp.c
 /contact?srsltid=AfmBOoq4Q1vCJHynEhf0hLqNdz83r4wy9Jl1HWZLsw2em5qCJ867dRX6
 /?srsltid=AfmBOoqr7A3eR5-KeDtpfes4vBOE96CtyMJez_tQldxblb6DUksXHJ_u
+/wp-content/plugins/latepoint/readme.txt
+/wp-content/plugins/wp-membership/languages/wpmembership.pot
+/wp-content/plugins/really-simple-ssl/readme.txt
+/wp-content/plugins/wp-wc-affiliate-program/languages/rtwwwap-wp-wc-affiliate-program.pot
+/wp-content/plugins/really-simple-ssl-pro-multisite/readme.txt
+/wp-content/plugins/gutenkit-blocks-addon/readme.txt
+/wp-content/plugins/really-simple-ssl-pro/readme.txt
