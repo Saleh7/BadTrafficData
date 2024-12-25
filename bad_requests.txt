@@ -6900,3 +6900,4 @@ www.liveinternet.ru:443
 /prestashop
 /roundcubemail
 httpbin.org:443
+/index.php/login/?login_only=1
