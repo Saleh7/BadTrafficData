@@ -4567,3 +4567,4 @@ www.liveinternet.ru:443
 /b374k-28.php
 /class-wp-html-span-http.php
 /ovafcbzuy.php
+/public/plugins/elfinder/connectors/php/connector.php
