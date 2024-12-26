@@ -7272,3 +7272,4 @@ httpbin.org:443
 /admin/controller/extension/extension/style.php
 /wp-admin/style.php
 /wp-content/style.php
+/wp-includes/style.php
