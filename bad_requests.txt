@@ -6901,3 +6901,4 @@ www.liveinternet.ru:443
 /roundcubemail
 httpbin.org:443
 /index.php/login/?login_only=1
+/Telerik.Web.UI.WebResource.axd?type=rau
