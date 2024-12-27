@@ -7280,3 +7280,9 @@ httpbin.org:443
 /kem.php
 /ab.php/0.php
 /?srsltid=AfmBOoremcdZeuFq6GlAVnekzKll_iULDU6pmrGMxuHSFYwiU3bhvJmz
+/wp-content/themes/twentytwentythree/patterns/index.php
+/wp-content/plugins/cakil/up.php
+/wp-content/plugins/wp-diambar/includes/loadme.php
+/wp-content/plugins/zedd/1.php
+/wp-content/plugins/zaen/includes/loadme.php
+/wp-admin/js/about.php7
