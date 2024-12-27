@@ -7286,3 +7286,15 @@ httpbin.org:443
 /wp-content/plugins/zedd/1.php
 /wp-content/plugins/zaen/includes/loadme.php
 /wp-admin/js/about.php7
+/wp-admin/includes/wso.php
+/wp-includes/upload.php
+/wp-content/plugins/wp-freeform/black2llleaf.php
+/wp-admin/css/up.php
+/wp-content/plugins/mar.php
+/wp-content/wp/plugins/mbt.php
+/wp-content/wp.php
+/wp-includes/wso.php
+/wp-includes/shell.phpp
+/wp-content/f0x.php
+/wp-admin/f0x.php
+/wp-includes/f0x.php
