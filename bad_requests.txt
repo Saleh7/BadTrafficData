@@ -7298,3 +7298,6 @@ httpbin.org:443
 /wp-content/f0x.php
 /wp-admin/f0x.php
 /wp-includes/f0x.php
+/js/fm.php
+/wp-includes/Text/network.php
+/wp-content/upgrade-temp-backup/wp-login.php
