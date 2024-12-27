@@ -7569,3 +7569,14 @@ httpbin.org:443
 /images/lmfi2.php
 /wp-content/plugins/style.php
 /manager.php?
+/adminer1.php
+/adminer-3.3.3.php
+/adminer3.php
+/admine.php
+/adminer-3.7.1.php
+/adminer-4.2.4.php
+/admi.php
+/adminer-4.2.2.php
+/adminner.php
+/adminer-3.2.2.php
+/adminer2.php
