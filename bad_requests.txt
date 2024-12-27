@@ -7580,3 +7580,4 @@ httpbin.org:443
 /adminner.php
 /adminer-3.2.2.php
 /adminer2.php
+/wp-mail.php/wp-includes/ID3/.info.php
