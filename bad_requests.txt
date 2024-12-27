@@ -7567,3 +7567,4 @@ httpbin.org:443
 /wp-content/uploads/2024/index.php
 /wp-content/config.php
 /images/lmfi2.php
+/wp-content/plugins/style.php
