@@ -7568,3 +7568,4 @@ httpbin.org:443
 /wp-content/config.php
 /images/lmfi2.php
 /wp-content/plugins/style.php
+/manager.php?
