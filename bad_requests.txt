@@ -7646,3 +7646,5 @@ http://httpbin.org/ip
 /sambernyawa.php
 /data-user.php
 /301.php
+/sct.php
+/zec.php
