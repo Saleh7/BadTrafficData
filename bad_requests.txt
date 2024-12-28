@@ -7631,3 +7631,11 @@ http://httpbin.org/ip
 /domain.php
 /mano.php
 /blvck.php
+/1234.php
+/gac.php
+/shelss.php
+/whmcs.php
+/xzd.php
+/db-config.php
+/wp-mailcek.php
+/xzdd.php
