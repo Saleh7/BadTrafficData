@@ -7762,3 +7762,13 @@ example.com:443
 /wp-raze.php
 /wp-mails.ph
 /wp-defaul.php
+/predator.php
+/ah.php
+/529.php
+/nshell.php
+/kii.php
+/aab.php
+/kuda.php
+/dxshell.php
+/m4r1ju4n4.php
+/zaco.php
