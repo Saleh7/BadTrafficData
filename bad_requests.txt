@@ -7700,3 +7700,8 @@ example.com:443
 /zzz.php
 /wp-2017.php
 /wp-2018.php
+/library.php
+/bps.php
+/anon.php
+/licenses.php
+/anonsec.php
