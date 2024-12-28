@@ -7772,3 +7772,11 @@ example.com:443
 /dxshell.php
 /m4r1ju4n4.php
 /zaco.php
+/spawn.php
+/black.php
+/yuuki.php
+/yuki.php
+/owl.php
+/con7.php
+/puki.php
+/fatal.php
