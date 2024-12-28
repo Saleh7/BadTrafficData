@@ -7753,3 +7753,12 @@ example.com:443
 /Priv.php
 /dr.php
 /shell4.php
+/wp_backup.php
+/admin1.php
+/wp-one.php
+/ipt.php
+/fast.php
+/wp-pluging.php
+/wp-raze.php
+/wp-mails.ph
+/wp-defaul.php
