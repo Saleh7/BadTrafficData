@@ -7669,3 +7669,11 @@ http://httpbin.org/ip
 example.com:443
 /cy.php
 /class-ftp-pures.php
+/wp-commentin.php
+/cylul.php
+/FX.php
+/fx-mini.php
+/fx.php
+/wp-functions.php
+/wp_fma.php
+/admin/elfinder/src/connectors/php/connector.php
