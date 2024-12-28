@@ -7693,3 +7693,10 @@ example.com:443
 /Idx.php
 /1313.php
 /cyl.php
+/style-js.php
+/minishell.php
+/remove.php
+/obfbyte.php
+/zzz.php
+/wp-2017.php
+/wp-2018.php
