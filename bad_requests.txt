@@ -7680,3 +7680,5 @@ example.com:443
 /wp-god.php
 /alfaaneh.php
 /wp_mna.php
+/9.php
+/orange.php
