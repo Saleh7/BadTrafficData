@@ -7746,3 +7746,10 @@ example.com:443
 /Fdbxhriw.php
 /demon.php
 /kontoru.php
+/lyda.php
+/ids.php
+/1111.php
+/bbb.php
+/Priv.php
+/dr.php
+/shell4.php
