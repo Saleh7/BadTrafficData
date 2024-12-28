@@ -7705,3 +7705,7 @@ example.com:443
 /anon.php
 /licenses.php
 /anonsec.php
+/wp-users.php
+/wp-menu.php
+/wp-root.php
+/wp-.myluv.php
