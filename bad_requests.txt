@@ -7682,3 +7682,7 @@ example.com:443
 /wp_mna.php
 /9.php
 /orange.php
+/wp-contact.php
+/antiheker.php
+/pler.php
+/wg.php
