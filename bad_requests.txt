@@ -7677,3 +7677,6 @@ example.com:443
 /wp-functions.php
 /wp_fma.php
 /admin/elfinder/src/connectors/php/connector.php
+/wp-god.php
+/alfaaneh.php
+/wp_mna.php
