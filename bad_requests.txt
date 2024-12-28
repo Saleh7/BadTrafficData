@@ -7626,3 +7626,8 @@ http://httpbin.org/ip
 /v3.php
 /wso2023.php
 /cool.php
+/wp-clon.php
+/use.php
+/domain.php
+/mano.php
+/blvck.php
