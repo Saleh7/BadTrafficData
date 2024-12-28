@@ -7648,3 +7648,11 @@ http://httpbin.org/ip
 /301.php
 /sct.php
 /zec.php
+/sang3.php
+/teamadmin.php
+/mm.php
+/lux.php
+/shell_lock.php
+/pirja.php
+/wp-smail.php
+/wp-user.php
