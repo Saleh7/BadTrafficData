@@ -7611,3 +7611,5 @@ http://httpbin.org/ip
 /wp-update.php
 /rootshell.php
 /azdare.php
+/tes.php
+/twin.php
