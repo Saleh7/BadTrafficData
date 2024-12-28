@@ -7613,3 +7613,8 @@ http://httpbin.org/ip
 /azdare.php
 /tes.php
 /twin.php
+/wp-plugins.php
+/wp-title.php
+/wp-site.php
+/wp-system.php
+/wp-we.php
