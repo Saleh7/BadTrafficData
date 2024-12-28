@@ -7601,3 +7601,13 @@ http://httpbin.org/ip
 /indexof.php
 /clen.php
 /kontol.php
+/yuuki2.php
+/macibay.php
+/fdgfdgdsfd.php
+/rexx.php
+/legal.php
+/laymu.php
+/gec212.php
+/wp-update.php
+/rootshell.php
+/azdare.php
