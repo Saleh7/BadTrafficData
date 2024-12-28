@@ -7642,3 +7642,7 @@ http://httpbin.org/ip
 /devil.php
 /revisi.php
 /degesaciihaxor.php
+/hhh.php
+/sambernyawa.php
+/data-user.php
+/301.php
