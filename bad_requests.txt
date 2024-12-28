@@ -7590,3 +7590,5 @@ http://httpbin.org/ip
 /db.php?u
 /Byp.php
 /g3l4y.php
+/wp-edit.php
+/cok.php
