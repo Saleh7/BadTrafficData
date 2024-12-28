@@ -7596,3 +7596,8 @@ http://httpbin.org/ip
 /alfax.php
 /memek.php
 /alpa.php
+/creates.php/fr.php
+/index404.php
+/indexof.php
+/clen.php
+/kontol.php
