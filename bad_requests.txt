@@ -7714,3 +7714,13 @@ example.com:443
 /sample-config-options.php
 /303.php
 /meki.php
+/ri.php
+/class-wp.php
+/ye.php
+/xdoor.php
+/wp-config-samsples.php
+/curme.php
+/forbiden.php
+/cd.php
+/clay.php
+/joy.php
