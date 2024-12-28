@@ -7667,3 +7667,5 @@ http://httpbin.org/ip
 /theme-single.php
 /class_appfun.php
 example.com:443
+/cy.php
+/class-ftp-pures.php
