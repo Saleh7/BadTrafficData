@@ -7780,3 +7780,8 @@ example.com:443
 /con7.php
 /puki.php
 /fatal.php
+/docindex.php
+/asu.php
+/Dz.php
+/dev.php
+/dbx.php
