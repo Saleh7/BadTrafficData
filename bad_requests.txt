@@ -7709,3 +7709,8 @@ example.com:443
 /wp-menu.php
 /wp-root.php
 /wp-.myluv.php
+/priv01.php
+/bypass404.php
+/sample-config-options.php
+/303.php
+/meki.php
