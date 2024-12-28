@@ -7658,3 +7658,9 @@ http://httpbin.org/ip
 /wp-user.php
 /su.php
 /sam.php
+/green.php
+/includes.php
+/syd.php
+/mega.php
+/fierza.php
+/ikeh.php
