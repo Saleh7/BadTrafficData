@@ -7622,3 +7622,7 @@ http://httpbin.org/ip
 /rename.php
 /id.php
 /rad.php
+/ey.php
+/v3.php
+/wso2023.php
+/cool.php
