@@ -7688,3 +7688,8 @@ example.com:443
 /wg.php
 /abc.php
 /wp-aespa.php
+/mari.php
+/r00t.php
+/Idx.php
+/1313.php
+/cyl.php
