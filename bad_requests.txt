@@ -7618,3 +7618,7 @@ http://httpbin.org/ip
 /wp-site.php
 /wp-system.php
 /wp-we.php
+/wpindex.php
+/rename.php
+/id.php
+/rad.php
