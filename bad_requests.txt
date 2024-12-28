@@ -7656,3 +7656,5 @@ http://httpbin.org/ip
 /pirja.php
 /wp-smail.php
 /wp-user.php
+/su.php
+/sam.php
