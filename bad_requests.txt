@@ -7735,3 +7735,14 @@ example.com:443
 /lowpr.php
 /ticket.php
 /stylec.php
+/danci.php
+/demos.php
+/clan.php
+/tesla.php
+/63ck0.php
+/fse.php
+/anonym.php
+/pda.php
+/Fdbxhriw.php
+/demon.php
+/kontoru.php
