@@ -7639,3 +7639,6 @@ http://httpbin.org/ip
 /db-config.php
 /wp-mailcek.php
 /xzdd.php
+/devil.php
+/revisi.php
+/degesaciihaxor.php
