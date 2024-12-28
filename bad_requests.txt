@@ -7664,3 +7664,6 @@ http://httpbin.org/ip
 /mega.php
 /fierza.php
 /ikeh.php
+/theme-single.php
+/class_appfun.php
+example.com:443
