@@ -7592,3 +7592,7 @@ http://httpbin.org/ip
 /g3l4y.php
 /wp-edit.php
 /cok.php
+/idk.php
+/alfax.php
+/memek.php
+/alpa.php
