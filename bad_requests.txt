@@ -7724,3 +7724,6 @@ example.com:443
 /cd.php
 /clay.php
 /joy.php
+/makesmtp.php
+/wp-del.php
+/on-settingssl.php
