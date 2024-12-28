@@ -7727,3 +7727,11 @@ example.com:443
 /makesmtp.php
 /wp-del.php
 /on-settingssl.php
+/scn.php
+/4.php
+/405.php
+/401.php
+/shl.php
+/lowpr.php
+/ticket.php
+/stylec.php
