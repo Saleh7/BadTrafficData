@@ -7793,3 +7793,4 @@ http://httpbin.org/
 /wp-includes/sodium_compat/autoload_classmap.php/wp-includes/images/smilies/about.php
 /wp-content/berlin.php
 /wp-content/themes/berlin.php
+/plugins/elfinder/connectors/php/connector.php
