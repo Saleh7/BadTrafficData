@@ -7820,3 +7820,13 @@ api.ipify.org:443
 /system/storage/vendor/bin/pscss
 /system/storage/vendor/twig/twig/CHANGELOG
 /shell?cd
+/adminer-3.3.3-mysql.php
+/adminer-4.2.4-mysql-en.php
+/adminer-3.7.1-mysql.php
+/adminer-3.2.2-mysql.php
+/adminer-4.2.2-mysql.php
+/adminer-3.3.3-mysql-en.php
+/adminer-3.7.1-mysql-en.php
+/adminer-4.2.4-mysql.php
+/adminer-4.2.2-mysql-en.php
+/adminer-3.2.2-mysql-en.php
