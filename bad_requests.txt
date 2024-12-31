@@ -7814,3 +7814,4 @@ api.ipify.org:443
 /admin/language/en-gb/extension/extension/Not_Found.php?ok
 /admin/controller/extension/extension/shell.php
 /admin/language/en-gb/extension/extension/shell.php
+/tshirtecommerce/ajax.php?type=upload
