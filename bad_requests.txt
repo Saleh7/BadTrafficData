@@ -7815,3 +7815,7 @@ api.ipify.org:443
 /admin/controller/extension/extension/shell.php
 /admin/language/en-gb/extension/extension/shell.php
 /tshirtecommerce/ajax.php?type=upload
+/for_information_about_this_research_scan_go_to/securitee.org/cms-experiment-fall2024
+/should/not/exist.html
+/system/storage/vendor/bin/pscss
+/system/storage/vendor/twig/twig/CHANGELOG
