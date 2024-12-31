@@ -7806,3 +7806,11 @@ api.ipify.org:443
 /wp_wol.php
 /booyah.php
 /ioxi-o.php
+/admin/language/en-gb/extension/extension/index.php
+/admin/controller/extension/extension/Not_Found.php?ok
+/admin/language/en-gb/extension/extension/up.php
+/admin/controller/extension/extension/index.php
+/admin/controller/extension/extension/up.php
+/admin/language/en-gb/extension/extension/Not_Found.php?ok
+/admin/controller/extension/extension/shell.php
+/admin/language/en-gb/extension/extension/shell.php
