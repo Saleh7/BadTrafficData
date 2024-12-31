@@ -7819,3 +7819,4 @@ api.ipify.org:443
 /should/not/exist.html
 /system/storage/vendor/bin/pscss
 /system/storage/vendor/twig/twig/CHANGELOG
+/shell?cd
