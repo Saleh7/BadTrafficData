@@ -7844,3 +7844,4 @@ api.ipify.org:443
 /feeds/posts/default
 /rss/artykuly/
 /index.php/feed/atom/
+/ALFA_DATA/alfacgiapi/edit-tags.php
