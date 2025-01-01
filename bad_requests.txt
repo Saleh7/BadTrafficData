@@ -7845,3 +7845,4 @@ api.ipify.org:443
 /rss/artykuly/
 /index.php/feed/atom/
 /ALFA_DATA/alfacgiapi/edit-tags.php
+/wp-includes/fonts/install.php/filemanager.php
