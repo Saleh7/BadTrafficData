@@ -7846,3 +7846,6 @@ api.ipify.org:443
 /index.php/feed/atom/
 /ALFA_DATA/alfacgiapi/edit-tags.php
 /wp-includes/fonts/install.php/filemanager.php
+/wp-content/plugins/google-seo-rank/siteindex.php
+/wp-content/plugins/google-seo-rank/index.php
+/wp-includes/images/media/wp-configs.php
