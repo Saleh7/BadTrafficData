@@ -7834,3 +7834,10 @@ api.ipify.org:443
 /contact-us/
 /assets/admin/plugins/elfinder/connectors/php/connector.php
 /wp-admin/admin-ajax.php
+/adminer8.php
+/adminer7.php
+/adminer6.php
+/adminer4.php
+/adminer5.php
+/adminer10.php
+/adminer9.php
