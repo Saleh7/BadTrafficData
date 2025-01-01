@@ -7841,3 +7841,6 @@ api.ipify.org:443
 /adminer5.php
 /adminer10.php
 /adminer9.php
+/feeds/posts/default
+/rss/artykuly/
+/index.php/feed/atom/
