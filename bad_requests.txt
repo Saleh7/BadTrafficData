@@ -7849,3 +7849,4 @@ api.ipify.org:443
 /wp-content/plugins/google-seo-rank/siteindex.php
 /wp-content/plugins/google-seo-rank/index.php
 /wp-includes/images/media/wp-configs.php
+/?gclid=CjwKCAiA_5WvBhBAEiwAZtCU7yOCMTAgBZ7SaOD-fzsrpU5M7Pg2L6G4MwWRETSBjF6DlMR2YmGl6hoCTTIQAvD_BwE
