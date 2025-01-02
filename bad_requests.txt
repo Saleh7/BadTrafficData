@@ -7852,3 +7852,4 @@ api.ipify.org:443
 /?gclid=CjwKCAiA_5WvBhBAEiwAZtCU7yOCMTAgBZ7SaOD-fzsrpU5M7Pg2L6G4MwWRETSBjF6DlMR2YmGl6hoCTTIQAvD_BwE
 /kTPdexWPECCJ
 /admin/elfinder/connectors/php/connector.php
+/wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
