@@ -7853,3 +7853,5 @@ api.ipify.org:443
 /kTPdexWPECCJ
 /admin/elfinder/connectors/php/connector.php
 /wp-content/plugins/wp-file-manager-pro/lib/php/connector.minimal.php
+/save.sql
+/base.sql
