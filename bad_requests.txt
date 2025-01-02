@@ -7856,3 +7856,5 @@ api.ipify.org:443
 /save.sql
 /base.sql
 /?gad_source=5&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIb8WXOs4-NVoqt8dVwDQYfwA9mRG7icDw1sVw8SiwIVJX-L-BP1Up8aAuv4EALw_wcB
+/login/.env
+/dev/.env
