@@ -7873,3 +7873,16 @@ api.ipify.org:443
 /blog/feed
 /blog/rss/
 /rss/
+/wishlist/feed
+/account/feed
+/blog/feed/
+/special/rss
+/contact/feed
+/blog/atom/
+/new_contact/rss
+/contact/rss
+/special/feed
+/order/feed
+/account/rss
+/new_contact/feed
+/wishlist/rss
