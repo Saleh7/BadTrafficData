@@ -7863,3 +7863,4 @@ api.ipify.org:443
 /?wbraid=ClYKCQiA7NO7BhCXARJFAJ-mC2oG43gQkQfaATN9J6FElIDcJxy9l5DTR6DQLsOoT36-6Edvs0j-gWEkQwNbAWcunkIDQhJPHRKatGyGs6LmzUOhGgJheA
 //wp-admin/setup-config.php?step=1
 //wordpress/wp-admin/setup-config.php?step=1
+/?gad_source=5&gclid=EAIaIQobChMI08nVwPrXigMVpFz2CB2JgS4cEAEYASAAEgKvnfD_BwE
