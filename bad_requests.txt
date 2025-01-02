@@ -7865,3 +7865,11 @@ api.ipify.org:443
 //wordpress/wp-admin/setup-config.php?step=1
 /?gad_source=5&gclid=EAIaIQobChMI08nVwPrXigMVpFz2CB2JgS4cEAEYASAAEgKvnfD_BwE
 /?srsltid=AfmBOorRrAuVhq2_UseTQ_0vfXjnV0B_prKCof8mSX3pt9Bito9F-bFs
+/cart/feed
+/order/rss
+/atom/
+/cart/rss
+/blog/rss
+/blog/feed
+/blog/rss/
+/rss/
