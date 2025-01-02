@@ -7859,3 +7859,4 @@ api.ipify.org:443
 /login/.env
 /dev/.env
 /system/fmanager/include/utils.php
+/spip.php
