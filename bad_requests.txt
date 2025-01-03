@@ -7898,3 +7898,9 @@ api.ipify.org:443
 /lander/gp_ru_short-land-bg-spring-_obj_js_v2/
 /pages/prosmotr-video-pod-gaz_1714382941/
 /lander/gazinvest_ru_quiz20-srazu-voprosi-_obj_js_v2/
+/lander/gazinvest_short_land_obj_js_v2/
+/100k
+/refresher?key=1600764f7867d6ec66f8
+/lander/gazinvest-spy3voprosa-thankspidarasgaz/
+/lander/-w--sber-chat/
+/T8LMdb3N
