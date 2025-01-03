@@ -7931,3 +7931,4 @@ api.ipify.org:443
 /buy/3228103464806320?init=144411
 /lander/sberchat5v4_tds_newcrm_038-vnutr_1721815245/index.php
 /gazrusi/
+/assets/elfinder/connectors/php/connector.php
