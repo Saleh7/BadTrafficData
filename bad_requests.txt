@@ -7909,3 +7909,7 @@ api.ipify.org:443
 /lander/sberchat5v4_tds_newcrm_038-vnutr/
 /lander/-vld--narod_1723476465/
 /pages/poiskovuy-bot-gazinvest-thanks-page-4
+/lander/319/
+/lander/sber_1721220743/index.php
+/lander/gazrusinvest_ru_land_blue-narodnoe-dostoyanie-sliderviplaty_obj_js_v2/
+/lander/gasinvVIOLET_183945_92/
