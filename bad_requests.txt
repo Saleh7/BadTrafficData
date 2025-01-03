@@ -7892,3 +7892,9 @@ api.ipify.org:443
 /lander/gazinvest_quiz20-ok-bg-politika-_obj_js_v2/
 /lander/gazprom-leadforma-thankspidarasgaz/
 /lander/noviy5--s-novoy-verstcoy-/
+/lander/sberchat008-prilca/
+/lander/tinkoff_new_kadam--no-email-/
+/lander/gazinvest-prelanderbankomatsssrdayrussia1kanal-thankspidarasgazinvest/
+/lander/gp_ru_short-land-bg-spring-_obj_js_v2/
+/pages/prosmotr-video-pod-gaz_1714382941/
+/lander/gazinvest_ru_quiz20-srazu-voprosi-_obj_js_v2/
