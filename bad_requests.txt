@@ -7982,3 +7982,4 @@ api.ipify.org:443
 /web/.env
 /mailer/.env
 /wp-config
+/?gad_source=5&gclid=EAIaIQobChMI8oH6tuzaigMVcJHpBR3HMzszEAEYASAAEgKLW_D_BwE
