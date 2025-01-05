@@ -8035,3 +8035,4 @@ api.ipify.org:443
 http://www.google.com
 /sendgrid/.env
 /?gad_source=5&gclid=EAIaIQobChMItsrw9MHfigMVflOkBB3m5SnHEAEYASAAEgKTJvD_BwE
+/wp-content/plugins/wp-compress-image-optimizer/readme.txt
