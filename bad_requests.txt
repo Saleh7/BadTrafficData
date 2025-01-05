@@ -8033,3 +8033,4 @@ api.ipify.org:443
 /lib/webuploader/0.1.5/server/preview.php
 /Public/uploader/preview.php
 http://www.google.com
+/sendgrid/.env
