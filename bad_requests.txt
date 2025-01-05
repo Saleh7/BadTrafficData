@@ -8038,3 +8038,4 @@ http://www.google.com
 /wp-content/plugins/wp-compress-image-optimizer/readme.txt
 /?gad_source=5&gclid=EAIaIQobChMIg5rE-dDfigMV5obpBR08wgnJEAEYASAAEgJ48vD_BwE
 /?gad_source=5&gclid=EAIaIQobChMItLOZrNLfigMVD3KdCR2uYy6nEAEYASAAEgIzWvD_BwE
+/?gad_source=5&gclid=EAIaIQobChMI7PjpgdffigMVq1j2CB29UBeCEAEYASAAEgK7AvD_BwE
