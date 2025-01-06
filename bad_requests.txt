@@ -8109,3 +8109,6 @@ a
 /webadm/?q=moni_detail.do&action=gragh
 /wp-content/plugins/uploader/readme.txt
 /wp-content/plugins/pathomation/README.txt
+/wp-content/plugins/category-grid-view-gallery/readme.txt
+/wp-content/plugins/trafficanalyzer/readme.txt
+/wp-content/plugins/duplicator/readme.txt
