@@ -8170,3 +8170,4 @@ a
 /wp-content/plugins/wpsolr-search-engine/readme.txt
 /BSW_cxttongr.htm
 /?gad_source=5&gclid=EAIaIQobChMI-tmI5Y_iigMVJ0gdCR1lPCrkEAEYASAAEgLZ7vD_BwE
+/javax.faces.resource/dynamiccontent.properties.xhtml
