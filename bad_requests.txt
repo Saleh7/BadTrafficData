@@ -8091,3 +8091,4 @@ a
 /user.action
 /login-x.php
 /wp-content/plugins/advanced-text-widget/readme.txt
+/reports/rwservlet?report=test.rdf&desformat=html&destype=cache&JOBTYPE=rwurl&URLPARAMETER=file:///
