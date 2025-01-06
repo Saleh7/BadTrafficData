@@ -8150,3 +8150,5 @@ a
 /wp-content/plugins/e-search/readme.txt
 /wp-content/plugins/defa-online-image-protector/readme.txt
 /wp-content/plugins/enhanced-tooltipglossary/readme.txt
+/wp-content/plugins/hdw-tube/readme.txt
+/wp-content/plugins/forget-about-shortcode-buttons/readme.txt
