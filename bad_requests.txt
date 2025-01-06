@@ -8088,3 +8088,4 @@ a
 /axis2-admin/login
 /scripts/setup.php
 /axis2/axis2-admin/login
+/user.action
