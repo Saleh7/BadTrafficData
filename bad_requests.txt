@@ -8179,3 +8179,6 @@ a
 /wls-wsat/CoordinatorPortType
 /wp-content/plugins/amty-thumb-recent-post/readme.txt
 /wp-content/plugins/wp-mailster/readme.txt
+/invoker/JMXInvokerServlet/
+/invoker/EJBInvokerServlet/
+/invoker/readonly
