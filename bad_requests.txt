@@ -8046,3 +8046,5 @@ http://www.google.com
 /?gad_source=5&gclid=EAIaIQobChMI9t67hJDgigMVVkWkBB2hqRIgEAEYASAAEgIvk_D_BwE
 /wp-comments.php
 /KxxK.php
+/administrator/templates/hathor/index.php
+/administrator/templates/isis/index.php
