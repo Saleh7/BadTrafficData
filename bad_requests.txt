@@ -8092,3 +8092,15 @@ a
 /login-x.php
 /wp-content/plugins/advanced-text-widget/readme.txt
 /reports/rwservlet?report=test.rdf&desformat=html&destype=cache&JOBTYPE=rwurl&URLPARAMETER=file:///
+/wp-content/plugins/skysa-official/readme.txt
+/wp-content/plugins/sniplets/readme.txt
+/wp-content/plugins/wp-integrator/readme.txt
+/wp-content/plugins/adminimize/readme.txt
+/wp-content/plugins/wp-facethumb/readme.txt
+/wp-content/plugins/2-click-socialmedia-buttons/readme.txt
+/wp-content/plugins/flash-album-gallery/readme.txt
+/wp-content/plugins/featurific-for-wordpress/readme.txt
+/wp-content/plugins/mf-gig-calendar/readme.txt
+/wp-content/plugins/clickdesk-live-support-chat/readme.txt
+/wp-content/plugins/all-in-one-event-calendar/readme.txt
+/wp-content/plugins/download-monitor/readme.txt
