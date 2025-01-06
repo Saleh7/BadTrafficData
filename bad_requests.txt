@@ -8147,3 +8147,5 @@ a
 /wp-content/plugins/wp-symposium/readme.txt
 /wp-content/plugins/anti-plagiarism/readme.txt
 /wp-content/plugins/ajax-random-post/readme.txt
+/wp-content/plugins/e-search/readme.txt
+/wp-content/plugins/defa-online-image-protector/readme.txt
