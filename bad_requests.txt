@@ -8161,3 +8161,4 @@ a
 /wp-content/plugins/s3-video/readme.txt
 /wp-content/plugins/simpel-reserveren/readme.txt
 /wp-content/plugins/tidio-form/readme.txt
+/wp-content/plugins/wsecure/wsecure-config.php
