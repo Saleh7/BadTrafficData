@@ -8138,3 +8138,4 @@ a
 /wp-content/plugins/ultimate-weather-plugin/readme.txt
 /wp-content/plugins/movies/readme.txt
 /wp-content/plugins/navis-documentcloud/readme.txt
+/cgibin/webproc
