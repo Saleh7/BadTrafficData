@@ -8165,3 +8165,4 @@ a
 /wp-content/plugins/tidio-gallery/readme.txt
 /wp-content/plugins/whizz/readme.txt
 /boardDataWW.php
+/fileserver/2rGP992YGR5c2kfnBUq8BeTkOJy.txt
