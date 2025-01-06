@@ -8152,3 +8152,9 @@ a
 /wp-content/plugins/enhanced-tooltipglossary/readme.txt
 /wp-content/plugins/hdw-tube/readme.txt
 /wp-content/plugins/forget-about-shortcode-buttons/readme.txt
+/wp-content/plugins/indexisto/readme.txt
+/wp-content/plugins/photoxhibit/readme.txt
+/wp-content/plugins/page-layout-builder/readme.txt
+/wp-content/plugins/parsi-font/readme.txt
+/wp-content/plugins/new-year-firework/readme.txt
+/wp-content/plugins/hero-maps-pro/readme.txt
