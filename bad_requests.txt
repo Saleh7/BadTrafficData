@@ -8133,3 +8133,4 @@ a
 /_search
 /website/blog/
 /wp-content/plugins/infusionsoft/readme.txt
+/wp-admin/admin.php?where1=<script>alert(document.domain)</script>&searchsubmit=Buscar&page=nsp_search
