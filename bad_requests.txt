@@ -8061,3 +8061,5 @@ http://www.google.com
 /test/bedesk1.1/.env
 /bedesk1.1/.env
 /database/.env
+/dav.php
+/gecko-new.php.1
