@@ -8176,3 +8176,5 @@ a
 /_users/org.couchdb.user:poc
 /solr/admin/cores?wt=json
 /webadmin/pkg?command=<script>alert(document.cookie)</script>
+/wls-wsat/CoordinatorPortType
+/wp-content/plugins/amty-thumb-recent-post/readme.txt
