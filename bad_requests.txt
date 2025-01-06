@@ -8160,3 +8160,4 @@ a
 /wp-content/plugins/hero-maps-pro/readme.txt
 /wp-content/plugins/s3-video/readme.txt
 /wp-content/plugins/simpel-reserveren/readme.txt
+/wp-content/plugins/tidio-form/readme.txt
