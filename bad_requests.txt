@@ -8167,3 +8167,4 @@ a
 /boardDataWW.php
 /fileserver/2rGP992YGR5c2kfnBUq8BeTkOJy.txt
 /wp-content/plugins/delightful-downloads/assets/vendor/jqueryFileTree/connectors/jqueryFileTree.php
+/wp-content/plugins/wpsolr-search-engine/readme.txt
