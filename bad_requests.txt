@@ -8137,3 +8137,4 @@ a
 /wp-content/plugins/dzs-videogallery/readme
 /wp-content/plugins/ultimate-weather-plugin/readme.txt
 /wp-content/plugins/movies/readme.txt
+/wp-content/plugins/navis-documentcloud/readme.txt
