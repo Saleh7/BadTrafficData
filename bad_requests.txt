@@ -8108,3 +8108,4 @@ a
 /ovpuuqtq.php?Fox=d3wL7
 /webadm/?q=moni_detail.do&action=gragh
 /wp-content/plugins/uploader/readme.txt
+/wp-content/plugins/pathomation/README.txt
