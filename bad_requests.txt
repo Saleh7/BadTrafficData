@@ -8142,3 +8142,4 @@ a
 /_snapshot/test
 /wp-content/plugins/church-admin/readme.txt
 /_snapshot/test2
+/wp-content/plugins/sourceafrica/readme.txt
