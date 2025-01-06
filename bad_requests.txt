@@ -8057,3 +8057,7 @@ http://www.google.com
 /?gad_source=5&gclid=EAIaIQobChMIgLm2_a_gigMVPlnCBR05cg2TEAEYASAAEgJqTPD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI16eBrrngigMVtwL7Ax35IyQIEAEYASAAEgKKMvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIuKX-m7rgigMV-EzCBR33DAjiEAEYASAAEgKD_vD_BwE
+/API/.env
+/test/bedesk1.1/.env
+/bedesk1.1/.env
+/database/.env
