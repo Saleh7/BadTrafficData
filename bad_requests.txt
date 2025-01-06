@@ -8164,3 +8164,4 @@ a
 /wp-content/plugins/wsecure/wsecure-config.php
 /wp-content/plugins/tidio-gallery/readme.txt
 /wp-content/plugins/whizz/readme.txt
+/boardDataWW.php
