@@ -8168,3 +8168,5 @@ a
 /fileserver/2rGP992YGR5c2kfnBUq8BeTkOJy.txt
 /wp-content/plugins/delightful-downloads/assets/vendor/jqueryFileTree/connectors/jqueryFileTree.php
 /wp-content/plugins/wpsolr-search-engine/readme.txt
+/BSW_cxttongr.htm
+/?gad_source=5&gclid=EAIaIQobChMI-tmI5Y_iigMVJ0gdCR1lPCrkEAEYASAAEgLZ7vD_BwE
