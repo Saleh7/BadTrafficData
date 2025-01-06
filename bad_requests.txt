@@ -8172,3 +8172,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMI-tmI5Y_iigMVJ0gdCR1lPCrkEAEYASAAEgLZ7vD_BwE
 /javax.faces.resource/dynamiccontent.properties.xhtml
 /?gad_source=5&gclid=EAIaIQobChMIu6CVipPiigMV2FL2CB0a-zw9EAEYASAAEgLpdPD_BwE
+/RPC2
+/_users/org.couchdb.user:poc
