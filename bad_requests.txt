@@ -8048,3 +8048,7 @@ http://www.google.com
 /KxxK.php
 /administrator/templates/hathor/index.php
 /administrator/templates/isis/index.php
+/templates/beez5/error.php
+/templates/atomic/index.php
+/templates/protostar/index.php
+/templates/beez_20/index.php
