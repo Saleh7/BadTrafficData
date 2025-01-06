@@ -8132,3 +8132,4 @@ a
 /wp-content/plugins/activehelper-livehelp/readme.txt
 /_search
 /website/blog/
+/wp-content/plugins/infusionsoft/readme.txt
