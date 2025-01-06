@@ -8106,3 +8106,4 @@ a
 /wp-content/plugins/download-monitor/readme.txt
 /order?srsltid=AfmBOooSToCaryFV598gK9XzhYr5XHjsmOio7WIKsp6GjwzVMiKv5a47
 /ovpuuqtq.php?Fox=d3wL7
+/webadm/?q=moni_detail.do&action=gragh
