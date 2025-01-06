@@ -8162,3 +8162,5 @@ a
 /wp-content/plugins/simpel-reserveren/readme.txt
 /wp-content/plugins/tidio-form/readme.txt
 /wp-content/plugins/wsecure/wsecure-config.php
+/wp-content/plugins/tidio-gallery/readme.txt
+/wp-content/plugins/whizz/readme.txt
