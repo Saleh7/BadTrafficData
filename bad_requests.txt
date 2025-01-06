@@ -8052,3 +8052,4 @@ http://www.google.com
 /templates/atomic/index.php
 /templates/protostar/index.php
 /templates/beez_20/index.php
+/?gad_source=5&gclid=EAIaIQobChMIl6mJrJ3gigMVNMkWBR0Gvw6BEAEYASAAEgKJYPD_BwE
