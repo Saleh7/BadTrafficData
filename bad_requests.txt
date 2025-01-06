@@ -8145,3 +8145,5 @@ a
 /wp-content/plugins/sourceafrica/readme.txt
 /wp-content/plugins/admin-font-editor/readme.txt
 /wp-content/plugins/wp-symposium/readme.txt
+/wp-content/plugins/anti-plagiarism/readme.txt
+/wp-content/plugins/ajax-random-post/readme.txt
