@@ -8139,3 +8139,6 @@ a
 /wp-content/plugins/movies/readme.txt
 /wp-content/plugins/navis-documentcloud/readme.txt
 /cgibin/webproc
+/_snapshot/test
+/wp-content/plugins/church-admin/readme.txt
+/_snapshot/test2
