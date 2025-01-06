@@ -8090,3 +8090,4 @@ a
 /axis2/axis2-admin/login
 /user.action
 /login-x.php
+/wp-content/plugins/advanced-text-widget/readme.txt
