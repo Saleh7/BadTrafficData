@@ -8085,3 +8085,6 @@ http://www.google.com
 /wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php
 a
 /wp-content/plugins/age-verification/age-verification.php
+/axis2-admin/login
+/scripts/setup.php
+/axis2/axis2-admin/login
