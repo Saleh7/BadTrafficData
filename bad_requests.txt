@@ -8063,3 +8063,4 @@ http://www.google.com
 /database/.env
 /dav.php
 /gecko-new.php.1
+/?gad_source=5&gclid=EAIaIQobChMIncSeydXgigMVZ0xBAh1-1CJAEAEYASAAEgJ3YfD_BwE
