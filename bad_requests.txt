@@ -8134,3 +8134,6 @@ a
 /website/blog/
 /wp-content/plugins/infusionsoft/readme.txt
 /wp-admin/admin.php?where1=<script>alert(document.domain)</script>&searchsubmit=Buscar&page=nsp_search
+/wp-content/plugins/dzs-videogallery/readme
+/wp-content/plugins/ultimate-weather-plugin/readme.txt
+/wp-content/plugins/movies/readme.txt
