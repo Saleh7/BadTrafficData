@@ -9531,3 +9531,5 @@ a
 /wp-content/plugins/pie-register/readme.txt
 /wp-content/plugins/stop-spammer-registrations-plugin/readme.txt
 /wp-content/plugins/imagements/images/2rgp9amd29xrdpgw7jadirwjtww.php
+/wp-admin/admin-ajax.php?action=uploadFontIcon
+/wp-content/uploads/kaswara/fonts_icon/cbssme/pr.php
