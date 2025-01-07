@@ -9430,3 +9430,4 @@ a
 /api/experimental/dags/example_trigger_target_dag/dag_runs
 /2rGP8nFEAKSgKBA62XqpEQjZ2Vw?cmd=id
 /apisix/admin/routes
+/run
