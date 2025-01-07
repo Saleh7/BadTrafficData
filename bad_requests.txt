@@ -9592,3 +9592,5 @@ a
 /x
 /SDK/webLanguage
 /_ignition/execute-solution
+/wp-admin/admin-ajax.php?action=128ceeaa34a40e96edd8c5675b3ac21c
+/wp-admin/admin-ajax.php?action=f3fdce124c6cb85b9748814289ba4802
