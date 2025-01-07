@@ -9417,3 +9417,4 @@ a
 /service/rest/beta/repositories/bower/group
 /service/rapture/session
 /ajax/api/content_infraction/getIndexableContent
+/cgi-bin/login.cgi
