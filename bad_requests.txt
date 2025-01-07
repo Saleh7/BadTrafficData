@@ -9495,3 +9495,4 @@ a
 /magmi/web/magmi_saveprofile.php
 /magmi/web/magmi_run.php
 /magmi/web/info.php
+/cgi-bin/mainfunction.cgi
