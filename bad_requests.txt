@@ -9595,3 +9595,5 @@ a
 /wp-admin/admin-ajax.php?action=128ceeaa34a40e96edd8c5675b3ac21c
 /wp-admin/admin-ajax.php?action=f3fdce124c6cb85b9748814289ba4802
 /wp-content/plugins/seo-local-rank/admin/vendor/datatables/examples/resources/examples.php
+/controller/origemdb.php?idselorigem=ATIVOS
+/controller/login.php?acao=autenticar
