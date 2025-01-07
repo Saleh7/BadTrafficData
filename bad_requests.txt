@@ -9365,3 +9365,5 @@ a
 /rpc.cgi
 /Collector/appliancesettings/applianceSettingsFileTransfer
 /session_login.cgi
+/api/users
+/wp-content/plugins/download-manager/readme.txt
