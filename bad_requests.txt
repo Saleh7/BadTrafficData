@@ -9317,3 +9317,4 @@ a
 /web/google_analytics.php
 /?gad_source=5&gclid=EAIaIQobChMIgJ7asL3iigMV9SMGAB3oQB7aEAEYASAAEgLIefD_BwE
 /session/login
+/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm
