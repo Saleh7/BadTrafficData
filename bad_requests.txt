@@ -9492,3 +9492,6 @@ a
 /cgi-bin/libagent.cgi?type=J
 /menu/stapp
 /menu/guiw?nsbrand=1&protocol=nonexistent.1337\x22>&id=3&nsvpx=phpinfo
+/magmi/web/magmi_saveprofile.php
+/magmi/web/magmi_run.php
+/magmi/web/info.php
