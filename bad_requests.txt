@@ -9392,3 +9392,4 @@ a
 /adxmlrpc.php
 /_async/AsyncResponseService
 /service/extdirect
+/photo/p/api/album.php
