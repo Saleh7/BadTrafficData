@@ -9567,3 +9567,4 @@ a
 /contactus.php
 /misc.php?action=showpopups&type=friend
 /assets/app/something/services/AppModule.class/
+/seo/seopanel/login.php?sec=forgot
