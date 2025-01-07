@@ -9496,3 +9496,4 @@ a
 /magmi/web/magmi_run.php
 /magmi/web/info.php
 /cgi-bin/mainfunction.cgi
+/session/create
