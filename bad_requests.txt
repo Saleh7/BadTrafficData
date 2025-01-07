@@ -9338,3 +9338,4 @@ a
 /index.php/
 /php/upload.php
 /Uploads/2rGP9AvfnT62JIYibf4OWRY75zg.php7
+/soap.cgi?service=whatever-control;curl
