@@ -9625,3 +9625,6 @@ a
 /shop/
 /php/
 /TransferredOutModal.php?modfunc=detail
+/./RestAPI/Connection
+/cgi?7
+/cgi?2
