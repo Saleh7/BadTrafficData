@@ -9350,3 +9350,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIhPjtqdniigMVt2CkBB0HtwyAEAEYASAAEgJSSPD_BwE
 /wan.htm
 /NateMail.php
+/whoAmI/
+/?gad_source=5&gclid=EAIaIQobChMI_N-tmt7iigMVBWCdCR2bkBoREAEYASAAEgJwRvD_BwE
