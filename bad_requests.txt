@@ -9542,3 +9542,4 @@ a
 /wp-json/pie/v1/login
 /wp-content/plugins/wc-multivendor-marketplace/readme.txt
 /wp-content/plugins/elementor/readme.txt
+/wp-admin/admin-ajax.php?action=rtec_send_unregister_link
