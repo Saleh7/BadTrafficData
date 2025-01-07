@@ -9513,3 +9513,4 @@ a
 /menu/stc
 /menu/ss?sid=nsroot&username=nsroot&force_setup=1
 /menu/neo
+/cgi-bin/mt/mt-xmlrpc.cgi
