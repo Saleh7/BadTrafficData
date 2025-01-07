@@ -9342,3 +9342,5 @@ a
 /scp/login.php
 /webtools/control/xmlrpc
 /..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5Cwindows\x5Cwin.ini
+/ws_utc/resources/setting/options
+/ws_utc/resources/setting/keystore
