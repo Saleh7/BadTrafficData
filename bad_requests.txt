@@ -9391,3 +9391,4 @@ a
 /plugins/3rdPartyServers/ox3rdPartyServers/max.class.php?0=id
 /adxmlrpc.php
 /_async/AsyncResponseService
+/service/extdirect
