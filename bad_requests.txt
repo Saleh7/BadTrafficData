@@ -9419,3 +9419,4 @@ a
 /ajax/api/content_infraction/getIndexableContent
 /cgi-bin/login.cgi
 /?gad_source=5&gclid=EAIaIQobChMI0P6rlZPjigMVd0P2CB2fNBANEAEYASAAEgKjwfD_BwE
+/wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/2rGP8vZDHvgXbekstx3pQZflujR.txt
