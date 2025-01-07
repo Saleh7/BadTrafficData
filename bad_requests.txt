@@ -8195,3 +8195,5 @@ a
 /logos_clients/2rGP9FTYqLqw8kq8T9yVd7acMsx.php
 /clients/editclient.php?id=2rGP9FTYqLqw8kq8T9yVd7acMsx&action=update
 /admin/elfinder/php/connector.minimal.php
+/struts2-rest-showcase/orders/3
+/orders/3
