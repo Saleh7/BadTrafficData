@@ -9583,3 +9583,6 @@ a
 /Assets/temp/hotspot/img/logohotspot.txt
 /cgi/networkDiag.cgi
 /bludit/admin/login
+/dashboardUser
+/druid/indexer/v1/sampler?for=connect
+/?gad_source=5&gclid=EAIaIQobChMIlo2htMLkigMVTyIGAB1lHRfDEAEYASAAEgKNkvD_BwE
