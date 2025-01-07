@@ -9586,3 +9586,4 @@ a
 /dashboardUser
 /druid/indexer/v1/sampler?for=connect
 /?gad_source=5&gclid=EAIaIQobChMIlo2htMLkigMVTyIGAB1lHRfDEAEYASAAEgKNkvD_BwE
+/home/download
