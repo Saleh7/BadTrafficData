@@ -9375,3 +9375,4 @@ a
 /zabbix.php
 /jnoj/web/polygon/problem/viewfile?id=1&name=../../../../../../../etc/passwd
 /zabbix/zabbix.php
+/admin/auth/reset-password
