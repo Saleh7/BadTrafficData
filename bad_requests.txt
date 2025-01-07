@@ -9526,3 +9526,4 @@ a
 /analytics/telemetry/ph/api/hyper/send?_c&_i=test
 /cgi-bin/cgiServer?worker=IndexNew
 /api/v1/method.callAnon/getPasswordPolicy
+/wp-admin/admin-ajax.php?action=likebtn_prx&likebtn_q=aHR0cDovL2xpa2VidG4uY29tLm9hc3QubWU=\x22
