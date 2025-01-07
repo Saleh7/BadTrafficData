@@ -9458,3 +9458,4 @@ a
 /assets/_core/php/profile.php
 /assets/php/profile.php
 /api/v1/method.callAnon/sendForgotPasswordEmail
+/wp-content/plugins/canto/readme.txt
