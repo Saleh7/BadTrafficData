@@ -9326,3 +9326,6 @@ a
 /laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /wp-content/plugins/jsmol2wp/readme.txt
 /?gad_source=5&gclid=EAIaIQobChMIvaaAz8jiigMV2iIGAB22ATrGEAEYASAAEgKeE_D_BwE
+/XMLCHART
+/wp-content/plugins/wp-payeezy-pay/donate.php
+/?gad_source=5&gclid=EAIaIQobChMI-oy868jiigMVQY2sAh07vAvtEAEYASAAEgLjxPD_BwE
