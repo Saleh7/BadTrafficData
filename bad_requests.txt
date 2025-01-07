@@ -9444,3 +9444,5 @@ a
 /wp-content/plugins/import-xml-feed/readme.txt
 /var
 /qvvvutxv.php?Fox=d3wL7
+/wp-content/plugins/event-espresso-core-reg/readme.txt
+/?gad_source=5&gclid=EAIaIQobChMI9uCfkr7jigMVvJCDBx128CyAEAEYASAAEgK1M_D_BwE
