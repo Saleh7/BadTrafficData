@@ -8186,3 +8186,6 @@ a
 /wp-content/plugins/raygun4wp/readme.txt
 /plugins/servlet/oauth/users/icon-uri?consumerUri=http://ctu1e2la6l84rsl142k0tgzaam8ibpkaj.oast.live
 /jolokia/read/getDiagnosticOptions
+/__
+/integration/saveGangster.action
+/cobbler_api
