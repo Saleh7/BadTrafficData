@@ -9636,3 +9636,6 @@ a
 /STATE_ID/123/agentLogUploader
 /client/index.php
 /changePassword?username=administrator
+/ddns_check.ccp
+/language/lang
+/api/blade-user/user-list
