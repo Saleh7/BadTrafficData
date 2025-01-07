@@ -9324,3 +9324,5 @@ a
 /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/wp-content/plugins/jsmol2wp/readme.txt
+/?gad_source=5&gclid=EAIaIQobChMIvaaAz8jiigMV2iIGAB22ATrGEAEYASAAEgKeE_D_BwE
