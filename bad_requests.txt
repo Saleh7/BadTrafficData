@@ -9571,3 +9571,6 @@ a
 /HandleEvent
 /goform/setmac
 /appGet.cgi?hook=get_cfg_clientlist()
+/nacos/v1/cs/configs?dataId=nacos.cfg.dataIdfoo&group=foo&content=helloWorld
+/redfish/v1/SessionService/ResetPassword/1/
+/redfish/v1/SessionService/Sessions/
