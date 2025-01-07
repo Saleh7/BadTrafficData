@@ -9329,3 +9329,10 @@ a
 /XMLCHART
 /wp-content/plugins/wp-payeezy-pay/donate.php
 /?gad_source=5&gclid=EAIaIQobChMI-oy868jiigMVQY2sAh07vAvtEAEYASAAEgLjxPD_BwE
+/admin/login
+/admpanel
+/ClicShoppingAdmin/login.php
+/typo3
+/?gad_source=5&gclid=EAIaIQobChMImZn9icniigMV-Vj2CB1VqB2WEAEYASAAEgJRiPD_BwE
+/ispmgr
+/index.php/
