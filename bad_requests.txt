@@ -9474,3 +9474,4 @@ a
 /auth/newpassword
 /wp-content/themes/15zine/readme.txt
 /ebook/bookPerPub.php?pubid=4'
+/?gad_source=5&gclid=EAIaIQobChMIweP2uNDjigMVkwX7Ax1DcjfQEAEYASAAEgKuu_D_BwE
