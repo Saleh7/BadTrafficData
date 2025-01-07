@@ -9454,3 +9454,6 @@ a
 /v1/kv/2rGP9KhXDeXUtYqjrdMcgkTLPnJ?raw
 /checkValid
 /setup.cgi?todo=debug&x=currentsetting.htm
+/vendor/qcubed/qcubed/assets/php/profile.php
+/assets/_core/php/profile.php
+/assets/php/profile.php
