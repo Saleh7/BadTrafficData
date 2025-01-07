@@ -9385,3 +9385,4 @@ a
 /cs/Satellite?pagename=OpenMarket/Xcelerate/Admin/Slots
 /rest/tinymce/1/macro/preview
 /?gad_source=5&gclid=EAIaIQobChMIgfi42_fiigMVIAWDAx0JDAwSEAEYASAAEgKKUfD_BwE
+/cgi-bin/file_transfer.cgi
