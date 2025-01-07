@@ -9457,3 +9457,4 @@ a
 /vendor/qcubed/qcubed/assets/php/profile.php
 /assets/_core/php/profile.php
 /assets/php/profile.php
+/api/v1/method.callAnon/sendForgotPasswordEmail
