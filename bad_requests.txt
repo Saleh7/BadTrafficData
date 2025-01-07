@@ -9398,3 +9398,4 @@ a
 /rest/issueNav/1/issueTable
 /UqaoMVCJBF.txt
 /plugins/servlet/gadgets/makeRequest
+/CDGServer3/ClientAjax
