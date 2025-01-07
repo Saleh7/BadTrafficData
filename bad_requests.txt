@@ -9420,3 +9420,7 @@ a
 /cgi-bin/login.cgi
 /?gad_source=5&gclid=EAIaIQobChMI0P6rlZPjigMVd0P2CB2fNBANEAEYASAAEgKjwfD_BwE
 /wp-content/uploads/wp_dndcf7_uploads/wpcf7-files/2rGP8vZDHvgXbekstx3pQZflujR.txt
+/module/
+/public/login.htm?type=treestat
+/public/login.htm?type=requests
+/public/login.htm?type=probes
