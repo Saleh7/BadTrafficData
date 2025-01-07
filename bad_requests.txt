@@ -9631,3 +9631,5 @@ a
 /sitecore/shell/ClientBin/Reporting/Report.ashx
 /cas/v1/tickets/
 /Side.php
+/elFinder/php/connector.minimal.php?cmd=mkfile&target=l1_Lw&name=2rGP99SJgykwOQRdMO4JBAghaHI.php:aaa
+/formLoginAuth.htm?authCode=1&userName=admin&goURL&action=login
