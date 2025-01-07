@@ -9403,3 +9403,6 @@ a
 /objects/getImage.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=png
 /objects/getImageMP4.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=jpg
 /objects/getSpiritsFromVideo.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=jpg
+/artifactory/ui/auth/login?_spring_security_remember_me=false
+/kindeditor/php/demo.php
+/php/demo.php
