@@ -9367,3 +9367,4 @@ a
 /session_login.cgi
 /api/users
 /wp-content/plugins/download-manager/readme.txt
+/wp-content/plugins/checklist/readme.txt
