@@ -9470,3 +9470,5 @@ a
 /assets/data/usrimg/2rgp9dkue2w7lmdjnq2bf6z32y2.php
 /assets/php/upload.php
 /ext-js/index.html
+/incom/modules/uploader/showcase/script.php
+/auth/newpassword
