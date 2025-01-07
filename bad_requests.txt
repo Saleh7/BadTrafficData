@@ -9358,3 +9358,4 @@ a
 /crowd/plugins/servlet/exp
 /crowd/admin/uploadplugin.action
 /Collector/diagnostics/ping
+/Collector/diagnostics/trace_route
