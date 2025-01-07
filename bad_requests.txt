@@ -9425,3 +9425,6 @@ a
 /public/login.htm?type=requests
 /public/login.htm?type=probes
 /webadmin/out
+/api/experimental/dags/example_trigger_target_dag/paused/false
+/api/experimental/test
+/api/experimental/dags/example_trigger_target_dag/dag_runs
