@@ -9600,3 +9600,7 @@ a
 /api/help'onmouseover=alert(document.domain)/'/;/beta/license
 /about/../tree?action=get
 /classes/Login.php?f=login
+/fmangersub?cpath=../../../../../../../etc/passwd
+/v1/2rGP8rra5VMgBep0j8YXjZDVhzb.php
+/api/v1/login/oauth2/auth
+/v1/backend1
