@@ -9462,3 +9462,4 @@ a
 /goform/setSysAdm
 /?gad_source=5&gclid=EAIaIQobChMIxOG5msjjigMVx0gdCR3vsRnVEAEYASAAEgKRD_D_BwE
 /actions/authenticate.php
+/wizard/initialise.php
