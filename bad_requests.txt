@@ -9597,3 +9597,4 @@ a
 /wp-content/plugins/seo-local-rank/admin/vendor/datatables/examples/resources/examples.php
 /controller/origemdb.php?idselorigem=ATIVOS
 /controller/login.php?acao=autenticar
+/api/help'onmouseover=alert(document.domain)/'/;/beta/license
