@@ -9408,3 +9408,4 @@ a
 /php/demo.php
 /wp-content/plugins/social-warfare/readme.txt
 /index.php/login
+/?gad_source=5&gclid=EAIaIQobChMI0vz2rYjjigMVPV6kBB0PDSIHEAEYASAAEgKOhPD_BwE
