@@ -9536,3 +9536,5 @@ a
 /wp-content/plugins/giveasap/readme.txt
 /wp-content/themes/jnews/readme.txt
 /wp-content/plugins/wp-statistics/readme.txt
+/wp-content/themes/bello/readme.txt
+/wp-admin/admin-ajax.php?action=pollinsertvalues
