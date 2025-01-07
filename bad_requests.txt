@@ -9340,3 +9340,5 @@ a
 /Uploads/2rGP9AvfnT62JIYibf4OWRY75zg.php7
 /soap.cgi?service=whatever-control;curl
 /scp/login.php
+/webtools/control/xmlrpc
+/..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5Cwindows\x5Cwin.ini
