@@ -9634,3 +9634,4 @@ a
 /elFinder/php/connector.minimal.php?cmd=mkfile&target=l1_Lw&name=2rGP99SJgykwOQRdMO4JBAghaHI.php:aaa
 /formLoginAuth.htm?authCode=1&userName=admin&goURL&action=login
 /STATE_ID/123/agentLogUploader
+/client/index.php
