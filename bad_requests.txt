@@ -9528,3 +9528,4 @@ a
 /api/v1/method.callAnon/getPasswordPolicy
 /wp-admin/admin-ajax.php?action=likebtn_prx&likebtn_q=aHR0cDovL2xpa2VidG4uY29tLm9hc3QubWU=\x22
 /wp-content/plugins/daggerhart-openid-connect-generic/readme.txt
+/wp-content/plugins/pie-register/readme.txt
