@@ -8197,3 +8197,7 @@ a
 /admin/elfinder/php/connector.minimal.php
 /struts2-rest-showcase/orders/3
 /orders/3
+/plugins/pwnd/pwnd.php
+/about/function.php?p=
+/themes/pridmag/db.php?u
+/wsoyanzfv3.phP8
