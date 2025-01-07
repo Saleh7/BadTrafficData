@@ -9604,3 +9604,4 @@ a
 /v1/2rGP8rra5VMgBep0j8YXjZDVhzb.php
 /api/v1/login/oauth2/auth
 /v1/backend1
+/delete_cart_goods.php
