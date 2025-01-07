@@ -8189,3 +8189,5 @@ a
 /__
 /integration/saveGangster.action
 /cobbler_api
+/nagiosql/admin/logbook.php
+/nagiosql/admin/menuaccess.php
