@@ -8191,3 +8191,4 @@ a
 /cobbler_api
 /nagiosql/admin/logbook.php
 /nagiosql/admin/menuaccess.php
+/hw-sys.htm
