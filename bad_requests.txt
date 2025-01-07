@@ -9541,3 +9541,4 @@ a
 /wp-content/uploads/workreap-temp/2rGP997YrQJUQrbU9cbWkUMEEct.php
 /wp-json/pie/v1/login
 /wp-content/plugins/wc-multivendor-marketplace/readme.txt
+/wp-content/plugins/elementor/readme.txt
