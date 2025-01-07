@@ -9469,3 +9469,4 @@ a
 /+CSCOE+/saml/sp/acs?tgname=a
 /assets/data/usrimg/2rgp9dkue2w7lmdjnq2bf6z32y2.php
 /assets/php/upload.php
+/ext-js/index.html
