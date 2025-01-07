@@ -9348,3 +9348,4 @@ a
 /CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData
 /timesheet/login.php
 /?gad_source=5&gclid=EAIaIQobChMIhPjtqdniigMVt2CkBB0HtwyAEAEYASAAEgJSSPD_BwE
+/wan.htm
