@@ -9413,3 +9413,6 @@ a
 /api/snapshots
 /mailingupgrade.php
 /?gad_source=5&gclid=EAIaIQobChMIor_-9I3jigMVF26dCR3-RjpVEAEYASAAEgJOdvD_BwE
+/v2/api/product/manger/getInfo
+/service/rest/beta/repositories/bower/group
+/service/rapture/session
