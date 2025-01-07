@@ -9551,3 +9551,14 @@ a
 /druid/indexer/v1/sampler
 /AurallRECMonitor/services/svc-login.php
 /nagiosxi/login.php
+/users/user-dark-features
+/confluence/pages/createpage-entervariables.action?SpaceKey=x
+/wiki/pages/createpage-entervariables.action
+/template/custom/content-editor
+/confluence/pages/createpage-entervariables.action
+/pages/createpage.action?spaceKey=myproj
+/pages/createpage-entervariables.action?SpaceKey=x
+/templates/editor-preload-container
+/pages/templates2/viewpagetemplate.action
+/wiki/pages/createpage-entervariables.action?SpaceKey=x
+/pages/createpage-entervariables.action
