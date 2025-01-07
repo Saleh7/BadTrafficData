@@ -9437,3 +9437,4 @@ a
 /tiki-login_scr.php
 /lib/crud/userprocess.php
 /user/login.php
+/?gad_source=5&gclid=EAIaIQobChMI_s2JuazjigMVUqlmAh2TeAOUEAEYASAAEgLRKvD_BwE
