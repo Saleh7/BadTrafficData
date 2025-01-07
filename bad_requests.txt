@@ -9624,3 +9624,4 @@ a
 /wp-includes/Requests/Exception/HTTP/
 /shop/
 /php/
+/TransferredOutModal.php?modfunc=detail
