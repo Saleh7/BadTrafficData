@@ -9577,3 +9577,4 @@ a
 /status.htm
 /RPC2_Login
 /\x5Cu001B]8;;https://interact.sh\x22/onmouseover=\x22alert(1)\x5Cu0007example\x5Cu001B]8;;\x5Cu0007
+/tc.CBS.Appl/tcspseudo
