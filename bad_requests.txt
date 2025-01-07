@@ -9355,3 +9355,5 @@ a
 /config/pw_snmp.html
 /share/page/dologin
 /config/pw_snmp_done.html
+/crowd/plugins/servlet/exp
+/crowd/admin/uploadplugin.action
