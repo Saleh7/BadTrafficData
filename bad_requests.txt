@@ -9490,3 +9490,4 @@ a
 /wp-content/plugins/ultimate-faqs/readme.txt
 /api/jsonws/invoke
 /cgi-bin/libagent.cgi?type=J
+/menu/stapp
