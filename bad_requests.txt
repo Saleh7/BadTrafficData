@@ -9418,3 +9418,4 @@ a
 /service/rapture/session
 /ajax/api/content_infraction/getIndexableContent
 /cgi-bin/login.cgi
+/?gad_source=5&gclid=EAIaIQobChMI0P6rlZPjigMVd0P2CB2fNBANEAEYASAAEgKjwfD_BwE
