@@ -9575,3 +9575,4 @@ a
 /redfish/v1/SessionService/ResetPassword/1/
 /redfish/v1/SessionService/Sessions/
 /status.htm
+/RPC2_Login
