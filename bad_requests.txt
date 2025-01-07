@@ -9459,3 +9459,5 @@ a
 /assets/php/profile.php
 /api/v1/method.callAnon/sendForgotPasswordEmail
 /wp-content/plugins/canto/readme.txt
+/goform/setSysAdm
+/?gad_source=5&gclid=EAIaIQobChMIxOG5msjjigMVx0gdCR3vsRnVEAEYASAAEgKRD_D_BwE
