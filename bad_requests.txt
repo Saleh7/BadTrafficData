@@ -9472,3 +9472,5 @@ a
 /ext-js/index.html
 /incom/modules/uploader/showcase/script.php
 /auth/newpassword
+/wp-content/themes/15zine/readme.txt
+/ebook/bookPerPub.php?pubid=4'
