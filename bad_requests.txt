@@ -9424,3 +9424,4 @@ a
 /public/login.htm?type=treestat
 /public/login.htm?type=requests
 /public/login.htm?type=probes
+/webadmin/out
