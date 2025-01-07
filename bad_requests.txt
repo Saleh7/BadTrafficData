@@ -9399,3 +9399,7 @@ a
 /UqaoMVCJBF.txt
 /plugins/servlet/gadgets/makeRequest
 /CDGServer3/ClientAjax
+/objects/ggknp.txt
+/objects/getImage.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=png
+/objects/getImageMP4.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=jpg
+/objects/getSpiritsFromVideo.php?base64Url=YGlkID4gZ2drbnAudHh0YA===&format=jpg
