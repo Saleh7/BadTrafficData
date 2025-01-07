@@ -9369,3 +9369,4 @@ a
 /wp-content/plugins/download-manager/readme.txt
 /wp-content/plugins/checklist/readme.txt
 /ajax/render/widget_tabbedcontainer_tab_panel
+/wp-json/visualizer/v1/update-chart
