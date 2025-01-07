@@ -9359,3 +9359,4 @@ a
 /crowd/admin/uploadplugin.action
 /Collector/diagnostics/ping
 /Collector/diagnostics/trace_route
+/password_change.cgi
