@@ -8192,3 +8192,5 @@ a
 /nagiosql/admin/logbook.php
 /nagiosql/admin/menuaccess.php
 /hw-sys.htm
+/logos_clients/2rGP9FTYqLqw8kq8T9yVd7acMsx.php
+/clients/editclient.php?id=2rGP9FTYqLqw8kq8T9yVd7acMsx&action=update
