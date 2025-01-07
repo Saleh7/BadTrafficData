@@ -9487,3 +9487,4 @@ a
 /EemAdminService/EemAdmin
 /CTCWebService/CTCWebServiceBean/ConfigServlet
 /AdminTools/querybuilder/logon?framework
+/wp-content/plugins/ultimate-faqs/readme.txt
