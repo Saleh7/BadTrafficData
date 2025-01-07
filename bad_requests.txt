@@ -9370,3 +9370,4 @@ a
 /wp-content/plugins/checklist/readme.txt
 /ajax/render/widget_tabbedcontainer_tab_panel
 /wp-json/visualizer/v1/update-chart
+/wp-content/plugins/visualizer/readme.txt
