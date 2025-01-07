@@ -9563,3 +9563,4 @@ a
 /wiki/pages/createpage-entervariables.action?SpaceKey=x
 /pages/createpage-entervariables.action
 /webtools/control/SOAPService
+/patient/search_result.php
