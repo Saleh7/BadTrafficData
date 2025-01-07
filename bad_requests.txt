@@ -9488,3 +9488,5 @@ a
 /CTCWebService/CTCWebServiceBean/ConfigServlet
 /AdminTools/querybuilder/logon?framework
 /wp-content/plugins/ultimate-faqs/readme.txt
+/api/jsonws/invoke
+/cgi-bin/libagent.cgi?type=J
