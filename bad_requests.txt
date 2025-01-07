@@ -9568,3 +9568,4 @@ a
 /misc.php?action=showpopups&type=friend
 /assets/app/something/services/AppModule.class/
 /seo/seopanel/login.php?sec=forgot
+/HandleEvent
