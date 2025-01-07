@@ -9566,3 +9566,4 @@ a
 /patient/search_result.php
 /contactus.php
 /misc.php?action=showpopups&type=friend
+/assets/app/something/services/AppModule.class/
