@@ -9491,3 +9491,4 @@ a
 /api/jsonws/invoke
 /cgi-bin/libagent.cgi?type=J
 /menu/stapp
+/menu/guiw?nsbrand=1&protocol=nonexistent.1337\x22>&id=3&nsvpx=phpinfo
