@@ -9598,3 +9598,4 @@ a
 /controller/origemdb.php?idselorigem=ATIVOS
 /controller/login.php?acao=autenticar
 /api/help'onmouseover=alert(document.domain)/'/;/beta/license
+/about/../tree?action=get
