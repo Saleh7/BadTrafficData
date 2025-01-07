@@ -9387,3 +9387,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIgfi42_fiigMVIAWDAx0JDAwSEAEYASAAEgKKUfD_BwE
 /cgi-bin/file_transfer.cgi
 /node/1?_format=hal_json
+/wp-content/plugins/w3-total-cache/pub/sns.php
