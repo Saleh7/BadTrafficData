@@ -9635,3 +9635,4 @@ a
 /formLoginAuth.htm?authCode=1&userName=admin&goURL&action=login
 /STATE_ID/123/agentLogUploader
 /client/index.php
+/changePassword?username=administrator
