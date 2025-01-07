@@ -9591,3 +9591,4 @@ a
 /?gad_source=5&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToWxvo9-BzzKWfzBVpeQ4gzuRdt-eIUz0OMlBw-CXz9gUWjFaZnSGGkaAjmzEALw_wcB
 /x
 /SDK/webLanguage
+/_ignition/execute-solution
