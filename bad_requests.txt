@@ -9439,3 +9439,4 @@ a
 /user/login.php
 /?gad_source=5&gclid=EAIaIQobChMI_s2JuazjigMVUqlmAh2TeAOUEAEYASAAEgLRKvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMInq7fpa3jigMVoF4dCR14STApEAEYASAAEgKXaPD_BwE
+/cgi-bin/system_log.cgi
