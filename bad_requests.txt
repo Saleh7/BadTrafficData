@@ -9582,3 +9582,4 @@ a
 /Config/SaveUploadedHotspotLogoFile
 /Assets/temp/hotspot/img/logohotspot.txt
 /cgi/networkDiag.cgi
+/bludit/admin/login
