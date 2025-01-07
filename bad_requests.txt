@@ -9516,3 +9516,4 @@ a
 /cgi-bin/mt/mt-xmlrpc.cgi
 /goform/goform_get_cmd_process?cmd=psw_fail_num_str
 /ui/vropspluginui/rest/services/getvcdetails
+/ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData
