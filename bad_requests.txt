@@ -9453,3 +9453,4 @@ a
 /v1/kv/2rGP9KhXDeXUtYqjrdMcgkTLPnJ
 /v1/kv/2rGP9KhXDeXUtYqjrdMcgkTLPnJ?raw
 /checkValid
+/setup.cgi?todo=debug&x=currentsetting.htm
