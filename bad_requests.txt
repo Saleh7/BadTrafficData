@@ -9500,3 +9500,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMI29654tzjigMV2J5QBh2rKTRfEAEYASAAEgK1BPD_BwE
 /account/index.php
 /opensis/index.php
+/graph_realtime.php?action=init
+/?gad_source=5&gclid=EAIaIQobChMIyciLl-HjigMV9nGkBB3BqCphEAEYASAAEgIwJfD_BwE
