@@ -9406,3 +9406,5 @@ a
 /artifactory/ui/auth/login?_spring_security_remember_me=false
 /kindeditor/php/demo.php
 /php/demo.php
+/wp-content/plugins/social-warfare/readme.txt
+/index.php/login
