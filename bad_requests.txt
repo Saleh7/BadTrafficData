@@ -9523,3 +9523,5 @@ a
 /lucee/2rGP9Bd0qbXOf6plZFvcSqiPpqL.cfm
 /lucee/admin/imgProcess.cfm?file=/../../../context/2rGP9Bd0qbXOf6plZFvcSqiPpqL.cfm
 /lucee/admin/imgProcess.cfm?file=/whatever
+/analytics/telemetry/ph/api/hyper/send?_c&_i=test
+/cgi-bin/cgiServer?worker=IndexNew
