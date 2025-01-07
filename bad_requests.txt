@@ -9372,3 +9372,6 @@ a
 /wp-json/visualizer/v1/update-chart
 /wp-content/plugins/visualizer/readme.txt
 /ui/api/v1/ui/auth/login
+/zabbix.php
+/jnoj/web/polygon/problem/viewfile?id=1&name=../../../../../../../etc/passwd
+/zabbix/zabbix.php
