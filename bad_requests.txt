@@ -9570,3 +9570,4 @@ a
 /seo/seopanel/login.php?sec=forgot
 /HandleEvent
 /goform/setmac
+/appGet.cgi?hook=get_cfg_clientlist()
