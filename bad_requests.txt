@@ -9533,3 +9533,4 @@ a
 /wp-content/plugins/imagements/images/2rgp9amd29xrdpgw7jadirwjtww.php
 /wp-admin/admin-ajax.php?action=uploadFontIcon
 /wp-content/uploads/kaswara/fonts_icon/cbssme/pr.php
+/wp-content/plugins/giveasap/readme.txt
