@@ -9514,3 +9514,5 @@ a
 /menu/ss?sid=nsroot&username=nsroot&force_setup=1
 /menu/neo
 /cgi-bin/mt/mt-xmlrpc.cgi
+/goform/goform_get_cmd_process?cmd=psw_fail_num_str
+/ui/vropspluginui/rest/services/getvcdetails
