@@ -9587,3 +9587,5 @@ a
 /druid/indexer/v1/sampler?for=connect
 /?gad_source=5&gclid=EAIaIQobChMIlo2htMLkigMVTyIGAB1lHRfDEAEYASAAEgKNkvD_BwE
 /home/download
+/wsman
+/?gad_source=5&gclid=Cj0KCQiAvvO7BhC-ARIsAGFyToWxvo9-BzzKWfzBVpeQ4gzuRdt-eIUz0OMlBw-CXz9gUWjFaZnSGGkaAjmzEALw_wcB
