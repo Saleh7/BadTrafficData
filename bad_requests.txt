@@ -9397,3 +9397,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIqaqixILjigMVr5DYBR1C8hcgEAEYASAAEgIzhPD_BwE
 /rest/issueNav/1/issueTable
 /UqaoMVCJBF.txt
+/plugins/servlet/gadgets/makeRequest
