@@ -9386,3 +9386,4 @@ a
 /rest/tinymce/1/macro/preview
 /?gad_source=5&gclid=EAIaIQobChMIgfi42_fiigMVIAWDAx0JDAwSEAEYASAAEgKKUfD_BwE
 /cgi-bin/file_transfer.cgi
+/node/1?_format=hal_json
