@@ -9377,3 +9377,4 @@ a
 /zabbix/zabbix.php
 /admin/auth/reset-password
 /apply_sec.cgi
+/xmlpserver/ReportTemplateService.xls
