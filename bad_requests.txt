@@ -9357,3 +9357,4 @@ a
 /config/pw_snmp_done.html
 /crowd/plugins/servlet/exp
 /crowd/admin/uploadplugin.action
+/Collector/diagnostics/ping
