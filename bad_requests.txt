@@ -9442,3 +9442,5 @@ a
 /cgi-bin/system_log.cgi
 /jars/upload
 /wp-content/plugins/import-xml-feed/readme.txt
+/var
+/qvvvutxv.php?Fox=d3wL7
