@@ -9316,3 +9316,4 @@ a
 /fcgi-bin/wgsetcgi
 /web/google_analytics.php
 /?gad_source=5&gclid=EAIaIQobChMIgJ7asL3iigMV9SMGAB3oQB7aEAEYASAAEgLIefD_BwE
+/session/login
