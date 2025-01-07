@@ -9352,3 +9352,6 @@ a
 /NateMail.php
 /whoAmI/
 /?gad_source=5&gclid=EAIaIQobChMI_N-tmt7iigMVBWCdCR2bkBoREAEYASAAEgJwRvD_BwE
+/config/pw_snmp.html
+/share/page/dologin
+/config/pw_snmp_done.html
