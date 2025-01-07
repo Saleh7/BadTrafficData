@@ -9320,3 +9320,7 @@ a
 /cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm
 /?gad_source=5&gclid=EAIaIQobChMIjIHStMfiigMVpkikBB2DZzmBEAEYASAAEgImNPD_BwE
 /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/laravel52/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
