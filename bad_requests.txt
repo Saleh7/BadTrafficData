@@ -9360,3 +9360,4 @@ a
 /Collector/diagnostics/ping
 /Collector/diagnostics/trace_route
 /password_change.cgi
+/wp-content/plugins/my-calendar/readme.txt
