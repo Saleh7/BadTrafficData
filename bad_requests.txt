@@ -9518,3 +9518,5 @@ a
 /ui/vropspluginui/rest/services/getvcdetails
 /ui/h5-vsan/rest/proxy/service/com.vmware.vsan.client.services.capability.VsanCapabilityProvider/getClusterCapabilityData
 /_bulk
+/api/v4/ci/lint?include_merged_yaml=true
+/AdminService/urest/v1/LogonResource
