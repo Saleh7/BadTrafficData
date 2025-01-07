@@ -9361,3 +9361,7 @@ a
 /Collector/diagnostics/trace_route
 /password_change.cgi
 /wp-content/plugins/my-calendar/readme.txt
+/talari/app/files/2rGP9E5SchN6Ofyi2fSkZzseAaa
+/rpc.cgi
+/Collector/appliancesettings/applianceSettingsFileTransfer
+/session_login.cgi
