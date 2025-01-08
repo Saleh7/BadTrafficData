@@ -9690,3 +9690,4 @@ a
 /geoserver/wms
 /sap/admin/public/default.html
 /?gad_source=5&gclid=EAIaIQobChMI9rrCt7LligMVCm5BAh24uhmbEAEYASAAEgIqqvD_BwE
+/cgi-bin/nightled.cgi
