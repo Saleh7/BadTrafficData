@@ -9812,3 +9812,5 @@ a
 /setup/setupadministrator-start.action
 /api/operations/ciscosb-file:form-file-upload
 /setup/setupadministrator.action
+/api/v2/parameters/core/
+/kubepi/api/v1/users
