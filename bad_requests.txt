@@ -9639,3 +9639,4 @@ a
 /ddns_check.ccp
 /language/lang
 /api/blade-user/user-list
+/apply.cgi
