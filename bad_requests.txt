@@ -9904,3 +9904,5 @@ a
 /cmisatom/cmis-online/query
 /?gad_source=5&gclid=EAIaIQobChMIyPui36fnigMVnEYdCR2fVDGQEAEYASAAEgKGe_D_BwE
 /api/sys/login
+/wms
+/hoteldruid/inizio.php
