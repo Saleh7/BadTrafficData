@@ -9799,3 +9799,4 @@ a
 /search-locker-details.php
 /search-request.php
 /goanywhere/lic/accept
+/admin/elfinder/php/connector.php
