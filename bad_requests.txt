@@ -9727,3 +9727,5 @@ a
 /dfsms/index.php
 /conf_mail.php
 /?gad_source=5&gclid=EAIaIQobChMI9O2b2szligMVwQGDAx2IljNoEAEYASAAEgLj5_D_BwE
+/v1/agent/check/register
+/v1/agent/check/deregister/2rGP9BL6GCxgO6TROlYBpvZKXI6
