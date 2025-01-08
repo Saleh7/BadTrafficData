@@ -9797,3 +9797,4 @@ a
 /SamlResponseServlet
 /banker/index.php
 /search-locker-details.php
+/search-request.php
