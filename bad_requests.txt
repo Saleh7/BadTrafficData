@@ -9786,3 +9786,5 @@ a
 /wp-admin/admin-ajax.php?action=mcwp_table&mcwp_id=1&order[0][column]=0&columns[0][name]=name+AND+(SELECT+1+FROM+(SELECT(SLEEP(7)))aaaa)--+-
 /?gad_source=2&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiYiy-FTFWhLk0PMOZQkPOnVOuLqsVhqEypSdQ2csOCotlPJG6fxnlcaAgAIEALw_wcB
 /wp-admin/admin-ajax.php?action=loginas_return_admin
+/wp-admin/admin-ajax.php?action=get_tag_fonts
+/?gad_source=2&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1Yib6tU8UNG5uyJTrf54nd9xl1PPIoSzZDylrcy0DGvuFGanxeTy6nR0aAh8NEALw_wcB
