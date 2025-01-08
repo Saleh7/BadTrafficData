@@ -9877,3 +9877,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIse_-nYbnigMVSlj2CB0UIy_CEAEYASAAEgLpRfD_BwE
 /pig/add-pig.php
 /superadmincreate.php
+/api/server/version
