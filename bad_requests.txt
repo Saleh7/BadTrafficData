@@ -9843,3 +9843,4 @@ a
 //CFIDE/adminapi/accessmanager.cfc?method=foo&_cfclient=true
 /texteditor.php
 /user/save
+/job/list
