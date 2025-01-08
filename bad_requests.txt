@@ -9739,3 +9739,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIkKmI5dHligMVSAWDAx3TKBHCEAEYASAAEgLqxvD_BwE
 /live_check.shtml
 /pfblockerng/www/index.php
+/?gad_source=5&gclid=EAIaIQobChMIvqjyjNTligMVDyMGAB0QIADIEAEYASAAEgKQ1vD_BwE
