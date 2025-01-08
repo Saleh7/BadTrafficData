@@ -4538,3 +4538,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:4450:811e:a800:3f2d:7cab:becc:3394
 147.45.53.94
 2400:c600:3388:2ba9:1:0:ae09:ff81
+2409:40e2:1c:bca5:d8c5:cdff:fe9a:b7ad
+198.235.24.176
