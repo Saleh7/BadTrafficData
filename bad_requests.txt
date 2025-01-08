@@ -9763,3 +9763,5 @@ a
 /api/v2/open/rowsInfo
 /rest/api/latest/repos
 /servlets/OmaDsServlet
+/hms/user-login.php
+/api/subscriber
