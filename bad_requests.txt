@@ -9768,3 +9768,6 @@ a
 /vendor/htmlawed/htmlawed/htmLawedTest.php
 /js/jquery_file_upload/server/php/
 /plugins/servlet/groupexportforjira/admin/json
+/wp-content/plugins/crm-perks-forms/readme.txt
+/ajax/openvpn/del_ovpncfg.php
+/navpage.do
