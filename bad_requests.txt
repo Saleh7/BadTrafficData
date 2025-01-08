@@ -9757,3 +9757,4 @@ a
 /mod/lti/auth.php
 /service/extension/backup/mboximport?account-name=admin&ow=2&no-switch=1&append=1
 /service/extension/backup/mboximport?account-name=admin&account-status=1&ow=cmd
+/fw.login.php
