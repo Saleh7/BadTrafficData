@@ -9740,3 +9740,4 @@ a
 /live_check.shtml
 /pfblockerng/www/index.php
 /?gad_source=5&gclid=EAIaIQobChMIvqjyjNTligMVDyMGAB0QIADIEAEYASAAEgKQ1vD_BwE
+/classes/Master.php?f=delete_request
