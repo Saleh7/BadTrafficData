@@ -9802,3 +9802,4 @@ a
 /admin/elfinder/php/connector.php
 /flash/addcrypted2
 /accounts/login/
+/jeecg-boot/jmreport/qurestSql
