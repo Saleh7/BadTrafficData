@@ -9717,3 +9717,5 @@ a
 /owa-data/caches/1/owa_user/c30da9265ba0a4704db9229f864c9eb7.php
 /ubus/
 /navigate/login.php
+/wp-admin/admin-ajax.php?action=check_country_selector
+/?gad_source=5&gclid=EAIaIQobChMImeW-q8nligMVw0gdCR0KvhxvEAEYASAAEgKjl_D_BwE
