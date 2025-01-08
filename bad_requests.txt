@@ -9858,3 +9858,4 @@ a
 /Servlet/Skins
 /inizio.php
 /creaprezzi.php
+/api/v1/snapshots
