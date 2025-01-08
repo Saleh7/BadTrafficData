@@ -9734,3 +9734,5 @@ a
 /pages/csv_export_results_metadata.php?k=zulu&personaldata=0&allavailable=true&submit=1
 /nagiosxi/login.php?redirect=/www.interact.sh
 /?gad_source=5&gclid=EAIaIQobChMI5_jmk87ligMVtEakBB0xYRv_EAEYASAAEgJLs_D_BwE
+/fileupload/toolsAny
+/scgi-bin/platform.cgi
