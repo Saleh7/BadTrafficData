@@ -9747,3 +9747,4 @@ a
 /cgi/get_param.cgi?xml&sys.passwd&sys.su.name
 /admin/ajax.php?action=login
 /sysinit.shtml?r=52300
+/set_safety.shtml?r=52300
