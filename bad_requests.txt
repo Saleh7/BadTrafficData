@@ -9771,3 +9771,4 @@ a
 /wp-content/plugins/crm-perks-forms/readme.txt
 /ajax/openvpn/del_ovpncfg.php
 /navpage.do
+/controller/ping.php
