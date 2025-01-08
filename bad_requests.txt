@@ -9721,3 +9721,8 @@ a
 /?gad_source=5&gclid=EAIaIQobChMImeW-q8nligMVw0gdCR0KvhxvEAEYASAAEgKjl_D_BwE
 /admin/dashboard.php
 /?gad_source=5&gclid=EAIaIQobChMIi7ivx8rligMVtwL7Ax3D3gTHEAEYASAAEgIFRvD_BwE
+/ccms/index.php
+/ccms/dashboard.php
+/dfsms/add-category.php
+/dfsms/index.php
+/conf_mail.php
