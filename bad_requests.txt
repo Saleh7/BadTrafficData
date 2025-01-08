@@ -9894,3 +9894,4 @@ a
 /modules/miniform/ajax_delete_message.php
 /simpleeditor/common/commonReleaseNotes.do
 /rest/xxxxxxxxxxxxxxx/xxxxxxx?executeAsync
+/admin/store.php?\x22onmouseover='alert(document.domain)'bad=\x22
