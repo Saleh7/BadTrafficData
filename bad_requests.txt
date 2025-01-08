@@ -9788,3 +9788,5 @@ a
 /wp-admin/admin-ajax.php?action=loginas_return_admin
 /wp-admin/admin-ajax.php?action=get_tag_fonts
 /?gad_source=2&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1Yib6tU8UNG5uyJTrf54nd9xl1PPIoSzZDylrcy0DGvuFGanxeTy6nR0aAh8NEALw_wcB
+/wp-content/uploads/cfom_files/2rgp9igfihgz7hylp9obfxg8lv3.php
+/wp-admin/admin-ajax.php?action=cfom_upload_file&name=2rGP9IGFIHGZ7hYlp9OBfXg8lv3.pHp
