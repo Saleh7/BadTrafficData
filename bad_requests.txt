@@ -9761,3 +9761,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIue3Ni-jligMV6abYBR0mVwQ6EAEYASAAEgLexPD_BwE
 /login.zul
 /api/v2/open/rowsInfo
+/rest/api/latest/repos
+/servlets/OmaDsServlet
