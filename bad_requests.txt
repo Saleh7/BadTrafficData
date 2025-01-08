@@ -9794,3 +9794,4 @@ a
 /admin/login/index.php
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file:///etc/passwd
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file://c:/windows/win.ini
+/SamlResponseServlet
