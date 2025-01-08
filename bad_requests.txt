@@ -9715,3 +9715,5 @@ a
 /admin/asign-single-student-subjects.php
 /api/agent/tabs/agentData
 /owa-data/caches/1/owa_user/c30da9265ba0a4704db9229f864c9eb7.php
+/ubus/
+/navigate/login.php
