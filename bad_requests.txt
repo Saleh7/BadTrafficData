@@ -9658,3 +9658,4 @@ a
 /.well-knownold/
 /wp-content/plugins/site-offline/readme.txt
 /wp-json/metform/v1/forms/templates/0
+/wp-json/am-member/license
