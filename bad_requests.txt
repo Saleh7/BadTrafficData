@@ -9680,3 +9680,5 @@ a
 /OA_HTML/BneViewerXMLService?bne:uueupload=TRUE
 /OA_CGI/FNDWRR.exe
 /api/2rGP9MeBYK0t28BJm3NjEksg9Lf
+/actuator/gateway/refresh
+/actuator/gateway/routes/2rGP9NBalVqbtLankevOjC6vEYm
