@@ -9872,3 +9872,6 @@ a
 /appliance/login
 /dup-installer/main.installer.php
 /loadfile.lp?pageid=Configure
+/guestaccess.aspx
+/moveitisapi/moveitisapi.dll?action=m2
+/?gad_source=5&gclid=EAIaIQobChMIse_-nYbnigMVSlj2CB0UIy_CEAEYASAAEgLpRfD_BwE
