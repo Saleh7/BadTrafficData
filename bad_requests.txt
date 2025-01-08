@@ -9816,3 +9816,5 @@ a
 /kubepi/api/v1/users
 /?gad_source=2&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiZWjhGXvGGqDY0h0A1OBI7-CeLZ0aKJgG7-dWYFDpZ_Mi12ZSq9NywaAq36EALw_wcB
 /?fbclid=PAZXh0bgNhZW0CMTEAAabeWRXVL32eza0qbgBK8yJJA_AJQSg_S6qGVJ3aidG5mia_oH-igrHaMwU_aem_avUB15J_5p3hKiI7dSCcEg
+/csrf
+/?wbraid=ClQKCQiAvvO7BhCxARJDAKzbJCqS7nedzz0X2dc2hBaOmYamgggMdaEqmegw6fzWSyWkXzTL3Gsa5cgvnMabPkVk-vZWuADrFHc_xvkC1mZl_xoCFzc
