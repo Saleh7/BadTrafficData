@@ -9849,3 +9849,5 @@ a
 /v1/warehouse/pending-events
 /?gad_source=1&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiYSy87qQ-w-6IvD_Q1cP2OlyCqdoXdmtLVvketGYRpHI7TBH5vSy1EaAnCZEALw_wcB
 /bypass/config?type=sqs&keyId=test&key=security&queueUrl=http://ctu1e2la6l84rsl142k0wwu93bqpzfsa5.oast.live/
+/2rGP8sVb34Enbc6nPm8WjXGmA8U
+/cgi-bin/cstecgi.cgi
