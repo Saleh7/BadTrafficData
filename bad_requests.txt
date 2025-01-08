@@ -9780,3 +9780,7 @@ a
 /network_test.php
 /wp-admin/admin-ajax.php?action=iws_gff_fetch_states
 /index.php/user/
+/api/v2/cmdb/system/admin/admin
+/api/v2/cmdb/system/admin
+/wp-content/plugins/cryptocurrency-widgets-pack/readme.txt
+/wp-admin/admin-ajax.php?action=mcwp_table&mcwp_id=1&order[0][column]=0&columns[0][name]=name+AND+(SELECT+1+FROM+(SELECT(SLEEP(7)))aaaa)--+-
