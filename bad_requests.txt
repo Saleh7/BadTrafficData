@@ -9656,3 +9656,4 @@ a
 /wp-admin/admin-ajax.php?action=wpt_admin_update_notice_option
 /?gad_source=5&gclid=EAIaIQobChMI4aXov5TligMVeCIGAB3NAjnQEAEYASAAEgIvG_D_BwE
 /.well-knownold/
+/wp-content/plugins/site-offline/readme.txt
