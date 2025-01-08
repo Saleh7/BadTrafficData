@@ -9750,3 +9750,5 @@ a
 /set_safety.shtml?r=52300
 /cgi-bin/ExportLogs.sh
 /templates/default/html/windows/right.php
+/ws-api/v2/users/me/details?token=02
+/kyzmxdit.php?Fox=d3wL7
