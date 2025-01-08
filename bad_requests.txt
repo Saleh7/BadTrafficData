@@ -9754,3 +9754,4 @@ a
 /kyzmxdit.php?Fox=d3wL7
 /hms/admin/
 /webapi/auth
+/mod/lti/auth.php
