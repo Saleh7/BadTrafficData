@@ -9713,3 +9713,4 @@ a
 /classes/Master.php?f=delete_supplier
 /admin/ajax/pages.php?id=(sleep(6))
 /admin/asign-single-student-subjects.php
+/api/agent/tabs/agentData
