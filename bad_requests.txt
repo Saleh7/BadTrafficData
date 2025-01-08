@@ -9719,3 +9719,5 @@ a
 /navigate/login.php
 /wp-admin/admin-ajax.php?action=check_country_selector
 /?gad_source=5&gclid=EAIaIQobChMImeW-q8nligMVw0gdCR0KvhxvEAEYASAAEgKjl_D_BwE
+/admin/dashboard.php
+/?gad_source=5&gclid=EAIaIQobChMIi7ivx8rligMVtwL7Ax3D3gTHEAEYASAAEgIFRvD_BwE
