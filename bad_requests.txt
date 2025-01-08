@@ -9859,3 +9859,4 @@ a
 /inizio.php
 /creaprezzi.php
 /api/v1/snapshots
+/ajax.php?action=save_user
