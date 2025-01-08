@@ -9668,3 +9668,4 @@ a
 /api/login
 /?gad_source=5&gclid=EAIaIQobChMIypbEiaDligMVA0T2CB38DTROEAEYASAAEgKUffD_BwE
 /functionRouter
+/wp-admin/admin-ajax.php?action=easync_success_and_save
