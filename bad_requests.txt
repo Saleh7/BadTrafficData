@@ -9683,3 +9683,7 @@ a
 /actuator/gateway/refresh
 /actuator/gateway/routes/2rGP9NBalVqbtLankevOjC6vEYm
 /vcac/
+/modules/appagebuilder/apajax.php?rand=2132779749032
+/servlet/GetProductVersion
+/modules/appagebuilder/apajax.php?rand=7916341119217
+/modules/appagebuilder/apajax.php?rand=6756178183054
