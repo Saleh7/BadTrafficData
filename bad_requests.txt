@@ -9842,3 +9842,4 @@ a
 /wp-content/plugins/gift-voucher/readme.txt
 //CFIDE/adminapi/accessmanager.cfc?method=foo&_cfclient=true
 /texteditor.php
+/user/save
