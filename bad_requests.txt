@@ -9660,3 +9660,4 @@ a
 /wp-json/metform/v1/forms/templates/0
 /wp-json/am-member/license
 /wp-json/click5_sitemap/API/update_html_option_AJAX
+/wp-content/plugins/simple-membership/readme.txt
