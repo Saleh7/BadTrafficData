@@ -9803,3 +9803,5 @@ a
 /flash/addcrypted2
 /accounts/login/
 /jeecg-boot/jmreport/qurestSql
+/wbm/plugins/wbm-legal-information/platform/pfcXXX/licenses.php
+/queues
