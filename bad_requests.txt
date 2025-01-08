@@ -9871,3 +9871,4 @@ a
 /wp-content/plugins/ultimate-member/readme.txt
 /appliance/login
 /dup-installer/main.installer.php
+/loadfile.lp?pageid=Configure
