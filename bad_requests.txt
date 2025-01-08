@@ -9845,3 +9845,5 @@ a
 /user/save
 /job/list
 /_api/web/siteusers
+/wp-content/plugins/mstore-api/readme.txt
+/v1/warehouse/pending-events
