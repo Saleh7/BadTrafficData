@@ -9795,3 +9795,5 @@ a
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file:///etc/passwd
 /solr/solrdefault/debug/dump?param=ContentStreams&stream.url=file://c:/windows/win.ini
 /SamlResponseServlet
+/banker/index.php
+/search-locker-details.php
