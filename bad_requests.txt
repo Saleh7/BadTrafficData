@@ -9772,3 +9772,4 @@ a
 /ajax/openvpn/del_ovpncfg.php
 /navpage.do
 /controller/ping.php
+/task/loginValidation.php
