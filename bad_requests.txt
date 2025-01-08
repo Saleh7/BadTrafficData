@@ -9743,3 +9743,4 @@ a
 /classes/Master.php?f=delete_request
 /classes/Master.php?f=delete_team
 /classes/Master.php?f=delete_inquiry
+/hms/doctor/
