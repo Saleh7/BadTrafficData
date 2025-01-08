@@ -9738,3 +9738,4 @@ a
 /scgi-bin/platform.cgi
 /?gad_source=5&gclid=EAIaIQobChMIkKmI5dHligMVSAWDAx3TKBHCEAEYASAAEgLqxvD_BwE
 /live_check.shtml
+/pfblockerng/www/index.php
