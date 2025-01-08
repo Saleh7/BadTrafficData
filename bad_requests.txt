@@ -9696,3 +9696,5 @@ a
 /bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki&media=json
 /alerts/alertLightbox.php
 /xwiki/bin/login/XWikiLogin?xpage=uorgsuggest&uorg=user&wiki&media=json
+/alerts/alertConfigField.php
+/?gad_source=5&gclid=EAIaIQobChMI9rDFlbfligMVTVGkBB1uxga5EAEYASAAEgK68PD_BwE
