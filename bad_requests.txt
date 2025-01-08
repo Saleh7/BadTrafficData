@@ -9776,3 +9776,5 @@ a
 /ProcessWait.aspx?POBatch=</script><script>alert(document.domain)</script>&WaitDuration=3
 /wp-admin/admin-ajax.php?action=joomsport_md_load
 /ProcessWait.aspx?POBatch=test&WaitDuration=</script><script>alert(document.domain)</script>
+/goform/downloadSyslog/syslog.log
+/network_test.php
