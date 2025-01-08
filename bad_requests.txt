@@ -9665,3 +9665,5 @@ a
 /wp-content/uploads/html2wp/2rGP9Hb8YjJvlfX0MQc5wDc1tBZ.php
 /service/0/test.oast.me
 /?gad_source=5&gclid=EAIaIQobChMIi66y15nligMVRb9LBR1dRDHgEAEYASAAEgKwrvD_BwE
+/api/login
+/?gad_source=5&gclid=EAIaIQobChMIypbEiaDligMVA0T2CB38DTROEAEYASAAEgKUffD_BwE
