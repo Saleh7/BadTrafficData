@@ -9669,3 +9669,6 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIypbEiaDligMVA0T2CB38DTROEAEYASAAEgKUffD_BwE
 /functionRouter
 /wp-admin/admin-ajax.php?action=easync_success_and_save
+/cms/content/list
+/backend/backend/auth/signin
+/wp-content/plugins/feed-them-social/readme.txt
