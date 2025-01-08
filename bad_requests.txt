@@ -9839,3 +9839,4 @@ a
 /api/v1/database/7
 /api/v1/database/9
 /index.php/management/set_timezone
+/wp-content/plugins/gift-voucher/readme.txt
