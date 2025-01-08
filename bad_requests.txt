@@ -9861,3 +9861,5 @@ a
 /api/v1/snapshots
 /ajax.php?action=save_user
 /app?service=page/SetupCompleted
+/app?service=page/PrinterList
+/enrollment/ajax.php?action=login
