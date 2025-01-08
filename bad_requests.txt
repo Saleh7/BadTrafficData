@@ -9749,3 +9749,4 @@ a
 /sysinit.shtml?r=52300
 /set_safety.shtml?r=52300
 /cgi-bin/ExportLogs.sh
+/templates/default/html/windows/right.php
