@@ -9748,3 +9748,4 @@ a
 /admin/ajax.php?action=login
 /sysinit.shtml?r=52300
 /set_safety.shtml?r=52300
+/cgi-bin/ExportLogs.sh
