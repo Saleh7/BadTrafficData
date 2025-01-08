@@ -9863,3 +9863,5 @@ a
 /app?service=page/SetupCompleted
 /app?service=page/PrinterList
 /enrollment/ajax.php?action=login
+/vdiqxzx
+/goform/aspForm
