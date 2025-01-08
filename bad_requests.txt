@@ -9869,3 +9869,5 @@ a
 /_images/n9mcWK
 /jeecg-boot/jmreport/show
 /wp-content/plugins/ultimate-member/readme.txt
+/appliance/login
+/dup-installer/main.installer.php
