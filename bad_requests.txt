@@ -9730,3 +9730,7 @@ a
 /v1/agent/check/register
 /v1/agent/check/deregister/2rGP9BL6GCxgO6TROlYBpvZKXI6
 /ztp/cgi-bin/handler
+/app/options.py
+/pages/csv_export_results_metadata.php?k=zulu&personaldata=0&allavailable=true&submit=1
+/nagiosxi/login.php?redirect=/www.interact.sh
+/?gad_source=5&gclid=EAIaIQobChMI5_jmk87ligMVtEakBB0xYRv_EAEYASAAEgJLs_D_BwE
