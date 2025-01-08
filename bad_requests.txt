@@ -9642,3 +9642,6 @@ a
 /apply.cgi
 /2rGP9Fkgr2y9Y20Jb3DoZdSn8s0.txt
 /?gad_source=5&gclid=EAIaIQobChMIiruI9_PkigMVaYfpBR2gqQ8EEAEYASAAEgKTivD_BwE
+/cgi-bin/idz5kJ.txt
+/wp-content/plugins/embed-swagger/readme.txt
+/cgi-bin/SLtsIf.txt
