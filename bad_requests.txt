@@ -9878,3 +9878,4 @@ a
 /pig/add-pig.php
 /superadmincreate.php
 /api/server/version
+/CFIDE/adminapi/base.cfc?method
