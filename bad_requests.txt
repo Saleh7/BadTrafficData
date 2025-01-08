@@ -9679,3 +9679,4 @@ a
 /wp-json/rps_result/v1/route/student_fields
 /OA_HTML/BneViewerXMLService?bne:uueupload=TRUE
 /OA_CGI/FNDWRR.exe
+/api/2rGP9MeBYK0t28BJm3NjEksg9Lf
