@@ -9778,3 +9778,5 @@ a
 /ProcessWait.aspx?POBatch=test&WaitDuration=</script><script>alert(document.domain)</script>
 /goform/downloadSyslog/syslog.log
 /network_test.php
+/wp-admin/admin-ajax.php?action=iws_gff_fetch_states
+/index.php/user/
