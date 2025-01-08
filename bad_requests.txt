@@ -9860,3 +9860,4 @@ a
 /creaprezzi.php
 /api/v1/snapshots
 /ajax.php?action=save_user
+/app?service=page/SetupCompleted
