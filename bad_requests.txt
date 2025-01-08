@@ -9753,3 +9753,4 @@ a
 /ws-api/v2/users/me/details?token=02
 /kyzmxdit.php?Fox=d3wL7
 /hms/admin/
+/webapi/auth
