@@ -9741,3 +9741,5 @@ a
 /pfblockerng/www/index.php
 /?gad_source=5&gclid=EAIaIQobChMIvqjyjNTligMVDyMGAB0QIADIEAEYASAAEgKQ1vD_BwE
 /classes/Master.php?f=delete_request
+/classes/Master.php?f=delete_team
+/classes/Master.php?f=delete_inquiry
