@@ -9895,3 +9895,5 @@ a
 /simpleeditor/common/commonReleaseNotes.do
 /rest/xxxxxxxxxxxxxxx/xxxxxxx?executeAsync
 /admin/store.php?\x22onmouseover='alert(document.domain)'bad=\x22
+/api/sys/set_passwd
+/lwa/Webpages/LwaClient.aspx?meeturl=aHR0cDovL2N0dTFlMmxhNmw4NHJzbDE0MmswYnF0cmNqOGN0dXhtZi5vYXN0LmxpdmUvP2lkPUdPeiUyNXsxMzM3KjEzMzd9Iy54eC8v
