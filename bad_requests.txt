@@ -9867,3 +9867,4 @@ a
 /goform/aspForm
 /api/runscript
 /_images/n9mcWK
+/jeecg-boot/jmreport/show
