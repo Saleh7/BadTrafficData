@@ -9766,3 +9766,4 @@ a
 /hms/user-login.php
 /api/subscriber
 /vendor/htmlawed/htmlawed/htmLawedTest.php
+/js/jquery_file_upload/server/php/
