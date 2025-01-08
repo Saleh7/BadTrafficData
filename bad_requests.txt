@@ -9703,3 +9703,5 @@ a
 /dologin.action
 /wp-admin/admin-ajax.php?td_theme_name=Newspaper&v=11.2
 /..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5Cwindows\x5Cwin.ini
+/admin/uploads.php?id=1
+/index.php/video/?dl=aHR0cHM6Ly9vYXN0Lm1lLw==
