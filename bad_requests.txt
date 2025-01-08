@@ -9767,3 +9767,4 @@ a
 /api/subscriber
 /vendor/htmlawed/htmlawed/htmLawedTest.php
 /js/jquery_file_upload/server/php/
+/plugins/servlet/groupexportforjira/admin/json
