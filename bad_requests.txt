@@ -9705,3 +9705,6 @@ a
 /..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5C..\x5Cwindows\x5Cwin.ini
 /admin/uploads.php?id=1
 /index.php/video/?dl=aHR0cHM6Ly9vYXN0Lm1lLw==
+/OASREST/v2/authenticate
+/2rGP9KEwji2pniXwi2IRTH0couS.txt
+/js/filemanager/api/index.php
