@@ -9900,3 +9900,5 @@ a
 /WebInterface
 /main/inc/lib/javascript/bigupload/files/EeGDXJ7307.txt
 /main/inc/lib/javascript/bigupload/inc/bigUpload.php?action=post-unsupported
+/opencms/cmisatom/cmis-online/query
+/cmisatom/cmis-online/query
