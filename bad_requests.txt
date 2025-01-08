@@ -9677,3 +9677,5 @@ a
 /ca/rest/certrequests
 /iupjournals/index.php/esj
 /wp-json/rps_result/v1/route/student_fields
+/OA_HTML/BneViewerXMLService?bne:uueupload=TRUE
+/OA_CGI/FNDWRR.exe
