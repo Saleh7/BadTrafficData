@@ -10201,3 +10201,5 @@ a
 /geoserver/wfs
 /mailinspector/login.php
 /global-protect/portal/images/2rGP8u6KiNQLy3Wys0BziPnUDZh.txt
+/api/gen/clients/csharp
+/include/file.php
