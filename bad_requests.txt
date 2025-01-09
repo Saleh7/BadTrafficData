@@ -9958,3 +9958,5 @@ a
 /api/file/formimage
 /wp-json/post-smtp/v1/get-log
 /wp-json/post-smtp/v1/connect-app
+/v6.58/Products/Authentication
+/wp-content/plugins/user-meta/readme.txt
