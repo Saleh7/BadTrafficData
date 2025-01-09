@@ -10393,3 +10393,4 @@ a
 /api/auth/login
 /_session
 /rest/auth/login
+/logIn
