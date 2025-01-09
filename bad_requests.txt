@@ -9916,3 +9916,4 @@ a
 /modules/ndk_steppingpack/search-result.php
 /wp-content/plugins/media-library-assistant/readme.txt
 /chaosblade?cmd=$(id)
+/wp-content/plugins/computer-repair-shop/readme.txt
