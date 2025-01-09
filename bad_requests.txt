@@ -9913,3 +9913,4 @@ a
 /rpc/clients/xmlrpc
 /app/sys1.php
 /cgi-bin/vitogate.cgi
+/modules/ndk_steppingpack/search-result.php
