@@ -10165,3 +10165,9 @@ a
 /file=fa
 /dana-ws/saml20.ws
 /mjcsalaq.php?Fox=d3wL7
+/queue/join
+/ajax/calendar.php
+/ajax/ticket_user_db.php
+/queue/data?session_hash=2rGP9Gk1V0H20XemJauPURHnjvg
+/task/submit/
+/dana-na/auth/saml-sso.cgi
