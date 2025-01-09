@@ -10398,3 +10398,4 @@ a
 /data/login
 /sysmgmt/2015/bmc/session
 /index.php/verifyLogin/login
+/hue/accounts/login?next=/
