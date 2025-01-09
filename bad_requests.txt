@@ -9946,3 +9946,5 @@ a
 /wp-content/plugins/backup-backup/readme.txt
 /api/2.0/mlflow/users/create
 /php/ping.php
+/api/login/
+/api/login/unlockGetData
