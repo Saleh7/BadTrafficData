@@ -9926,3 +9926,4 @@ a
 /home/storage/0/b8/30/localexpress1/public_html/wp-content/uploads/
 /ispeconline.com/css/index.php
 /ecoraiderusa.com/cong.php
+/dview8/api/usersByLevel
