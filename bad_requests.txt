@@ -10242,3 +10242,4 @@ a
 /default.aspx
 /webtools/control/view/StatsSinceStart
 /html/ad/adfilestorage/request/checkAcesso.php
+/GeneralDocs.aspx?rpt=../../../../Windows/win.ini
