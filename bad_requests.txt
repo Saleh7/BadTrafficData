@@ -10434,3 +10434,5 @@ a
 /21408623/cgi-bin/tsaws.cgi
 /login/dologin
 /wp-content/plugins/wp-file-upload/readme.txt
+/geoserver/j_spring_security_check
+/geoserver/web/
