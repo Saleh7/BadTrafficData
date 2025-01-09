@@ -10264,3 +10264,4 @@ a
 /workflow/
 /api/v0/train
 /wp-json/wp/v2/give_forms/
+/wp-content/plugins/cz-loan-management/README.txt
