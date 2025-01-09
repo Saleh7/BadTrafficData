@@ -9956,3 +9956,5 @@ a
 /wp-admin/admin-ajax.php?action=eventon_get_virtual_users
 /classes/common/busiFacade.php
 /api/file/formimage
+/wp-json/post-smtp/v1/get-log
+/wp-json/post-smtp/v1/connect-app
