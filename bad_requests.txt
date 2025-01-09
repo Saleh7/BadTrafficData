@@ -10232,3 +10232,5 @@ a
 /Startup/Register
 /Token
 /WebInterface/
+/solr/admin/info/properties:/admin/info/key
+/?gad_source=5&gclid=EAIaIQobChMIo6qQvq_oigMVYJCsAh2YWziCEAEYASAAEgKxrfD_BwE
