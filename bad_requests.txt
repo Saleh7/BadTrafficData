@@ -9936,3 +9936,4 @@ a
 /api/authentication/login
 /signin
 /Citrix/teststoreAuth/SamlTest
+/api/clusters
