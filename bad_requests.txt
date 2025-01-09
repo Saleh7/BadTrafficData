@@ -10248,3 +10248,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMI8MqMzrnoigMVEkUdCR197hLgEAEYASAAEgJvAvD_BwE
 /?gad_source=5&gclid=CjwKCAiAhP67BhAVEiwA2E_9g9nj7UcEkN2jIeei5cnS-PNtyT3VTmHSGa1dpVn1pGyEXC1lYEEpsRoCmw4QAvD_BwE
 /NmAPI/RecurringReport
+/asispanel/
+/~projects
