@@ -9962,3 +9962,5 @@ a
 /wp-content/plugins/user-meta/readme.txt
 /?gad_source=5&gclid=EAIaIQobChMIysDrlN7nigMVkpsnAh1VejSkEAEYASAAEgJ76PD_BwE
 /?gad_source=2&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiZzWkHHtL988OOpSLmSPl1mOOvsQxFZEbRqEc39iL35gUxrsWwVnnwaAgT7EALw_wcB
+/Tool/uploadfile.php
+/home/qxbwn.php
