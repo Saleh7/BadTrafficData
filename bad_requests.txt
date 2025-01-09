@@ -9948,3 +9948,4 @@ a
 /php/ping.php
 /api/login/
 /api/login/unlockGetData
+/model-versions/get-artifact?path=random&name=IBECxf&version=2
