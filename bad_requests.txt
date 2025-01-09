@@ -10276,3 +10276,5 @@ a
 /v1/proxy/test
 /?gad_source=5&gclid=EAIaIQobChMIhorpxdXoigMVQI2sAh1ywSwFEAEYASAAEgLqgvD_BwE
 /queryDevInfo
+/__weave/file/tmp/weave/fs/../../../etc/passwd
+/cgi-bin/supervisor/Factory.cgi
