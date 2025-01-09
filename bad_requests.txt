@@ -10255,3 +10255,4 @@ a
 /add_reference_to_local_model
 /postlocal
 /TAdDTY.txt?true
+/api/get-browser-snapshot?snapshot_path=/etc/passwd
