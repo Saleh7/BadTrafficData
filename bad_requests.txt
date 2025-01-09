@@ -10394,3 +10394,4 @@ a
 /_session
 /rest/auth/login
 /logIn
+/dip/api/login
