@@ -10333,3 +10333,6 @@ a
 /ucmdb-ui/cms/loginRequest.do;
 /bin/configurations/parsers/Checkpoint/CHECKPOINT.php
 /libs/granite/core/content/login.html/j_security_check
+/cgi-bin/dispatcher.cgi?cmd=1
+/cgi-bin/dispatcher.cgi?cmd=3
+/api/v1/user/login
