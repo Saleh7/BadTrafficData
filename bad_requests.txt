@@ -10231,3 +10231,4 @@ a
 /openam/json/realms/root/authenticate
 /Startup/Register
 /Token
+/WebInterface/
