@@ -10251,3 +10251,4 @@ a
 /asispanel/
 /~projects
 /file=http://oast.pro/
+/-/media/doo-doo.ashx
