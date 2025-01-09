@@ -10386,3 +10386,4 @@ a
 /webdb.php
 /wp-content/wso112233.php
 /wp-content/plugins/ccx/index.php
+/camunda/app/welcome/default/
