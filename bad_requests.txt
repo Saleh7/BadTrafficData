@@ -10241,3 +10241,4 @@ a
 /api/v2/simulation
 /default.aspx
 /webtools/control/view/StatsSinceStart
+/html/ad/adfilestorage/request/checkAcesso.php
