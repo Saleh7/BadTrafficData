@@ -10193,3 +10193,5 @@ a
 /cgi-bin/info.cgi
 /userLogin.asp
 /welcome
+/process/login.php
+/rest/V1/guest-carts/1/estimate-shipping-methods
