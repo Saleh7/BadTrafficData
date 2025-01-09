@@ -9914,3 +9914,4 @@ a
 /app/sys1.php
 /cgi-bin/vitogate.cgi
 /modules/ndk_steppingpack/search-result.php
+/wp-content/plugins/media-library-assistant/readme.txt
