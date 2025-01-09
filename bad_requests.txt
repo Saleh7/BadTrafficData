@@ -10424,3 +10424,4 @@ a
 /bg/
 /wp-content/themes/twentythirteen/
 /assets/plugins/jquery-file-upload/server/php/
+/druid/submitLogin
