@@ -10182,3 +10182,4 @@ a
 /_sql?types
 /save.php
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd=ifconfig
+/RemoteApplicationMetadata.rem?wsdl
