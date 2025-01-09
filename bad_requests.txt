@@ -10198,3 +10198,4 @@ a
 /Admin/index.php
 /Admin/login.php
 /DlFtjp.txt
+/geoserver/wfs
