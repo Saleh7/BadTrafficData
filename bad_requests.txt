@@ -9955,3 +9955,4 @@ a
 /api/2.0/mlflow-artifacts/artifacts/2rGP9LiUefRdM3pZILsW8caeU1h
 /wp-admin/admin-ajax.php?action=eventon_get_virtual_users
 /classes/common/busiFacade.php
+/api/file/formimage
