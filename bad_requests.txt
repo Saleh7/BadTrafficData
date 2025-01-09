@@ -10346,3 +10346,4 @@ a
 /console/index.html
 /api/json/session/signin
 /api/user/login
+/examples/jsp/security/protected/j_security_check
