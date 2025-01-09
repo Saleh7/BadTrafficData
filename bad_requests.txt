@@ -10396,3 +10396,4 @@ a
 /logIn
 /dip/api/login
 /data/login
+/sysmgmt/2015/bmc/session
