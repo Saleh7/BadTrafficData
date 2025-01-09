@@ -10156,3 +10156,5 @@ a
 /wp-content/themes/aahana/post.php
 /wp-includes/SimplePie/file.php
 /?gad_source=5&gclid=EAIaIQobChMIqIfw2OvnigMV5KZmAh0rEDYDEAEYASAAEgICLvD_BwE
+/backend/settings/oauth_adfs?hostname=polar
+/?gad_source=5&gclid=EAIaIQobChMIr4vNpuznigMVik2kBB3tPAlPEAEYASAAEgIUzPD_BwE
