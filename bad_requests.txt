@@ -10184,3 +10184,4 @@ a
 /cgi-bin/admin.cgi?Command=sysCommand&Cmd=ifconfig
 /RemoteApplicationMetadata.rem?wsdl
 /WSStatusEvents/EventHandler.asmx
+/streampipes-backend/api/v2/auth/settings
