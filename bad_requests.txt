@@ -10190,3 +10190,4 @@ a
 /admin/pr_monitor/getting_index_data.php
 /login.rst
 /index.cfm/_api/json/v1/default/?method=processAsyncObject
+/cgi-bin/info.cgi
