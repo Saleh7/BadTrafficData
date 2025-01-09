@@ -10238,3 +10238,6 @@ a
 /webtools/control/forgotPassword/xmldsdump
 /bower_components/angular-base64-upload/demo/server.php
 /node_modules/angular-base64-upload/demo/server.php
+/api/v2/simulation
+/default.aspx
+/webtools/control/view/StatsSinceStart
