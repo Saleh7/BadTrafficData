@@ -9929,3 +9929,4 @@ a
 /dview8/api/usersByLevel
 /partymgr/control/getJSONuiLabelArray
 /partymgr/control/getJSONuiLabel
+/webtools/control/ProgramExport;/?USERNAME&PASSWORD&requirePasswordChange=Y
