@@ -10278,3 +10278,7 @@ a
 /queryDevInfo
 /__weave/file/tmp/weave/fs/../../../etc/passwd
 /cgi-bin/supervisor/Factory.cgi
+/tmp/info.html
+/tracking/client_1/get-resource
+/tracking/client_1/read-instruction
+/ProcessPlus
