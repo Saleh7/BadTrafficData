@@ -10258,3 +10258,4 @@ a
 /api/get-browser-snapshot?snapshot_path=/etc/passwd
 /device/description_en.html
 /Synchronization
+/?gad_source=5&gclid=EAIaIQobChMIvbWR5cToigMVMEkdCR2_GBzJEAEYASAAEgLp2PD_BwE
