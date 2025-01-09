@@ -10262,3 +10262,4 @@ a
 /wp-json/seopress/v1/posts/1/title-description-metas
 /TS/export/pagedefinition?ID=1
 /workflow/
+/api/v0/train
