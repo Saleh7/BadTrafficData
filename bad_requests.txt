@@ -9927,3 +9927,5 @@ a
 /ispeconline.com/css/index.php
 /ecoraiderusa.com/cong.php
 /dview8/api/usersByLevel
+/partymgr/control/getJSONuiLabelArray
+/partymgr/control/getJSONuiLabel
