@@ -10213,3 +10213,5 @@ a
 /as/wapi/vmp
 /webtools/control/main/ProgramExport
 /?gad_source=5&gclid=EAIaIQobChMIrJ-b8pzoigMVdmsVCB0_szh2EAEYASAAEgLBlvD_BwE
+/wp-content/plugins/siteguard/readme.txt
+/api/v1/livechat/sms-incoming/twilio
