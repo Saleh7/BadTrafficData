@@ -9939,3 +9939,5 @@ a
 /api/clusters
 /wp-content/plugins/wp-fastest-cache/readme.txt
 /nodes?view=summary
+/mgmt/tm/util/bash
+/mgmt/shared/authn/login
