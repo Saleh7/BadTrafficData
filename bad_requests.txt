@@ -10350,3 +10350,16 @@ a
 /login.cgi
 /api/v2/login
 /?gad_source=2&gclid=CjwKCAiAhP67BhAVEiwA2E_9g0Y2VEOYOoenmEeD110gEc0g5eWpvm0Cnc5V4kVzcBiVqphsr7d6pRoCRXEQAvD_BwE
+/wp-includes/PHPMailer//zmFM.php
+/.well-known/acme-challenge/zmFM.php
+/wp-includes/about.php?520
+/wp-includes/pomo/zmFM.php
+/wp-includes/customize/zmFM.php
+/acme-challenge/cloud.php
+/wp-includes/sitemaps/providers/zmFM.php
+/files/home.php
+/wp-admin/css/colors/ectoplasm/zmFM.php
+/wp-includes/certificates/zmFM.php
+/about.php?520
+/wp-includes/theme-compat/zmFM.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
