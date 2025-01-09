@@ -10222,3 +10222,5 @@ a
 /api/v1/chart/data
 /wp-content/plugins/dokan-pro/changelog.txt
 /Login.aspx
+/cache/index.tpl.php
+/bin/cron.php
