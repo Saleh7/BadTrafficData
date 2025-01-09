@@ -9968,3 +9968,4 @@ a
 /index.php/display/status_zigbee
 /file=http://oast.pro
 /wp-json/notificationx/v1/analytics
+/?gad_source=5&gclid=EAIaIQobChMI_NaytOrnigMVQk2kBB2mUA1BEAEYASAAEgImyvD_BwE
