@@ -10401,3 +10401,4 @@ a
 /hue/accounts/login?next=/
 /web/rest/v1/login/sessions
 /WebInterface/function/
+/api/v1/users/signin
