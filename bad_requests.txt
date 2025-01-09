@@ -10436,3 +10436,4 @@ a
 /wp-content/plugins/wp-file-upload/readme.txt
 /geoserver/j_spring_security_check
 /geoserver/web/
+/oauth/token
