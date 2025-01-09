@@ -10340,3 +10340,4 @@ a
 /api/account/auth/form
 /apisix/admin/user/login
 /dolphinscheduler/login
+/client/api/
