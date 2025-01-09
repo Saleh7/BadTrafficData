@@ -10388,3 +10388,4 @@ a
 /wp-content/plugins/ccx/index.php
 /camunda/app/welcome/default/
 /gyujsGLQnRmB
+/?gad_source=2&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzjVueAS8IWJrUjv7u1MCyxAke6MmS5xdBDF4LCJ84hLZwlvi9lGIRoChjYQAvD_BwE
