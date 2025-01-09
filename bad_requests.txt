@@ -10226,3 +10226,5 @@ a
 /bin/cron.php
 /management/export.php?filename=$(echo+'<?php+echo+md5(9621);+?>'+>+bqvezvocekji.php)&type=pdf
 /api/data
+/?gad_source=5&gclid=EAIaIQobChMIx-KCt6voigMVf0cdCR1RAQjLEAEYASAAEgJG4vD_BwE
+/?gad_source=5&gclid=CjwKCAiAhP67BhAVEiwA2E_9g-7-ggoeRnGJb29QhHwDRSXE3WLu3WmL_KDuww4bRMSCPuSLxonB_BoCdksQAvD_BwE
