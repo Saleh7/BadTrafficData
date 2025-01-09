@@ -10191,3 +10191,4 @@ a
 /login.rst
 /index.cfm/_api/json/v1/default/?method=processAsyncObject
 /cgi-bin/info.cgi
+/userLogin.asp
