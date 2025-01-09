@@ -10433,3 +10433,4 @@ a
 /send_order.cgi?parameter=login
 /21408623/cgi-bin/tsaws.cgi
 /login/dologin
+/wp-content/plugins/wp-file-upload/readme.txt
