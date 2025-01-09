@@ -9931,3 +9931,5 @@ a
 /partymgr/control/getJSONuiLabel
 /webtools/control/ProgramExport;/?USERNAME&PASSWORD&requirePasswordChange=Y
 /nagiosxi/index.php/admin/banner_message-ajaxhelper.php?action=acknowledge_banner_message&id=(SELECT+CASE+WHEN+1=1+THEN+sleep(5)+ELSE+sleep(0)+END+)
+/ZdBD0/CVE-2023-47246.txt?true
+/userentry?accountId=/../../../tomcat/webapps/ZdBD0/&symbolName=test&base64UserName=YWRtaW4=
