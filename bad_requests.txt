@@ -10282,3 +10282,4 @@ a
 /tracking/client_1/get-resource
 /tracking/client_1/read-instruction
 /ProcessPlus
+/index/ajax/lang?lang=../../application/database
