@@ -10259,3 +10259,5 @@ a
 /device/description_en.html
 /Synchronization
 /?gad_source=5&gclid=EAIaIQobChMIvbWR5cToigMVMEkdCR2_GBzJEAEYASAAEgLp2PD_BwE
+/wp-json/seopress/v1/posts/1/title-description-metas
+/TS/export/pagedefinition?ID=1
