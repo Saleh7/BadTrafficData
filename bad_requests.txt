@@ -10185,3 +10185,4 @@ a
 /RemoteApplicationMetadata.rem?wsdl
 /WSStatusEvents/EventHandler.asmx
 /streampipes-backend/api/v2/auth/settings
+/cmd,/simZysh/register_main/setCookie
