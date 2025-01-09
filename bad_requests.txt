@@ -9934,3 +9934,4 @@ a
 /ZdBD0/CVE-2023-47246.txt?true
 /userentry?accountId=/../../../tomcat/webapps/ZdBD0/&symbolName=test&base64UserName=YWRtaW4=
 /api/authentication/login
+/signin
