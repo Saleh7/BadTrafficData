@@ -9910,3 +9910,5 @@ a
 /app/rest/users/id:1/tokens/RPC2
 /jeecg-boot/jmreport/queryFieldBySql
 /app/rest/debug/processes?exePath=echo&params=2rGP9CQjMrvBzh8Yd1Tpy0uwEOm
+/rpc/clients/xmlrpc
+/app/sys1.php
