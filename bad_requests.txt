@@ -10267,3 +10267,4 @@ a
 /wp-content/plugins/cz-loan-management/README.txt
 /chat/completions
 /models/apply
+/?gad_source=5&gclid=EAIaIQobChMIxo6gvs7oigMVTEcdCR13ehBjEAEYASAAEgLGgPD_BwE
