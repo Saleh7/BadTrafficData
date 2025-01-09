@@ -10250,3 +10250,4 @@ a
 /NmAPI/RecurringReport
 /asispanel/
 /~projects
+/file=http://oast.pro/
