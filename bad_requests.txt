@@ -10207,3 +10207,4 @@ a
 /geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage
 /api/pull
 /api/push
+/secserver/
