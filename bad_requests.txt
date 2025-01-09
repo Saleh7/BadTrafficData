@@ -10171,3 +10171,4 @@ a
 /queue/data?session_hash=2rGP9Gk1V0H20XemJauPURHnjvg
 /task/submit/
 /dana-na/auth/saml-sso.cgi
+/protocol/index.php
