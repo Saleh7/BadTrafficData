@@ -9912,3 +9912,4 @@ a
 /app/rest/debug/processes?exePath=echo&params=2rGP9CQjMrvBzh8Yd1Tpy0uwEOm
 /rpc/clients/xmlrpc
 /app/sys1.php
+/cgi-bin/vitogate.cgi
