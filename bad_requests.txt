@@ -10331,3 +10331,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIqce5sO7oigMVGUUdCR0uqS_vEAEYASAAEgKyL_D_BwE
 /index.htm
 /ucmdb-ui/cms/loginRequest.do;
+/bin/configurations/parsers/Checkpoint/CHECKPOINT.php
