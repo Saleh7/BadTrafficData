@@ -10339,3 +10339,4 @@ a
 /?gad_source=2&gclid=CjwKCAiAhP67BhAVEiwA2E_9g4Mh9Ab6RxZGRLp3b74ey8qHk171DxBccHHvvYrwq5HnOBYGzcPJCxoC6xUQAvD_BwE
 /api/account/auth/form
 /apisix/admin/user/login
+/dolphinscheduler/login
