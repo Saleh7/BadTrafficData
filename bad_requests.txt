@@ -10160,3 +10160,8 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIr4vNpuznigMVik2kBB3tPAlPEAEYASAAEgIUzPD_BwE
 /cslu/v1/var/logs/customer-cslu-lib-log.log
 /?gad_source=5&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiadHtoOpA5nSK_4bo7XIjG2MQ0oGuJghGPKfDtbbQsrkeyvvRWvDI4aAlZbEALw_wcB
+/file=alert
+/component_server
+/file=fa
+/dana-ws/saml20.ws
+/mjcsalaq.php?Fox=d3wL7
