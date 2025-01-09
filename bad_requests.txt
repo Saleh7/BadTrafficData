@@ -10199,3 +10199,5 @@ a
 /Admin/login.php
 /DlFtjp.txt
 /geoserver/wfs
+/mailinspector/login.php
+/global-protect/portal/images/2rGP8u6KiNQLy3Wys0BziPnUDZh.txt
