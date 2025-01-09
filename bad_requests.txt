@@ -10209,3 +10209,4 @@ a
 /api/push
 /secserver/
 /en-US/login
+/mdm/checkin
