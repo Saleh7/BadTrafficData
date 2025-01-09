@@ -10158,3 +10158,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIqIfw2OvnigMV5KZmAh0rEDYDEAEYASAAEgICLvD_BwE
 /backend/settings/oauth_adfs?hostname=polar
 /?gad_source=5&gclid=EAIaIQobChMIr4vNpuznigMVik2kBB3tPAlPEAEYASAAEgIUzPD_BwE
+/cslu/v1/var/logs/customer-cslu-lib-log.log
