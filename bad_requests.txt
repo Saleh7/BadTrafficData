@@ -10399,3 +10399,5 @@ a
 /sysmgmt/2015/bmc/session
 /index.php/verifyLogin/login
 /hue/accounts/login?next=/
+/web/rest/v1/login/sessions
+/WebInterface/function/
