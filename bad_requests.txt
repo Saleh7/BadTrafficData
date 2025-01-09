@@ -10283,3 +10283,4 @@ a
 /tracking/client_1/read-instruction
 /ProcessPlus
 /index/ajax/lang?lang=../../application/database
+/?gad_source=5&gclid=EAIaIQobChMIkoPbyNnoigMVQ4-DBx04rDhgEAEYASAAEgK2JfD_BwE
