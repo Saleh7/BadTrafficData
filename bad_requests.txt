@@ -10285,3 +10285,4 @@ a
 /index/ajax/lang?lang=../../application/database
 /?gad_source=5&gclid=EAIaIQobChMIkoPbyNnoigMVQ4-DBx04rDhgEAEYASAAEgK2JfD_BwE
 /api/v1/apikey?/api/v1/ping
+/index.php/wp-json/wp/v2/sensei_email/
