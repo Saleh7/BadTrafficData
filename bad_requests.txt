@@ -10426,3 +10426,8 @@ a
 /assets/plugins/jquery-file-upload/server/php/
 /druid/submitLogin
 /member/authenticate
+/api/v4/auth
+/internal/security/login
+/service.web
+/exciter.php
+/send_order.cgi?parameter=login
