@@ -9920,3 +9920,5 @@ a
 /webtools/control/xmlrpc;/?USERNAME&PASSWORD=s&requirePasswordChange=Y
 /api/v1/totp/user-backup-code/../../system/system-information
 /api/v1/cav/client/status/../../admin/options
+/cgi-bin/quick/quick.cgi?func=switch_os&todo=uploaf_firmware_image
+/cgi-bin/quick/GrGaTl
