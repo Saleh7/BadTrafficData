@@ -9917,3 +9917,6 @@ a
 /wp-content/plugins/media-library-assistant/readme.txt
 /chaosblade?cmd=$(id)
 /wp-content/plugins/computer-repair-shop/readme.txt
+/webtools/control/xmlrpc;/?USERNAME&PASSWORD=s&requirePasswordChange=Y
+/api/v1/totp/user-backup-code/../../system/system-information
+/api/v1/cav/client/status/../../admin/options
