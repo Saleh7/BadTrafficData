@@ -10243,3 +10243,6 @@ a
 /webtools/control/view/StatsSinceStart
 /html/ad/adfilestorage/request/checkAcesso.php
 /GeneralDocs.aspx?rpt=../../../../Windows/win.ini
+/drag/onlDragDatasetHead/getTotalData
+/jeecg-boot/drag/onlDragDatasetHead/getTotalData
+/?gad_source=5&gclid=EAIaIQobChMI8MqMzrnoigMVEkUdCR197hLgEAEYASAAEgJvAvD_BwE
