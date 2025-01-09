@@ -10228,3 +10228,6 @@ a
 /api/data
 /?gad_source=5&gclid=EAIaIQobChMIx-KCt6voigMVf0cdCR1RAQjLEAEYASAAEgJG4vD_BwE
 /?gad_source=5&gclid=CjwKCAiAhP67BhAVEiwA2E_9g-7-ggoeRnGJb29QhHwDRSXE3WLu3WmL_KDuww4bRMSCPuSLxonB_BoCdksQAvD_BwE
+/openam/json/realms/root/authenticate
+/Startup/Register
+/Token
