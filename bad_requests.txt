@@ -10236,3 +10236,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIo6qQvq_oigMVYJCsAh2YWziCEAEYASAAEgKxrfD_BwE
 /common/heazn.txt
 /webtools/control/forgotPassword/xmldsdump
+/bower_components/angular-base64-upload/demo/server.php
+/node_modules/angular-base64-upload/demo/server.php
