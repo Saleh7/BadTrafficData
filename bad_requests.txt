@@ -10268,3 +10268,4 @@ a
 /chat/completions
 /models/apply
 /?gad_source=5&gclid=EAIaIQobChMIxo6gvs7oigMVTEcdCR13ehBjEAEYASAAEgLGgPD_BwE
+/interface-data/books-init
