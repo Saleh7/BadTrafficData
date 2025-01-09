@@ -9967,3 +9967,4 @@ a
 /filex/read-raw?url=http://oast.me&cut=1
 /index.php/display/status_zigbee
 /file=http://oast.pro
+/wp-json/notificationx/v1/analytics
