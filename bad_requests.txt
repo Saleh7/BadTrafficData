@@ -10219,3 +10219,5 @@ a
 /?gad_source=5&gclid=EAIaIQobChMImfrn3aLoigMVtAaDAx1dsxw1EAEYASAAEgKYBPD_BwE
 /client/api?command=samlSso
 /?gad_source=2&gclid=CjwKCAiAhP67BhAVEiwA2E_9g2hO8HvNOpcYdBNog5DcYTUIXqN6ZxlsSPqa63Wbaw4bmTxCzDzE8xoCDQkQAvD_BwE
+/api/v1/chart/data
+/wp-content/plugins/dokan-pro/changelog.txt
