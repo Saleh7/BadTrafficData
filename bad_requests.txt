@@ -10257,3 +10257,4 @@ a
 /TAdDTY.txt?true
 /api/get-browser-snapshot?snapshot_path=/etc/passwd
 /device/description_en.html
+/Synchronization
