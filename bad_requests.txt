@@ -9937,3 +9937,4 @@ a
 /signin
 /Citrix/teststoreAuth/SamlTest
 /api/clusters
+/wp-content/plugins/wp-fastest-cache/readme.txt
