@@ -10270,3 +10270,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMIxo6gvs7oigMVTEcdCR13ehBjEAEYASAAEgLGgPD_BwE
 /interface-data/books-init
 /wp-content/plugins/wps-hide-login/readme.txt
+/wp-json/wdgpt/v1/purge-error-logs
