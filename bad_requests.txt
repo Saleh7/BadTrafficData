@@ -10210,3 +10210,4 @@ a
 /secserver/
 /en-US/login
 /mdm/checkin
+/as/wapi/vmp
