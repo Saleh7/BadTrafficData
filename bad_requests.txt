@@ -10348,3 +10348,4 @@ a
 /api/user/login
 /examples/jsp/security/protected/j_security_check
 /login.cgi
+/api/v2/login
