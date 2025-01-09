@@ -9953,3 +9953,4 @@ a
 /wp-content/plugins/essential-blocks/readme.txt
 /ajax-api/2.0/mlflow/experiments/create
 /api/2.0/mlflow-artifacts/artifacts/2rGP9LiUefRdM3pZILsW8caeU1h
+/wp-admin/admin-ajax.php?action=eventon_get_virtual_users
