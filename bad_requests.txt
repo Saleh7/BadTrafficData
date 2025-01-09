@@ -10203,3 +10203,5 @@ a
 /global-protect/portal/images/2rGP8u6KiNQLy3Wys0BziPnUDZh.txt
 /api/gen/clients/csharp
 /include/file.php
+/api/v1/settings
+/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.MapPreviewPage
