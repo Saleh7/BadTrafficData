@@ -9935,3 +9935,4 @@ a
 /userentry?accountId=/../../../tomcat/webapps/ZdBD0/&symbolName=test&base64UserName=YWRtaW4=
 /api/authentication/login
 /signin
+/Citrix/teststoreAuth/SamlTest
