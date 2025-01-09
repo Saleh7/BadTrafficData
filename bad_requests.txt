@@ -10341,3 +10341,4 @@ a
 /apisix/admin/user/login
 /dolphinscheduler/login
 /client/api/
+/login/system
