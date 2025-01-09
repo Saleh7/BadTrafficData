@@ -10174,3 +10174,5 @@ a
 /protocol/index.php
 /clients/MyCRL
 /gremlin
+/importexport.php?sql=c2VsZWN0KzksbWQ1KDk5NjUwNTMpLDk=&type=exportexcelbysql
+/?gad_source=5&gclid=EAIaIQobChMIvJXWs_rnigMVfyQGAB1xTSDrEAEYASAAEgJG_PD_BwE
