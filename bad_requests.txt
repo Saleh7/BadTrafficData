@@ -10392,3 +10392,4 @@ a
 /cu.html
 /api/auth/login
 /_session
+/rest/auth/login
