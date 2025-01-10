@@ -10457,3 +10457,4 @@ a
 /Users/authenticatebyname
 /c6/Jhsoft.Web.login/AjaxForLogin.aspx
 /hub/login?next
+/lucee/admin/web.cfm
