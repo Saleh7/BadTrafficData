@@ -10509,3 +10509,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMI786iy_DqigMVQaVQBh2nOSlEEAAYASAAEgI8K_D_BwE
 /steve/manager/signin
 /users/login
+/cgi/login.cgi
