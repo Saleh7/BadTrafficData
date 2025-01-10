@@ -10475,3 +10475,4 @@ a
 /user/login/login
 /x_organization_assemble_authentication/jaxrs/authentication/captcha
 /user/main
+/control/login
