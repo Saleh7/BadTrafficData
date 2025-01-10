@@ -10446,3 +10446,5 @@ a
 /index/login.cgi
 /htdocs/login/login.lua
 /wp-content/plugins/superlogoshowcase-wp/sls-wp-admin/pages/exportAjax.php
+/ibmmq/console/j_security_check
+/hmc/j_security_check
