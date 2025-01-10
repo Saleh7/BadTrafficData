@@ -10523,3 +10523,4 @@ a
 /?gad_source=2&gclid=CjwKCAiAp4O8BhAkEiwAqv2UqOKSj1b2w_81PI_NtWK7U-iq8NtzyMdrXhy2yAhWDCopsuBZug2aTxoCNvkQAvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMInp2k2pHrigMVDln2CB3_Nh2lEAEYASAAEgLxyPD_BwE
 /app/login
+/sysinfo.cgi
