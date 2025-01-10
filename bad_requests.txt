@@ -10484,3 +10484,6 @@ a
 /inter/ajax.php?cmd=get_user_login_cmd
 /login/userverify.cgi
 /supershell/login/auth
+/appInfo/assert
+/php/login.php
+/pentaho/j_spring_security_check
