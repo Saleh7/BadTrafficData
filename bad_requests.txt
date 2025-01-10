@@ -10525,3 +10525,4 @@ a
 /app/login
 /sysinfo.cgi
 /login.php?action=login&type=admin
+/userpost/xerox.set
