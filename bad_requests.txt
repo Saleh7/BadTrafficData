@@ -10495,3 +10495,8 @@ a
 /v3/settings/first-login
 /forms/doLogin
 /main.ehp
+/op/op.Login.php
+/seeyon/rest/authentication/ucpcLogin
+/vision/RMIServlet
+/WebConfig/lua/auth.lua
+/smartbi/vision/RMIServlet
