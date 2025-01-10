@@ -10464,3 +10464,4 @@ a
 /core/ajax/user.ajax.php
 /v1/auth/users/login
 /nacos/v1/auth/users/login
+/login_password_page.php
