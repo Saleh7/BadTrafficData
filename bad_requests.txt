@@ -10451,3 +10451,4 @@ a
 /res/j_security_check
 /0/Authenticate
 /sess-bin/login_handler.cgi
+/assets/js/elfinder/php/connector.php
