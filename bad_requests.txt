@@ -10515,3 +10515,4 @@ a
 /versa/login
 /versa/login.html
 /userRpm/LoginRpm.htm?Save=Save
+/ViewPoint/admin/Site/ViewPointLogin
