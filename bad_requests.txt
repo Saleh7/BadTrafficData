@@ -10527,3 +10527,4 @@ a
 /login.php?action=login&type=admin
 /userpost/xerox.set
 /xxl-job-admin/login
+/api/auth/login?p=Login&t=1
