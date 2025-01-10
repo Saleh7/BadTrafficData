@@ -10516,3 +10516,5 @@ a
 /versa/login.html
 /userRpm/LoginRpm.htm?Save=Save
 /ViewPoint/admin/Site/ViewPointLogin
+/authenticate
+/?gad_source=5&gclid=EAIaIQobChMI-_HcqI7rigMVvV2kBB3RegiTEAEYASAAEgLlmvD_BwE
