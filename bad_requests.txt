@@ -10450,3 +10450,4 @@ a
 /hmc/j_security_check
 /res/j_security_check
 /0/Authenticate
+/sess-bin/login_handler.cgi
