@@ -10524,3 +10524,4 @@ a
 /?gad_source=5&gclid=EAIaIQobChMInp2k2pHrigMVDln2CB3_Nh2lEAEYASAAEgLxyPD_BwE
 /app/login
 /sysinfo.cgi
+/login.php?action=login&type=admin
