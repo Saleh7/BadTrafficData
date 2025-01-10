@@ -10503,3 +10503,6 @@ a
 /InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
 /SolarWinds/InformationService/v3/Json/Query?query=SELECT+Uri+FROM+Orion.Pollers+ORDER+BY+PollerID+WITH+ROWS+1+TO+3+WITH+TOTALROWS
 /?gad_source=5&gclid=EAIaIQobChMIt5uX_-3qigMVZL9LBR3PdQbpEAEYASAAEgK3yfD_BwE
+/j_security_check
+/menu/home
+/?wbraid=ClMKCAiAhP67BhBBEkMAehczSxxVDQDbLKUf9QO3Y4Av-0rHjhfAYmU6VhujTvMXuAbXZKow3oQLA9DwJoAAQ6CzepE7PE4hsATxAnBD1pU4GgJb_g
