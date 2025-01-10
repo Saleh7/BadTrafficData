@@ -10487,3 +10487,4 @@ a
 /appInfo/assert
 /php/login.php
 /pentaho/j_spring_security_check
+/public/checklogin.htm
