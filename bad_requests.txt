@@ -10460,3 +10460,4 @@ a
 /lucee/admin/web.cfm
 /?gad_source=2&gclid=CjwKCAiAhP67BhAVEiwA2E_9gxwhR2nE-ODpGfhFtcgetv2V4OSYbGCoHM7RSbot7eBNT0uzjy4upxoCh7AQAvD_BwE
 /minio/webrpc
+/cgi-bin/luci/
