@@ -10539,3 +10539,5 @@ a
 /cgi-bin/webproc
 /wp-content/plugins/payu-india/readme.txt
 /?gad_source=5&gclid=EAIaIQobChMIwJ-449HrigMVXEkdCR3hjT0qEAEYASAAEgKHbPD_BwE
+/api/v1/users/signup
+/api/presets/?filter=true
