@@ -10482,3 +10482,4 @@ a
 /swarm.cgi
 /api/v1/auth/tokens/
 /inter/ajax.php?cmd=get_user_login_cmd
+/login/userverify.cgi
