@@ -10448,3 +10448,4 @@ a
 /wp-content/plugins/superlogoshowcase-wp/sls-wp-admin/pages/exportAjax.php
 /ibmmq/console/j_security_check
 /hmc/j_security_check
+/res/j_security_check
