@@ -10466,3 +10466,4 @@ a
 /nacos/v1/auth/users/login
 /login_password_page.php
 /netflow/jspui/j_security_check
+/control/userimage.html
