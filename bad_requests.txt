@@ -10480,3 +10480,4 @@ a
 /rpc.php
 /xmlpserver/services/XMLPService
 /swarm.cgi
+/api/v1/auth/tokens/
