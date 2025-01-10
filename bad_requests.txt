@@ -10454,3 +10454,6 @@ a
 /assets/js/elfinder/php/connector.php
 /sites/web_vhost_domain_list.php
 /jbpm-console/app/j_security_check
+/Users/authenticatebyname
+/c6/Jhsoft.Web.login/AjaxForLogin.aspx
+/hub/login?next
