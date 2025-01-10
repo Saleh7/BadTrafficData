@@ -10528,3 +10528,6 @@ a
 /userpost/xerox.set
 /xxl-job-admin/login
 /api/auth/login?p=Login&t=1
+/zabbix/index.php
+/authorize
+/ZMC_Admin_Login
