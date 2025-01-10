@@ -10572,3 +10572,4 @@ a
 /actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/SpecificationVendor
 /actuator/jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion
 /jolokia/read/JMImplementation:type=MBeanServerDelegate/ImplementationVersion
+/user/signup
