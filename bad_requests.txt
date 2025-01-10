@@ -10470,3 +10470,8 @@ a
 /webadmin/index.php
 /?gad_source=5&gclid=EAIaIQobChMIjPe_obHqigMVVV2kBB2MEzcJEAEYASAAEgKhiPD_BwE
 /j_spring_security_check
+/login/verify
+/auth/token
+/user/login/login
+/x_organization_assemble_authentication/jaxrs/authentication/captcha
+/user/main
