@@ -10542,3 +10542,7 @@ a
 /api/v1/users/signup
 /api/presets/?filter=true
 /?gad_source=5&gclid=EAIaIQobChMIl8r6m9zrigMVsplQBh3YcjxpEAAYASAAEgLFB_D_BwE
+//home
+//var
+//apps
+//etc
