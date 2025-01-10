@@ -10510,3 +10510,4 @@ a
 /steve/manager/signin
 /users/login
 /cgi/login.cgi
+/?gad_source=2&gclid=CjwKCAiAp4O8BhAkEiwAqv2UqCXeVC60VC9mnmYFRfW4tTkU3o5fnrpzh3kL4OCD53bwcQyTkckn6hoCAe0QAvD_BwE
