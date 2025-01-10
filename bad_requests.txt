@@ -10534,3 +10534,4 @@ a
 /ui/login
 /mcmadmin
 /Foobar-debug.aspx
+/api/session
