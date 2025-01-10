@@ -10488,3 +10488,4 @@ a
 /php/login.php
 /pentaho/j_spring_security_check
 /public/checklogin.htm
+/api/v1/signin
