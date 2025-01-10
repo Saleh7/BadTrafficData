@@ -10476,3 +10476,4 @@ a
 /x_organization_assemble_authentication/jaxrs/authentication/captcha
 /user/main
 /control/login
+/interface/main/main_screen.php?auth=login&site=default
