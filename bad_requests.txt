@@ -10445,3 +10445,4 @@ a
 /teamserver/j_security_check
 /index/login.cgi
 /htdocs/login/login.lua
+/wp-content/plugins/superlogoshowcase-wp/sls-wp-admin/pages/exportAjax.php
