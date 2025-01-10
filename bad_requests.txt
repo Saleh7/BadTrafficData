@@ -10533,3 +10533,4 @@ a
 /ZMC_Admin_Login
 /ui/login
 /mcmadmin
+/Foobar-debug.aspx
