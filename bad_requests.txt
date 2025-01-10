@@ -10479,3 +10479,4 @@ a
 /interface/main/main_screen.php?auth=login&site=default
 /rpc.php
 /xmlpserver/services/XMLPService
+/swarm.cgi
