@@ -10536,3 +10536,4 @@ a
 /Foobar-debug.aspx
 /api/session
 /?gad_source=2&gclid=CjwKCAiAp4O8BhAkEiwAqv2UqFu9Gfyhc5Uzn2sQdSI37o0QcOqHw15KF_951XeB9bTdWqVRFk_E5BoCvOcQAvD_BwE
+/cgi-bin/webproc
