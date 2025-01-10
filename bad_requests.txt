@@ -10462,3 +10462,5 @@ a
 /minio/webrpc
 /cgi-bin/luci/
 /core/ajax/user.ajax.php
+/v1/auth/users/login
+/nacos/v1/auth/users/login
