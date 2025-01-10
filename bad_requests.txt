@@ -10453,3 +10453,4 @@ a
 /sess-bin/login_handler.cgi
 /assets/js/elfinder/php/connector.php
 /sites/web_vhost_domain_list.php
+/jbpm-console/app/j_security_check
