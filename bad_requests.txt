@@ -10518,3 +10518,5 @@ a
 /ViewPoint/admin/Site/ViewPointLogin
 /authenticate
 /?gad_source=5&gclid=EAIaIQobChMI-_HcqI7rigMVvV2kBB3RegiTEAEYASAAEgLlmvD_BwE
+/super/login.html?lang=en
+/invoke/pub.file/getFile
