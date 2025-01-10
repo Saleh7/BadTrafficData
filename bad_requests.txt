@@ -10556,3 +10556,4 @@ a
 /?gad_source=2&gclid=CjwKCAiAp4O8BhAkEiwAqv2UqGurZzwyWZMhBIT6oiLjGdzYakRV1nDfK7a2xMVq9Vu7IcJL9kKKnRoCBkIQAvD_BwE
 /api/user/signup/step2
 /?gad_source=5&gclid=EAIaIQobChMIga7Y2YPsigMVtk8dCR22rBPjEAEYASAAEgLlRPD_BwE
+/auth/createAdmin
