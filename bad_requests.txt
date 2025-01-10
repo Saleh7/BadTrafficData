@@ -10493,3 +10493,4 @@ a
 /cgi-bin/login.cgi?username=admin&password=admin
 /?gad_source=5&gclid=EAIaIQobChMIt7qnt97qigMVxlj2CB1oqgaMEAEYASAAEgILUfD_BwE
 /v3/settings/first-login
+/forms/doLogin
