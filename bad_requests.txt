@@ -10733,3 +10733,6 @@ a
 /s/aura
 /solr/gettingstarted_shard1_replica_n1/config
 /solr/gettingstarted_shard2_replica_n1/debug/dump?param=ContentStreams
+/wp-content/plugins/plugins/Cyb3r.php
+/wp-includes/SimplePie/Content/index.php
+/wp-content/themes/themes/Cyb3r.php
