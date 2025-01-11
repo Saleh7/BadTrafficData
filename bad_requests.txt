@@ -10710,3 +10710,5 @@ a
 /?gad_source=2&gclid=EAIaIQobChMIzcbtw_HsigMVU6qDBx3MfwUcEAAYASAAEgL-pPD_BwE
 /plus/weixin.php?signature=da39a3ee5e6b4b0d3255bfef95601890afd80709&timestamp&nonce
 /seeyon/thirdpartyController.do
+/ReportServer/Pages/Folder.aspx
+/Reports/Pages/Folder.aspx
