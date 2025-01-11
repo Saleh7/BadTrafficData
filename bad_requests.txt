@@ -10708,3 +10708,4 @@ a
 /guestLogin.html?guest=1
 /registerUser.html?init=1
 /?gad_source=2&gclid=EAIaIQobChMIzcbtw_HsigMVU6qDBx3MfwUcEAAYASAAEgL-pPD_BwE
+/plus/weixin.php?signature=da39a3ee5e6b4b0d3255bfef95601890afd80709&timestamp&nonce
