@@ -10703,3 +10703,4 @@ a
 /sysadmin/phpMyAdmin/scripts/setup.php
 /_debugbar/open
 /testing-put.txt
+/connect/register
