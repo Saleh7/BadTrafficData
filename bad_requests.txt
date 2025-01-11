@@ -10702,3 +10702,4 @@ a
 /server_import.php
 /sysadmin/phpMyAdmin/scripts/setup.php
 /_debugbar/open
+/testing-put.txt
