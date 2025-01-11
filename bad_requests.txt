@@ -10706,3 +10706,4 @@ a
 /connect/register
 /Onboarding/Import
 /guestLogin.html?guest=1
+/registerUser.html?init=1
