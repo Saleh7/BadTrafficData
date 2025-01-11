@@ -10724,3 +10724,4 @@ a
 /Uploads/2rGP9H00ug4dsJFdm4R4NZgLw55.php
 /webui
 /webui/logoutconfirm.html?logon_hash=1
+/cgi-bin/nobody/VerifyCode.cgi?account=YWRtaW46bGludXgzMjE=&login=quick
