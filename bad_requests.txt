@@ -10768,3 +10768,4 @@ a
 /.well-known/apple-developer-merchantid-domain-association
 /.well-known/r.txt
 /?gad_source=5&gclid=EAIaIQobChMI7IyN357uigMVohDQBB1-hiadEAEYASAAEgKCMPD_BwE
+/?gad_source=5&gclid=EAIaIQobChMIzaSmq6HuigMVCkcdCR01cDDrEAEYASAAEgJ5QfD_BwE
