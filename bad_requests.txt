@@ -10705,3 +10705,4 @@ a
 /testing-put.txt
 /connect/register
 /Onboarding/Import
+/guestLogin.html?guest=1
