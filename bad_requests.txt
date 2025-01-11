@@ -10712,3 +10712,4 @@ a
 /seeyon/thirdpartyController.do
 /ReportServer/Pages/Folder.aspx
 /Reports/Pages/Folder.aspx
+/?gad_source=5&gclid=EAIaIQobChMIyIGFkPXsigMVb14dCR1zOwcDEAEYASAAEgLHQfD_BwE
