@@ -10738,3 +10738,4 @@ a
 /wp-content/themes/themes/Cyb3r.php
 /http/index.php
 /PhoneBackup/2rGP9KShTdYa3WHoIODNYA1XtKk.php
+/dashboard/proc.php?type=login
