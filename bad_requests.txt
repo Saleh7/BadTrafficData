@@ -10748,3 +10748,4 @@ a
 /wp-content/x.php
 /admin/assets/plugins/elfinder/php/connector.php
 /wp-content/plugins/secure-file-manager/vendor/elfinder/php/connector.minimal.php
+/?gad_source=5&gclid=EAIaIQobChMImquO6e3tigMVuEgdCR2o0jQCEAEYASAAEgIiPfD_BwE
