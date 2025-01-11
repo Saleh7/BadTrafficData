@@ -10731,3 +10731,5 @@ a
 /sfsites/aura
 /s/fact
 /s/aura
+/solr/gettingstarted_shard1_replica_n1/config
+/solr/gettingstarted_shard2_replica_n1/debug/dump?param=ContentStreams
