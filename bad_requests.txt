@@ -10759,3 +10759,6 @@ a
 /.env.development
 /.env.base-distante
 /env.example
+/v2/.env
+/staging/.env
+/.env~
