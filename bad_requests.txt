@@ -10701,3 +10701,4 @@ a
 /PMA/server_import.php
 /server_import.php
 /sysadmin/phpMyAdmin/scripts/setup.php
+/_debugbar/open
