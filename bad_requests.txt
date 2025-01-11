@@ -10736,3 +10736,4 @@ a
 /wp-content/plugins/plugins/Cyb3r.php
 /wp-includes/SimplePie/Content/index.php
 /wp-content/themes/themes/Cyb3r.php
+/http/index.php
