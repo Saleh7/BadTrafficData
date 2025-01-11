@@ -10725,3 +10725,4 @@ a
 /webui
 /webui/logoutconfirm.html?logon_hash=1
 /cgi-bin/nobody/VerifyCode.cgi?account=YWRtaW46bGludXgzMjE=&login=quick
+/fpui/loginServlet
