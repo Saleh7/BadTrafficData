@@ -10774,3 +10774,11 @@ a
 /?gad_source=5&gclid=EAIaIQobChMI-KXHhd3uigMVcFL2CB1jDgOYEAEYASAAEgIFhvD_BwE
 /cgi-bin/account_mgr.cgi?cmd=cgi_user_add&name=';cd
 /?gad_source=5&gclid=EAIaIQobChMIr9ecwOruigMVGkcdCR31CQpgEAEYASAAEgJFkvD_BwE
+/wp-content/plugins/Core-EconX/up.php
+/writeable.php
+/sck.php
+/rbh/log.ph
+/wp-content/termps.php
+/.tmb/about.php
+/pwp-admin/network/login.php
+/index4.php
