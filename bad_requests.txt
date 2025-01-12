@@ -10784,3 +10784,4 @@ a
 /index4.php
 /templates/beez3/jsstrings.php
 /Nexus.php
+/?gad_source=2&gclid=CjwKCAiA7Y28BhAnEiwAAdOJUJG1G9J2QJXfXxq7JFF8zA7-_7wee_cc2HDKxyqw7ZcMI5aXCTsAeRoCwsIQAvD_BwE
