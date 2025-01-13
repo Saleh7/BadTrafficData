@@ -10810,3 +10810,4 @@ a
 /BIBIL_0DAY.php/global.php
 /?gad_source=2&gclid=Cj0KCQiAkJO8BhCGARIsAMkswyhb6q4vNPJa8Qr8qCBHLgTuTkc_G1hw35UolLrga4S0QDlyr1boG4UaAj_YEALw_wcB
 /yindu.php
+/?gad_source=5&gclid=EAIaIQobChMI0Z_Ksr3yigMVFMw7Ah0pFA6JEAEYASAAEgKlhPD_BwE
