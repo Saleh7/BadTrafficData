@@ -10807,3 +10807,4 @@ a
 /plugins/elfinder/php/connector.php
 /heh.php
 /?wbraid=ClMKCAiA7Y28BhAjEkMADLl_mUzwYH2UMtMOz32TAXQ1xA_Qh6k34ucR5kPX2StImdKcAlUHRU8B6qhofcO2kFz5duxzmdkfHaDEdzoZWmv1GgK4xA
+/BIBIL_0DAY.php/global.php
