@@ -10856,3 +10856,4 @@ a
 /wp-includes/css//index.php
 /.well-known//index.php
 http://www.ip138.com/
+/],div[data-free-banner],
