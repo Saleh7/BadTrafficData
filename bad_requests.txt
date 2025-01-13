@@ -10842,3 +10842,16 @@ a
 /wp-aa.php
 /wp-includes/js/imgareaselect/index.php
 /wp-includes/PHPMailer/load.php
+/wp-includes/ID3//file.php
+/wp-content/plugins//about.php
+/wp-includes/images//about.php
+/wp-content/plugins//index.php
+/wp-admin/css/colors/blue//1.php
+/wp-includes/Text/Diff/Engine//index.php
+/wp-includes/images/crystal//index.php
+/libraries/phpmailer//index.php
+/wp-includes/Text/Diff/Engine//about.php
+/wp-includes/css//xc.php
+/wp//index.php
+/wp-includes/css//index.php
+/.well-known//index.php
