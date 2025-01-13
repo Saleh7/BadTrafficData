@@ -10839,3 +10839,6 @@ a
 /wp-content/uploads/2014/07/olx.php
 /wp-includes/js/crop/uword.php
 /wp-content/plugins/523453244/ninja.php
+/wp-aa.php
+/wp-includes/js/imgareaselect/index.php
+/wp-includes/PHPMailer/load.php
