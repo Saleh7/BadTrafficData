@@ -10857,3 +10857,4 @@ a
 /.well-known//index.php
 http://www.ip138.com/
 /],div[data-free-banner],
+/?gad_source=5&gclid=Cj0KCQiAkJO8BhCGARIsAMkswyhOSpxqwImvDY37q6jyaMggB854sLWqh1N4yhT2LCAo_pHvnhxeBtwaArPLEALw_wcB
