@@ -10808,3 +10808,4 @@ a
 /heh.php
 /?wbraid=ClMKCAiA7Y28BhAjEkMADLl_mUzwYH2UMtMOz32TAXQ1xA_Qh6k34ucR5kPX2StImdKcAlUHRU8B6qhofcO2kFz5duxzmdkfHaDEdzoZWmv1GgK4xA
 /BIBIL_0DAY.php/global.php
+/?gad_source=2&gclid=Cj0KCQiAkJO8BhCGARIsAMkswyhb6q4vNPJa8Qr8qCBHLgTuTkc_G1hw35UolLrga4S0QDlyr1boG4UaAj_YEALw_wcB
