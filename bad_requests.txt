@@ -10872,3 +10872,14 @@ http://www.ip138.com/
 /?gad_source=2&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHyix1l41ioCF7Sy5zpE4w7EcBHKgkZKwHvLDXdbAZoXQ38hs9OdcXEaAuqhEALw_wcB
 /?gad_source=2&gclid=EAIaIQobChMIwJm7w_j0igMVZZxQBh2SDhSlEAAYASAAEgLVFPD_BwE
 /wp-includes/certificates/wp-conflg.php
+/wp-includes/block-supports/wp-conflg.php
+/wp-includes/sitemaps/wp-conflg.php
+/wp-includes/random_compat/wp-conflg.php
+/wp-includes/pomo/wp-conflg.php
+/wp-includes/rest-api/wp-conflg.php
+/wp-includes/widgets/wp-conflg.php
+/.well-known/pki-validation/wp-conflg.php
+/wp-includes/block-patterns/wp-conflg.php
+/wp-includes/PHPMailer/wp-conflg.php
+/wp-includes/Requests/wp-conflg.php
+/wp-includes/assets/wp-conflg.php
