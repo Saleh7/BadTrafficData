@@ -10884,3 +10884,6 @@ http://www.ip138.com/
 /wp-includes/Requests/wp-conflg.php
 /wp-includes/assets/wp-conflg.php
 /?gad_source=2&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHwtvPmbNNJuBGEdu59pkZ8D06ehHfBNziiojotG7u5S8Z7LuIhmegoaAmJ9EALw_wcB
+/wp-content/plugins/view-more/ioxi.php
+/wp-content/plugins/seoxx/randkeyword.php
+/wp-content/plugins/erinyani/baxa1.php7
