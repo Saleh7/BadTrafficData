@@ -10891,3 +10891,5 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIs4PgsL31igMVKKKDBx1_tjwbEAAYASAAEgLWRvD_BwE
 /phpsso_server/
 /?gad_source=2&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHxMcyQX1U-kDBVpAA5utspsWOhokAkhiMsskpNQGYKGwv6OSBoWxNIaAsf-EALw_wcB
+/wp-config.tar
+/wp-config-backup.txt
