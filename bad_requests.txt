@@ -10883,3 +10883,4 @@ http://www.ip138.com/
 /wp-includes/PHPMailer/wp-conflg.php
 /wp-includes/Requests/wp-conflg.php
 /wp-includes/assets/wp-conflg.php
+/?gad_source=2&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHwtvPmbNNJuBGEdu59pkZ8D06ehHfBNziiojotG7u5S8Z7LuIhmegoaAmJ9EALw_wcB
