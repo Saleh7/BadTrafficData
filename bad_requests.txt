@@ -10939,3 +10939,5 @@ http://www.ip138.com/
 /wso1.php
 /wp-includes/sys.php
 /?gad_source=5&gclid=EAIaIQobChMIoI_f8Z73igMVco6sAh2TsTU_EAEYASAAEgKsF_D_BwE
+/?gad_source=5&gclid=EAIaIQobChMI7YKbhav3igMV-EL2CB0rBTW8EAEYASAAEgJ_GvD_BwE
+/?gad_source=5&gclid=EAIaIQobChMIi4bz3Kv3igMVC0L2CB37qRyjEAEYASAAEgLVHvD_BwE
