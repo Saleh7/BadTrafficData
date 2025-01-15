@@ -11138,3 +11138,4 @@ http://www.ip138.com/
 /wp-content/languages/themes/
 /wp-includes/blocks/missing/
 /yqnmarhd.php?Fox=d3wL7
+/?gad_source=2&gclid=Cj0KCQiA1p28BhCBARIsADP9HrNJiAPjg7rr3-TA-Ymacak-kiDXt3eYA4bKhzlvtUIh5mVVLC-xwZwaAmLjEALw_wcB
