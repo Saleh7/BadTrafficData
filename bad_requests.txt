@@ -10905,3 +10905,9 @@ http://www.ip138.com/
 /wp-0.php
 /wp-ahmed.php
 /axx.php
+/wp/rahma.php
+/sendmail.php
+/wp-confirm.php
+/rahma.php
+/nasgor.php
+/alfav4.1-tesla.php
