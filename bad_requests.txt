@@ -10949,3 +10949,4 @@ http://www.ip138.com/
 /myproject/.env
 /node-api/.env
 /library/.env
+/react-app/.env.production
