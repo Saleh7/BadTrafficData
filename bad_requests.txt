@@ -10919,3 +10919,17 @@ http://www.ip138.com/
 /wp-uploads.php
 /uploads/contexmini.php
 /ohayo.php
+/!.php
+/wp-admin/includes/maint/repair-bak.php
+/Sendemail.php
+/wp-content/uploads/small.php
+/Cpanel.php
+/wp-admin/includes/maint/wp-readindex.php
+/wp-admin/includes/edit-tag-menu.php
+/wp-admin/includes/readindex.php
+/wp-admin/includes/class-wp-media-list-data.php
+/wp-content/uploads/readindex.php
+/wp-admin/includes/tablepress_controllers.php
+/wp-admin/includes/media-site.php
+/wp-content/includes/uploads/Va.php
+/wp-admin/includes/maint/wp-cron.php
