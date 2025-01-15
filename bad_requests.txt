@@ -10911,3 +10911,11 @@ http://www.ip138.com/
 /rahma.php
 /nasgor.php
 /alfav4.1-tesla.php
+/wp-content/wp-logins.php
+/it.php
+/Gel.php
+/wp2.php
+/wp-content/wp-admin.php
+/wp-uploads.php
+/uploads/contexmini.php
+/ohayo.php
