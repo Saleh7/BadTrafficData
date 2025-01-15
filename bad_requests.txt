@@ -10938,3 +10938,4 @@ http://www.ip138.com/
 /alexus-mailer.php
 /wso1.php
 /wp-includes/sys.php
+/?gad_source=5&gclid=EAIaIQobChMIoI_f8Z73igMVco6sAh2TsTU_EAEYASAAEgKsF_D_BwE
