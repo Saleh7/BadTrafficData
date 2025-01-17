@@ -11169,3 +11169,4 @@ http://www.ip138.com/
 /template/pc/index.htm
 /template/default/index.html
 /e/tool/feedback/temp/test.txt
+/?gad_source=5&gclid=EAIaIQobChMIxrKalf_7igMVoJonAh3b8BpzEAEYASAAEgI5pfD_BwE
