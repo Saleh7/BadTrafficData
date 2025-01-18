@@ -11206,3 +11206,5 @@ http://www.ip138.com/
 /corn.php
 /sites/all/libraries/elfinder/src/connectors/php/connector.php
 /?gad_source=5&gclid=EAIaIQobChMI4qPiiKn-igMVeUcdCR0DojI4EAEYASAAEgKVDfD_BwE
+/edit/
+/password/
