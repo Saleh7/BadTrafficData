@@ -5741,3 +5741,4 @@ Blacklisted IPs (IPv4 and IPv6):
 45.83.64.137
 2a05:d014:18cf:a100:c536:3fb5:9638:3e7c
 2001:16a2:c024:e02f:94e4:64bc:57c3:c14c
+2600:1f11:f40:ac00:ac4c:65eb:7500:71c1
