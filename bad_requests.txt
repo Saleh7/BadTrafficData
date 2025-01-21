@@ -11282,3 +11282,4 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIx_SF6dCFiwMVw46sAh0BEDorEAEYASAAEgLb5vD_BwE
 /wp-old/
 /plugins/elrte/src/elrte.src.html
+/jjancrds.php?Fox=d3wL7
