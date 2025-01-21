@@ -11283,3 +11283,4 @@ http://www.ip138.com/
 /wp-old/
 /plugins/elrte/src/elrte.src.html
 /jjancrds.php?Fox=d3wL7
+/?gad_source=5&gclid=EAIaIQobChMI_ejugISGiwMVih8GAB1e3S-YEAEYASAAEgIxXPD_BwE
