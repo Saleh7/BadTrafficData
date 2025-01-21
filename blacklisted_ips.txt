@@ -5782,3 +5782,4 @@ Blacklisted IPs (IPv4 and IPv6):
 206.168.34.37
 2001:16a4:5:c5e8:6ca2:fc8a:1efa:cbaf
 175.176.77.143
+198.235.24.195
