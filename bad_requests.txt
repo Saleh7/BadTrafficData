@@ -11347,3 +11347,13 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIqKe-8cyLiwMVTUykBB2gijryEAEYASAAEgIrvfD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI9ZPr3suLiwMVwXWkBB3AJzylEAEYASAAEgJI9_D_BwE
 /?gad_source=5&gclid=EAIaIQobChMI1ai1382LiwMViF4dCR0c3i-JEAEYASAAEgIhV_D_BwE
+/rcc.php
+/rbh/log.php
+/administrator/templates/hathor/error.php
+/wp-content/plugins/hello-dolly/hello.php
+/templates/beez_20/error.php
+/administrator/templates/bluestork/error.php
+/wp-admin/maint/go.php
+/administrator/templates/isis/error.php
+/templates/protostar/error.php
+/sellSEX.php
