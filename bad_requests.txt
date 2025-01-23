@@ -11357,3 +11357,5 @@ http://www.ip138.com/
 /administrator/templates/isis/error.php
 /templates/protostar/error.php
 /sellSEX.php
+/templates/atomic/error.php
+/modules/mod_simplefileuploadv1.3/elements/Clean.php
