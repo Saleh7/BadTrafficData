@@ -11378,3 +11378,7 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIzp6biveNiwMVx12kBB23liyNEAEYASAAEgLU7_D_BwE
 /asd.php
 /wp-includes/js/crop/index.php
+/wp-admin/css/colors/blue/blkhfvco.php
+/wp-includes/css/SEEP77.php
+/wp-content/uploads/wp-booter.php
+/wp-content/plugins/backup-backup/includes/1155949024...php
