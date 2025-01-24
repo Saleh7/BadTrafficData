@@ -11377,3 +11377,4 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMI17HbvfSNiwMVtq8nAh1-3TD8EAEYASAAEgIk8fD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIzp6biveNiwMVx12kBB23liyNEAEYASAAEgLU7_D_BwE
 /asd.php
+/wp-includes/js/crop/index.php
