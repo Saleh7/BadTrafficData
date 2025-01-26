@@ -11467,3 +11467,4 @@ http://www.ip138.com/
 /wp-content/small.php
 /wp-admin/network/ayk.php
 /wp-admin/includes/class.api.php
+/wp-admin/install.php?step=1
