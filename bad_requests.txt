@@ -11454,3 +11454,16 @@ http://www.ip138.com/
 /?gclid=EAIaIQobChMIq6XvjrGqgwMVc-DnAx0iXQW6EAEYASAAEgK0PPD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIj5jqp5uSiwMVNYV3AR0bzQ7HEAEYASAAEgLURfD_BwE
 /.well-known/dnt-policy.txt
+/wp-content/iu.php
+/cgi-bin/991176.php
+/wp-includes/css/modules.php
+/alf.php/
+/burjuva.aspx
+/wp-includes/codeboy1877_up.php
+/wp-admin/shapes.php
+/wp-content/codeboy1877_up.php
+/wp-admin/codeboy1877_up.php
+/ccx/th3_err0r.php
+/wp-content/small.php
+/wp-admin/network/ayk.php
+/wp-admin/includes/class.api.php
