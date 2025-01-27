@@ -11492,3 +11492,17 @@ http://www.ip138.com/
 /wp-content/plugins/formcraft/file-upload/server/php/
 /wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/readme.txt
 /?gad_source=5&gclid=CjwKCAiA-ty8BhA_EiwAkyoa34hjSDvrrsSdzZ4H29JUvSsChe8TaRE_VehXCNtqRL2k1enip3EyiRoCeTQQAvD_BwE
+/editor-mysql.php
+/adminer/
+/adminer-4.8.1-en.php
+/phpmyadmin.php
+/public/adminer.php
+/web/adminer.php
+/adminer-4.8.1-mysql.php
+/adminer-4.8.1-mysql-en.php
+/admin/adminer.php
+/editor/
+/wp-content/plugins/adminer/adminer.php
+/adminer-4.8.1.php
+/tools/adminer.php
+/php/adminer.php
