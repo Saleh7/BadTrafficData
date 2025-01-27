@@ -11479,3 +11479,5 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIvefn_OmUiwMVh2JBAh306TtfEAEYASAAEgIDTPD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI4Yel7-mUiwMV1VmkBB07xirkEAEYASAAEgKZy_D_BwE
 /wp-admin/cgialfa/
+/wp-content/cgialfa/
+/wp-admin/ALFA_DATA/
