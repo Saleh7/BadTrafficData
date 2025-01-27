@@ -11483,3 +11483,4 @@ http://www.ip138.com/
 /wp-admin/ALFA_DATA/
 /wp-admin/alfacgiapi/
 /wp-includes/cgialfa/
+/wp-content/ALFA_DATA/
