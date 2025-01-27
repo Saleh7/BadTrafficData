@@ -11490,3 +11490,4 @@ http://www.ip138.com/
 /wp-content/plugins/wp-pinterest-automatic/changelog/
 /wp-content/plugins/wp-automatic/changelog/
 /wp-content/plugins/formcraft/file-upload/server/php/
+/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/readme.txt
