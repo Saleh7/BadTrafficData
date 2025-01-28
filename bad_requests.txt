@@ -11516,3 +11516,5 @@ http://www.ip138.com/
 /?gad_source=5&gclid=CjwKCAiAneK8BhAVEiwAoy2HYVVcTCvA1ptSmqKzbRn2Rd9phO_Refz5kVfPrICe2rcwjvq1ql-8axoCBKcQAvD_BwE
 /?gad_source=5&gclid=CjwKCAiAneK8BhAVEiwAoy2HYfA7dmSE8OGVnJS5wTIhxzHOSBf1YW0yKXSXW_asow3zlzO5Tr3KCxoCXXsQAvD_BwE
 /?gad_source=1&gclid=CjwKCAiA-ty8BhA_EiwAkyoa322_r2nHv-448v8ZvbgSJFdmgi24xJhBTiAFmWf2O0YimzzEDDZcFhoC4lYQAvD_BwE
+/.env.exemple
+/php_info
