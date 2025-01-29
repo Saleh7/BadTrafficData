@@ -11542,3 +11542,4 @@ http://www.ip138.com/
 /public/javascript/filemanager/dialog.php
 /public/laravel-filemanager
 /class/phpformbuilder/plugins/filemanager/dialog.php
+/wp-json/litespeed/v1/cdn_status
