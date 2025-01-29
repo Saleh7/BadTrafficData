@@ -11529,3 +11529,4 @@ http://www.ip138.com/
 /actuator;/env;
 /env;
 /config/env
+/config/actuator/env
