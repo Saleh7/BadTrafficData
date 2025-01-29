@@ -11535,3 +11535,10 @@ http://www.ip138.com/
 /old/xmlrpc.php
 /blog/xmlrpc.php
 /new/xmlrpc.php
+/laravel-filemanager
+/resources/js/tinymce/plugins/filemanager/dialog.php
+/vendor/laravel-filemanager
+/app/laravel-filemanager
+/public/javascript/filemanager/dialog.php
+/public/laravel-filemanager
+/class/phpformbuilder/plugins/filemanager/dialog.php
