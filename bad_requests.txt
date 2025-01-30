@@ -11568,3 +11568,9 @@ http://www.ip138.com/
 /wp-content/post.php
 /wp-includes/post.php
 /libraries/phpmailer/post.php
+/wp-admin/maint/maint/post.php
+/wp-includes/PHPMailer/post.php
+/wp-content/plugins/seoo/post.php
+/wp-admin/css/post.php
+/wp-content/upgrade/post.php
+/wp-admin/post.php
