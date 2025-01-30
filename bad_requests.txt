@@ -11560,3 +11560,11 @@ http://www.ip138.com/
 /upload/fw
 /wp-content/marijuana.php
 /wp-content/plugins/xwp/up.php
+/wp-content/plugins/wp-theme-editor/post.php
+/wp-includes/php-compat/post.php
+/wp-includes/css/dist/components/post.php
+/wp-content/themes/post.php
+/wp-content/languages/post.php
+/wp-content/post.php
+/wp-includes/post.php
+/libraries/phpmailer/post.php
