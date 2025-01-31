@@ -11627,3 +11627,4 @@ http://www.ip138.com/
 /static/.env.example
 /wp-content/themes/konzept/includes/uploadify/upload.php
 /manage/js/plupload/upload.php
+/page/contacts
