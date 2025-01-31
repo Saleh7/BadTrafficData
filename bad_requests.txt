@@ -11582,3 +11582,9 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIy5S4rvOeiwMVvskWBR2VewHxEAEYASAAEgLMxfD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIz8yHhvueiwMVAl0PAh38Fh_BEAEYASAAEgIxYvD_BwE
 /public_html.zip
+/phpinfo.php4
+/.docker/.env
+/beta/.env
+/shared/.env
+/phpinfo.php3
+/.env.project
