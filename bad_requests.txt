@@ -11610,3 +11610,8 @@ http://www.ip138.com/
 /symfony/public/_profiler/phpinfo
 /symfony/public
 /:8080/.env
+/config/settings.py
+/admin/wp-config
+/server/settings.py
+/Lara/.env
+/production/.env
