@@ -11616,3 +11616,4 @@ http://www.ip138.com/
 /Lara/.env
 /production/.env
 /admincontrol/sys_phpinfo.php
+/?gad_source=5&gclid=Cj0KCQiA4-y8BhC3ARIsAHmjC_GG1RqIQVMybgoONIuVi54G-OVdokqDCZz53iuwKNwEEoXNxE_mZ70aAu7QEALw_wcB
