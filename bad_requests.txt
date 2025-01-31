@@ -11624,3 +11624,4 @@ http://www.ip138.com/
 /jquery.filer/php/readme.txt
 /assets/vendor/jquery.filer/php/readme.txt
 /assets/admin/bower_components/jquery.filer/php/readme.txt
+/static/.env.example
