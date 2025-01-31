@@ -11626,3 +11626,4 @@ http://www.ip138.com/
 /assets/admin/bower_components/jquery.filer/php/readme.txt
 /static/.env.example
 /wp-content/themes/konzept/includes/uploadify/upload.php
+/manage/js/plupload/upload.php
