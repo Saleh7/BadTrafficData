@@ -11597,3 +11597,6 @@ http://www.ip138.com/
 /symfony/_profiler/phpinfo
 /.env.dist
 /.env.config
+/application/config/constants.php
+/config/app.php
+/.env.php
