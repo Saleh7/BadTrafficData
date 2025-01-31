@@ -11615,3 +11615,4 @@ http://www.ip138.com/
 /server/settings.py
 /Lara/.env
 /production/.env
+/admincontrol/sys_phpinfo.php
