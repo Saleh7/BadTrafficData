@@ -11672,3 +11672,6 @@ http://www.ip138.com/
 /wp-admin/maint/wp-act.php
 /wp-content/plugins/WordPressCore/admin.php?
 /wp-admin/maint/smile.php
+/wp-admin/wp-add.php?a=c
+/wp-ldd.php?a=c
+/wp-admin/wp-ldd.php?a=c
