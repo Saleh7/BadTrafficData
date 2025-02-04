@@ -11696,3 +11696,4 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMI2d3InNOoiwMV5OCUCR2scSIcEAEYASAAEgIycfD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIsdjVu9uoiwMVYOQRCB1rPDmZEAEYASAAEgJGtfD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI9azTrtyoiwMVpiUGAB1afDcFEAEYASAAEgJJLvD_BwE
+/getcmd
