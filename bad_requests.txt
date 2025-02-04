@@ -11700,3 +11700,6 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMIz5H3nan7igMVwIODBx04fAuiEAEYASAAEgJDz_D_BwE
 /?gad_source=5&gclid=Cj0KCQiAkoe9BhDYARIsAH85cDNBk6bBe7nskTmqgJ4UolVYjHtMnhF7lgw8TPf109ddmoAFsNNUwyoaAqcZEALw_wcB
 /?gad_source=5&gclid=Cj0KCQiAkoe9BhDYARIsAH85cDP5zRmDzUycyQeOxX1XAwrCLzKBtXEFSIbIApT7YXHO85OXbpmyfUAaAt_cEALw_wcB
+/gateway/actuator/env
+/gateway/env
+/message-api/actuator/env
