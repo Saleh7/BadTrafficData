@@ -12006,3 +12006,15 @@ http://www.ip138.com/
 /?gad_source=5&gclid=EAIaIQobChMI5uCvwbitiwMVI1n2CB2aIziAEAEYASAAEgL4ZvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI4Y_vm7mtiwMVmYNQBh2ihCQkEAEYASAAEgJwuvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI9ITZnsStiwMVSofpBR1tFjHkEAEYASAAEgIhmvD_BwE
+/wp-content/upgrade/iR7SzrsOUEP.php
+/wp-admin/maint/iR7SzrsOUEP.php
+/admin-heade.php
+/wp-includes/xl2023.php
+/wp-content/uploads/xl2023.php
+/wp-admin/js/widgets/iR7SzrsOUEP.php
+/wp-admin/xl2023.php
+/wp-admin/images/iR7SzrsOUEP.php
+/.well-known/acme-challenge/xl2023.php
+/wp-admin/network/iR7SzrsOUEP.php
+/wp-content/xl2023.php
+/images/iR7SzrsOUEP.php
