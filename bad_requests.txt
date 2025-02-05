@@ -12002,3 +12002,4 @@ http://www.ip138.com/
 /wp-term.php
 /wp-content/plugins/wp-term.php
 /wp-content/wp-ver.php
+/?gad_source=5&gclid=EAIaIQobChMIn77E7LatiwMVGZxQBh2o5xelEAEYASAAEgKw7PD_BwE
