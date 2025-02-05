@@ -11997,3 +11997,8 @@ http://www.ip138.com/
 /_dbs.bz
 /_dbs.gz
 /_dbs_db.sql
+/wp-content/wp-term.php
+/wp-content/plugins/wp-ver.php
+/wp-term.php
+/wp-content/plugins/wp-term.php
+/wp-content/wp-ver.php
