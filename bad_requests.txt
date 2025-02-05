@@ -11995,3 +11995,5 @@ http://www.ip138.com/
 /phpmyadmin.gz
 /phpmyadmin_db.sql
 /_dbs.bz
+/_dbs.gz
+/_dbs_db.sql
