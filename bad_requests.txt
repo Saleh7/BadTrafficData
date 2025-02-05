@@ -11735,3 +11735,12 @@ http://www.ip138.com/
 /wp-includes/customize/class-wp-customize-nav-menus/
 /wp-includes/SimplePie/Parse/
 /wp-includes/customize/class-wp-customize-section/
+/wp-includes/customize/class-wp-customize-panel/
+/wp-includes/customize/class-wp-customize-setting/
+/wp-includes/customize/class-wp-customize-widgets/
+/wp-includes/Requests/Hook/
+/wp-includes/Text/Diff/Mapped/
+/wp-includes/class-wp-editor/
+/wp-includes/SimplePie/Net/
+/wp-includes/customize/controls//wp-includes/SimplePie/XML/
+/wp-includes/images/emoji/
