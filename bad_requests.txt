@@ -11744,3 +11744,4 @@ http://www.ip138.com/
 /wp-includes/SimplePie/Net/
 /wp-includes/customize/controls//wp-includes/SimplePie/XML/
 /wp-includes/images/emoji/
+/wp-includes/Requests/Auth/index.php
