@@ -12080,3 +12080,4 @@ http://www.ip138.com/
 /.well-known/pki-validation/iR7SzrsOUEP.php
 /.well-known/pki-validation/xl2023.php
 srv57c0d2365c3c.korsan.me:443
+/api/index.php/v1/config/application?public=true
