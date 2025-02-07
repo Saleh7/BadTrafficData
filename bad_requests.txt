@@ -12069,3 +12069,11 @@ http://www.ip138.com/
 /libraries/fof/database/iterator/xmrlpc.php?p=
 /plugins/finder/categories/about.php
 /loger.php
+/wp-content/plugins/anttt/simple.php
+/wp-content/plugins/dos2unix/dos2unix.php
+/mt/pekok.php
+/wp.php?Chitoge
+/wp-content/plugins/wpputty/wpputty.php
+/wp-content/plugins/wpyii2/wpyii2.php
+/gank.php.PhP
+/wp-content/plugins/w0rdpr3ssnew/about.php
