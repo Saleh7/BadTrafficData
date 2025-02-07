@@ -12083,3 +12083,4 @@ srv57c0d2365c3c.korsan.me:443
 /api/index.php/v1/config/application?public=true
 /?gad_source=5&gclid=CjwKCAiA2JG9BhAuEiwAH_zf3jRtK7ndakHq6vaxUPlNBJEh1rCXiS8gHsssyLXy8qP5y7ll15615RoCrkgQAvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI48Hes4yxiwMV4WoVCB2wlybAEAEYASAAEgL0m_D_BwE
+/modules/mod_simplefileuploadv1.3/elements/fozi/
