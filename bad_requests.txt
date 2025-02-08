@@ -12094,3 +12094,8 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/themes/cameleon/includes/fileuploader/upload_handler.php
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=27&sort=p.price&tag=0
 /site/login
+/assets/github.php
+/.well-known/acme-challenge/github.php
+/.well-known/github.php
+/.well-known/pki-validation/github.php
+/github.php
