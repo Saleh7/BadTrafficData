@@ -12373,3 +12373,4 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/uploads/F0x.php
 /include/forms.inc.php
 /wp-includes/widgets/class-wp-tokens.php
+/figs-loso-gold-figs-30-50-cm?tag=Gold
