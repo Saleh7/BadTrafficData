@@ -12375,3 +12375,4 @@ srv57c0d2365c3c.korsan.me:443
 /wp-includes/widgets/class-wp-tokens.php
 /figs-loso-gold-figs-30-50-cm?tag=Gold
 /?gad_source=5&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvCOMNEeaNYusghcIjkWbYJXKVIlTOMqvrbCodjAB0WNi_xzsuMbLYRoCpnUQAvD_BwE
+/index.php/?route=extension/module/newsletters/news
