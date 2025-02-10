@@ -12313,3 +12313,14 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/plugins/wp-db-ajax-made/wp-ajax.php/
 /test/test.php
 /public/dummy.php
+/wp-includes/blocks/columns/index.php
+/wp-content/plugins/revslider/includes/external/page/post.php
+/wp-admin/js/widgets/post.php7
+/wp-includes/SimplePie/Decode.php
+/plugins/seoo/alfa-rex1.php
+/wp-includes/sodium_compat/src/antidote-association_wiki-install_gallery.php
+/wp-admin/ovazxhyba.php
+/pegi.php?__im-TdVVCmar=10483162074343289872
+/wp-includes/V25fYe4DvGq.php
+/wp-includes/wp-cron.php?ac=3
+/wp-includes/SimplePie/Content/Type/heck.php
