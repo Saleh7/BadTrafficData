@@ -12299,3 +12299,17 @@ srv57c0d2365c3c.korsan.me:443
 /amphtml/.git/config
 /gitlab/.git/config
 /aaa/.git/config
+/files/rhcvbvht.php
+/wp-includes/1post.php
+/mah/xBrain.php
+/wp-includes/Text/Diff/Renderer/admin.php
+/.well-known/acme-challenge/tiny.php
+/wp-includes/js/jcrop/about.php
+/wp-content/uploads/2023/03/z.php
+/alfa-rex.PhP7
+/wp-includes/hgsc6PdEzZV.php
+/test/manager.php
+/wp-admin/zfchtyyxw.php
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php/
+/test/test.php
+/public/dummy.php
