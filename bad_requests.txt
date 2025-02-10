@@ -12378,3 +12378,4 @@ srv57c0d2365c3c.korsan.me:443
 /index.php/?route=extension/module/newsletters/news
 /?gad_source=5&gclid=CjwKCAiA5Ka9BhB5EiwA1ZVtvGilhjspwE6DQUsFQUaPbPb5Drme1cT7ru4oc-2AR7h3_8Q1_cjXjhoCo3oQAvD_BwE
 /le_connector/connector.php
+/bridge2cart/bridge.php
