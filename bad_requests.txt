@@ -12404,3 +12404,6 @@ srv57c0d2365c3c.korsan.me:443
 /vpn/index.html
 /?gclid=EAIaIQobChMI08qug4XOhgMVkbPRBB05VwyoEAEYASAAEgJdA_D_BwE
 /figs-loso-gold-figs-30-50-cm?tag=30&sort=rating&order=ASC
+/administrator/components/com_zmaxcdn/libs/webuploader_0_1_5/server/preview.php
+/mobile/static/js/webuploader/preview.php
+/webuploader/fileupload.php
