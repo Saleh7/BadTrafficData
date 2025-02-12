@@ -12444,3 +12444,4 @@ srv57c0d2365c3c.korsan.me:443
 /admin/config-backup.txt
 /admin/config.php.save
 /admin/config.php.orig
+/jhckeofi.php?Fox=d3wL7
