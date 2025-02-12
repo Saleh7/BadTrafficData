@@ -12414,3 +12414,4 @@ srv57c0d2365c3c.korsan.me:443
 /figs-loso-gold-figs-30-50-cm?tag=30-&sort=rating&order=ASC
 /figs-loso-gold-figs-30-50-cm?tag=&page=122
 /figs-loso-gold-figs-30-50-cm?tag=30
+/figs-loso-gold-figs-30-50-cm?tag=30-&sort=p.sort_order&order=ASC
