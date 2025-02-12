@@ -12445,3 +12445,4 @@ srv57c0d2365c3c.korsan.me:443
 /admin/config.php.save
 /admin/config.php.orig
 /jhckeofi.php?Fox=d3wL7
+/?gad_source=5&gclid=CjwKCAiAqrG9BhAVEiwAaPu5ztXJHKW2sRztDtzrkEbgm_VB3ob7nwQjsqeEDr_owHUijg9BQsG58hoCIj8QAvD_BwE
