@@ -12425,3 +12425,4 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/class-db.php
 /wp-content/plugins/apikey/apikey.php?test=hello
 /vwhwmxjg.php?Fox=d3wL7
+/?gad_source=5&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zl9UQH7usZHW8lbeuAswsfHsTWVTj7GmAtV30Vvg8xCwFHE7z6JiXBoCMWIQAvD_BwE
