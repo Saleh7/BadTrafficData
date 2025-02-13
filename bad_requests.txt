@@ -12493,3 +12493,4 @@ srv57c0d2365c3c.korsan.me:443
 /equipe-background.php
 /tel:+966554930305
 /?gad_source=5&gclid=CjwKCAiAzba9BhBhEiwA7glbagbOiDXmSvMHg7DhwxNmPmZaZmPguK16ESCbPxcaJGEwoxIu_Sqp5RoCyvEQAvD_BwE
+/?gad_source=5&gclid=CjwKCAiAzba9BhBhEiwA7glbahiqFxJ7qvo21B1tO2mK3UaSG7ETryndbmP3Ll5VZMbiMiKTV_xadxoCJz0QAvD_BwE
