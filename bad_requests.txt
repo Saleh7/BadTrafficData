@@ -12474,3 +12474,4 @@ srv57c0d2365c3c.korsan.me:443
 /gateway/.git/config
 /figs-loso-gold-figs-30-50-cm?tag=5&page=30
 /?srsltid=AfmBOoo3xL3atJ4EEbtNT5ayFRN9dGLwYrUwMh4GnsaWH-t2Ng4m_7Er
+/?gad_source=5&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zmGq-FKAQwpOxY92xwGU7afHk62oZLnclGxjDZbfu1xZdPzf8aA24hoCXwQQAvD_BwE
