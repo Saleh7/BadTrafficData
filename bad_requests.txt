@@ -12487,3 +12487,4 @@ srv57c0d2365c3c.korsan.me:443
 /.well-known/uma2-configuration
 /.well-known/oauth-client
 /ihnwtacz.php?Fox=d3wL7
+/channel/get
