@@ -12490,3 +12490,4 @@ srv57c0d2365c3c.korsan.me:443
 /channel/get
 /cs
 /?fbclid=IwZXh0bgNhZW0CMTEAAR1yF9InTeIIER8eZ2NRBDTRivK0GV8OrLRgwbAMo6IUPNkYFwOxk6ylhek_aem_PDQsMUyWmAki_dsicwlU-g
+/equipe-background.php
