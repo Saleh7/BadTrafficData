@@ -12466,3 +12466,9 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/plugins/vslnxrk/autoload_classmap.php
 /wordpress/wp-includes/IXR/flower.php
 /wp-includes/js/jquery/ui/3k0sm2/flower.php
+/flock/.git/config
+/dump/.git/config
+/api/user/v2/.git/config
+/auth/.git/config
+/superadmin/.git/config
+/gateway/.git/config
