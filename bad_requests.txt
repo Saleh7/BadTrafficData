@@ -12475,3 +12475,14 @@ srv57c0d2365c3c.korsan.me:443
 /figs-loso-gold-figs-30-50-cm?tag=5&page=30
 /?srsltid=AfmBOoo3xL3atJ4EEbtNT5ayFRN9dGLwYrUwMh4GnsaWH-t2Ng4m_7Er
 /?gad_source=5&gclid=CjwKCAiAqrG9BhAVEiwAaPu5zmGq-FKAQwpOxY92xwGU7afHk62oZLnclGxjDZbfu1xZdPzf8aA24hoCXwQQAvD_BwE
+/.well-known/gnap-as-rs
+/.well-known/browserid
+/.well-known/fido-2fa-configuration
+/.well-known/openid-credential-issuer
+/.well-known/oauth-protected-resource
+/.well-known/openid-federation
+/.well-known/fido-configuration
+/.well-known/oauth-authorization-server
+/.well-known/fido2-configuration
+/.well-known/uma2-configuration
+/.well-known/oauth-client
