@@ -12498,3 +12498,4 @@ srv57c0d2365c3c.korsan.me:443
 /?fbclid=PAZXh0bgNhZW0CMTEAAaar1aZtZTyKkPIdW7N8NjyQ7MbTFAIedLnfkqGeIF2kdN63cFujnp_XwzY_aem_JRYeXeBd3pPQLulUwFkq9Q
 /wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php
 /riscrrzu.php?Fox=d3wL7
+/wp-json/wc/store/cart
