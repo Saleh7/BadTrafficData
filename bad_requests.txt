@@ -12500,3 +12500,4 @@ srv57c0d2365c3c.korsan.me:443
 /riscrrzu.php?Fox=d3wL7
 /wp-json/wc/store/cart
 /?gad_source=5&gclid=CjwKCAiA8Lu9BhA8EiwAag16b7uumefQv_hSK01tHquYpDRTgbl1Nq2ZxTHDagoD5cs-N9shIhackBoCcvIQAvD_BwE
+/?gad_source=5&gclid=CjwKCAiA8Lu9BhA8EiwAag16b67iNpaiEJeXuOnSopXmZmbax1QB7GKrWuR2YmBP-mB7sDfdmZVk9xoCWBMQAvD_BwE
