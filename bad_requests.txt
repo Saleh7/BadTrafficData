@@ -12499,3 +12499,4 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php
 /riscrrzu.php?Fox=d3wL7
 /wp-json/wc/store/cart
+/?gad_source=5&gclid=CjwKCAiA8Lu9BhA8EiwAag16b7uumefQv_hSK01tHquYpDRTgbl1Nq2ZxTHDagoD5cs-N9shIhackBoCcvIQAvD_BwE
