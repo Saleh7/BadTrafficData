@@ -12544,3 +12544,4 @@ srv57c0d2365c3c.korsan.me:443
 /Release.zip
 /backups.zip
 /uploads.zip
+/Public/js/webuploader/server/preview.php
