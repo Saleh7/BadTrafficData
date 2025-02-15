@@ -12554,3 +12554,4 @@ srv57c0d2365c3c.korsan.me:443
 /figs-loso-gold-figs-30-50-cm?tag=30-&sort=rating&order=DESC
 /wp-content/themes/Nuance/functions/jwpanel/scripts/valums_uploader/php.php
 /?srsltid=AfmBOorpLJWESYzPlqkfpkXtDRaNv9juUQcukQy2JdQNDO48kuqW5pLA
+/?gad_source=5&gclid=EAIaIQobChMIqpLQvZrGiwMVC0L2CB0fBjWAEAEYASAAEgKw5_D_BwE
