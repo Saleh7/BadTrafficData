@@ -12569,3 +12569,4 @@ srv57c0d2365c3c.korsan.me:443
 /sysLogin/fileupload.php
 /figs-loso-gold-figs-30-50-cm?tag=5&sort=rating&order=DESC&page=7
 /figs-loso-gold-figs-30-50-cm?tag=-&sort=rating&order=ASC&page=5
+/figs-loso-gold-figs-30-50-cm?tag=&page=5
