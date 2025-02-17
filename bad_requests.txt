@@ -12577,3 +12577,5 @@ srv57c0d2365c3c.korsan.me:443
 /?gad_source=5&gclid=CjwKCAiA2cu9BhBhEiwAft6IxPMRENkT7CClk0OaL06w9p8Qt7xz5C753B5f5ISz5ICEAEOvz_qDABoC-jsQAvD_BwE
 /iocgkjlq.php?Fox=d3wL7
 /?srsltid=AfmBOor7UgM-Ps-H0BdxFG7JGmknC2OKbqJYyhNiqNQBc28UFOit_g79
+/feed/?paged=1
+/feed/?paged=2
