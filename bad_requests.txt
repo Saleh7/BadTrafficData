@@ -12580,3 +12580,4 @@ srv57c0d2365c3c.korsan.me:443
 /feed/?paged=1
 /feed/?paged=2
 /?srsltid=AfmBOoqLogRKfNhr9FCiZx_PRkmqkUwu9HLNsXMnmeJMmKboTgyl7MqX
+/myjmteww.php?Fox=d3wL7
