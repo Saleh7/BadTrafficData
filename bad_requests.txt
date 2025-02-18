@@ -12852,3 +12852,6 @@ srv57c0d2365c3c.korsan.me:443
 /sql/users.sql
 /sql/homeip.sql
 /cesvfbie.php?Fox=d3wL7
+/upload/server/php/
+/admin/server/php/
+/fileupload/server/php/
