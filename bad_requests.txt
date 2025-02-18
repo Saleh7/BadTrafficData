@@ -12880,3 +12880,4 @@ srv57c0d2365c3c.korsan.me:443
 /admin/assets/jquery-file-upload/server/php/
 /asset/plugins/kcfinder/browse.php
 /figs-loso-gold-figs-30-50-cm?tag=3&page=2
+/wp-content/themes/photocrati-theme-v4.07/admin/scripts/scripts-update.php
