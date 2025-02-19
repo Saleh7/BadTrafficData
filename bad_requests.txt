@@ -12913,3 +12913,4 @@ srv57c0d2365c3c.korsan.me:443
 /laravel/.env.production
 /storage/app/private/.env
 /laravel/core/.env.local
+/figs-loso-gold-figs-30-50-cm?tag=3&sort=pd.name&order=ASC
