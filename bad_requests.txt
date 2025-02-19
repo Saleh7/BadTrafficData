@@ -12901,3 +12901,15 @@ srv57c0d2365c3c.korsan.me:443
 /config/settings.ini
 /.env.sample.php
 /laravel/.env.local
+/~backup
+/docker.sh
+/dump.sh
+/laravel/core/.env.staging
+/bootstrap/cache/config.php
+/php5.ini
+/laravel/core/.env.production
+/config.ini.old
+/laravel/.env.staging
+/laravel/.env.production
+/storage/app/private/.env
+/laravel/core/.env.local
