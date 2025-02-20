@@ -13719,3 +13719,4 @@ srv57c0d2365c3c.korsan.me:443
 /figs-loso-gold-figs-30-50-cm?tag=Figs&sort=p.price&order=ASC
 /figs-loso-gold-figs-30-50-cm?tag=-50&sort=pd.name&order=ASC
 /figs-loso-gold-figs-30-50-cm?tag=Loso&sort=rating&order=ASC
+/wp-includes/termps.php
