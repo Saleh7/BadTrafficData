@@ -13707,3 +13707,4 @@ srv57c0d2365c3c.korsan.me:443
 /cbwjlxbn.php?Fox=d3wL7
 /wp-content/themes/photocrati-theme-v4/admin/scripts/scripts-update.php
 /classfuns.php
+/?gclid=Cj0KCQjwlZixBhCoARIsAIC745BS6RvAUrA7S9i-QnBm6HvRYYDY7mnUvlk7IcTbyos5vAs13Z7TKNEaAq0eEALw_wcB
