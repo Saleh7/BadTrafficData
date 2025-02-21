@@ -13768,3 +13768,9 @@ srv57c0d2365c3c.korsan.me:443
 /,wp-content/uploads/wpr-addons/forms/b1ack.php
 /creates.php
 /fr.php
+/wp-content/plugins/ppus/up.php
+/wp-content/plugins/theme-configurator/mini.php
+/wp-content/plugins/widget-logic/mini.php
+/wp-admin/network/wp-footer.php
+/new_license.php
+/wp-content/vuln.php
