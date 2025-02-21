@@ -13765,3 +13765,6 @@ srv57c0d2365c3c.korsan.me:443
 /figs-loso-gold-figs-30-50-cm?tag=Loso&sort=rating&order=DESC
 /products?sort=p.price&order=ASC
 /wp-content/themes/photocrati/admin/scripts/scripts-update.php
+/,wp-content/uploads/wpr-addons/forms/b1ack.php
+/creates.php
+/fr.php
