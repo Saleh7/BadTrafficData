@@ -13835,3 +13835,12 @@ srv57c0d2365c3c.korsan.me:443
 /?gad_source=2&gclid=CjwKCAiAiOa9BhBqEiwABCdG84YMSkoA-Jiv6bQ5p0PI6KbwvXOiQN_HOQHPeZSH5OEumpsJO6ugihoCG9UQAvD_BwE
 /in.php
 /wp-2019.php/chosen.php
+/wp-express.php
+/wp-includes/sitemaps/providers/doc.php
+/wp-includes/block-supports/doc.php
+/wp-content/themes/twentynineteen/fonts/dir/about.php
+/wp-content/plugins/erinyani/past.php
+/wp-content/languages/themes/wp-login.php
+/past.php
+/wp-cdi.php
+/wp-content/plugins/pwnd/2.php
