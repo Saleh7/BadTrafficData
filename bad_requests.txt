@@ -13820,3 +13820,10 @@ srv57c0d2365c3c.korsan.me:443
 /press-this.php
 /edit-tag-form.php
 /media-upload.php
+/ms-options.php
+/ms-delete-site.php
+/custom-header.php
+/options-head.php
+/options-reading.php
+/link-manager.php
+/ms-admin.php
