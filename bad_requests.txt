@@ -13796,3 +13796,12 @@ srv57c0d2365c3c.korsan.me:443
 /wp-admin/termps.php
 /doiconvs.php
 /connects.php
+/memberfuns.php
+/hplfuns.php
+/qinfofuns.php
+/txets.php
+/postnews.php
+/onclickfuns.php
+/schallfuns.php
+/phpzipincs.php
+/qfunctions.php
