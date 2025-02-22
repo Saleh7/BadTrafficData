@@ -13805,3 +13805,13 @@ srv57c0d2365c3c.korsan.me:443
 /schallfuns.php
 /phpzipincs.php
 /qfunctions.php
+/edit-form-advanced.php
+/edit-form-comment.php
+/admin-functions.php
+/ms-sites.php
+/link-parse-opml.php
+/edit-link-form.php
+/load-scripts.php
+/ms-users.php
+/ms-upgrade-network.php
+/load-styles.php
