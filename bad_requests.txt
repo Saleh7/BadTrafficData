@@ -13815,3 +13815,8 @@ srv57c0d2365c3c.korsan.me:443
 /ms-users.php
 /ms-upgrade-network.php
 /load-styles.php
+/post-new.php
+/my-sites.php
+/press-this.php
+/edit-tag-form.php
+/media-upload.php
