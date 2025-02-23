@@ -13846,3 +13846,7 @@ srv57c0d2365c3c.korsan.me:443
 /wp-content/plugins/pwnd/2.php
 /cgi-bin/cgi-bin/index.php
 /wp-includes/css/dist/format-library/lock.php
+/backend/config/default.yml
+/api/objects/codes.php.save
+/getcpuutil.php-bakworking
+/backend/config/development.yml
