@@ -13860,3 +13860,6 @@ srv57c0d2365c3c.korsan.me:443
 /.circleci/configs/development.yml
 /my_env/palash.py
 /my_env/newsletter.py
+/main.yml
+/sms.py
+/aws/credentials
