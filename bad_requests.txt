@@ -13850,3 +13850,13 @@ srv57c0d2365c3c.korsan.me:443
 /api/objects/codes.php.save
 /getcpuutil.php-bakworking
 /backend/config/development.yml
+/api/config/config.yml
+/backend/config/settings.yml
+/config/settings.prod
+/my_env/chakaash.py
+/config/local.yml
+/config/parameters.yml
+/config/settings.local
+/.circleci/configs/development.yml
+/my_env/palash.py
+/my_env/newsletter.py
