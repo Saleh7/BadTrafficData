@@ -13895,3 +13895,4 @@ default.asp
 /figs-loso-gold-figs-30-50-cm?tag=50&page=2
 /?gad_source=5&gclid=EAIaIQobChMInoCL4ufciwMVlSMGAB2-4gwhEAEYASAAEgIXgvD_BwE
 /figs-loso-gold-figs-30-50-cm?tag=-&sort=rating&order=DESC&page=21
+/?gad_source=5&gclid=CjwKCAiAzvC9BhADEiwAEhtlN7sifOyVOTMRFR_Om6YtVXKcaC6h9-YfJlK5zV0veGqCXIEYVPzyTxoCJjoQAvD_BwE
