@@ -13883,3 +13883,10 @@ default.asp
 /private/sendgrid_config
 /modules/contrib/sendgrid_mail/sendgrid_mail.settings.php
 /sendgrid_email/.env
+/config/packages/sendgrid.yaml
+/config/env/sendgrid.env
+/config/env/sendgrid_keys.env
+/instance/sendgrid_keys.py
+/sendgrid_keys.py
+/config/sendgrid.php
+/sendgrid_keys.txt
