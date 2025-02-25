@@ -14511,3 +14511,4 @@ default.asp
 /figs-loso-gold-figs-30-50-cm?tag=3&sort=p.price&order=ASC&page=6
 /admin/controller/extension/module/86ce6f680799.php
 /?gad_source=2&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrvyBm5zc4CoGkp8d9J1EF-VBdBWsy5CRic2bUVNNZoF1qCt19AECUaArEhEALw_wcB
+/figs-loso-gold-figs-30-50-cm?tag=3&sort=p.sort_order&order=ASC&page=2
