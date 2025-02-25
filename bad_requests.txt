@@ -13952,3 +13952,6 @@ default.asp
 /wp-admin/css/colors/blue/blue.php?wall=ZWNobyAnQmxhY2sgQm90Jztmd3JpdGUoZm9wZW4oJ2Jsa3VwcWF3LnBocCcsJ3crJyksJzw/cGhwIGVjaG8gIkJsYWNrIEJvdCI7Pz4nKTs=
 /gifclassa.php
 /figs-loso-gold-figs-30-50-cm?tag=50&sort=pd.name&order=DESC&page=4
+/wp-content/plugins/fix/as.php
+/ioxi002.php
+/wp-conf.php
