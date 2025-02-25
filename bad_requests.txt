@@ -13903,3 +13903,4 @@ default.asp
 /admin/controller/extension/module/b7ae80179fbd.php
 /admin/controller/extension/module/ico.php
 /admin/controller/extension/module/linksapis.php
+/admin/plugin/webUploader/server/preview.php
