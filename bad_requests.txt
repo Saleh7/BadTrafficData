@@ -13950,3 +13950,4 @@ default.asp
 /.well-known/acme-challenge/wp-conf.php
 /.well-known/acme-challenge/wp-atom.php
 /wp-admin/css/colors/blue/blue.php?wall=ZWNobyAnQmxhY2sgQm90Jztmd3JpdGUoZm9wZW4oJ2Jsa3VwcWF3LnBocCcsJ3crJyksJzw/cGhwIGVjaG8gIkJsYWNrIEJvdCI7Pz4nKTs=
+/gifclassa.php
