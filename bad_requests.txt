@@ -14508,3 +14508,4 @@ default.asp
 /uploads/senhorita_make/banner/
 /images/items/colecciones/
 /bitrix/cache/
+/figs-loso-gold-figs-30-50-cm?tag=3&sort=p.price&order=ASC&page=6
