@@ -13900,3 +13900,6 @@ default.asp
 /?srsltid=AfmBOorRlCotnXmltxIzWxpj6RMJBVlrmrG_C9LCD1ib2SFEPn-RixDz
 /?gad_source=5&gclid=CjwKCAiAzvC9BhADEiwAEhtlN0IHrxvVykuSDL-luJWO-pKPjYkvMdhVsZ1m_BNUhQ-pnlIbcl9jyRoClG0QAvD_BwE
 /admin/controller/extension/module/lpinfo.php
+/admin/controller/extension/module/b7ae80179fbd.php
+/admin/controller/extension/module/ico.php
+/admin/controller/extension/module/linksapis.php
