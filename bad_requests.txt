@@ -14603,3 +14603,11 @@ ifconfig.co:443
 /test_phpinfo5.php
 /phpinfodev.php
 /test6.php
+/env.template
+/.env.example.local
+/.env.secure
+/.env.private
+/.env.staging
+/.env.override
+/.env.settings
+/.env.template
