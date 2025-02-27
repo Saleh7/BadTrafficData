@@ -14915,3 +14915,4 @@ ifconfig.co:443
 /igjs.php
 /mwrahpkg.php?Fox=d3wL7
 /figs-loso-gold-figs-30-50-cm?tag=50&page=10
+/figs-loso-gold-figs-30-50-cm?tag=30-&page=7
