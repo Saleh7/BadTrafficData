@@ -15027,3 +15027,4 @@ ifconfig.co:443
 /wp-includes/wp-red.php
 /wp-content/plugins/wordpresss3cll/wp-login.php
 /wp-admin/wp.php
+/wp-content/hplfuns.php
