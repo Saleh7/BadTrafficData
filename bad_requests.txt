@@ -15031,3 +15031,4 @@ ifconfig.co:443
 /.wp-cache.php
 /.fk.php
 /.alf.php
+/?gad_source=5&gclid=EAIaIQobChMIo5-Hg4LkiwMVoAeiAx2UBw33EAEYASAAEgIogfD_BwE
