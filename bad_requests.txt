@@ -14908,3 +14908,8 @@ ifconfig.co:443
 /wp-content/uploads/SXAWwW.php
 /wp-includes/class-wp-xmlrpc-server-other.php
 /uploads/cmd.php
+/system/elfinder/php/connector.minimal.php
+/adminarea/wisepay_log.php
+/bridge2cart/bridge_config.php
+/system/gws_filemanager/connector.minimal.php
+/igjs.php
