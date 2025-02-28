@@ -15042,3 +15042,4 @@ ifconfig.co:443
 /catalog/controller/extension/module/pfm.php
 /social-tool/assets/plugins/file-upload/server/php/
 /backdoor.php
+/?fbclid=PAZXh0bgNhZW0CMTEAAaaQQq8_RhXnk6nLh1jEPpZOq_8Ov6y9hLzkDR7DYd4Q5l49-8TbN9Cd9qs_aem_BasqPtdk5OjjjyQF79YSqA
