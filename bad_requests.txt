@@ -15044,3 +15044,4 @@ ifconfig.co:443
 /backdoor.php
 /?fbclid=PAZXh0bgNhZW0CMTEAAaaQQq8_RhXnk6nLh1jEPpZOq_8Ov6y9hLzkDR7DYd4Q5l49-8TbN9Cd9qs_aem_BasqPtdk5OjjjyQF79YSqA
 /?srsltid=AfmBOooUUlSGj9x-pBOWZENUuXk7HH84blxb5WODJ4NKXjd3S9zMIlUV
+/config.phpinfo
