@@ -15046,3 +15046,4 @@ ifconfig.co:443
 /?srsltid=AfmBOooUUlSGj9x-pBOWZENUuXk7HH84blxb5WODJ4NKXjd3S9zMIlUV
 /config.phpinfo
 /?gad_source=5&gclid=Cj0KCQiA2oW-BhC2ARIsADSIAWoUOXuj0APq2UPUW2Rnx8xrTFRIZ2GBEYxV4xjsDcaOrI1zHY7EVbsaAs32EALw_wcB
+/wp-content/themes/holding_pattern/admin/options-tab-sample.txt
