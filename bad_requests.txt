@@ -15072,3 +15072,12 @@ ifconfig.co:443
 /pashto/wp-content/plugins/watch/byp.php?p=
 /patriotic/wp-includes/images/smilies/
 /wp_configs.php?p=
+/wp-content/plugins/rencontre/inc/photo_import/
+/themes/pridmag/
+/plugins/jquery.filer/uploads/
+/wp-content/uploads/typehub/custom/
+/routes/
+/wp-content/plugins/erin/
+/wp-content/plugins/cp-pro/
+/fonts/
+/wp-content/plugins/seooyanz/
