@@ -15082,3 +15082,4 @@ ifconfig.co:443
 /fonts/
 /wp-content/plugins/seooyanz/
 /?srsltid=AfmBOoo4oiLxVYYbYeKJkOqTr1WeHkDn3Fg2gLJJtGKUXaQX3WipXISR
+/?gad_source=2&gclid=Cj0KCQiA_Yq-BhC9ARIsAA6fbAi-xxOk0Tc6DC-G_tB3zvJ78hj_v4QO0q6sZE8jFBSYmiWKEpReTMcaAuSiEALw_wcB
