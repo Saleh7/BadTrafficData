@@ -15092,3 +15092,4 @@ ifconfig.co:443
 /?srsltid=AfmBOore863daTNRTrBzmwbNAw5ORoDKrGAKoq0L1o9FpWHO0XqpA1Q2
 /?srsltid=AfmBOoohgFvsMuUdqBMTEyykDtzXHWn0F5Abp8Au5etXhJnnVirJsVov
 /smm.php
+/?gad_source=1&gclid=CjwKCAjwyJqzBhBaEiwAWDRJVByzOdaAsJ8hIIj3kpE_IWa1SGEtX5QXVbW0hn6bfKOu53O3HtYIPBoCVIwQAvD_BwE
