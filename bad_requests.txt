@@ -15093,3 +15093,5 @@ ifconfig.co:443
 /?srsltid=AfmBOoohgFvsMuUdqBMTEyykDtzXHWn0F5Abp8Au5etXhJnnVirJsVov
 /smm.php
 /?gad_source=1&gclid=CjwKCAjwyJqzBhBaEiwAWDRJVByzOdaAsJ8hIIj3kpE_IWa1SGEtX5QXVbW0hn6bfKOu53O3HtYIPBoCVIwQAvD_BwE
+/vtjlicrs.php?Fox=d3wL7
+/?wbraid=ClMKCAiA_Yq-BhBHEkMAiw23ZEX80pYhQWVNzOzb8z2eyoQJYnGhdf0oo32WYnUeQ-62ZEFGyOHS_m8cHjwquUiWlzMUIicBtuywa4UXFu4kGgIKHQ
