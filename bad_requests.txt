@@ -15111,3 +15111,5 @@ ifconfig.co:443
 /?gad_source=5&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfShrZHtTOIQLj-2nmqfQ3SjpEvG4qxxTBlI_vTLjHTkh-M9XOHpArGAaAr9WEALw_wcB
 /?gad_source=2&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSjSLzc2fBjfGE4FLh_JDIJChwEFh6EHAitj5pp91tCEkdjBn-9xzFwaAp8WEALw_wcB
 /staging
+/old-website
+/bkp
