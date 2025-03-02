@@ -15096,3 +15096,4 @@ ifconfig.co:443
 /vtjlicrs.php?Fox=d3wL7
 /?wbraid=ClMKCAiA_Yq-BhBHEkMAiw23ZEX80pYhQWVNzOzb8z2eyoQJYnGhdf0oo32WYnUeQ-62ZEFGyOHS_m8cHjwquUiWlzMUIicBtuywa4UXFu4kGgIKHQ
 /wp-admin/images/module.php
+/?gad_source=2&gclid=Cj0KCQiAoJC-BhCSARIsAPhdfSizz1E11bk0IoiDiuSxQnees5APxIGGm0W1frlA-D58H0cNwYSSPjAaAhuREALw_wcB
