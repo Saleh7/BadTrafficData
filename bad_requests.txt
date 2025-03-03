@@ -15118,3 +15118,4 @@ ifconfig.co:443
 /lfdmsgzq.php?Fox=d3wL7
 http://www.msftncsi.com/ncsi.txt
 /GetBalance/footboo
+/mg-core/mg-start.php
