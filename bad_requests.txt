@@ -15122,3 +15122,6 @@ http://www.msftncsi.com/ncsi.txt
 /admin/controller/extension/module/d8149e6795f5.php
 /GetApiList
 /figs-loso-gold-figs-30-50-cm?tag=30&page=18
+/assets/images/siteheads.php
+/wp-content/siteheads.php
+/ajax/siteheads.php
