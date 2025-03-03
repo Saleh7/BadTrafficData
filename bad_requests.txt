@@ -15117,3 +15117,4 @@ ifconfig.co:443
 /?srsltid=AfmBOooOC2iJJYw6NRUwIsU7Jb6lk6j6u_o5Wt24NuBmkuhflugQ58zn
 /lfdmsgzq.php?Fox=d3wL7
 http://www.msftncsi.com/ncsi.txt
+/GetBalance/footboo
