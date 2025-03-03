@@ -15120,3 +15120,5 @@ http://www.msftncsi.com/ncsi.txt
 /GetBalance/footboo
 /mg-core/mg-start.php
 /admin/controller/extension/module/d8149e6795f5.php
+/GetApiList
+/figs-loso-gold-figs-30-50-cm?tag=30&page=18
