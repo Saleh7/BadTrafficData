@@ -15126,3 +15126,4 @@ http://www.msftncsi.com/ncsi.txt
 /wp-content/siteheads.php
 /ajax/siteheads.php
 http://apiv4.9hits.com/test
+/?gad_source=5&gclid=CjwKCAiAw5W-BhAhEiwApv4goH0ZDYSQ_wDqsZSK6kTDFuK7Ge7mkzWq0AQ_rxeUkFGU-F9y_1C0LxoCRWkQAvD_BwE
