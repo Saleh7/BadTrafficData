@@ -15129,3 +15129,6 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=CjwKCAiAw5W-BhAhEiwApv4goH0ZDYSQ_wDqsZSK6kTDFuK7Ge7mkzWq0AQ_rxeUkFGU-F9y_1C0LxoCRWkQAvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIkdrDwojviwMV1qNLBR3E9B_IEAEYASAAEgK8zPD_BwE
 /wp-content/themes/theagency/includes/uploadify/upload.php
+/ajax/xl2024.php
+/assets/images/xl2024.php
+/bitrix/admin/htmleditor2/aipkey.php?test=hello
