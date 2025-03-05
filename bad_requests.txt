@@ -15148,3 +15148,15 @@ http://apiv4.9hits.com/test
 /static/common/webupload/server/preview.php
 /?srsltid=AfmBOooPmxqvCa_98HAEOAEPJ2FGDHSeqCCOChWUJ2b9yGuDrm2WOMhR
 /figs-loso-gold-figs-30-50-cm?tag=5&page=17
+/hj.php
+/df.php
+/chosen.phppload
+/.github/default.php
+/bn.php
+/bv.php
+/litespeed.php
+/.qiodeme.php
+/Files/index.php
+/yt.php
+/lp.php
+/bk.php
