@@ -15385,3 +15385,4 @@ http://apiv4.9hits.com/test
 /profile.php6
 /home.php?xsec=team2
 /Kenneth.php
+/?gad_source=5&gclid=EAIaIQobChMI54vQuv3ziwMVTXWkBB0PSw4qEAEYASAAEgKySPD_BwE
