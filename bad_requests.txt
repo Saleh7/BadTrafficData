@@ -15401,3 +15401,4 @@ http://apiv4.9hits.com/test
 /ouzxinuw.php?Fox=d3wL7
 /archive.zip
 /Backup.zip
+/system/logs/error.log
