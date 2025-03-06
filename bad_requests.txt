@@ -15399,3 +15399,5 @@ http://apiv4.9hits.com/test
 /restapi/.env
 /web/.env/wp-admin/.env
 /ouzxinuw.php?Fox=d3wL7
+/archive.zip
+/Backup.zip
