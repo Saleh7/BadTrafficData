@@ -15387,3 +15387,6 @@ http://apiv4.9hits.com/test
 /Kenneth.php
 /?gad_source=5&gclid=EAIaIQobChMI54vQuv3ziwMVTXWkBB0PSw4qEAEYASAAEgKySPD_BwE
 /?srsltid=AfmBOooEz4CwJBuDqQne3-fM-gu37aLYuSo6E8pa9lx-ZxbHJJayO-84
+/dev/
+/portal/
+/demo/
