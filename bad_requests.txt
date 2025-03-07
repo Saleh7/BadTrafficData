@@ -15406,3 +15406,12 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=EAIaIQobChMI1prZ6K72iwMVn5z9Bx2NOBFhEAEYASAAEgKYE_D_BwE
 /storage/app/.env
 /filemanager/php/connector.php
+/wp-includes/blocks/heading/autoload_classmap.php
+/xcc.php
+/wp-content/bk.php
+/classwithtostring.php/rbzccnnp.php/
+/wp-includes/theme-compat/autoload_classmap.php
+/wp-content/uploads/2023/10/autoload_classmap.php
+/wp-includes/style-engine/gecko-new.php
+/.well-known/acme-challenge/new.php
+/wp-content/uploads/2023/05/autoload_classmap.php
