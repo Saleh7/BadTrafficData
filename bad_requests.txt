@@ -15415,3 +15415,5 @@ http://apiv4.9hits.com/test
 /wp-includes/style-engine/gecko-new.php
 /.well-known/acme-challenge/new.php
 /wp-content/uploads/2023/05/autoload_classmap.php
+/index.php/.env
+/index.php/wp-content/
