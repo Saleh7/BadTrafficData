@@ -8179,3 +8179,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2800:a4:1ed7:4200:a1a1:1db7:a8b8:957b
 52.169.93.78
 2600:1f18:f97:ef00:5112:6eac:56e7:197e
+2001:16a4:20a:23b9:ec21:bd47:359b:aa3c
