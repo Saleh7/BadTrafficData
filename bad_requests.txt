@@ -15445,3 +15445,4 @@ http://apiv4.9hits.com/test
 /wp-includes/SimplePie/Content/Type/inputs.php
 /.well-known/acme-challenge/xBrain.php
 /wp-includes/content.php
+/images/index.php
