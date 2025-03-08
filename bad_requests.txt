@@ -15447,3 +15447,15 @@ http://apiv4.9hits.com/test
 /wp-includes/content.php
 /images/index.php
 /?srsltid=AfmBOoq2ECbAQgL1tJlPE2Ve_ltWUZhMuv0TELcdwkAYmYwTt6zFobBP
+/wp-includes/images/wlw/autoload_classmap.php
+/disoxrmons.php
+/wp-admin/ALFA_DATA/alfacgiapi/
+/wp-admin/maint/autoload_classmap.php
+/wp-links.php/wp-content/plugins/wp-content/uploads/wp_live_chat/
+/admin/controller/extension/extension/alfa-rex.php
+/wp-content/uploads/2022/07/
+/wp-content/mu-plugins-old/flower.php
+/wp-includes/images/media/autoload_classmap.php
+/modules/mod_simplefileuploadv1.3/elements/file.php
+/assets/autoload_classmap.php
+/wp-includes/interactivity-api/flower.php
