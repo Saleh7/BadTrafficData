@@ -15444,3 +15444,4 @@ http://apiv4.9hits.com/test
 /wp-includes/Requests/Transport/file.php
 /wp-includes/SimplePie/Content/Type/inputs.php
 /.well-known/acme-challenge/xBrain.php
+/wp-includes/content.php
