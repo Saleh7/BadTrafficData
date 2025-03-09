@@ -15467,3 +15467,5 @@ http://apiv4.9hits.com/test
 /api/Site/Get_Site_Info.php
 /adminstrator/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /site.zip
+/files.zip
+/wp.zip
