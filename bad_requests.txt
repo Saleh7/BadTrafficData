@@ -15513,3 +15513,16 @@ http://apiv4.9hits.com/test
 /wp-content/plugins/moon.php
 /wp-content/plugins/vs-admin-media/about.php
 /wp-content/gifshell.php
+/wp-admin/css/colors/coffee/wp-load.php
+/wp-includes/wp-includes/js/tinymce/themes/advanced/skins/default/wp.php
+/wp-content/plugins/elementor/includes/elements/index.php
+/ioxi-rex.php
+/wp-content/themes/wp-login.php
+/wp-admin/css/colors/sunrise/wp-admin.php
+/wp-content/plugins/litespeed-cache/assets/img/icons/index.php
+/wp-admin/css/colors/ectoplasm/wp-crons.php
+/wp-content/plugins/wp-file-manager/file_folder_manager.php
+/wp-includes/pomo/newup.php
+/wp-includes/Text/themes.php
+/wp-includes/style-engine/plugins.php
+/wp-includes/blocks/post-title/index.php
