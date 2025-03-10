@@ -15539,3 +15539,16 @@ http://apiv4.9hits.com/test
 /wp-includes/Text/plugins.php
 /wp-includes/js/tinymce/utils/wp-config-samples.php
 /ioxi-rex5.php7
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/wp_cron.php
+/wp-admin/css/colors/ocean/admin.php
+/wp-admin/css/colors/blue/xmlrpcs.php
+/wp-admin/css/colors/light/wp-load.php
+/wp-content/plugins/cyr2lat/lib/index.php
+/jga.php
+/wp-content/plugins/wp-email-log/include/Core/uc.php
+/wp-content/plugins/elementor/assets/lib/swiper/index.php
+/wp-content/j.php
+/wp-admin/css/colors/modern/lofter.php
+/wp-includes/ID3/moon.php
+/wp-admin/css/colors/ocean/lofter.php
+/wp-includes/style-engine/themes.php
