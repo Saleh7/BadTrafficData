@@ -15575,3 +15575,12 @@ http://apiv4.9hits.com/test
 /wp-admin/js/widgets/admin.php
 /wp-includes/widgets/plugins.php
 /wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/wp-admin.php
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/wp.php
+/wp-admin/css/colors/wp-admin.php
+/wp-includes/SimplePie/themes.php
+/wp-includes/css/plugins.php
+/wp-content/themes/twentytwentytwo/parts/about.php7
+/wp-admin/css/colors/sunrise/wp-crons.php
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/index.php
+/wp-admni/js/index.php
+/wp-content//license.php
