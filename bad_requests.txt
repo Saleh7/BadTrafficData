@@ -15502,3 +15502,14 @@ http://apiv4.9hits.com/test
 /wp-admin/css/colors/midnight/wp-crons.php
 /wp-content/plugins/elementor-pro/modules/gallery/assets/index.php
 /wp-content/themes/twentytwentytwo/parts/about.php
+/wp-content/plugins/js_composer/assets/fonts/vc_icons/fonts/index.php
+/modules/mod_webshell/mod_webshell.php
+/wp-includes/pomo/themes.php
+/wp-includes/SimplePie/Cache/lofter.php
+/wp-admin/css/colors/midnight/xmlrpcs.php
+/wp-admin/css/colors/blue/jsdindex.php
+/BypassBest.php
+/wp-load/SimplePie/IXR/met/met/wp.php
+/wp-content/plugins/moon.php
+/wp-content/plugins/vs-admin-media/about.php
+/wp-content/gifshell.php
