@@ -15489,3 +15489,16 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fVLT6IRayV7HYjD05FSUvYJkAK2i-9N_Z7rS3pGH9sxjg8C-k8d_loaAuRUEALw_wcB
 /?gad_source=5&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fUS1rxvNxCnT7jKAaaNUWi3mn0kCdPsV4_-XXOlPbnkd3KsFNXIKLsaAm0zEALw_wcB
 /?gad_source=5&gclid=Cj0KCQjwm7q-BhDRARIsACD6-fWEWI_Kh-RjIFWobiqY4BaT9zWGG3fG7R_DWu2ZMApNyncMjhZlBHYaAjShEALw_wcB
+/wp-content/plugins/elementor/assets/lib/font-awesome/migration/index.php
+/wp-content/plugins/wordpress-seo/admin/banner/index.php
+/wp-content/404.php
+/wp-includes/Requests/Text/footer.php
+/wp-includes/sodium_compat/plugins.php
+/wp-admin/css/colors/modern/wp-login.php
+/wp-content/themes/about.php7
+/wp-content/plugins/better-search-replace/languages/index.php
+/This_Shit_is_Fake.php
+/wp-content/plugins/elementor/core/editor/data/index.php
+/wp-admin/css/colors/midnight/wp-crons.php
+/wp-content/plugins/elementor-pro/modules/gallery/assets/index.php
+/wp-content/themes/twentytwentytwo/parts/about.php
