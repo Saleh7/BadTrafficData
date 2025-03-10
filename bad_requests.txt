@@ -15480,3 +15480,4 @@ http://apiv4.9hits.com/test
 /figs-loso-gold-figs-30-50-cm?tag=-&sort=pd.name&order=ASC
 /admin/assets/plugins/plugins/elrte/src/elrte.src.html
 /public/assets/plugins/plugins/elrte/src/elrte.src.html
+/include/fckeditor/editor/filemanager/upload/php/config.php
