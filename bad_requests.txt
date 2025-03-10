@@ -15526,3 +15526,16 @@ http://apiv4.9hits.com/test
 /wp-includes/Text/themes.php
 /wp-includes/style-engine/plugins.php
 /wp-includes/blocks/post-title/index.php
+/wp-includes/SimplePie/Parse/themes.php
+/css/bak.php
+/wp-admin/css/colors/light/admin.php
+/wp-admin/images/revision.php
+/wp-content/plugins/duplicator/installer/dup-installer/src/index.php
+/modules/mod_simplefileuploadv1.3/elements/text.php
+/wp-includes/block-patterns/plugins.php
+/wp-admin/css/colors/blue/wp-crons.php
+/wp-content/ty.php
+/theme-inshpvx.php
+/wp-includes/Text/plugins.php
+/wp-includes/js/tinymce/utils/wp-config-samples.php
+/ioxi-rex5.php7
