@@ -15564,3 +15564,14 @@ http://apiv4.9hits.com/test
 /wp-content/themes/twentytwentyone/assets/sass/05-blocks/tag-clould/load.php
 /wp-admin/img/php-compat/blocks/themes/index.php
 /wp-includes/blocks/calendar/updates.php
+/wp-content/uploads/ty.php
+/wp-content/BypassBest.php
+/wp-admin/css/colors/light/load.php
+/plugins/background-image-cropper/ups.php
+/wp-content//autoload_classmap.php
+/wp-content/plugins/elementor/modules/shapes/index.php
+/wp-admin/css/colors/midnight/wp-admin.php
+/.well-known/pki-validation/wp-hudbud.php
+/wp-admin/js/widgets/admin.php
+/wp-includes/widgets/plugins.php
+/wordpress-seo/vendor/xrstf/composer-php52/lib/xrstf/Composer52/wp-admin.php
