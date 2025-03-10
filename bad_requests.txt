@@ -15483,3 +15483,5 @@ http://apiv4.9hits.com/test
 /include/fckeditor/editor/filemanager/upload/php/config.php
 /bugz.php
 /wp-admin/user/cloud.php/config.php
+/he.php
+/makeasmtp.php/payment.php
