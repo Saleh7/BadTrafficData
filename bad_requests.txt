@@ -15482,3 +15482,4 @@ http://apiv4.9hits.com/test
 /public/assets/plugins/plugins/elrte/src/elrte.src.html
 /include/fckeditor/editor/filemanager/upload/php/config.php
 /bugz.php
+/wp-admin/user/cloud.php/config.php
