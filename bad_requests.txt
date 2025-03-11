@@ -15598,3 +15598,5 @@ http://apiv4.9hits.com/test
 /fnbfbmjq.php?Fox=d3wL7
 /figs-loso-gold-figs-30-50-cm?tag=-&sort=p.sort_order&order=ASC&page=4
 /?gad_source=5&gclid=EAIaIQobChMI__bMuf2CjAMVDug7Ah1SUCDCEAEYASAAEgImXvD_BwE
+/?gad_source=5&gclid=EAIaIQobChMI7vCpu_-CjAMVvCr7Ax0PHyRqEAEYASAAEgIu1_D_BwE
+/?gad_source=5&gclid=EAIaIQobChMI2ND1xP-CjAMVByIGAB3TbDNLEAEYASAAEgIzovD_BwE
