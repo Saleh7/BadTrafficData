@@ -15587,3 +15587,7 @@ http://apiv4.9hits.com/test
 /wp-includes/Requests/Text/radio.php
 /wp-admin/css/colors/ectoplasm/jsdindex.php
 /figs-loso-gold-figs-30-50-cm?tag=cm
+/users.zip
+/dbase.zip
+/dbadmin.zip
+/db_backup.zip
