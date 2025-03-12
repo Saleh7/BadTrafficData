@@ -15608,3 +15608,5 @@ http://apiv4.9hits.com/test
 /admin/assets/global/plugins/elrte/src/elrte.src.html
 /JS
 /e69ovfsr.php/aleXus.php
+/?gad_source=5&gclid=EAIaIQobChMIw-yh3rmFjAMV4VoPAh0TOAhkEAEYASAAEgI5GvD_BwE
+/?gad_source=5&gclid=EAIaIQobChMIycrw9LmFjAMVsmAPAh0VGB6vEAEYASAAEgKkwvD_BwE
