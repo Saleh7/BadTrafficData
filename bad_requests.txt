@@ -15606,3 +15606,4 @@ http://apiv4.9hits.com/test
 /assets/admin/plugins/elrte/src/elrte.src.html
 /public/plugins/elrte/src/elrte.src.html
 /admin/assets/global/plugins/elrte/src/elrte.src.html
+/JS
