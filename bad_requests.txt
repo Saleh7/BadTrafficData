@@ -15603,3 +15603,6 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=EAIaIQobChMI67mM14CDjAMVEk2kBB2Q1g6dEAEYASAAEgKoVPD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIraGc9oSDjAMVMscWBR13bwsNEAEYASAAEgKfKfD_BwE
 /pthnwfgf.php?Fox=d3wL7
+/assets/admin/plugins/elrte/src/elrte.src.html
+/public/plugins/elrte/src/elrte.src.html
+/admin/assets/global/plugins/elrte/src/elrte.src.html
