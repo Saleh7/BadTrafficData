@@ -15617,3 +15617,7 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=Cj0KCQjw4cS-BhDGARIsABg4_J1aVREi29GcHigg2mqr8A7LUh8XkUE-af4XQHGotbjcgchUEznl3gsaAnOyEALw_wcB
 /assets/components/ms2form/vendor/plugins/elrte/src/elrte.src.html
 /assets/developer/plugins/elrte/src/elrte.src.html
+/tmp/.env
+/files/.env
+/example/.env
+/libs/.env
