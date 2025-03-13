@@ -15630,3 +15630,5 @@ http://apiv4.9hits.com/test
 /source/.env
 /back/.env
 /server/.env
+/category-name/product-name/
+/category-name/product-name
