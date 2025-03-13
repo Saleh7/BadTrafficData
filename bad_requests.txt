@@ -15621,3 +15621,12 @@ http://apiv4.9hits.com/test
 /files/.env
 /example/.env
 /libs/.env
+/news/.env
+/account/.env
+/user/.env
+/projects/.env
+/environment/.env
+/engine/.env
+/source/.env
+/back/.env
+/server/.env
