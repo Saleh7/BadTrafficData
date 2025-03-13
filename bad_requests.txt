@@ -15632,3 +15632,4 @@ http://apiv4.9hits.com/test
 /server/.env
 /category-name/product-name/
 /category-name/product-name
+/?gad_source=5&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0Kd-bI7i4t1EgCWakkRZA2jFXMIlxM_6q2gr8XKxukIWbSfpdTUeBt8aAiEnEALw_wcB
