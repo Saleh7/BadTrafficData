@@ -15655,3 +15655,6 @@ http://apiv4.9hits.com/test
 /figs-loso-gold-figs-30-50-cm?tag=-&page=109
 /wp-content/plugins/sakolawp-lite/readme.txt
 /figs-loso-gold-figs-30-50-cm?tag=30&page=25
+/assets/lib/plugins/elrte/src/elrte.src.html
+/theme/assets/global/plugins/elrte/src/elrte.src.html
+/theme/assets/plugins/elrte/src/elrte.src.html
