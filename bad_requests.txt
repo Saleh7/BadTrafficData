@@ -15672,3 +15672,4 @@ http://apiv4.9hits.com/test
 /?gclid=Cj0KCQjwk6SwBhDPARIsAJ59GwefOzVCxIgHg3vI7IIYGFhobuLEpNafF_V1ASi1iJaDyneKHpBfsbgaAu-MEALw_wcB
 /wkujywxs.php?Fox=d3wL7
 /?gad_source=1&gclid=EAIaIQobChMIu6aky9CKjAMVq6doCR21QwYuEAMYASAAEgKWNPD_BwE
+/shop/wp-admin/install.php
