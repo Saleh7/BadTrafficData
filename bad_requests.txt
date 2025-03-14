@@ -15658,3 +15658,4 @@ http://apiv4.9hits.com/test
 /assets/lib/plugins/elrte/src/elrte.src.html
 /theme/assets/global/plugins/elrte/src/elrte.src.html
 /theme/assets/plugins/elrte/src/elrte.src.html
+/figs-loso-gold-figs-30-50-cm?tag=30-&page=4
