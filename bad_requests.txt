@@ -15654,3 +15654,4 @@ http://apiv4.9hits.com/test
 /?gad_source=2&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KcG4CiwqsFc6R5yu7JW6V6eHJV8o1OTG39wVfDl8ACsvtK9ptKO7awaAhsQEALw_wcB
 /figs-loso-gold-figs-30-50-cm?tag=-&page=109
 /wp-content/plugins/sakolawp-lite/readme.txt
+/figs-loso-gold-figs-30-50-cm?tag=30&page=25
