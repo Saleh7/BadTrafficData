@@ -15887,3 +15887,5 @@ http://apiv4.9hits.com/test
 /wp-includes/style-engine/wp-conflg.php
 /wp-includes/js/chosen.php
 /wp-includes/IXR/chosen.php
+/hg.php
+/wp-includes/ID3/wp-conflg.php
