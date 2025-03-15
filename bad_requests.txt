@@ -15885,3 +15885,5 @@ http://apiv4.9hits.com/test
 /bkp.zip
 /blog.zip
 /wp-includes/style-engine/wp-conflg.php
+/wp-includes/js/chosen.php
+/wp-includes/IXR/chosen.php
