@@ -15879,3 +15879,5 @@ http://apiv4.9hits.com/test
 /?gad_source=2&gclid=Cj0KCQjwytS-BhCKARIsAMGJyzpRT6XEOATy4PLQYf27OBIFODbSLC07ZXwJUm0pzy5BJpbH4Kdje7caAi8xEALw_wcB
 /?gad_source=2&gclid=Cj0KCQjwytS-BhCKARIsAMGJyzpoHbLY3EZ2N_mvVtGavdD3AmgS347fzxfW_HovI53xLQt6R2iyATsaAo1rEALw_wcB
 /figs-loso-gold-figs-30-50-cm?tag=50&page=20
+/admin/&quote_id=2
+/admin/&quote_id=1
