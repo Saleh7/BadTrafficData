@@ -15892,3 +15892,4 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=EAIaIQobChMIiPjZ3Y6NjAMVHId8Bh0auBLyEAEYASAAEgKwjvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIxfq1qY6NjAMVy1n2CB3MHztcEAEYASAAEgLtafD_BwE
 /downloader
+/wp-content/plugins/k-elements/readme.txt
