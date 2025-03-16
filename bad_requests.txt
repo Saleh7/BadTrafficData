@@ -15893,3 +15893,4 @@ http://apiv4.9hits.com/test
 /?gad_source=5&gclid=EAIaIQobChMIxfq1qY6NjAMVy1n2CB3MHztcEAEYASAAEgLtafD_BwE
 /downloader
 /wp-content/plugins/k-elements/readme.txt
+/admin/view/stylesheet/scss/_buttons.scss
