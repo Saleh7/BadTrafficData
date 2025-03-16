@@ -15902,3 +15902,4 @@ http://apiv4.9hits.com/test
 /figs-loso-gold-figs-30-50-cm?tag=-&page=107
 /ogosfaxt.php?Fox=d3wL7
 /fresh.php
+/?gad_source=5&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v_13PxB7I_GNYq4urb6GoX4ppdSdiuTxNyN2-fOWaqtftTKu3jfdqEaAmjiEALw_wcB
