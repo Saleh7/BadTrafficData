@@ -15914,3 +15914,4 @@ http://apiv4.9hits.com/test
 /pms?module=logging&file_name=../../../../../../~/.aws/credentials&number_of_lines=10000
 /admin/config?cmd=cat+/root/.aws/credentials
 /figs-loso-gold-figs-30-50-cm?tag=30&page=10
+/components/com_jbusinessdirectory/assets/upload.php
