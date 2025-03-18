@@ -16131,3 +16131,6 @@ http://apiv4.9hits.com/test
 /1975.php?shell=1975
 /wp-content/bak.php
 /wp-includes/Xl2023.php
+/ALFA_DATA/alfacgiapi/alfa.php
+/js/file.php
+/wp-includes/ms-controller.php
