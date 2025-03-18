@@ -16135,3 +16135,4 @@ http://apiv4.9hits.com/test
 /js/file.php
 /wp-includes/ms-controller.php
 /system/lightning/tetha.php
+/wp-content/plugins/noveldesign-store-directory/readme.txt
