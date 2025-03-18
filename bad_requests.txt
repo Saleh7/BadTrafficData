@@ -16138,3 +16138,4 @@ http://apiv4.9hits.com/test
 /wp-content/plugins/noveldesign-store-directory/readme.txt
 /gxgxglrj.php?Fox=d3wL7
 /figs-loso-gold-figs-30-50-cm?tag=5&page=27
+/?gad_source=2&gclid=Cj0KCQjws-S-BhD2ARIsALssG0alFZYrmfGQkqXtt0RwUwb6CPjAdt0pN7BqhN7o6q7epZ-Bh1md-ucaAn-XEALw_wcB
