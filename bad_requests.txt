@@ -15917,3 +15917,10 @@ http://apiv4.9hits.com/test
 /components/com_jbusinessdirectory/assets/upload.php
 /?gad_source=2&gclid=EAIaIQobChMIq9-giYqSjAMVf8Z5BB2NDzikEAAYASAAEgJ3bvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIqNLp-4-SjAMVP1KkBB3_YS3OEAEYASAAEgJ2WfD_BwE
+/wp-includes/rest-api/class-wp-rest-report.php
+/.well-known/pki-validation/auewvtet.php
+/css/themes.php
+/wp-admin/css/dropdown.php
+/wp-content/cong.php?p=
+/wp-includes/fomVcETigXz.php
+/wp-includes/pomo/breess.php
