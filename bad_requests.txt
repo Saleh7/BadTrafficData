@@ -16362,3 +16362,4 @@ http://apiv4.9hits.com/test
 /wp-includes/ms.phtml
 /wp-includes/rest-api/about.php/ynz.PhP7
 /print/bk/index.php
+/.well-kn
