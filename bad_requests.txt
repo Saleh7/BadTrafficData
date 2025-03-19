@@ -16236,3 +16236,8 @@ http://apiv4.9hits.com/test
 /?gad_source=2&gclid=Cj0KCQjws-S-BhD2ARIsALssG0bFknGhnXrzjfTXAQ8AYb9nKxakk8TsAhysnINkt_gXTmMNFvBTXxQaAi1sEALw_wcB
 /?gad_source=5&gclid=EAIaIQobChMIyPDas8qUjAMVs5CsAh0DgBKGEAEYASAAEgLNQfD_BwE
 /?gad_source=5&gclid=EAIaIQobChMIt8i3ptKUjAMVsWAPAh2URxvGEAEYASAAEgIkrfD_BwE
+/wp-includes/all.php
+/wp/wp-admin/includes/wp-admin/install.php
+/wp-admin/css/item.php
+/alfacgiapi/alfa.php
+/wp-admin/ovavzjyly.php
