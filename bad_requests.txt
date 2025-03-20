@@ -16395,3 +16395,7 @@ http://www.chinaso.com/?0.1919440362565055241989328
 /adminer-4.0.1.php
 /adminer-4.1.0-en.php
 /adminer-4.2.1.php
+/adminer462.php
+/mysql.php/adminer2.php
+/adminer_new.php
+/adminer-4.php
