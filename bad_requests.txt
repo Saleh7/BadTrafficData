@@ -16403,3 +16403,5 @@ http://www.chinaso.com/?0.1919440362565055241989328
 /admin/assets/elrte/src/elrte.src.html
 /assets/filemanager/php/connector.minimal.php
 /camera-cgi/admin/param.cgi?action=list&group=Properties.Image
+/e69ovfsr.php/install.php
+/aaa.php/getid3-core.php
