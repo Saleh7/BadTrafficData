@@ -16407,3 +16407,5 @@ http://www.chinaso.com/?0.1919440362565055241989328
 /aaa.php/getid3-core.php
 /configuracion.php
 /tminovkz.php?Fox=d3wL7
+http://www.chinaso.com/?0.477616888621123469115139256
+http://www.konpn.com/?0.17664665400794295010555872
