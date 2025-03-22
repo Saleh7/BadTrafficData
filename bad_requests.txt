@@ -16462,3 +16462,4 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /wp-includes/ID3/simple.php
 /wp/wp-admin/xleet.php
 /wp-content/uploads/aaa.php
+/wso.php/wp-includes/images/wp-login.php
