@@ -16457,3 +16457,6 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /figs-loso-gold-figs-30-50-cm?tag=30-&page=8
 /?srsltid=AfmBOorW1IUG9vDM_cAIucdVVyraAyctgVOTJq4Fr0XE-Vt0tPERcmDn
 /figs-loso-gold-figs-30-50-cm?tag=3&page=18
+/wp-content/install.php/wp-admin/includes/xmrlpc.php?p=
+/wsa.php/wp-admin/css/about.php
+/wp-includes/ID3/simple.php
