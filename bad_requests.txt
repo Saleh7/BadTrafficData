@@ -16520,3 +16520,11 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /.well-known/awraulub.php
 /wp-admin/pages.php
 /wp-content/plugins/linkpreview/custom-plugin.php
+/wp-includes/images/sxo.php
+/wp-includes/Requests/sxo.php
+/wp-includes/js/plupload/wp-admin.php
+/wp-includes/images/smilies/dVSRAByORS.php
+/wp-includes/Requests/chosen.php
+/wp-content/themes/seotheme/custom-plugin.php
+/wp-includes/mtnidwgu.php
+/wp-includes/dkmjxfdu.php
