@@ -16543,3 +16543,4 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /wp-content/bk/index.php
 /wp-content/themes/bk/index.php
 /wp-content/plugins/bk/index.php
+/wp-content/uploads/bk/index.php
