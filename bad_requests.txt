@@ -16570,3 +16570,4 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /shell.php?p=
 /public/makeasmtp.php?p=
 /wp-content/plugins/about.php?p=
+/ws.php?p=
