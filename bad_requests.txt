@@ -16562,3 +16562,8 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /oxnyomau.php?Fox=d3wL7
 /?gad_source=5&gclid=EAIaIQobChMI3q7FgvCmjAMVsCUGAB0-WS8cEAEYASAAEgIE8_D_BwE
 /wp-content/themes/fitnessbase/404.php
+/link.php?p=
+/chosen?p=
+/404.php?p=
+/.well-known/acme-challenge/about.php?p=
+/class.api.php?p=
