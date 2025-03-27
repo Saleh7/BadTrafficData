@@ -16855,3 +16855,8 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /de/internet.php
 /wp-admin/css/colors/sunrise/about.php
 /wp-content/plugins/WordPressCore/fm.php
+/.well-known/pki-validation/content.php.suspected
+/wp-admin/js//wp-admin/js/about.php
+/assets/bypass.php
+/new/transjule.php
+/wp-content/upgrade/upfile.php
