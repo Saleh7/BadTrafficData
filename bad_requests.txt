@@ -16899,3 +16899,15 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /storage/framework/sessions/
 /db.ini
 /config.old.php
+/logs/error.php
+/var/log/system.log
+/var/log/exception.log
+/var/logs/prod.log
+/configuration.php~
+/sites/all/themes/
+/config/routes.yaml
+/api-docs
+/var/logs/dev.log
+/config/packages/
+/web/config.php
+/sites/all/modules/
