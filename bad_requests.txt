@@ -16924,3 +16924,17 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /ukzsukix.php?Fox=d3wL7
 /?gad_source=5&gclid=EAIaIQobChMI2_3xpJiwjAMVxYuDBx3MugY0EAEYASAAEgJeVvD_BwE
 /admin/controller/module/twittertl.php
+/settings.env
+/storage/oauth-private.key
+/secret/.env
+/data/aws/credentials
+/db/.env
+/private/.env
+/storage/oauth-public.key
+/hidden/.env
+/symfony/.env
+/config/config.env
+/backups/.env
+/config/settings.env
+/wordpress/.env
+/config/config.yml
