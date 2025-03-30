@@ -17218,3 +17218,16 @@ pro.ip-api.com:443
 /metadata/computeMetadata/v1
 /internal/api
 /internal/proxy
+/webdav/info.php
+/scripts/phpinfo.php
+/tests/test-become/.env
+/webdav/phpinfo
+/information.php
+/script/.env
+/phpinformation
+/cms/.env
+/fedex/.env
+/enviroments/.env
+/webdav/phpinfo.php
+/live_env
+/rest/.env
