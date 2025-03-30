@@ -17208,3 +17208,9 @@ pro.ip-api.com:443
 /wp-content/plugins/Duplicatepost/src/ui/sidwso.ph
 /?gad_source=5&gclid=EAIaIQobChMI1LzO7NmyjAMVgmqRBR1OpQU7EAEYASAAEgJPVvD_BwE
 /?gad_source=5&gclid=Cj0KCQjw16O_BhDNARIsAC3i2GCSNzv8qKos1gVf5X2UOPe9BEIfG-3C3LmEPUwhmjf_8AJzI6eaXCkaAmnREALw_wcB
+/admin/internal/api
+/api/proxy
+/api/v2/proxy
+/computeMetadata/v1
+/api/v1/proxy
+/admin/proxy
