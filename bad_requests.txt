@@ -17007,3 +17007,15 @@ http://www.chinaso.com/?0.145715933928683196010916160
 /api/test
 /api/token
 /aws/metadata/iam
+/api-gateway/config.yaml
+/api-gateway/.env.dev
+/s3/.env.bak
+/.s3cfg.bak
+/api-gateway/.env.bak
+/api-gateway/.env.staging
+/api-gateway/.env.production
+/api-gateway/.env
+/s3/.env
+/s3-credentials.bak
+/api-gateway/.env.local
+/api-gateway/config.yml
