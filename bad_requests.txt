@@ -17214,3 +17214,7 @@ pro.ip-api.com:443
 /computeMetadata/v1
 /api/v1/proxy
 /admin/proxy
+/computeMetadata/v1beta1
+/metadata/computeMetadata/v1
+/internal/api
+/internal/proxy
