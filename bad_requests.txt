@@ -17267,3 +17267,4 @@ pro.ip-api.com:443
 /jh.sa.zip
 /?srsltid=AfmBOor9hqlGD4Fg2qX_EJ2BEOtB1iAU_1voWVfJSy4KFUa0skKBjZDY
 /OVA-UNAME.php
+/plugins/html5-file-upload/html5fileupload.remove.php
