@@ -17263,3 +17263,5 @@ pro.ip-api.com:443
 /auth/bigquery
 /examples/with-dotenv/.env
 /kai.html
+/jhsa.zip
+/jh.sa.zip
