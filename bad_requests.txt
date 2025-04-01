@@ -17268,3 +17268,14 @@ pro.ip-api.com:443
 /?srsltid=AfmBOor9hqlGD4Fg2qX_EJ2BEOtB1iAU_1voWVfJSy4KFUa0skKBjZDY
 /OVA-UNAME.php
 /plugins/html5-file-upload/html5fileupload.remove.php
+/lib/jquery-file-upload/server/php/
+/assets/themes/metronic/global/jquery-file-upload/server/php/
+/js/jquery-file-upload/server/php/
+/assets/libs/jquery-file-upload/server/php/
+/coloradmin/assets/plugins/jquery-file-upload/server/php/
+/assets/lib/jquery-file-upload/server/php/
+/app/webroot/global/plugins/jquery-file-upload/server/php/
+/resources/global/plugins/jquery-file-upload/server/php/
+/metronic/assets/global/plugins/jquery-file-upload/server/php/
+/assets/backend/plugins/jquery-file-upload/server/php/
+/plugins/jquery-file-upload/server/php/
