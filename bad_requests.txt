@@ -17291,3 +17291,4 @@ pro.ip-api.com:443
 /QI5t7U
 /alfa.php?solevisible
 /dtgkircl.php?Fox=d3wL7
+/?gad_source=5&gclid=EAIaIQobChMIyJ_Etd-3jAMV6p5QBh1XrSM3EAEYASAAEgJanvD_BwE
