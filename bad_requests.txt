@@ -17279,3 +17279,8 @@ pro.ip-api.com:443
 /metronic/assets/global/plugins/jquery-file-upload/server/php/
 /assets/backend/plugins/jquery-file-upload/server/php/
 /plugins/jquery-file-upload/server/php/
+/public/javascript/jquery.upload/server/php/
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/
+/formcraft/file-upload/server/php/
+/coaster/jquery/gallery-upload/server/php/
+/assets/color_admin/plugins/jquery-file-upload/server/php/
