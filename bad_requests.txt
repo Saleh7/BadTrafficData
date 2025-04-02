@@ -17305,3 +17305,5 @@ pro.ip-api.com:443
 /?gad_source=5&gclid=CjwKCAjwwLO_BhB2EiwAx2e-31xPHbR-KrzjeZT8opi4Og8h9LtzlWSzksp_BA_hqdjJolpslFn3ihoCAioQAvD_BwE
 /?gad_source=5&gclid=EAIaIQobChMI87LHj6O6jAMVvMw7Ah04DSSgEAEYASAAEgICnfD_BwE
 /?gad_source=5&gclid=CjwKCAjwwLO_BhB2EiwAx2e-36AwxGd_h_IZXg-hSuKTdMMxzLSbbH5IICb6g7jzxSyfSJSN0rQp6xoCl2cQAvD_BwE
+/wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:head+-1+/etc/passwd:NULL:NULL
+/wp-admin/admin-post.php?swp_debug=load_options&swp_url=<pre>system('cat
