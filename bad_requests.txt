@@ -17308,3 +17308,4 @@ pro.ip-api.com:443
 /wp-admin/admin-ajax.php?action=upg_datatable&field=field:exec:head+-1+/etc/passwd:NULL:NULL
 /wp-admin/admin-post.php?swp_debug=load_options&swp_url=<pre>system('cat
 /wp-content/uploads/kaswara/fonts_icon/ihougw/hc.php
+/?fbclid=IwZXh0bgNhZW0CMTEAAR2XfC52wZEweBw2Lp9CKlGdZWxxXfrS6-vXqNZ9AvQKGE3OX7TXBZQl07Y_aem_VoshcdzXM1MYjnjRzQ2NRg
