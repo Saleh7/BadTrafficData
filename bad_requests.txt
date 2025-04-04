@@ -17343,3 +17343,8 @@ pro.ip-api.com:443
 /docker_run.sh
 /envrc
 /printenv
+/.env-sample
+/.env.development.sample
+/printenv.tmp
+/.env.2
+/.env.test.sample
