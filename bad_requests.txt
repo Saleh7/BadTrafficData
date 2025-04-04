@@ -17353,3 +17353,6 @@ pro.ip-api.com:443
 /admin/inde
 /admin/in
 /adminer.php/adminer.php
+/vrepxtji.php?Fox=d3wL7
+/config/actuator;
+/admin/actuator;
