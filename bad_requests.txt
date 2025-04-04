@@ -17356,3 +17356,9 @@ pro.ip-api.com:443
 /vrepxtji.php?Fox=d3wL7
 /config/actuator;
 /admin/actuator;
+/api/actuator;
+/api/v1/actuator
+/gateway
+/api/actuator
+/gateway/actuator
+/admin/actuator
