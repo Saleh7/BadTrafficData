@@ -17350,3 +17350,5 @@ pro.ip-api.com:443
 /.env.test.sample
 /database_backup.sql
 /db/schema.rb
+/admin/inde
+/admin/in
