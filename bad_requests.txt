@@ -17369,3 +17369,8 @@ pro.ip-api.com:443
 /administrator.zip
 /administration.zip
 /root.zip
+/api/v1/actuator;
+/actuator
+/gateway/actuator;
+/management/actuator
+/config/actuator
