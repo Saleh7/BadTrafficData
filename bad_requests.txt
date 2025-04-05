@@ -17374,3 +17374,4 @@ pro.ip-api.com:443
 /gateway/actuator;
 /management/actuator
 /config/actuator
+/_next/static/chunks/app/
