@@ -17363,3 +17363,5 @@ pro.ip-api.com:443
 /gateway/actuator
 /admin/actuator
 /sukyotsr.php?Fox=d3wL7
+/modules/mod_araticlws/mod_araticlws.php
+/modules/mod_ariimageslidersa/mod_ariimageslidersa.php
