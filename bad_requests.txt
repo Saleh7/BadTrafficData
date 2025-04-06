@@ -17407,3 +17407,9 @@ pro.ip-api.com:443
 /admin.php?520
 /home/newsr.php
 /wp-includes/class-wp-cache.php
+/ern.PhP7
+/assets/atomlib.php
+/wp-content/plugins/WordPressCore/cong.php
+/wp-includes/Text/Diff/Engine/com_search.php
+/assets/wp-blog.php
+/vendor/phpunit/phpunit/src/Util/PHP/a.php
