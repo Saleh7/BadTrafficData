@@ -17403,3 +17403,4 @@ pro.ip-api.com:443
 /wp-content/languages/index.php.suspected
 /wp-content/plugins/seoo/alfa-rex.php
 /wp-content/plugins/widget-logic/ui.php
+/tools/upload_ajax.ashx?action=uploadimage
