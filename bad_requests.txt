@@ -17399,3 +17399,7 @@ pro.ip-api.com:443
 /wp-admin/user/1.php
 /.well-known/pki-validation/mar.php
 /wp-admin/css/colors/blue/blkaabkj.php
+/.well-known/kwggvpup.php
+/wp-content/languages/index.php.suspected
+/wp-content/plugins/seoo/alfa-rex.php
+/wp-content/plugins/widget-logic/ui.php
