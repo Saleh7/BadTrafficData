@@ -17391,3 +17391,7 @@ pro.ip-api.com:443
 /wp-admin/css/colors/coffee/themes.php.hacked
 /wp-admin/maint/src_api.php
 /wp-content/uploads/option.php
+/wp-includes/Text/Diff/Renderer/install.php
+/wp-includes/css/dist/components/nomox.php.suspected
+/wp-content/plugins/backup-backup/includes/438788106...php
+/wp-includes/amaxx.php
