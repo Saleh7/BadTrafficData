@@ -17405,3 +17405,5 @@ pro.ip-api.com:443
 /wp-content/plugins/widget-logic/ui.php
 /tools/upload_ajax.ashx?action=uploadimage
 /admin.php?520
+/home/newsr.php
+/wp-includes/class-wp-cache.php
