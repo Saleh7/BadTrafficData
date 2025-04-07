@@ -17434,3 +17434,4 @@ http://ip-api.com/json/
 /Suhol.zip
 /Suhol.sa.zip
 /alexusmailer2.0.php
+/?gad_source=2&gclid=Cj0KCQjw782_BhDjARIsABTv_JA-R1NydpxcSufvWYHitQ7dFLaf88qpYedodhfLsZ6mdfVIZoNwtbMaAjorEALw_wcB
