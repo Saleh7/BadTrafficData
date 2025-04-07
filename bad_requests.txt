@@ -17428,3 +17428,4 @@ http://ip-api.com/json/
 /Shiddi.zip
 /Web.zip
 /Public_html.zip
+/?gad_source=2&gclid=Cj0KCQjw782_BhDjARIsABTv_JBsDJ8CEwesNBcKu-MJB58pJ4Bxqmub60Ahv_xTS_SO-h8aNu53LhgaAgqTEALw_wcB
