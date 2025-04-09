@@ -17529,3 +17529,11 @@ http://ip-api.com/json/
 /dotfiles/.env
 /.msmtprc
 /acme-challenge/.env
+/cgi-bin/mt/RxR.php
+/cgi-bin/RxR.php
+/mt/RxR.php
+/cgi-bin/mt-xmlrpc.cgi
+/cgi-bin/MT/RxR.php
+/mt/mt-xmlrpc.cgi
+/mt-xmlrpc.cgi
+/cgi-bin/MT/mt-xmlrpc.cgi
