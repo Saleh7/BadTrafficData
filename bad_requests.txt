@@ -17519,3 +17519,6 @@ http://ip-api.com/json/
 /scripts/
 /?srsltid=AfmBOoploXi-xCnL_VE5bLVXW1S76HgaFxhu6PaA58oM24J0iKq679o8
 /figs-loso-gold-figs-30-50-cm?tag=fig
+/wp-admin/css/colors/blue/index.php/
+/.well-known/file.php/
+/wp-content/plugins/xt
