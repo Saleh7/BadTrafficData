@@ -17522,3 +17522,10 @@ http://ip-api.com/json/
 /wp-admin/css/colors/blue/index.php/
 /.well-known/file.php/
 /wp-content/plugins/xt
+/pub/.env
+/?pp=env
+/acme_challenges/.env
+/bootstrap/.env
+/dotfiles/.env
+/.msmtprc
+/acme-challenge/.env
