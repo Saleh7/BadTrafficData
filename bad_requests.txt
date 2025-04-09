@@ -17555,3 +17555,7 @@ http://ip-api.com/json/
 /blog/RxR.php
 /blog/mt-xmlrpc.cgi
 /wp/mt-xmlrpc.cgi
+/WP/mt-xmlrpc.cgi
+/BLOG/mt-xmlrpc.cgi
+/BLOG/RxR.php
+/WP/RxR.php
