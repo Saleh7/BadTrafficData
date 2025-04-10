@@ -17568,3 +17568,4 @@ http://ip-api.com/json/
 http://142.250.186.206/
 http://www.google.com/
 /wp-content/uploads/kaswara/fonts_icon/lrdroj/rc.php
+/wp-admin/css/colors/ocean
