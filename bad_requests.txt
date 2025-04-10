@@ -17567,3 +17567,4 @@ http://ip-api.com/json/
 /?gclid=CjwKCAiA6KWvBhAREiwAFPZM7rvtTrpftq7cWqvmCUgnJnTkktsV5Ary_LYFxFH1IGGEURYV05uxVxoCZ8IQAvD_BwE
 http://142.250.186.206/
 http://www.google.com/
+/wp-content/uploads/kaswara/fonts_icon/lrdroj/rc.php
