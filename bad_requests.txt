@@ -17559,3 +17559,7 @@ http://ip-api.com/json/
 /BLOG/mt-xmlrpc.cgi
 /BLOG/RxR.php
 /WP/RxR.php
+/graphql.php
+/graphql/graphiql.php
+/graphql/graphiql
+/api/gql
