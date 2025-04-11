@@ -17662,3 +17662,7 @@ http://www.google.com/
 /rss/order/new/
 /service/extdirect/
 /block-supports/
+/wp-admin/ALFA_DATA/alfacgiapi/perl.alfa
+/ALFA_DATA/alfacgiapi/r57.php
+/vesiw.php
+/wp-includes/lx.php
