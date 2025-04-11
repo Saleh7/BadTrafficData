@@ -17675,3 +17675,5 @@ http://www.google.com/
 /sslvpnclient?launchplatform=mac&neProto=3&supportipv6=yes
 /global-protect/prelogin.esp?tmp=tmp&clientVer=4100&clientos=Windows
 /wgcgi.cgi?action=sslvpn_web_logon
+/sgms/auth
+/auth/login?redirect=/
