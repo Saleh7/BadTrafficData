@@ -17575,3 +17575,4 @@ http://www.google.com/
 /wp-content/plugins/wpcargo/includes/2vUHYaJucqhxvC3xsiNNp9t3JBt.php?1=var_dump
 /wp-content/plugins/wpcargo/includes/2vUHYaJucqhxvC3xsiNNp9t3JBt.php
 /../../etc/passwd
+/Public/Jquery/plupload-2.1.1/examples/upload.php
