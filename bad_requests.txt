@@ -17578,3 +17578,13 @@ http://www.google.com/
 /Public/Jquery/plupload-2.1.1/examples/upload.php
 /?srsltid=AfmBOorqQGkcyk40iRFbGjeqf1tR4iWqiNd6YP2-1Em7g3qaBf62tq_k
 /?srsltid=AfmBOor33XUqVHfBrtyGK8nB3773aJ-GDfOu0qH5VVpRv7V_1WanukDN
+/wp-content/plugins/rsquaaj/index4.php
+/xt.php
+/uploads/k69834253_index.php
+/wp-content/plugins/background-image-cropper/classwithtostring.php
+/wp-content/plugins/wordpress-seo/rk1.php
+/wp-content/plugins/zgdsfagck/rk2.php
+/templates/beez5/mar.php
+/erros_run.php
+/wp-admin/css/colors/ocean/Module.php
+/lfix.php
