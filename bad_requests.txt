@@ -17666,3 +17666,12 @@ http://www.google.com/
 /ALFA_DATA/alfacgiapi/r57.php
 /vesiw.php
 /wp-includes/lx.php
+/remote/login
+/remoteaccess/login
+/myvpn?sess=none&hdlc_framing=no&ipv4=1&ipv6=1&Z=none&hostname=none
+/vpntunnel
+/svpn/index.cgi
+/RDWeb
+/sslvpnclient?launchplatform=mac&neProto=3&supportipv6=yes
+/global-protect/prelogin.esp?tmp=tmp&clientVer=4100&clientos=Windows
+/wgcgi.cgi?action=sslvpn_web_logon
