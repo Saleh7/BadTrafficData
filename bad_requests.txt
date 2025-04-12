@@ -17679,3 +17679,8 @@ http://www.google.com/
 /auth/login?redirect=/
 /api/_profiler/phpinfo
 /apfujhmz.php?Fox=d3wL7
+/auth/csrf
+/session/csrf
+/api/csrf
+/api/auth/csrf
+/csrf-token
