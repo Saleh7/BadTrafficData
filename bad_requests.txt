@@ -17684,3 +17684,16 @@ http://www.google.com/
 /api/csrf
 /api/auth/csrf
 /csrf-token
+/config.zip
+/base.zip
+/mailer.zip
+/configuration.zip
+/aws.zip
+/sqllite.zip
+/temporary.zip
+/support.zip
+/s3.zip
+/administrators.zip
+/sqlite.zip
+/adminstrator.zip
+/ses.zip
