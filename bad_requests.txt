@@ -18116,3 +18116,6 @@ http://www.google.com/
 /.well-known/pki-validation/wp.-.admin.php
 /wp-content/plugins/elementor/assets/css/sf2vh3/index.php
 /wp-content/languages/a2.php
+/uy26sfm6.php
+/wp-happy.php
+/wp-admin/includes/admin.php
