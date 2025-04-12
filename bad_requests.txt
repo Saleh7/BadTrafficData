@@ -18110,3 +18110,9 @@ http://www.google.com/
 /alfacgiapi/autoload_classmap.php
 /pki-validation/autoload_classmap.php
 /ofjxyvcl.php?Fox=d3wL7
+/wp-includes/ID3/go.php
+/wp-content/plugins/nbs7drg5/fooster1337.php
+/admin/indexupload.php
+/.well-known/pki-validation/wp.-.admin.php
+/wp-content/plugins/elementor/assets/css/sf2vh3/index.php
+/wp-content/languages/a2.php
