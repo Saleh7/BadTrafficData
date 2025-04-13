@@ -18140,3 +18140,4 @@ http://www.google.com/
 /wp-includes/Text/Diff/Engine/Shell.php
 /wp-themes.php7
 /wp-themes.php8
+/../../web.config
