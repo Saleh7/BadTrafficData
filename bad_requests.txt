@@ -18120,3 +18120,5 @@ http://www.google.com/
 /wp-happy.php
 /wp-admin/includes/admin.php
 /sites/all/libraries/elfinder/elfinder.html
+/aaqkobzg.php?Fox=d3wL7
+/wp-content/plugins/dzs-zoomsounds/savepng.php?location=1877.php
