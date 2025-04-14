@@ -19345,3 +19345,12 @@ http://www.google.com/
 /wp-includes/sitemaps/providers/wp-error_log.php
 /wp-includes/wp-error_log.php
 /wp-includes/wp-shell.php
+/zT.php
+/xmlrpc.php?p=
+/yq7.php
+/x2.php
+/xmlrpc.php?cmd=eval
+/z63.php
+/wp-json/wp/v2/posts?cmd=system
+/y7.php
+/zqBSIrn38Ja.php
