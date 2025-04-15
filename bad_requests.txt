@@ -19387,3 +19387,6 @@ http://www.google.com/
 /api/account
 /backend/.env.example
 /package/dynamic_js
+/laravel
+/cronlab
+/dynamic_js
