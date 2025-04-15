@@ -19370,3 +19370,4 @@ http://www.google.com/
 /themes/simplebootx/success.html
 /include/dialog/select_soft.php
 /public/exception.html
+/?fbclid=IwZXh0bgNhZW0CMTEAAR7WzftziHd2Smck_0PajBZ82vhJJaaO4UE_OO3MHn9bAdbDKchTNq4Ib73ENw_aem_bd4LzmXDzc3YAIye_Zft_w
