@@ -19567,3 +19567,15 @@ http://www.google.com/
 /rrwrzgsf.php
 /wp-admin/css/colors/ectoplasm/JWWwEMipZk.php
 /wp-content/moderation.php
+/wp-admin/js/widgets/come.php
+/.well-known/ajfghdbd.php
+/wp-includes/beofdecn.php
+/wp-content/themes/rttheme18/images/colors/ovakiiphb.php
+/wp-includes/sodium_compat/src/about.php
+/wp-includes/css/custom-file-5-1735118957.php
+/wp-admin/images/classwithtostring.php
+/wp-admin/css/colors/sxo.php
+/vendor/php
+/assets/images/88123af40d.php
+/wp-content/themes/intense/block-css.php
+/components/com_wrapper/views/index.php
