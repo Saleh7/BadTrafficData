@@ -19393,3 +19393,4 @@ http://www.google.com/
 /fmlfrjnk.php?Fox=d3wL7
 /images/images/cache.php?pass=3a0e007c895888c9c4bf234e2772a0dd
 /admin/style.php
+/wp-content/plugins/sid/sidwso.php/vuln.php
