@@ -19579,3 +19579,8 @@ http://www.google.com/
 /assets/images/88123af40d.php
 /wp-content/themes/intense/block-css.php
 /components/com_wrapper/views/index.php
+/file-manager/tinymce
+/file-manager/tinymce5
+/file-manager
+/file-manager/summernote
+/file-manager/ckeditor
