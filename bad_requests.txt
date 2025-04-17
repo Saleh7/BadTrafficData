@@ -19593,3 +19593,5 @@ http://www.google.com/
 /mz-component-1626147655
 /div
 /gbffqker.php?Fox=d3wL7
+/.wp-db.php
+/tmp/.php
