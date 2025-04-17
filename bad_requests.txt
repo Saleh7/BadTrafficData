@@ -19584,3 +19584,5 @@ http://www.google.com/
 /file-manager
 /file-manager/summernote
 /file-manager/ckeditor
+/wp-json/sure-triggers/v1/automation/action
+/wp-content/plugins/suretriggers/readme.txt
