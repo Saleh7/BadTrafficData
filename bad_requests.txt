@@ -19607,3 +19607,4 @@ http://www.google.com/
 /public/laravel-file-manager/tinymce
 /laravel-file-manager/tinymce
 /public/file-manager/tinymce
+/wp-login.php?action=register/aaa.php/getid3-core.php
