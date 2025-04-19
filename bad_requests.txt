@@ -19608,3 +19608,5 @@ http://www.google.com/
 /laravel-file-manager/tinymce
 /public/file-manager/tinymce
 /wp-login.php?action=register/aaa.php/getid3-core.php
+/index.php/rest/V1/guest-carts
+/rest/V1/guest-carts
