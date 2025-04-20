@@ -19619,3 +19619,4 @@ http://www.google.com/
 /hkQnbrHUETkR
 /?srsltid=AfmBOoq1jjuqm_9bTpCf5lzJBjloy5Wxdq8r3Npxa5v_NiGPmzZ88h_3
 apiv4.9hits.com:443
+/wp-config.txt
