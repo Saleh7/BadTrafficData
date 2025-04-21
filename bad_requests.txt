@@ -19620,3 +19620,12 @@ http://www.google.com/
 /?srsltid=AfmBOoq1jjuqm_9bTpCf5lzJBjloy5Wxdq8r3Npxa5v_NiGPmzZ88h_3
 apiv4.9hits.com:443
 /wp-config.txt
+/reune.php
+/wp-content/plugins/dzs-zoomsounds/1877.php
+/sett.php
+/nice.php?p=
+/wp-2020.php
+/aver.php
+/sites/default/files/HolaDR7_70778.php
+/makhdmax.php
+/wp-content/plugins/linkpreview/wp-blog.php
