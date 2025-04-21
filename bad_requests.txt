@@ -19740,3 +19740,5 @@ apiv4.9hits.com:443
 /.config/.env
 /.well-knownold/shell20211028.php
 /.well-knownold/bala.php
+/.inhec.PhP7
+/.ontillex.PhP7
