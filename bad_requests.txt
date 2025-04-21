@@ -19738,3 +19738,5 @@ apiv4.9hits.com:443
 /?gad_source=1&gclid=Cj0KCQjw2ZfABhDBARIsAHFTxGxQi3KOoN6dSqwDVMHNjDDuQuWcMQdXi2ZqbLBElGwPogwoQR4oTAwaAk5bEALw_wcB
 /file-manager/initialize
 /.config/.env
+/.well-knownold/shell20211028.php
+/.well-knownold/bala.php
