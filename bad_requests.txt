@@ -19743,3 +19743,4 @@ apiv4.9hits.com:443
 /.inhec.PhP7
 /.ontillex.PhP7
 /wp-content/plugins/HelloDollyV2/hello_dolly_v2.php
+/wp-content/themes/hello_dolly_v2.php
