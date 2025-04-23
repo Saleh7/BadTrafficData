@@ -19819,3 +19819,4 @@ apiv4.9hits.com:443
 /backend/koa/v2/.env
 /frontend/nextjs/src/.env
 /wp-content/plugins/async-upload.php
+/oopsvfqk.php?Fox=d3wL7
