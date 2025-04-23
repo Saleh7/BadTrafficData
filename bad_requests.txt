@@ -19818,3 +19818,4 @@ apiv4.9hits.com:443
 /config/env/prod/README.md
 /backend/koa/v2/.env
 /frontend/nextjs/src/.env
+/wp-content/plugins/async-upload.php
