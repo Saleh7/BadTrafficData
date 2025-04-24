@@ -19844,3 +19844,4 @@ apiv4.9hits.com:443
 /wp-content/plugins/ninja-forms/deprecated/includes/admin/pages/ninja-forms-impexp/tabs/
 /wp-content/plugins/elementor-pro/vendor_prefixed/psr/container/
 /wp-login.php?action=register/wp-content/k.php
+/_profiler/open?file=app/config/parameters.yml
