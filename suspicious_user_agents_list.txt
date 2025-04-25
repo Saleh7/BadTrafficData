@@ -161,3 +161,4 @@ Mozilla/5.0 (Android 13; Mobile; rv:109.0 Gecko/112.0 Firefox/112.0 AppEngine-Go
 Mozilla/5.0 (X11; U; SunOS sun4u; de-DE; rv:1.8.1.6 Gecko/20070805 Firefox/2.0.0.6)
 Mozilla/5.0(WindowsNT10.0;Win64;x64AppleWebKit/537.36(KHTML,likeGecko)Chrome/86.0.4240.111Safari/537.36)
 Hello-World/1.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; MDDCJS)
