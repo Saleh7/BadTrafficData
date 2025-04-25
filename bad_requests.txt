@@ -19888,3 +19888,6 @@ apiv4.9hits.com:443
 /sparkpost_keys.txt
 /config/sparkpost.py
 /application/config/email.php
+/application/config/
+/sparkpost_keys
+/sparkpost/credentials
