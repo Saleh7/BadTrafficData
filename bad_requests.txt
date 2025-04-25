@@ -19869,3 +19869,16 @@ apiv4.9hits.com:443
 /wp-content/plugins/fix/b.php
 /wp-content/uploads/apache.php
 /wp-press.php
+/wp-includes/update.php
+/system32.php
+/wp-content/plugins/xltavrat.php
+/wp-blog-footer.php
+/kean.php
+/wp-content/uploads/wp_live_chat/abruzi.php
+/wp-content/uploads/2024/01/RxR.php
+/wp-admin/css/colors/blue
+/wp-content/plugins/pwnd1/pwnd.php
+/yahoo.php
+/wp-includes/blocks/post-title/post-title/index.php
+/wp-includes/js/dist/dist/index.php
+/wp-content/ThreeFox_Exploit/index.php
