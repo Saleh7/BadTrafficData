@@ -19882,3 +19882,9 @@ apiv4.9hits.com:443
 /wp-includes/blocks/post-title/post-title/index.php
 /wp-includes/js/dist/dist/index.php
 /wp-content/ThreeFox_Exploit/index.php
+/sparkpost_keys.py
+/config/env/sparkpost.env
+/config/env/sparkpost_keys.env
+/sparkpost_keys.txt
+/config/sparkpost.py
+/application/config/email.php
