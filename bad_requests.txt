@@ -19855,3 +19855,17 @@ apiv4.9hits.com:443
 /zex.php
 /update/f35.php
 /wp-admin/buy.php
+/wp-includes/images/admin.php
+/wp-content/plugins/pwnd/nakrip.php
+/yasnu.php
+/wp-content/plugins/w0rdpr3ssnew/wp-login.php
+/3m/wp-admin/css/colors/blue
+/Xl2023.php
+/wp-content/plugins/pwnd/wp-login.php
+/wp-content/plugins/w0rdpr3ssnew/about.phpp
+/cruzmiiw.php
+/luf288xop.php
+/wp-content/plugins.php
+/wp-content/plugins/fix/b.php
+/wp-content/uploads/apache.php
+/wp-press.php
