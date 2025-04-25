@@ -19846,3 +19846,4 @@ apiv4.9hits.com:443
 /wp-login.php?action=register/wp-content/k.php
 /_profiler/open?file=app/config/parameters.yml
 /wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/admin.php/gawean.php
+/sites/all/modules/elfinder/src/connectors/php/connector.php
