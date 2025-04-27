@@ -20348,3 +20348,4 @@ apiv4.9hits.com:443
 /wp-admin/css/colors/light/about.php7
 /wp-admin/network/site-users.php
 /njwnbnls.php?Fox=d3wL7
+/php_version.php
