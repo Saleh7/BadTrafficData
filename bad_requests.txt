@@ -20357,3 +20357,4 @@ apiv4.9hits.com:443
 /?srsltid=AfmBOooqC3cI0Mc3fED79_UdZtITJsJ8lYqT-m7SED57CUuxS8l2lf82
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=30-
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=rating&tag=30-
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=30-
