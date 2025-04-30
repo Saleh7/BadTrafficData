@@ -20372,3 +20372,4 @@ apiv4.9hits.com:443
 /test1
 /qq.php
 /wpp-config.php~
+/?gad_source=1&gad_campaignid=20619651796&gbraid=0AAAAApc7P_RUByKb6G1X1XDgah7wD6AFG&gclid=Cj0KCQjw8cHABhC-ARIsAJnY12wBLLt4mEfFo3OzJT6nqZd3e-NuRmEP-_yf7WDtpabRhYxnWosc95IaAgx-EALw_wcB
