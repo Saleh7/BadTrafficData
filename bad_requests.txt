@@ -20379,3 +20379,5 @@ http://ipv4.icanhazip.com/
 /MITMPROXY_GET_IP
 /e/admin/index.php
 /radminpass.php
+/_profiler/empty/search/results?limit=10
+/_profiler/
