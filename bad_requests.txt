@@ -20382,3 +20382,6 @@ http://ipv4.icanhazip.com/
 /_profiler/empty/search/results?limit=10
 /_profiler/
 /uploads/delpaths.php
+/settings.ini
+/settings.properties
+/settings.yml
