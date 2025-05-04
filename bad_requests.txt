@@ -21290,3 +21290,11 @@ http://ipv4.icanhazip.com/
 /wp-includes/assets/wp-login.php
 /.well-known/gelay.php
 /wp-content/plugins/inputs.php
+/wp-includes/library.php
+/wp-includes/x.php
+/wp1.php
+/wp-includes/up.php
+/wso403.php
+/zero.php
+/wp-includes/xmlrpc.php
+/wp-includes/l10n.php
