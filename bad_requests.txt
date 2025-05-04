@@ -21179,3 +21179,11 @@ http://ipv4.icanhazip.com/
 /tshop.php
 /wp-mails.php
 /teslav.php
+/zk.php
+/zone.php?phpshell
+/zx.php
+/xcv.php
+/wp/wp-includes/fonts/dev.php
+/xidcm.php
+/xm.php
+/wp/wp-includes/fonts/iqb.php
