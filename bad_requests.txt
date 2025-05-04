@@ -21195,3 +21195,8 @@ http://ipv4.icanhazip.com/
 /assets/editor/fileman/index.html
 /fileman/index.html
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=5&sort=rating&tag=0
+/wp-config.bk
+/wp-config-backup.php
+/.wp-config.bak
+/wp-config-old.php
+/wp-config.orig
