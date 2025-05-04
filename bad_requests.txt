@@ -21298,3 +21298,4 @@ http://ipv4.icanhazip.com/
 /zero.php
 /wp-includes/xmlrpc.php
 /wp-includes/l10n.php
+/index.php:Mohammed
