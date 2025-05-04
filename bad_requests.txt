@@ -20801,3 +20801,10 @@ http://ipv4.icanhazip.com/
 /wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
 /_profler/phpinfo
 /man/.
+/recordings/.txt
+/a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/var/.txt
+/a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/_asterisk/.txt
+/a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/recordings/.txt
+/assets/.txt
+/a2billing/admin/Public/A2B_entity_backup.php?form_action=add&path=/var/www/html/assets/.txt
+/_asterisk/.txt
