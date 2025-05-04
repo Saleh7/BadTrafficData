@@ -21187,3 +21187,10 @@ http://ipv4.icanhazip.com/
 /xidcm.php
 /xm.php
 /wp/wp-includes/fonts/iqb.php
+/modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/lib/fileman/index.html
+/js/fileman/index.html
+/admin/fileman/index.html
+/assets/editor/fileman/dev.html
+/assets/editor/fileman/index.html
+/fileman/index.html
