@@ -21169,3 +21169,13 @@ http://ipv4.icanhazip.com/
 /postfs.php
 /mas.php
 /iq.php
+/wp-singupp.php
+/wp-includes/fonts/iqb.php
+/wp-includes/fonts/iq.php
+/usb.php
+/usr.php
+/wp-includes/fonts/dev.php
+/utchiha.phP
+/tshop.php
+/wp-mails.php
+/teslav.php
