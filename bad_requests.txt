@@ -21082,3 +21082,11 @@ http://ipv4.icanhazip.com/
 /wp-posts.php
 /wp-key.php
 /un.php?f=f
+/god4m.php
+/wp-content/themes/skatepark/alpha.php
+/wp-content/themes/noriumportfolio/img_screen.php
+/wp-content/themes/noriumportfolio/doc.php
+/wp-content/themes/skatepark/img_screen.php
+/wp-content/themes/skatepark/db.php?u
+/wp-content/themes/noriumportfolio/alpha.php
+/wp-content/themes/noriumportfolio/db.php?u
