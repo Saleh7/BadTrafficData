@@ -21055,3 +21055,12 @@ http://ipv4.icanhazip.com/
 /wawe.php
 /old/alfacgiapi/404.php?bx=0e215962017
 /wp-email.php
+/adriv.php
+/zf.php
+/wp-content/themes/fitnessbase/dev.php
+/wp-content/themes/fitnessbase/crp.php
+/ciis.php
+/zfox.php
+/lock360.php?daksldlkdsadas=1
+/0o.php
+/xd.php
