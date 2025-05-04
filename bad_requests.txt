@@ -20798,3 +20798,4 @@ http://ipv4.icanhazip.com/
 /?utm_source=chatgpt.com
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=5&sort=p.sort_order&tag
 /wp-includes/ALFA_DATA/alfacgiapi/
+/wp-content/uploads/alm_templates/ALFA_DATA/alfacgiapi/
