@@ -21511,3 +21511,4 @@ http://ipv4.icanhazip.com/
 /blog/ALFA_DATA/alfacgiapi/
 /wordpress/ALFA_DATA/alfacgiapi/
 /admin/ALFA_DATA/alfacgiapi/
+/?gad_source=2&gclid=Cj0KCQiAyoi8BhDvARIsAO_CDsA14QOKMhD-jKeOjkgisGpCqaLqNK9-8Cm7IztBS-u0iCXaFCn79KYaAtG8EALw_wcB
