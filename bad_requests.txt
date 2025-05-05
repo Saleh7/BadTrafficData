@@ -21416,3 +21416,4 @@ http://ipv4.icanhazip.com/
 /cp/.env
 /admin-app/.env
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=2&sort=p.price&tag=30-
+/figs-loso-gold-figs-30-50-cm?order=DESC&page=5&sort=rating&tag=50
