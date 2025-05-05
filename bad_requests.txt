@@ -21506,3 +21506,5 @@ http://ipv4.icanhazip.com/
 /Socketio/.env
 /spikes/config-material-app/.env
 /src/tests/fixtures/typeScriptVisualizeProject/.env
+/cgi-bin/ALFA_DATA/alfacgiapi/
+/wp/ALFA_DATA/alfacgiapi/
