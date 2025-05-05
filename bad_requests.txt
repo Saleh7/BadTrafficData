@@ -21510,3 +21510,4 @@ http://ipv4.icanhazip.com/
 /wp/ALFA_DATA/alfacgiapi/
 /blog/ALFA_DATA/alfacgiapi/
 /wordpress/ALFA_DATA/alfacgiapi/
+/admin/ALFA_DATA/alfacgiapi/
