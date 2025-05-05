@@ -21509,3 +21509,4 @@ http://ipv4.icanhazip.com/
 /cgi-bin/ALFA_DATA/alfacgiapi/
 /wp/ALFA_DATA/alfacgiapi/
 /blog/ALFA_DATA/alfacgiapi/
+/wordpress/ALFA_DATA/alfacgiapi/
