@@ -21508,3 +21508,4 @@ http://ipv4.icanhazip.com/
 /src/tests/fixtures/typeScriptVisualizeProject/.env
 /cgi-bin/ALFA_DATA/alfacgiapi/
 /wp/ALFA_DATA/alfacgiapi/
+/blog/ALFA_DATA/alfacgiapi/
