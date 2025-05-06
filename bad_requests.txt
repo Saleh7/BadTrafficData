@@ -21954,3 +21954,5 @@ http://ipv4.icanhazip.com/
 /wp-confg.php
 /wp-admin/maint/dbform69.php
 /wp-content/themes/dbform69.php
+/upload/index.php
+/permessi-linux-questi-sconosciuti/
