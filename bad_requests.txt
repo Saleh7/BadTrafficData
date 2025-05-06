@@ -21956,3 +21956,6 @@ http://ipv4.icanhazip.com/
 /wp-content/themes/dbform69.php
 /upload/index.php
 /permessi-linux-questi-sconosciuti/
+/wp-includes/Text/Diff/Renderer/index.php
+/wp-includes/blocks/shortcode/index.php
+/wp-includes/css/dist/list-reusable-blocks/index.php
