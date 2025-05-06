@@ -21687,3 +21687,17 @@ http://ipv4.icanhazip.com/
 /tmp/template.php?path=./
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=5&sort=rating&tag=-
 /figs-loso-gold-figs-30-50-cm?tag=3&page=9
+/admin/wp-22.php
+/images/x2.php
+/upload/login.php
+/images/k.php
+/rbh/log
+/admiin.php
+/wp-includes/css/tj.php
+/wp-includes/Text/lv.php
+/cron.ph
+/1bwqtre/admin.php
+/gc.php
+/up/fierzashell.html
+/wp-content/uploads/2023/admiin.php
+/wp-content/plugins/wp-22.php
