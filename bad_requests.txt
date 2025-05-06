@@ -21701,3 +21701,10 @@ http://ipv4.icanhazip.com/
 /up/fierzashell.html
 /wp-content/uploads/2023/admiin.php
 /wp-content/plugins/wp-22.php
+/yox.php
+/wp-content/uploads/admiin.php
+/wp-content/uploads/2023/08/admiin.php
+/k.phpfailed
+/wp-includes/css/dist/block-library/admin.php
+/wp-admin/css/colors/ocean/admiin.php
+/css/wp-22.php
