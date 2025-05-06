@@ -21673,3 +21673,15 @@ http://ipv4.icanhazip.com/
 /yongxing/
 /site/api/v1/site/vipExclusiveDomain/getGuestDomain
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=5&sort=pd.name&tag=-
+/user_uploads/template.php?path=./
+/attachments/template.php?path=./
+/upload/template.php?path=./
+/userfiles/template.php?path=./
+/media/template.php?path=./
+/uploaded/template.php?path=./
+/images/template.php?path=./
+/files/template.php?path=./
+/documents/template.php?path=./
+/uploads/template.php?path=./
+/temp/template.php?path=./
+/tmp/template.php?path=./
