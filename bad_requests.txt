@@ -21947,3 +21947,10 @@ http://ipv4.icanhazip.com/
 /figs-loso-gold-figs-30-50-cm?tag=&page=6
 /figs-loso-gold-figs-30-50-cm?tag=&page=68
 /blocks/selectrss/style.php
+/wp-content/plugins/dbform69.php
+/assets/dbform69.php
+/css/dbform69.php
+/wp-includes/html-api/dbform69.php
+/wp-confg.php
+/wp-admin/maint/dbform69.php
+/wp-content/themes/dbform69.php
