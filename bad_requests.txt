@@ -21929,3 +21929,17 @@ http://ipv4.icanhazip.com/
 /wp-content/plugins/wp-help
 /wp-admin/ccx
 /sites/default/files
+/system/default.php
+/wp-includes/sodium_compat/src/Core32/Poly1305
+/wp-includes/blocks/social-links
+/wp-includes/js/tinymce/utils
+/wp-includes/Text/Diff/Renderer
+/wp-includes/Requests/Cookie
+/wp-includes/IXR
+/wp-includes/sodium_compat
+/images/edit.php
+/tinyfilemanager
+/wp-includes/blocks/site-logo
+/wp-includes/js/text.php
+/wp-includes/blocks/loginout
+/wp-includes/pomo
