@@ -21710,3 +21710,10 @@ http://ipv4.icanhazip.com/
 /css/wp-22.php
 /figs-loso-gold-figs-30-50-cm?tag=&sort=rating&order=DESC&page=27
 /dHkYMdoQJGEF
+/wp-admin/js
+/wp-includes/block-patterns
+/wp-includes/SimplePie/Cache/cloud.php
+/wp-includes/js/tinymce/plugins/compat3x/css
+/wp-content/plugins/ioxi/ioxi
+/wp-includes/customize
+/wp-includes/Requests/hellodoyyl.php
