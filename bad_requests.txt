@@ -23000,3 +23000,4 @@ http://ipv4.icanhazip.com/
 /zxx.php
 /?srsltid=AfmBOoqxoDIxIsYV_z6rK4LbhhE7Y6ldUaDsCa9JiqZJ1U-fj4b7CVxj
 /wp-includes/assets/legendneverdietod.php
+/wp-content/plugins/wp-file-upload/ROOBOTS.php
