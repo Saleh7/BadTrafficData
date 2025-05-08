@@ -22366,3 +22366,13 @@ http://ipv4.icanhazip.com/
 /internal-api/
 /Kubernetes/.env
 /khanlinks/.env
+/magento/.env
+/logging/.env
+/linux/.env
+/logs/app.log
+/mailinabox/.env
+/logs/.env
+/locally/.env
+/localhost/.env
+/log/development.log
+/mailman/.env
