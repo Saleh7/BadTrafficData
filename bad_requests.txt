@@ -22437,3 +22437,5 @@ http://ipv4.icanhazip.com/
 /packages/plugin-qiankun/examples/app3/.env
 /packages/frontend/.env
 /packages/web/.env
+/platform/.env
+/pictures/.env
