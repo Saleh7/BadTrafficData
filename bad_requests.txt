@@ -22439,3 +22439,14 @@ http://ipv4.icanhazip.com/
 /packages/web/.env
 /platform/.env
 /pictures/.env
+/react/.env
+/product/.env.staging
+/playground/.env
+/preview-env/.env
+/plugin_static/.env
+/prisma/.env
+/prestashop/.env
+/plugins/.env
+/public/system
+/preview/.env
+/rails/.env
