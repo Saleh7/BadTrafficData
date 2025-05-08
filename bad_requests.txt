@@ -22589,3 +22589,4 @@ http://ipv4.icanhazip.com/
 /vod_installer/.env
 /vm-docker-compose/.env
 /vendor/github.com/gobuffalo/envy/.env
+/figs-loso-gold-figs-30-50-cm?tag=CM
