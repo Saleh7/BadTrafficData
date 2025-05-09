@@ -11377,3 +11377,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:16a2:c2fc:18cd:f8be:75c9:7e4e:d130
 31.56.56.147
 2001:16a2:c0db:5cad:10db:9577:be7d:b08c
+2404:8c80:85:1070::19
