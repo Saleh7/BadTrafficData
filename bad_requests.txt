@@ -23319,3 +23319,4 @@ http://ipv4.icanhazip.com/
 /user_logs/
 /.env.qa
 /?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMIw_ag1-uVjQMVEmlBAh1FDRGfEAAYASAAEgJDKfD_BwE
+/figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=3
