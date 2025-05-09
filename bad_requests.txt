@@ -23317,3 +23317,4 @@ http://ipv4.icanhazip.com/
 /errorlogs/
 /adminbackup/
 /user_logs/
+/.env.qa
