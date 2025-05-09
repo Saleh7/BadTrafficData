@@ -23036,3 +23036,7 @@ http://ipv4.icanhazip.com/
 /wp-includes//mailer.php7
 /wp-includes//t.php
 /wp-admin/maint/links.php
+/wp-content/uploads/makeasmtp.php
+/wp-includes/block-patterns/makeasmtp.php
+/wp-backup.php
+/wp-includes/certificates/makeasmtp.php
