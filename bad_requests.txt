@@ -23323,3 +23323,5 @@ http://ipv4.icanhazip.com/
 /edit?gad_source=1&gad_campaignid=21979123179&gbraid=0AAAAApc7P_RBsd8051eD_6721pjB98aLO&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZlnyLP01BOzry3tvigwc_oYGAYjpwcCOXVk7qSVbNVe5ZALIp4INBoCNRAQAvD_BwE
 /include/dialog/select_templets.php
 /figs-loso-gold-figs-30-50-cm?tag=50&page=14
+/jquery.php/system_log.php
+/wp-includes/ALFADATA/alfacgiapi/perl.alfa
