@@ -23333,3 +23333,4 @@ http://ipv4.icanhazip.com/
 /Robots.txt
 /radio.php?520
 /wp-includes/autoloadclassmap.php
+/wp-includes/header.php
