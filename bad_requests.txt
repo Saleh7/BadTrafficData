@@ -23335,3 +23335,14 @@ http://ipv4.icanhazip.com/
 /wp-includes/autoloadclassmap.php
 /wp-includes/header.php
 /figs-loso-gold-figs-30-50-cm?tag=3&page=20
+/wp-content/plugins/whmpress/history.txt
+/wp-content/plugins/userpro/changelog.txt
+/wp-content/plugins/wp-photo-album-plus/changelog.txt
+/wp-content/plugins/wp-mlm/readme.txt
+/wp-content/plugins/chatbot-chatgpt/readme.txt
+/wp-content/plugins/post-grid/readme.txt
+/wp-content/plugins/fancy-product-designer/readme.txt
+/wp-content/plugins/jobboardwp/readme.txt
+/wp-content/plugins/order-delivery-date/readme.txt
+/wp-content/plugins/keydatas/readme.txt
+/wp-content/plugins/wp-automatic/changelog
