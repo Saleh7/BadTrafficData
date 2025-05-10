@@ -23555,3 +23555,4 @@ http://ipv4.icanhazip.com/
 /wp-includes/widgets/goat1.php
 /crktd.php
 /.well-known/esjmskva.phphp
+/yanz.php/wp-admin/user/cloud.php/config.php
