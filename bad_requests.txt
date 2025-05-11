@@ -23556,3 +23556,4 @@ http://ipv4.icanhazip.com/
 /crktd.php
 /.well-known/esjmskva.phphp
 /yanz.php/wp-admin/user/cloud.php/config.php
+/ss.php?f_c=1
