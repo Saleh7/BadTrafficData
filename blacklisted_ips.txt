@@ -11455,3 +11455,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:fb1:93:8df9:b81d:c13f:25f9:ad84
 2001:16a2:cefe:6100:2d3c:e78d:ded5:a84c
 34.224.68.233
+45.154.98.74
