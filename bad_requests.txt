@@ -23560,3 +23560,10 @@ http://ipv4.icanhazip.com/
 /?url=.env
 /?phpinfo=-1
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=26&sort=pd.name&tag=0
+/wp-content/plugins/apikey/apikey.php
+/wp-content/plugins/dzs-zoomsounds/savepng.php?location=mine.php
+/wp-content/plugins/wp-engine-module/wp-engine.php
+/wp-content/plugins/apikey/mine.php
+/wp-content/plugins/wp-engine-module/mine.php
+/wp-content/plugins/dzs-zoomsounds/mine.php
+/wp-content/plugins/formcraft/file-upload/server/php/files/mine.php
