@@ -23570,3 +23570,10 @@ http://ipv4.icanhazip.com/
 /?srsltid=AfmBOooDDY0XOJlOaKjkHs-7T9BcSmOtOe4nIkVTaOuRtgrpCh1seNKf
 /app_dev.php/_fragment
 /?srsltid=AfmBOoosu2jblpyhD6ANWkKCFG7EoklUpWIWSOaC3-MgzZLldbK_6s5-
+/send_mail.php
+/customer/send_mail.php
+/application.ini
+/.info
+/aws.yaml
+/constants.ts
+/_profiler/info
