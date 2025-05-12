@@ -23599,3 +23599,9 @@ http://ipv4.icanhazip.com/
 /member/
 /sbb.cgi
 /g_book.cgi
+/api/db.php
+/scripts/config.php
+/app/config.php
+/vendor/autoload.php
+/app/init.php
+/api/index.php
