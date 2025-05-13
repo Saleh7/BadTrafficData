@@ -23636,3 +23636,11 @@ m.naver.com:443
 /_next/static/chunks/
 /.output/.env
 /aws/sns.env
+/etc/kubernetes/admin.conf
+/config.bak
+/introspection
+/var/lib/kubelet/config.yaml
+/dashboard/login
+/etc/kubernetes/kubelet.conf
+/xamp/phpinfo.php
+/etc/kubernetes/controller-manager.conf
