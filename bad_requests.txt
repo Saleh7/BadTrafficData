@@ -23655,3 +23655,4 @@ m.naver.com:443
 /wp-includes/footer.php
 /wp-includes/man.php7
 /wp-includes/js/tinymce/utils/index.php
+/wp-content/memberfuns.php
