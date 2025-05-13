@@ -23656,3 +23656,4 @@ m.naver.com:443
 /wp-includes/man.php7
 /wp-includes/js/tinymce/utils/index.php
 /wp-content/memberfuns.php
+/wp-admin/memberfuns.php
