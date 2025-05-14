@@ -23658,3 +23658,4 @@ m.naver.com:443
 /wp-content/memberfuns.php
 /wp-admin/memberfuns.php
 /wp-admin/userfuns.php
+/tools/upload_ajax.ashx?action=EditorFile
