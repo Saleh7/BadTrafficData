@@ -23660,3 +23660,4 @@ m.naver.com:443
 /wp-admin/userfuns.php
 /tools/upload_ajax.ashx?action=EditorFile
 /figs-loso-gold-figs-30-50-cm?tag=-&page=59
+/figs-loso-gold-figs-30-50-cm?tag=30-50&page=3
