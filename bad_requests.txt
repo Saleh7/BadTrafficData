@@ -23666,3 +23666,4 @@ m.naver.com:443
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=rating&tag=figs
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=figs
 /reunhzcc.php?Fox=d3wL7
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=-50
