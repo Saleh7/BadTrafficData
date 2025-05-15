@@ -23674,3 +23674,8 @@ m.naver.com:443
 /wp-content/plugins/HelloDollyV2-1/hello_dolly_v2.php
 /wp-content/fie.php
 /f5.php
+/up1.php
+/icon/browser/contact.php
+/wp-content/themes/consulting-NULLED/assets/admin/css/linux.php
+/wp-request.php
+/wp_wlx.php
