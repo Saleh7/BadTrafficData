@@ -23719,3 +23719,9 @@ m.naver.com:443
 /application/config/database.php
 /credentials.yml
 /laravel-error.log
+/service/extension/backup/mboximport
+/cgi-bin/jarrewrite.sh
+/vpns/portal/scripts/newbm.pl
+/uploads/user
+/rest/api/latest/projects/TEST/repos/TEST/browse
+/RestAPI/LogonCustomization
