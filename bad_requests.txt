@@ -23683,3 +23683,6 @@ m.naver.com:443
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=figs
 /figs-loso-gold-figs-30-50-cm?tag=&page=123
 /?gad_campaignid=20619651796&wbraid=ClMKCAjw_pDBBhADEkMAPIj6z8r_L94p5Wcmk-nyi7I3QAvIPNQrmcS258f-T_foWXiVFYd4-kiG-yxrfuBiPk0X7NOnMAf3lOra0MZMvWurGgLDnQ
+/admin/i
+/admi
+/admin/index
