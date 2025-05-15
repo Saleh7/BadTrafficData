@@ -23715,3 +23715,6 @@ m.naver.com:443
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=-50
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.price&tag=-50
 /config/aws.yaml
+/configuration.yml
+/application/config/database.php
+/credentials.yml
