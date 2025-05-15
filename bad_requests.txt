@@ -23727,3 +23727,4 @@ m.naver.com:443
 /RestAPI/LogonCustomization
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=pd.name&tag=-50
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.price&tag=figs
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=rating&tag=30
