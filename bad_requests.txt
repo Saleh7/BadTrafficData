@@ -23718,3 +23718,4 @@ m.naver.com:443
 /configuration.yml
 /application/config/database.php
 /credentials.yml
+/laravel-error.log
