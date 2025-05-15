@@ -23679,3 +23679,5 @@ m.naver.com:443
 /wp-content/themes/consulting-NULLED/assets/admin/css/linux.php
 /wp-request.php
 /wp_wlx.php
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=30
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=figs
