@@ -23710,3 +23710,4 @@ m.naver.com:443
 /source_code.zip
 /ses_config.php
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=30
+/figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=30
