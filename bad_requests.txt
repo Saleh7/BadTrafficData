@@ -23709,3 +23709,4 @@ m.naver.com:443
 /mailer_config.php
 /source_code.zip
 /ses_config.php
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=30
