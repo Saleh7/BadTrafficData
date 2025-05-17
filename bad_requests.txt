@@ -23736,3 +23736,5 @@ m.naver.com:443
 /elfinder/php/connector.php
 /figs-loso-gold-figs-30-50-cm?tag=50&sort=rating&order=DESC&page=5
 /network_xo.php
+/order?srsltid=AfmBOopCOYuX_go5ZCfmaSceZL0Cp25ZMIi9AFVun2hYOugiuMu7EOjK
+/assets/file-uploader/server/php/files/
