@@ -23768,3 +23768,4 @@ m.naver.com:443
 /?srsltid=AfmBOorkH5cQwCa3W1ZgMPHgQV5dFUe7Ueh4o8HaAjS1g13knr40-5ma
 /public/index.php/home/file/user_pics
 /public/index.php/material/Material/_download_imgage?media_id=1&picUrl=./../config/database.php
+/elfinder
