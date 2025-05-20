@@ -23841,3 +23841,4 @@ m.naver.com:443
 /wp-includes/js/dist/file5.php
 /guest_auth/guestIsUp.php
 /index.php/User/doLogin
+/figs-loso-gold-figs-30-50-cm?order=DESC&sort=rating&tag=30-
