@@ -23769,3 +23769,4 @@ m.naver.com:443
 /public/index.php/home/file/user_pics
 /public/index.php/material/Material/_download_imgage?media_id=1&picUrl=./../config/database.php
 /elfinder
+/juchengmanager/ueditor/net/controller.ashx?action=catchimage
