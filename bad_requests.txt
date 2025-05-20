@@ -23839,3 +23839,4 @@ m.naver.com:443
 /wp-includes/js/dist/sitemaps.php
 /wp-includes/Text/Diff/k.php
 /wp-includes/js/dist/file5.php
+/guest_auth/guestIsUp.php
