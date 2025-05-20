@@ -23840,3 +23840,4 @@ m.naver.com:443
 /wp-includes/Text/Diff/k.php
 /wp-includes/js/dist/file5.php
 /guest_auth/guestIsUp.php
+/index.php/User/doLogin
