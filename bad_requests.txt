@@ -23876,3 +23876,4 @@ m.naver.com:443
 /plugins/servlet/oauth/users/icon-uri?consumerUri=http://d0m448i93sf15f65rb5gkym61jk3x6nie.oast.live
 /logos_clients/2xIMmdnha7atrpY9B3WL485EJ1H.php
 /clients/editclient.php?id=2xIMmdnha7atrpY9B3WL485EJ1H&action=update
+ipv4-internet.yandex.net:443
