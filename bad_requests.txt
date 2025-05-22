@@ -23877,3 +23877,6 @@ m.naver.com:443
 /logos_clients/2xIMmdnha7atrpY9B3WL485EJ1H.php
 /clients/editclient.php?id=2xIMmdnha7atrpY9B3WL485EJ1H&action=update
 ipv4-internet.yandex.net:443
+/admin/create
+/admin/register
+/admin/signup
