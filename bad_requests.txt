@@ -23921,3 +23921,4 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /js/elfinder/php/connector.php
 /tiki-index.php
 /actuator/dump
+/.adrivz.php
