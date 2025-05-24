@@ -23891,3 +23891,4 @@ ipv4-internet.yandex.net:443
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=23&sort=p.price&tag=-
 /site/wp-admin/
 /filebrowser.php
+/sites/all/modules/elfinder/elfinder.html
