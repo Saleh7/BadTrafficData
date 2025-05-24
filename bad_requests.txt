@@ -23904,3 +23904,4 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /themes/zMous
 /wp-includ
 /@vite/env
+/gtag/js
