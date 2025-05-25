@@ -23931,3 +23931,4 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /server-common/cgi-bin/login
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=p.sort_order&tag=figs
 /sites/all/libraries/elfinder-1.2/connectors/php/connector.php
+/?gad_source=2&gad_campaignid=20619651796&gclid=EAIaIQobChMIkeCQ0cK_jQMVR5SDBx00mwA0EAAYASAAEgI-KPD_BwE
