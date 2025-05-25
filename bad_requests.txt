@@ -23923,3 +23923,5 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /actuator/dump
 /.adrivz.php
 /figs-loso-gold-figs-30-50-cm?order=ASC&sort=pd.name&tag=3
+/v1/kv/2xIMn8iQYhBx7TBSUKDaI1osofa
+/v1/kv/2xIMn8iQYhBx7TBSUKDaI1osofa?raw
