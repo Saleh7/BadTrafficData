@@ -23935,3 +23935,4 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /wp-content/wp-22.php
 /xx
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=5&sort=rating&tag=3
+/figs-loso-gold-figs-30-50-cm?order=ASC&page=28&sort=p.price&tag
