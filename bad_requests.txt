@@ -23926,3 +23926,6 @@ p-scanner.research.netd.cs.tu-dresden.de:443
 /v1/kv/2xIMn8iQYhBx7TBSUKDaI1osofa
 /v1/kv/2xIMn8iQYhBx7TBSUKDaI1osofa?raw
 /?gad_source=2&gad_campaignid=20619651796&gclid=Cj0KCQjw_8rBBhCFARIsAJrc9yCsyRM_LPgaPFrxC8xgCBTx2cjR-9WadDYuVD0tMPlNjoIQp_uFuIQaApwoEALw_wcB
+/assets/data/usrimg/2ximmql8ifsw0bikaycvrvuioqc.php
+/file/SyjIID.txt
+/server-common/cgi-bin/login
