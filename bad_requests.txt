@@ -23946,3 +23946,4 @@ http://142.250.203.142/
 /?gad_campaignid=20619651796&wbraid=ClMKCAjw_8rBBhBeEkMACOTdWEaYoG50iheLWJK-6bEAMXtADLhCZoQAuTlu-fFZt8rrzQGBfJCGpHWt03BmcsgMrEPbnnGK7S1B448V3LhDGgKeTw
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=2&sort=pd.name&tag=5
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=5&sort=pd.name&tag=3
+/figs-loso-gold-figs-30-50-cm?order=DESC&page=7&sort=rating&tag=5
