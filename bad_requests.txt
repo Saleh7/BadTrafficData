@@ -23956,3 +23956,4 @@ http://142.250.203.142/
 /var/log/nginx/access.log
 /var/log/apache2/error.log
 /api/docs
+/connexion.env
