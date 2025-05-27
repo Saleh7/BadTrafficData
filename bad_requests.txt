@@ -23949,3 +23949,10 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=7&sort=rating&tag=5
 /wp-content/wflogs/rules.php
 /ictwcudy.php?Fox=d3wL7
+/var/log/nginx/error.log
+/public.key
+/var/log/apache2/access.log
+/credentials.csv
+/var/log/nginx/access.log
+/var/log/apache2/error.log
+/api/docs
