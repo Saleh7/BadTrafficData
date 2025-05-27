@@ -23970,3 +23970,4 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=rating&tag=30
 /admin/pafm.php
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=7&sort=pd.name&tag=5
+/figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=rating&tag=50
