@@ -23947,3 +23947,4 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=2&sort=pd.name&tag=5
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=5&sort=pd.name&tag=3
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=7&sort=rating&tag=5
+/wp-content/wflogs/rules.php
