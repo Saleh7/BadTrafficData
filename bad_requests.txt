@@ -23971,3 +23971,4 @@ http://142.250.203.142/
 /admin/pafm.php
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=7&sort=pd.name&tag=5
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=rating&tag=50
+/system/storage/logs/realexremote_debug.txt
