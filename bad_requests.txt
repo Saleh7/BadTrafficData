@@ -23973,3 +23973,4 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=rating&tag=50
 /system/storage/logs/realexremote_debug.txt
 /system/storage/logs/firstdata_api_debug.txt
+/?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMI8sW_junEjQMVHqGDBx20ZCenEAAYASAAEgKqePD_BwE
