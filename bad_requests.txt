@@ -23968,3 +23968,4 @@ http://142.250.203.142/
 /system/storage/logs/opayo.log
 /system/storage/logs/eway_hosted_debug.txt
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=rating&tag=30
+/admin/pafm.php
