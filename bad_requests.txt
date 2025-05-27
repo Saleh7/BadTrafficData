@@ -23996,3 +23996,8 @@ http://142.250.203.142/
 /config.tmp
 /config_dev.php
 /config.backup
+/config/bootstrap.php
+/.python-version
+/webpack.config.ts
+/sites/default/settings.old.php
+/?gad_campaignid=20619651796&wbraid=ClMKCAjwotDBBhBrEkMAq7-zAuuhobAcuUY0EEZ7k9vCglA43aym3L0fr-MOaikT2N8VbH-Hpr0KyStCd6qdSkT4OkGKP93LHLRUDdwQ5C-4GgL8sg
