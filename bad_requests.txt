@@ -23963,3 +23963,4 @@ http://142.250.203.142/
 /?gad_campaignid=20619651796&wbraid=ClMKCAjwotDBBhBrEkMAq7-zAvVy9Poq38wp1pxiZj_qKrIvQCBbtyfR53r0XUNrmJLJBPklMunDciMTadwosZMZh1jmBkl5eB4W-liyfxziGgKvyg
 /wp-content/plugins/cleantalk-spam-protect/readme.txt
 /?srsltid=AfmBOoqO3oqMBZebUAidbZIXy9fSB2vWtqmXSrK7um-bJmGPI3SbW_q1
+/index.phpaut
