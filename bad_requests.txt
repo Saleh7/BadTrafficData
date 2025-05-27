@@ -23965,3 +23965,4 @@ http://142.250.203.142/
 /?srsltid=AfmBOoqO3oqMBZebUAidbZIXy9fSB2vWtqmXSrK7um-bJmGPI3SbW_q1
 /index.phpaut
 /wp-content/uploads/2022/10/upload.php
+/system/storage/logs/opayo.log
