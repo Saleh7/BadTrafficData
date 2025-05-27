@@ -23976,3 +23976,10 @@ http://142.250.203.142/
 /?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMI8sW_junEjQMVHqGDBx20ZCenEAAYASAAEgKqePD_BwE
 /wp-includes/id3/license.txt/xmlrpc.php?rsd
 /wp-includes/id3/license.txt/feed/
+/.env.3
+/.env.5
+/.env_hidden
+/.env.debug
+/.env.4
+/.env.save.1
+/.env.copy
