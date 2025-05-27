@@ -23974,3 +23974,5 @@ http://142.250.203.142/
 /system/storage/logs/realexremote_debug.txt
 /system/storage/logs/firstdata_api_debug.txt
 /?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMI8sW_junEjQMVHqGDBx20ZCenEAAYASAAEgKqePD_BwE
+/wp-includes/id3/license.txt/xmlrpc.php?rsd
+/wp-includes/id3/license.txt/feed/
