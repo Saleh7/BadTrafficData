@@ -23983,3 +23983,16 @@ http://142.250.203.142/
 /.env.4
 /.env.save.1
 /.env.copy
+/settings.txt
+/aws/keys.conf
+/config.1.php
+/settings.dev.php
+/config.save
+/settings.back
+/config.staging.php
+/config.local
+/settings.debug
+/aws/credentials.bak
+/config.tmp
+/config_dev.php
+/config.backup
