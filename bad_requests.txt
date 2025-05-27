@@ -23966,3 +23966,4 @@ http://142.250.203.142/
 /index.phpaut
 /wp-content/uploads/2022/10/upload.php
 /system/storage/logs/opayo.log
+/system/storage/logs/eway_hosted_debug.txt
