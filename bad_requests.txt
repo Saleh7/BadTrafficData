@@ -24770,3 +24770,4 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=7&sort=p.price&tag=5
 /system/storage/logs/merchant_one_debug.txt
 /system/storage/logs/transaction_central_xml_debug.txt
+/system/storage/logs/cybersource_sop.class.log
