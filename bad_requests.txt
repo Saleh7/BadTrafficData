@@ -24785,3 +24785,4 @@ http://142.250.203.142/
 /system/storage/logs/migs_gateway_merchant_debug.txt
 /system/storage/logs/virtualmerchantpro_debuger.txt
 /system/logs/realexremote_debug.txt
+/system/logs/barclay_direct.class.log
