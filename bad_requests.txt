@@ -24773,3 +24773,7 @@ http://142.250.203.142/
 /system/storage/logs/cybersource_sop.class.log
 /index/layout.php
 /autoload_classmap.php/
+/wp-content/plugins/linkpreview/layout.php
+/fw/layout.php
+/about/layout.php
+/wp-includes/ID3/layout.php
