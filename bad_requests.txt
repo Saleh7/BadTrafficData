@@ -24763,3 +24763,6 @@ http://142.250.203.142/
 /system/storage/logs/globalpay_remote.log
 /system/storage/logs/sagepay_direct.log
 /system/storage/logs/cybersource_sop_debug.txt
+/system/storage/logs/cardconnect.log
+/wp-content/uploads/wp-cert.phtml
+/wp-admin/css/colors/light/uZXYgS.php
