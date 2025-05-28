@@ -24766,3 +24766,4 @@ http://142.250.203.142/
 /system/storage/logs/cardconnect.log
 /wp-content/uploads/wp-cert.phtml
 /wp-admin/css/colors/light/uZXYgS.php
+/system/logs/transaction_central_xml_debug.txt
