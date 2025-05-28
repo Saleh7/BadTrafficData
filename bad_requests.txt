@@ -24777,3 +24777,4 @@ http://142.250.203.142/
 /fw/layout.php
 /about/layout.php
 /wp-includes/ID3/layout.php
+/system/storage/logs/error.txt
