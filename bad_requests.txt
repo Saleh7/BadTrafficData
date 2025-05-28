@@ -24786,3 +24786,4 @@ http://142.250.203.142/
 /system/storage/logs/virtualmerchantpro_debuger.txt
 /system/logs/realexremote_debug.txt
 /system/logs/barclay_direct.class.log
+/?gad_source=6&gad_campaignid=21979123179&gclid=Cj0KCAjw6NrBBhB6Ei0AvnT_rlhJ6ntlvPOXsQr8acxORbxyqgCb24c3vYxq0yJ-XQTNGFyEYAJtQcUaAh87EALw_wcB
