@@ -24792,3 +24792,4 @@ http://142.250.203.142/
 /system/storage/logs/epx_realtime.class.log
 /system/storage/logs/virtual_merchant_debug.txt
 /system/logs/virtualmerchantpro_debuger.txt
+/?gclid=EAIaIQobChMIqNK_862_ggMVVJwnAh3tagllEAEYASAAEgLe3PD_BwE
