@@ -24794,3 +24794,4 @@ http://142.250.203.142/
 /system/logs/virtualmerchantpro_debuger.txt
 /?gclid=EAIaIQobChMIqNK_862_ggMVVJwnAh3tagllEAEYASAAEgLe3PD_BwE
 /system/logs/barclay_direct_debug.txt
+/system/logs/opayo.log
