@@ -24001,3 +24001,17 @@ http://142.250.203.142/
 /webpack.config.ts
 /sites/default/settings.old.php
 /?gad_campaignid=20619651796&wbraid=ClMKCAjwotDBBhBrEkMAq7-zAuuhobAcuUY0EEZ7k9vCglA43aym3L0fr-MOaikT2N8VbH-Hpr0KyStCd6qdSkT4OkGKP93LHLRUDdwQ5C-4GgL8sg
+/api/.env.staging
+/api/forgot
+/api/password
+/app/etc/config.php
+/api/signup
+/sites/default/settings.bak.php
+/api/.env.production
+/api/signin
+/api/.env.local
+/api/config.php
+/api/logout
+/api/reset
+/logout
+/api/register
