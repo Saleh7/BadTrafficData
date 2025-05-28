@@ -24781,3 +24781,4 @@ http://142.250.203.142/
 /system/storage/logs/error.log
 /figs-loso-gold-figs-30-50-cm?order=ASC&page=2&sort=rating&tag=5
 /system/storage/logs/barclay_direct.class.log
+/system/logs/virtual_merchant_debug.txt
