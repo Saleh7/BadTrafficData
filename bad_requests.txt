@@ -24294,3 +24294,11 @@ http://142.250.203.142/
 /config.5.php
 /.env-config.yml
 /.env-params
+/api/v2/logout
+/api/v3/config
+/api/v1/me
+/api/v3/token
+/api/v2/users
+/api/v1/users
+/api/v3/token.php
+/api/v3/settings
