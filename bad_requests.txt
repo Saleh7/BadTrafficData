@@ -24762,3 +24762,4 @@ http://142.250.203.142/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=2&sort=p.price&tag=5
 /system/storage/logs/globalpay_remote.log
 /system/storage/logs/sagepay_direct.log
+/system/storage/logs/cybersource_sop_debug.txt
