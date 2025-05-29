@@ -24812,3 +24812,4 @@ http://142.250.203.142/
 /system/logs/firstdata_remote.log
 /sites/all/libraries/elfinder-1.1/connectors/php/connector.php
 /adrivz1.php
+/system/logs/cybersource_sop_debug.txt
