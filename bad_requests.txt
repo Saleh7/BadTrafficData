@@ -24813,3 +24813,6 @@ http://142.250.203.142/
 /sites/all/libraries/elfinder-1.1/connectors/php/connector.php
 /adrivz1.php
 /system/logs/cybersource_sop_debug.txt
+/system/logs/epx_realtime.class.log
+/system/logs/firstdata_api_debug.txt
+/system/logs/authorizenet_cim-2025-04-25-debug.log
