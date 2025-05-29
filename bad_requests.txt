@@ -24805,3 +24805,4 @@ http://142.250.203.142/
 /wp-init/wp-init/cache.php
 /system/logs/realex_remote.log
 /elfinder/connectors/php/connector.php
+/system/logs/cybersource_sop.class.log
