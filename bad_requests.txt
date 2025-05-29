@@ -24801,3 +24801,5 @@ http://142.250.203.142/
 /system/storage/logs/anzvpc_debug.txt
 /system/storage/logs/nmi_direct_post_debug.txt
 /system/logs/cardconnect.log
+/cgi-bin/cgi-bin/cache.php
+/wp-init/wp-init/cache.php
