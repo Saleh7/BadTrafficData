@@ -24808,3 +24808,4 @@ http://142.250.203.142/
 /system/logs/cybersource_sop.class.log
 /system/logs/anzvpc_debug.txt
 /system/logs/eway_hosted_debug.txt
+/system/logs/migs_gateway_merchant_debug.txt
