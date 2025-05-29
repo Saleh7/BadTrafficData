@@ -24804,3 +24804,4 @@ http://142.250.203.142/
 /cgi-bin/cgi-bin/cache.php
 /wp-init/wp-init/cache.php
 /system/logs/realex_remote.log
+/elfinder/connectors/php/connector.php
