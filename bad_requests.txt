@@ -24803,3 +24803,4 @@ http://142.250.203.142/
 /system/logs/cardconnect.log
 /cgi-bin/cgi-bin/cache.php
 /wp-init/wp-init/cache.php
+/system/logs/realex_remote.log
