@@ -24853,3 +24853,4 @@ http://142.250.203.142/
 /phpminiadmin.php
 /form999.php
 /phpminiadmin_oc.php
+/system/storage/logs/authorizenet_cim-2025-04-25-debug.log
