@@ -24833,3 +24833,5 @@ http://142.250.203.142/
 /filemanager/index.php
 /XtEditor/net/controller.ashx?action=catchimage
 /elfinder/src/connectors/php/connector.php
+/wp-content/plugins/file-away/readme.txt
+/wp-content/plugins/baiduseo/readme.txt
