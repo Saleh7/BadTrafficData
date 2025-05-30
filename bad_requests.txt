@@ -24835,3 +24835,8 @@ http://142.250.203.142/
 /elfinder/src/connectors/php/connector.php
 /wp-content/plugins/file-away/readme.txt
 /wp-content/plugins/baiduseo/readme.txt
+/admin/view/stylesheet/scss/_accordion.scss
+/admin/view/stylesheet/scss/_variables.scss
+/admin/view/stylesheet/scss/_offcanvas.scss
+/admin/view/stylesheet/scss/forms/_floating-labels.scss
+/admin/view/stylesheet/scss/forms/_form-select.scss
