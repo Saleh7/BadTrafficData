@@ -24848,3 +24848,8 @@ http://142.250.203.142/
 /aaabbbccc
 /fzh
 /fwc
+/adminer423.php
+/adminer_ocs.php
+/phpminiadmin.php
+/form999.php
+/phpminiadmin_oc.php
