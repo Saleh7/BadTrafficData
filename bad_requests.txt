@@ -24831,3 +24831,4 @@ http://142.250.203.142/
 /system/logs/authorizenet_cim-debug.log
 /vcpfilemanager/fetchscript.php
 /filemanager/index.php
+/XtEditor/net/controller.ashx?action=catchimage
