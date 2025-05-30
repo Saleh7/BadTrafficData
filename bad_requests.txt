@@ -24829,3 +24829,5 @@ http://142.250.203.142/
 /?gad_campaignid=20619651796&wbraid=ClMKCAjw6NrBBhB7EkMAPWKAE0sPEagQirywMH0ydE8ja3_LuOnmTQggjlusd2fG5uU-Eb8dtHC1WejQvGArPu9Y_5o6gQCmorpYN541EW5UGgJK2g
 /CMSModules/MediaLibrary/CMSPages/MultiFileUploader.ashx
 /system/logs/authorizenet_cim-debug.log
+/vcpfilemanager/fetchscript.php
+/filemanager/index.php
