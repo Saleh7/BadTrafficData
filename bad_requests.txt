@@ -24855,3 +24855,4 @@ http://142.250.203.142/
 /phpminiadmin_oc.php
 /system/storage/logs/authorizenet_cim-2025-04-25-debug.log
 /?gad_source=2&gad_campaignid=20619651796&gclid=EAIaIQobChMIy5eF68XMjQMVZJ2DBx0CsRRdEAAYASAAEgKwPfD_BwE
+/storage/logs/error.log
