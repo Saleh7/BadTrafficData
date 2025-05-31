@@ -24857,3 +24857,4 @@ http://142.250.203.142/
 /?gad_source=2&gad_campaignid=20619651796&gclid=EAIaIQobChMIy5eF68XMjQMVZJ2DBx0CsRRdEAAYASAAEgKwPfD_BwE
 /storage/logs/error.log
 /wp-content/plugins/ti-woocommerce-wishlist/readme.txt
+/marketplace/api/marketplace/dashboard/recently-listed?count=14
