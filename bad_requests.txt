@@ -24901,3 +24901,4 @@ http://142.250.203.142/
 /drupal/themes/
 /opt/lampp/htdocs/
 /wp-content/plugins/shell.php
+/system/storage/logs/authorizenet_cim-debug.log
