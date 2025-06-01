@@ -24868,3 +24868,4 @@ http://142.250.203.142/
 /.well-known/.well-known/owlmailer.php
 /system/storage/logs/authorizenet_cim-2025-04-27-debug.log
 /storage/logs/opayo.log
+/storage/logs/error.txt
