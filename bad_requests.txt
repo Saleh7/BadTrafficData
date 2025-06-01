@@ -24873,3 +24873,17 @@ http://142.250.203.142/
 /wp-content/themes/pridmag/dropdown.php
 /storage/logs/realexremote_debug.txt
 /wp-admin/css/wp-conflg.php?p=
+/wp-content/plugins/responsive-filemanager/connectors/php/filemanager.php
+/wp-content/plugins/wp-file-manager/upload.php
+/wp-content/plugins/wp-file-manager/shell.php
+/wp-content/plugins/file-manager/filemanager.php
+/wp-content/plugins/wp-file-manager/file-manager.php
+/wp-content/plugins/wp-fileupload/file-upload.php
+/wp-content/plugins/wp-file-upload/file-uploader.php
+/wp-content/plugins/responsive-filemanager/filemanager.php
+/wp-content/plugins/advanced-file-manager/filemanager.php
+/wp-content/plugins/wp-file-manager/ajax_upload.php
+/wp-content/plugins/elFinder/php/connector.php
+/wp-content/plugins/file-manager/elfinder.php
+/wp-content/plugins/evil-file-manager/fm.php
+/wp-content/plugins/ckfinder/ckfinder.php
