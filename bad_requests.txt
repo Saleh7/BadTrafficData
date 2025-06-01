@@ -24887,3 +24887,17 @@ http://142.250.203.142/
 /wp-content/plugins/file-manager/elfinder.php
 /wp-content/plugins/evil-file-manager/fm.php
 /wp-content/plugins/ckfinder/ckfinder.php
+/var/www/html/images/
+/uploads/shell.php5
+/wp-admin/js/farbtastic.php
+/drupal/sites/default/files/
+/joomla/images/
+/templates/beez3/shell.php
+/var/www/html/files/
+/backup/.config.php
+/usr/share/nginx/html/
+/joomla/tmp/
+/drupal/modules/
+/drupal/themes/
+/opt/lampp/htdocs/
+/wp-content/plugins/shell.php
