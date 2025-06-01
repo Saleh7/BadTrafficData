@@ -24867,3 +24867,4 @@ http://142.250.203.142/
 /?gad_source=5&gclid=EAIaIQobChMIkIOjv5jPjQMV142sAh1foQgzEAEYASAAEgJUX_D_BwE
 /.well-known/.well-known/owlmailer.php
 /system/storage/logs/authorizenet_cim-2025-04-27-debug.log
+/storage/logs/opayo.log
