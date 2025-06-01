@@ -24863,3 +24863,4 @@ http://142.250.203.142/
 /system/storage/logs/authorizenet_cim-2025-04-26-debug.log
 /lufix.php/lv.php
 /assets/images/accesson.php
+/sites/all/libraries/elfinder/php/connector.minimal.php
