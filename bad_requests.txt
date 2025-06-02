@@ -24903,3 +24903,4 @@ http://142.250.203.142/
 /wp-content/plugins/shell.php
 /system/storage/logs/authorizenet_cim-debug.log
 /wp-admin/maint/atomlib.php/sym.php
+/storage/logs/firstdata_remote.log
