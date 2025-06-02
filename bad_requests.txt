@@ -24926,3 +24926,5 @@ http://142.250.203.142/
 /storage/logs/globalpay_remote.log
 packetsdatabase.com:443
 /ALFA_DATA/alfacgiapi
+/config/databases.yml
+/config/configuration.yml
