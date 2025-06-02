@@ -24929,3 +24929,4 @@ packetsdatabase.com:443
 /config/databases.yml
 /config/configuration.yml
 /etc/postfix/main.cf
+/etc/mail/sendmail.cf
