@@ -24935,3 +24935,6 @@ packetsdatabase.com:443
 /storage/logs/sagepay_direct.log
 /EjZybyJeYYYt
 /moderation.php/wp-includes/images/smilies/about.php
+/admin/vazadmin.php
+/admin/create-user-astra.php
+/create-user-astra.php
