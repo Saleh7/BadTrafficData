@@ -24939,3 +24939,4 @@ packetsdatabase.com:443
 /admin/create-user-astra.php
 /create-user-astra.php
 /sites/all/libraries/elfinder/php/connector.php
+/storage/logs/merchant_one_debug.txt
