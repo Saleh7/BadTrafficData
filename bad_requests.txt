@@ -24946,3 +24946,4 @@ packetsdatabase.com:443
 /storage/logs/migs_gateway_merchant_debug.txt
 /wp-content/plugins/hide-my-wp//readme.txt
 /storage/logs/cybersource_sop.class.log
+/storage/logs/anzvpc_debug.txt
