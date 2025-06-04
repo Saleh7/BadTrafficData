@@ -24943,3 +24943,4 @@ packetsdatabase.com:443
 /api-yaml
 /api-json
 /storage/logs/transaction_central_xml_debug.txt
+/storage/logs/migs_gateway_merchant_debug.txt
