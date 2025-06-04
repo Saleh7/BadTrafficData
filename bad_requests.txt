@@ -24948,3 +24948,5 @@ packetsdatabase.com:443
 /storage/logs/cybersource_sop.class.log
 /storage/logs/anzvpc_debug.txt
 /wp-include/.wp-include.php?slince_golden=test
+/wp-content/.wp-content.php?slince_golden=test
+/wp-admin/.wp-admin.php?slince_golden=test
