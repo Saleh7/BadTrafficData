@@ -24947,3 +24947,4 @@ packetsdatabase.com:443
 /wp-content/plugins/hide-my-wp//readme.txt
 /storage/logs/cybersource_sop.class.log
 /storage/logs/anzvpc_debug.txt
+/wp-include/.wp-include.php?slince_golden=test
