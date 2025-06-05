@@ -24960,3 +24960,4 @@ packetsdatabase.com:443
 /sbchimbd.php?Fox=d3wL7
 /storage/logs/cybersource_sop_debug.txt
 /storage/logs/barclay_direct.class.log
+/api/data?Authorization=Bearer
