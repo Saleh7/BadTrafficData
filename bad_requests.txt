@@ -24959,3 +24959,4 @@ packetsdatabase.com:443
 /jp2023
 /sbchimbd.php?Fox=d3wL7
 /storage/logs/cybersource_sop_debug.txt
+/storage/logs/barclay_direct.class.log
