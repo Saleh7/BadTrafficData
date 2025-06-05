@@ -24963,3 +24963,4 @@ packetsdatabase.com:443
 /api/data?Authorization=Bearer
 /../../../../../../etc/hosts
 /../../../../../../var/log/nginx/access.log
+/wp-content/plugins/WordPressCore/adminfuns.php
