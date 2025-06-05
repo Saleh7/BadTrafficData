@@ -24964,3 +24964,4 @@ packetsdatabase.com:443
 /../../../../../../etc/hosts
 /../../../../../../var/log/nginx/access.log
 /wp-content/plugins/WordPressCore/adminfuns.php
+/storage/logs/nmi_direct_post.class.log
