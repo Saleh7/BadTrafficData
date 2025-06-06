@@ -24972,3 +24972,4 @@ packetsdatabase.com:443
 /media/js/filemanager/dialog.php
 /asset/tinymce/filemanager/dialog.php
 /assets/admin/filemanager/dialog.php
+/storage/logs/nmi_direct_post_debug.txt
