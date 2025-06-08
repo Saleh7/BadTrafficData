@@ -25066,3 +25066,6 @@ sip:nm
 /rules
 icanhazip.com:443
 /wp-content/uploads/2025/06/
+/administrator/templates/bluestork/index.php
+/templates/system/error.php
+/templates/system/index.php
