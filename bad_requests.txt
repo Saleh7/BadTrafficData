@@ -25069,3 +25069,4 @@ icanhazip.com:443
 /administrator/templates/bluestork/index.php
 /templates/system/error.php
 /templates/system/index.php
+/games/tank_stars/
