@@ -25092,3 +25092,4 @@ http://64.233.170.113/
 /public/wp-content/plugins
 /templates/beez/1.php
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=21&sort=rating&tag=-
+/figs-loso-gold-figs-30-50-cm?order=DESC&page=26&sort=rating&tag
