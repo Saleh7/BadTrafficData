@@ -25088,3 +25088,5 @@ http://64.233.170.113/
 /js/1.php
 /wp-content/themes/seotheme/hkagukoq.php
 /wp-admin/maint/1.php
+/wp-content/uploads/xc.php
+/public/wp-content/plugins
