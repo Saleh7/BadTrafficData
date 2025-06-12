@@ -25104,3 +25104,4 @@ http://64.233.170.113/
 /web/admin
 /textpattern
 /manager/
+/robots.txt/wp-login.php
