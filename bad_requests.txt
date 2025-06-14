@@ -25627,3 +25627,9 @@ http://64.233.170.113/
 /sendgrid/access.yaml
 /sendgrid/access.txt
 /?srsltid=AfmBOoqJtQfdkGKEIg78WTbodczYBrKu81Ivl0HnZvrM3WncRvBrTbsB
+/xpw.php
+/headers.php
+/wp-fmfile.php
+/array.php
+/wp-content.php.php
+/rute.php
