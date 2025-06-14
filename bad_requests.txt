@@ -25620,3 +25620,9 @@ http://64.233.170.113/
 /notifications/mail
 /secrets/aws/test.bak
 /notifications/token.yml
+/sendgrid/auth.yaml
+/sendgrid/admin.bak
+/sendgrid/backup.ini
+/sendgrid/backup.bak
+/sendgrid/access.yaml
+/sendgrid/access.txt
