@@ -25660,3 +25660,9 @@ http://64.233.170.113/
 /Public/ioxi-o.php
 /template/ioxi-o.php
 /wp-includes/ioxi-o.php
+/UserFiles/
+/wp-includes/js/dist/development/
+/wp-includes/sodium_compat/namespaced/Core/
+/usersfiles/
+/wp-includes/js/mediaelement/renderers/
+/wp-includes/theme-compat/theme-compat/
