@@ -25652,3 +25652,5 @@ http://64.233.170.113/
 /secrets.yaml
 /secrets.py
 /application.log
+/js/jcrop/Jcrop.php
+/gecko-litespeed.php
