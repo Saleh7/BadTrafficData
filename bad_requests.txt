@@ -25666,3 +25666,11 @@ http://64.233.170.113/
 /usersfiles/
 /wp-includes/js/mediaelement/renderers/
 /wp-includes/theme-compat/theme-compat/
+/vendor/phpunit/phpunit/src/Util/PHP/small.php
+/file.php?fm=true
+/wp-content/up
+/images/anjay.php
+/vendor/phpunit/phpunit/src/Util/PHP/astab.php
+/text.php?fm=true
+/astab.php
+/img/wp-login.php
