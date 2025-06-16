@@ -25674,3 +25674,4 @@ http://64.233.170.113/
 /text.php?fm=true
 /astab.php
 /img/wp-login.php
+/docs/deployment.md
