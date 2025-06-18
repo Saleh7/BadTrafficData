@@ -26450,3 +26450,13 @@ http://64.233.170.113/
 /run/secrets
 /ajax_dashboard.php?widget=../../../../../../../../root/.aws/credentials
 /remote/fgt_lang?lang=/../../../../../../../../root/.aws/credentials
+/var/lib/elasticsearch/data
+/var/log/aws-java-sdk
+/var/run/kubernetes
+/etc/etcd
+/etc/kubernetes/pki/
+/etc/kubernetes/manifests
+/etc/sqlite3/config.db
+/var/lib/mongo/mongod.lock
+/var/lib/kubele
+/etc/ssl/private/openssl.cnf
