@@ -26441,3 +26441,4 @@ http://64.233.170.113/
 /laravel71/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /app/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /?gclid=EAIaIQobChMIzrWz-Ki2hgMVL1cdCR0EmQD8EAEYASAAEgIpuPD_BwE
+/global/en/
