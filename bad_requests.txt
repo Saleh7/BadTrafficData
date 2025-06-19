@@ -26484,3 +26484,4 @@ http://64.233.170.113/
 /uholsa.tar.gz
 /uhol.zip
 /uhol.tar.gz
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
