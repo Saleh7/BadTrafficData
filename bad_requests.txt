@@ -26480,3 +26480,6 @@ http://64.233.170.113/
 /uhol.rar
 /uholsa.zip
 /uhol.sa.zip
+/uhol.sa.tar.gz
+/uholsa.tar.gz
+/uhol.zip
