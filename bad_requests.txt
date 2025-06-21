@@ -26495,3 +26495,6 @@ http://64.233.170.113/
 /wp-content/themes/wp-pridmag/layout.php
 /wp-includes/SimplePie/cY5ipC.php
 /wp-includes/class-wp-taxonomy.editor.php
+/build/gitlab-ci.yml
+/Dockerfile.prod
+/ci/gitlab-ci.yml
