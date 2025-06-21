@@ -26498,3 +26498,5 @@ http://64.233.170.113/
 /build/gitlab-ci.yml
 /Dockerfile.prod
 /ci/gitlab-ci.yml
+/wp-admin/admin-wolf.php
+/wp-content/edit-wolf.php
