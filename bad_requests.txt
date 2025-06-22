@@ -26638,3 +26638,9 @@ http://64.233.170.113/
 /etc/chef/client.rb
 /home/ec2-user/.env
 /home/ubuntu/.env
+/terraform.tfvars
+/var/www/symfony/.env
+/terraform.tfstate
+/usr/share/nginx/html/.env
+/var/www/wordpress/.env
+/var/www/html/.env
