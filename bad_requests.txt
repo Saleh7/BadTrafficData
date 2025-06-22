@@ -26503,3 +26503,4 @@ http://64.233.170.113/
 /file88.php
 /cmd2.php
 /typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php
+/.ftpconfig
