@@ -29944,3 +29944,11 @@ http://64.233.170.113/
 /public/client/planinfo
 /react_app/.env.production
 /rails_app/.env
+/ruby_app/.env
+/roles/web/tasks/main.yml
+/sbin/.env
+/secret.txt
+/secrets/jenkins.util.Secret
+/secrets/initialAdminPassword
+/root/project/.env
+/root/app/.env
