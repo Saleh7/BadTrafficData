@@ -29637,3 +29637,7 @@ http://64.233.170.113/
 /2025/wp-login.php
 /chart/php-ofc-library/ofc_upload_image.php
 /admin/includes/upload.php
+/db.bson
+/mongo.bson
+/redis.rdb
+/mongodb.bson
