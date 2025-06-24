@@ -29908,3 +29908,6 @@ http://64.233.170.113/
 /home/*/app/.env
 /etc/chef/encrypted_data_bag_secret
 /group_vars/all
+/jenkins/secrets/hudson.util.Secret
+/laravel/.env.example
+/logs/error/.env
