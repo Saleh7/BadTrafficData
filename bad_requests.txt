@@ -30008,3 +30008,10 @@ http://64.233.170.113/
 /var/www/html/config/.env
 /var/www/html/public/.env
 /mini.php?p=
+/debugger.php
+/api/.env/api/.env
+/diagnostics.php
+/var/www/html/phpinfo.php
+/system_info.php
+/private/phpinfo.php
+/phpversion
