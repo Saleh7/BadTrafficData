@@ -29872,3 +29872,13 @@ http://64.233.170.113/
 /config/test_config.py
 /config/settings/__init__.py
 /config/service.yaml
+/database/secrets/.env
+/db/config/.env
+/dotenv/.env
+/credentials/.env
+/django_app/.env.dev
+/desktop_app/.env
+/django_app/.env.prod
+/electron_app/.env
+/django_app/.env
+/docker/.env.local
