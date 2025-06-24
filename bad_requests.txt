@@ -29952,3 +29952,17 @@ http://64.233.170.113/
 /secrets/initialAdminPassword
 /root/project/.env
 /root/app/.env
+/src/environments/environment.staging.ts
+/src/.env.testing
+/src/environments/environment.ts
+/src/environments/environment.dev.ts
+/src/main/resources/application-dev.yml
+/src/config/.env
+/src/config/config.ts
+/services/*/.env
+/src/.env.production
+/src/main/resources/application-prod.yml
+/src/.env.local
+/src/main/resources/application-test.yml
+/spring_boot/.env
+/src/config/app.config.ts
