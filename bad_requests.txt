@@ -30015,3 +30015,7 @@ http://64.233.170.113/
 /system_info.php
 /private/phpinfo.php
 /phpversion
+/.git/
+/var/www/
+/.aws/credentials/login/
+/.docker/
