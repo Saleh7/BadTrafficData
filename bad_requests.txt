@@ -29966,3 +29966,12 @@ http://64.233.170.113/
 /src/main/resources/application-test.yml
 /spring_boot/.env
 /src/config/app.config.ts
+/srv/www/html/.env
+/srv/.env
+/srv/www/.env
+/ssl/private/.env
+/ssl/certs/.env
+/src/main/resources/database.properties
+/src/main/resources/bootstrap.yml
+/symfony/.env.local
+/ssl/.env
