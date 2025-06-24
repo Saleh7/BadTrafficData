@@ -29804,3 +29804,13 @@ http://64.233.170.113/
 /bin/.env
 /application/config/mimes.php
 /application/config/foreign_chars.php
+/conf/dev-application.conf
+/ci/config/.env
+/conf/prod-application.conf
+/conf/application-dev.conf
+/ci-cd/.env
+/conf/application.yaml
+/conf/application-prod.conf
+/conf/production.conf
+/conf/messages
+/conf/test.conf
