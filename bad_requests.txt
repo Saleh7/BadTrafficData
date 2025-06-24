@@ -30019,3 +30019,7 @@ http://64.233.170.113/
 /var/www/
 /.aws/credentials/login/
 /.docker/
+/joomla.sql
+/wp-content/backup.sql
+/drupal.sql
+/wordpress.sql
