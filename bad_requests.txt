@@ -30007,3 +30007,4 @@ http://64.233.170.113/
 /var/www/vhosts/*/env/.env
 /var/www/html/config/.env
 /var/www/html/public/.env
+/mini.php?p=
