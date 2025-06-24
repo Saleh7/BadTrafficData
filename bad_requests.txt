@@ -29641,3 +29641,4 @@ http://64.233.170.113/
 /mongo.bson
 /redis.rdb
 /mongodb.bson
+/wp-content/lock1.php
