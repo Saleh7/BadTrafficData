@@ -30032,3 +30032,13 @@ http://64.233.170.113/
 /backup/wp-login.php
 /geju.txt
 /ofc/php-ofc-library/ofc_upload_image.php
+/assets/vendor/jquery.filer/index.html
+/admin/kcfinder/browse.php
+/plugins/jquery.filer/index.html
+/assets/jquery.filer/index.html
+/asset/jquery.filer/index.html
+/admin/plugins/jquery.filer/index.html
+/admin/assets/vendor/jquery.filer/index.html
+/plugins/assets/vendor/jquery.filer/index.html
+/vendor/jquery.filer/index.html
+/assets/plugins/jquery.filer/index.html
