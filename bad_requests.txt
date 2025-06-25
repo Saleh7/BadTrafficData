@@ -30042,3 +30042,8 @@ http://64.233.170.113/
 /plugins/assets/vendor/jquery.filer/index.html
 /vendor/jquery.filer/index.html
 /assets/plugins/jquery.filer/index.html
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php
+/panel/kcfinder/browse.php
+/admin/lib/kcfinder/browse.php
+/public/files/assets/ckeditor/kcfinder/browse.php
+/lib/kcfinder/browse.php
