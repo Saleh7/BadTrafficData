@@ -30047,3 +30047,4 @@ http://64.233.170.113/
 /admin/lib/kcfinder/browse.php
 /public/files/assets/ckeditor/kcfinder/browse.php
 /lib/kcfinder/browse.php
+/?gad_source=2&gad_campaignid=20619651796&gclid=CjwKCAjwvO7CBhAqEiwA9q2YJcA-pD6Z7jhv7HqGe59pihBam4s6b1EI57IRuVFQAxbHChG944tx2RoCSGEQAvD_BwE
