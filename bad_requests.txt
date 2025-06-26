@@ -30065,3 +30065,13 @@ http://64.233.170.113/
 /storage/database.sqlite
 /index.php/admin
 /administrator/backups/
+/wp-admin/8mpo9hri4Un.php
+/wp-admin/pCS3rHdUjGM.php
+/wp-content/shell20211028.php/xltavrat.php
+/wp-includes/widgets/class-wp-widget-media-statement.php
+/wp-content/themes/seotheme/mar.php/wp-content/themes/seotheme/db.php
+/wp-includes/css/error_log.php
+/Quotqw4MU9n.php
+/wp-admin/QPGxhzdFios.php
+/wp-admin/uUcLrBOs1mN.php
+/wp-content/plugins/about.php/wp-content/plugins//wp-content/uploads/wp_live_chat/abruzi.php
