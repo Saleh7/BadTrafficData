@@ -30246,3 +30246,15 @@ http://64.233.170.113/
 /wp-config.data
 /wp-config.cfg
 /wp-config.htm
+/wp-config.log
+/wp-config.lst
+/wp-config.old.old
+/wp-config.new
+/wp-config.org
+/wp-config.original
+/wp-config.map
+/wp-config.local.php
+/wp-config.part
+/wp-config.java
+/wp-config.maj
+/wp-config.local
