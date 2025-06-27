@@ -30105,3 +30105,4 @@ http://64.233.170.113/
 /wp-content/plugins/woocommerce/includes/export/style.php
 /wp-includes/js/tinymce/plugins/textcolor/admin.php
 /infected/wp-ccccc/plugins/contact-form-7/admin/style.php
+/?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMI68reiNqQjgMV6UP2CB1iwTK6EAEYASAAEgJuePD_BwE
