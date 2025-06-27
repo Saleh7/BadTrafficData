@@ -30343,3 +30343,10 @@ http://64.233.170.113/
 /kyc/.env.production
 /kyc/.env.staging
 /kyc/.env.local
+/live/.env.local
+/legacy/tests/9.2.0/.env
+/live/.env.production
+/live/.env.staging
+/live/.env
+/legacy/tests/9.1.1/.env
+/lemonldap-ng-doc/.env/
