@@ -30334,3 +30334,6 @@ http://64.233.170.113/
 /development/.env.local
 /development/.env.staging
 /develop/.env.production
+/env.development.local
+/env/phpinfo
+/fedora.php
