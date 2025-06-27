@@ -30123,3 +30123,11 @@ http://64.233.170.113/
 /testphpinfo
 /.env.{{SD}}
 /testphp.php
+/infophp/index.php
+/information
+/php-info
+/info/phpinfo
+/pi.php7
+/infophp/testphp.php
+/pi.php6
+/pi.php8
