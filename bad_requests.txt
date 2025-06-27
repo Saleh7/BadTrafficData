@@ -30358,3 +30358,6 @@ http://64.233.170.113/
 /marketing/.env
 /market/.env.production
 /marketing/.env.local
+/old/.env.production
+/old/.env.local
+/old/.env.staging
