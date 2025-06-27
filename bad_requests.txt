@@ -30337,3 +30337,6 @@ http://64.233.170.113/
 /env.development.local
 /env/phpinfo
 /fedora.php
+/gists/cache/.env
+/gists/pusher/.env
+/gists/laravel/.env
