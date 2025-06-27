@@ -30350,3 +30350,11 @@ http://64.233.170.113/
 /live/.env
 /legacy/tests/9.1.1/.env
 /lemonldap-ng-doc/.env/
+/market/.env.staging
+/marketing/.env.production
+/market/.env.local
+/market/.env
+/marketing/.env.staging
+/marketing/.env
+/market/.env.production
+/marketing/.env.local
