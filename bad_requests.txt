@@ -30403,3 +30403,4 @@ http://64.233.170.113/
 /?gad_source=1&gad_campaignid=20619651796&gclid=Cj0KCQjwgvnCBhCqARIsADBLZoJzvQhtFrNCDJ_KAauW_FwMWPU6Q0YixFzgG7qn-BhNjs3EkoWh1X0aAsOZEALw_wcB
 /1-??-????????-npk-20-20-20+te-??????????-?????????????tag=NPK&sort=rating&order=DESC
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIn4y0h6uTjgMVLEP2CB1kax7xEAEYASAAEgLwp_D_BwE
+/index/function.php/img/
