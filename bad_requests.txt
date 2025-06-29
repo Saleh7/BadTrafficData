@@ -30942,3 +30942,4 @@ http://64.233.170.113/
 /public/login.htm?file=/api/addusers.htm
 /openmrs/ws/rest/v1/xxxxxx
 /Uploads/2z9g7W1utj3E2YeJWHD5f58SEze.php7
+/php-ofc-library/ofc_upload_image.php
