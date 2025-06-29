@@ -30918,3 +30918,4 @@ http://64.233.170.113/
 /wp-content/uploads/2023/10/anjas.php
 /wp-content/plugins/WordPressCore/ollpn.php
 /runtime/cache/123.txt
+/?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIv5PXx7SVjgMVWVqEBh1ugz3CEAEYASAAEgKBdPD_BwE
