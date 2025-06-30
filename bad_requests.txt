@@ -30956,3 +30956,5 @@ http://64.233.170.113/
 /objects/getImage.php?base64Url=YGlkID4gZ2tsY2UudHh0YA===&format=png
 /objects/getImageMP4.php?base64Url=YGlkID4gaHpXYS50eHRg&format=jpg
 /objects/getSpiritsFromVideo.php?base64Url=YGlkID4gYlNDbS50eHRg&format=jpg
+/objects/hzWa.txt
+/objects/bSCm.txt
