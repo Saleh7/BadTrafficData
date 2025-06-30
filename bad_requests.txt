@@ -30950,3 +30950,7 @@ http://64.233.170.113/
 /artifactory/ui/auth/login
 /docker-compose.prod.yml
 /docker-compose.dev.yml
+/objects/getImageMP4.php?base64Url=YGlkID4gZ2tsY2UudHh0YA===&format=jpg
+/objects/getSpiritsFromVideo.php?base64Url=YGlkID4gZ2tsY2UudHh0YA===&format=jpg
+/objects/gklce.txt
+/objects/getImage.php?base64Url=YGlkID4gZ2tsY2UudHh0YA===&format=png
