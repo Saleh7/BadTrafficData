@@ -30946,3 +30946,5 @@ http://64.233.170.113/
 /talari/app/files/2z9g7eYuouOALWPIXdMF8BM4SRX
 /?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMIoITLhduXjgMVjScGAB0dUSj9EAEYASAAEgLL0PD_BwE
 /index.php/Index/index
+/ui/auth/login
+/artifactory/ui/auth/login
