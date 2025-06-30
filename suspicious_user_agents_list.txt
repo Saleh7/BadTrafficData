@@ -170,3 +170,4 @@ Mozilla/4.7(9 [en] (compatible; MSIE 7.0; Windows NT 5.0; .NET CLR 2.0.50727; In
 Opera/9.10( (Windows NT 5.1; U; zh-tw))
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; FunWebProducts)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALCJS)
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Gemini-Deep-Research; +https://gemini.google/overview/deep-research/ Chrome/135.0.0.0 Safari/537.36)
