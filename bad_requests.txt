@@ -30982,3 +30982,7 @@ http://64.233.170.113/
 /google-cloud-sdk/lib/googlecloudsdk/gcloud.pyo
 /.env.smtp_server
 /.env.mail_keys
+/.env.mail_settings.local
+/.env.smtp.local
+/etc/named.conf
+/.env_mail_admin
