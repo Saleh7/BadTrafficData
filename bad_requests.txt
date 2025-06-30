@@ -30968,3 +30968,9 @@ http://64.233.170.113/
 /.env_mail_server
 /.env_mail
 /wp-content/themes/twentyfourteen/archive.php
+/server/.env.local
+/.env_mail_login
+/.env.bak1
+/redis-*.conf
+/etc/apache2/mods-enabled/
+/.env.orig
