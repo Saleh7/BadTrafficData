@@ -30974,3 +30974,11 @@ http://64.233.170.113/
 /redis-*.conf
 /etc/apache2/mods-enabled/
 /.env.orig
+/etc/nginx/snippets/self-signed-example.com.conf
+/.env.smtp_login
+/configs/development.yml
+/var/log/cloud-init-output.log
+/node/.env
+/google-cloud-sdk/lib/googlecloudsdk/gcloud.pyo
+/.env.smtp_server
+/.env.mail_keys
