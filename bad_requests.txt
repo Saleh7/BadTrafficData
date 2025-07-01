@@ -34843,3 +34843,4 @@ http://64.233.170.113/
 /config/smtp.go
 /lucee/admin/imgProcess.cfm?file=/../../../context/2z9g7hsMyU8RSbWUg92DkDwNWDm.cfm
 /lucee/2z9g7hsMyU8RSbWUg92DkDwNWDm.cfm
+/geju.php/wp-includes/images/about.php
