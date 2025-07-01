@@ -34845,3 +34845,4 @@ http://64.233.170.113/
 /lucee/2z9g7hsMyU8RSbWUg92DkDwNWDm.cfm
 /geju.php/wp-includes/images/about.php
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMI2t36t7CbjgMVEgqiAx1iwDCJEAEYASAAEgK4X_D_BwE
+/?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIy9HylbWbjgMVkxyiAx3W3Q4REAEYASAAEgJha_D_BwE
