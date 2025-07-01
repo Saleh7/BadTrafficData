@@ -34867,3 +34867,4 @@ http://64.233.170.113/
 /xmlrpc.php/xmlrpc.php
 /motdzqxo.php?Fox=d3wL7
 /tinymce/plugins/elfinder/php/connector.php
+/.well-known/pki-validation/wp-signup.php
