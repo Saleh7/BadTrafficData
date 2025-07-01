@@ -34859,3 +34859,4 @@ http://64.233.170.113/
 /wp-includes//ioxi-o.php
 /wp-content/plugins/wp-table-builder/inc/core/freemius/assets//ioxi-o.php
 /wp-content/plugins/imagements/images/2z9g7wtkkydqth1m1snetvxncum.php
+/wp-content/uploads/kaswara/fonts_icon/cbokon/eb.php
