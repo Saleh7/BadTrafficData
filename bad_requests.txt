@@ -34856,3 +34856,5 @@ http://64.233.170.113/
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIjbGK17qbjgMVdJ9QBh3VDABCEAEYASAAEgJOJ_D_BwE
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMI_KX0qsGbjgMV155QBh0P-QDqEAEYASAAEgL-JvD_BwE
 /wp-content/plugins/elementor/assets//ioxi-o.php
+/wp-includes//ioxi-o.php
+/wp-content/plugins/wp-table-builder/inc/core/freemius/assets//ioxi-o.php
