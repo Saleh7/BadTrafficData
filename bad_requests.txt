@@ -34897,3 +34897,14 @@ http://64.233.170.113/
 /pamdjrsh.php?Fox=d3wL7
 /UhZsWwquNaOY
 /alfa-rexhp1.php
+/wp-content/themes/wp-pridmag/init.php?
+/wp-2019.php?
+/1.php?
+/file.php?
+/marijuana.php?
+/config.php?
+/wp-includes/system_log.php?
+/css/colors/coffee/index.php
+/mail.php?
+/wp-cron.php?
+/about/function.php?
