@@ -34892,3 +34892,5 @@ http://64.233.170.113/
 /fckeditor/editor/filemananager/upload/php/upload.php
 /ckeditor/fileman/php/upload.php
 /admin/ckeditor/fileman/php/upload.php
+/admin.php?action=p&api=p&path=p&token=
+/about.php?action=p&api=p&path=p&token=
