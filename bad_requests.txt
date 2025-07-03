@@ -35010,3 +35010,9 @@ http://64.233.170.113/
 /index.php/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN
 /editor/filemanager/upload/php/upload.php
 /editor/editor/filemanager/upload/php/upload.php
+/index.php/account?route=checkout/cart&route=checkout/cart
+/index.php/upload?route=checkout/cart&route=checkout/cart
+/index.php/soap.cgi?route=checkout/cart&route=checkout/cart&service=whatever-control;curl
+/index.php/openmrs/ws/rest/v1/xxxxxx?route=checkout/cart&route=checkout/cart
+/index.php/public/login.htm?route=checkout/cart&route=checkout/cart&file=/api/addusers.htm
+/index.php/ws/rest/v1/xxxxxx?route=checkout/cart&route=checkout/cart
