@@ -35067,3 +35067,6 @@ http://64.233.170.113/
 /index.php/crowd/admin/uploadplugin.action?route=checkout/cart&route=checkout/cart
 /index.php/?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&pum_action=tools_page_tab_system_info
 /index.php/?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN&pum_action=tools_page_tab_system_info
+/index.php/Collector/diagnostics/ping?route=checkout/cart&route=checkout/cart
+/index.php/login?route=checkout/cart&route=checkout/cart
+/index.php/Collector/diagnostics/trace_route?route=checkout/cart&route=checkout/cart
