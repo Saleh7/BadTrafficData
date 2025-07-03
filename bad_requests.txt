@@ -35070,3 +35070,5 @@ http://64.233.170.113/
 /index.php/Collector/diagnostics/ping?route=checkout/cart&route=checkout/cart
 /index.php/login?route=checkout/cart&route=checkout/cart
 /index.php/Collector/diagnostics/trace_route?route=checkout/cart&route=checkout/cart
+/index.php/ui/auth/login?route=checkout/cart&route=checkout/cart
+/index.php/artifactory/ui/auth/login?route=checkout/cart&route=checkout/cart
