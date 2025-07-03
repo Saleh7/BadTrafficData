@@ -34975,3 +34975,13 @@ http://64.233.170.113/
 /index.php/invoker/JMXInvokerServlet/?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k
 /index.php/invoker/EJBInvokerServlet/?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k
 /uafwzjoz.php?Fox=d3wL7
+/index.php/_users/org.couchdb.user:poc?route=checkout/cart&route=checkout/cart
+/index.php/GponForm/diag_Form?route=checkout/cart&route=checkout/cart&images/
+/index.php/?route=checkout/cart&author=1
+/index.php/solr/admin/cores?route=checkout/cart&route=checkout/cart&wt=json
+/index.php/javax.faces.resource/dynamiccontent.properties.xhtml?route=checkout/cart&route=checkout/cart
+/index.php/BSW_cxttongr.htm?route=checkout/cart&route=checkout/cart
+/index.php/cgi-bin/DownloadCfg/RouterCfm.cfg?route=checkout/cart&route=checkout/cart
+/index.php/cobbler_api?route=checkout/cart&route=checkout/cart
+/index.php/hw-sys.htm?route=checkout/cart&route=checkout/cart
+/index.php/integration/saveGangster.action?route=checkout/cart
