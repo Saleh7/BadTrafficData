@@ -35073,3 +35073,5 @@ http://64.233.170.113/
 /index.php/ui/auth/login?route=checkout/cart&route=checkout/cart
 /index.php/artifactory/ui/auth/login?route=checkout/cart&route=checkout/cart
 /index.php/com.example.TestService?route=checkout/cart
+/index.php/admin/auth/reset-password?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN
+/index.php/admin/auth/reset-password?route=checkout/cart&route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k
