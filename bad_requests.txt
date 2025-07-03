@@ -34942,3 +34942,6 @@ http://64.233.170.113/
 /index.php/user.action?route=checkout/cart
 /index.php/servlet/codesettree?route=checkout/cart&route=checkout/cart&flag=c&status=1&codesetid=1&parentid=-1&categories=~31~27~20union~20all~20select~20~27hongjing~27~2c~40~40version~2d~2d
 /index.php/axis2-admin/login?route=checkout/cart&route=checkout/cart
+/index.php/cgi-bin/rpc?route=checkout/cart&route=checkout/cart
+/index.php/users/sign_in?route=checkout/cart&route=checkout/cart
+/index.php/uapjs/jsinvoke/?route=checkout/cart&route=checkout/cart&action=invoke
