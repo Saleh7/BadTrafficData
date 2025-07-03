@@ -34946,3 +34946,5 @@ http://64.233.170.113/
 /index.php/users/sign_in?route=checkout/cart&route=checkout/cart
 /index.php/uapjs/jsinvoke/?route=checkout/cart&route=checkout/cart&action=invoke
 /index.php/seeyon/htmlofficeservlet?route=checkout/cart&route=checkout/cart
+/index.php/servlet/~ic/bsh.servlet.BshServlet?route=checkout/cart&route=checkout/cart
+/index.php/?route=checkout/cart&route=checkout/cart&gf_page=upload
