@@ -35021,3 +35021,5 @@ http://64.233.170.113/
 /index.php/ws_utc/resources/setting/keystore?route=checkout/cart&route=checkout/cart
 /index.php/ws_utc/resources/setting/options?route=checkout/cart&route=checkout/cart
 /pmfayeuu.php?Fox=d3wL7
+/index.php/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData?route=checkout/cart&amp;srsltid=AfmBOoqhC_hh6L8s7Der5R6-sDxrLYeI6jV7-Qa1EBMpunSL5M9TnMuN
+/index.php/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData?route=checkout/cart&amp;srsltid=AfmBOorhz1jGrSEFBW8-ypSix1qVmG-F4cJ_unlXxJjTYVFMaLI2aQ9k
