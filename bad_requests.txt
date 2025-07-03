@@ -35018,3 +35018,5 @@ http://64.233.170.113/
 /index.php/ws/rest/v1/xxxxxx?route=checkout/cart&route=checkout/cart
 /index.php/cf_scripts/scripts/ajax/ckeditor/plugins/filemanager/upload.cfm?route=checkout/cart&route=checkout/cart
 /index.php/Uploads/2zLEaQxnj1W35tGrbwVIzfJNpqz.php7?route=checkout/cart&route=checkout/cart
+/index.php/ws_utc/resources/setting/keystore?route=checkout/cart&route=checkout/cart
+/index.php/ws_utc/resources/setting/options?route=checkout/cart&route=checkout/cart
