@@ -34985,3 +34985,6 @@ http://64.233.170.113/
 /index.php/cobbler_api?route=checkout/cart&route=checkout/cart
 /index.php/hw-sys.htm?route=checkout/cart&route=checkout/cart
 /index.php/integration/saveGangster.action?route=checkout/cart
+/index.php/invoker/JMXInvokerServlet/?route=checkout/cart&route=checkout/cart
+/index.php/invoker/readonly?route=checkout/cart&route=checkout/cart
+/index.php/invoker/EJBInvokerServlet/?route=checkout/cart&route=checkout/cart
