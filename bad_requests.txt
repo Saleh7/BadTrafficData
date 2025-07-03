@@ -35056,3 +35056,6 @@ http://64.233.170.113/
 /index.php/ajax/render/widget_tabbedcontainer_tab_panel?route=checkout/cart&route=checkout/cart
 /index.php/CMSPages/Staging/SyncServer.asmx/ProcessSynchronizationTaskData?route=checkout/cart
 /index.php/Index/index?route=checkout/cart&route=checkout/cart
+/plugins/pwnd/as.php
+/index/fucku.php
+/wp-configs.php?
