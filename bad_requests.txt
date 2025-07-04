@@ -35093,3 +35093,4 @@ http://ifconfig.me/
 /system/logs/usaepay_server_debug.txt
 /ylqykbyv.php?Fox=d3wL7
 /124.php
+/system/storage/logs/usaepay_server_debug.txt
