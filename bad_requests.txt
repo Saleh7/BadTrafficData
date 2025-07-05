@@ -35106,3 +35106,4 @@ http://ifconfig.me/
 /?srsltid=AfmBOooT_mOsvgyBiDQyGVO_a2msPNGo1UqtXC6U-ipRK0iliDyUC2vU
 /about.php?action=p&api=p&path=p&token
 /admin.php?action=p&api=p&path=p&token
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
