@@ -35096,3 +35096,4 @@ http://ifconfig.me/
 /system/storage/logs/usaepay_server_debug.txt
 /admin/FCKeditor/editor/filemanager/upload/php/upload.php
 /FCKeditor/editor/filemanager/upload/php/upload.php
+/storage/logs/usaepay_server_debug.txt
