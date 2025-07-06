@@ -35113,3 +35113,4 @@ http://ifconfig.me/
 /dgidxjao.php?Fox=d3wL7
 /css/dist/preferences/wp-login.php
 /admin/function.php?
+/?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMI5OCEhc6ojgMVc1WkBB3VOAQSEAEYASAAEgIKwvD_BwE
