@@ -35111,3 +35111,5 @@ http://ifconfig.me/
 /zwinonhk.php?Fox=d3wL7
 /livewire/upload
 /dgidxjao.php?Fox=d3wL7
+/css/dist/preferences/wp-login.php
+/admin/function.php?
