@@ -50244,3 +50244,4 @@ http://ifconfig.me/
 /files/ALFA_DATA/alfacgiapi/
 /images/ALFA_DATA/alfacgiapi/
 /css/ALFA_DATA/alfacgiapi/
+/tmp_images/alfacgiapi/
