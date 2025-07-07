@@ -50241,3 +50241,4 @@ http://ifconfig.me/
 /subscription.csv
 /superadmin
 /.well-known/ALFA_DATA/alfacgiapi/
+/files/ALFA_DATA/alfacgiapi/
