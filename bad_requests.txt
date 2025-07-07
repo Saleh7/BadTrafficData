@@ -50240,3 +50240,4 @@ http://ifconfig.me/
 /tags.csv
 /subscription.csv
 /superadmin
+/.well-known/ALFA_DATA/alfacgiapi/
