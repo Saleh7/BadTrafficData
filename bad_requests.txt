@@ -50262,3 +50262,4 @@ http://ifconfig.me/
 /dytkosve.php?Fox=d3wL7
 /wp-json/custom/v1/
 /wp-content/plugins/cve-2024-46188/views/viewsecurity.php
+/.well-known/api-catalog
