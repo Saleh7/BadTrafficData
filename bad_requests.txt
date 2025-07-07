@@ -50245,3 +50245,4 @@ http://ifconfig.me/
 /images/ALFA_DATA/alfacgiapi/
 /css/ALFA_DATA/alfacgiapi/
 /tmp_images/alfacgiapi/
+/assets/upload/ALFA_DATA/alfacgiapi/
