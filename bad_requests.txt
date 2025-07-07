@@ -50242,3 +50242,4 @@ http://ifconfig.me/
 /superadmin
 /.well-known/ALFA_DATA/alfacgiapi/
 /files/ALFA_DATA/alfacgiapi/
+/images/ALFA_DATA/alfacgiapi/
