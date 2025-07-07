@@ -50249,3 +50249,4 @@ http://ifconfig.me/
 /components/ALFA_DATA/alfacgiapi/
 /upload/ALFA_DATA/alfacgiapi/
 /uploads/ALFA_DATA/alfacgiapi/
+/info.php?
