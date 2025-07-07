@@ -50251,3 +50251,9 @@ http://ifconfig.me/
 /uploads/ALFA_DATA/alfacgiapi/
 /info.php?
 /?srsltid=AfmBOoqt1iVq7FPUDhiLY9bQ58tmq4iZ3YGV-ueGd5UHeb_S6LH4UdOq
+/contacts.html
+/pages/contacts
+/pages/contact-us
+/contact-us.html
+/contact-us.php
+/pages/contactus
