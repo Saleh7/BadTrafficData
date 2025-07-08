@@ -50275,3 +50275,7 @@ http://ifconfig.me/
 /ton.php
 /wp-content/plugins/erinyani/asix.php
 /?srsltid=AfmBOorIgIQNZUuHg7uX_mZO-z0ChmW5-5w8ZPsxDSuBSxQMrjEEtlJM
+/gmo.php
+/Sanskrit.php
+/well-known/admin.php
+/wp-singin.php
