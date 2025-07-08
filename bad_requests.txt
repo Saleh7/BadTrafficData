@@ -50273,3 +50273,4 @@ http://ifconfig.me/
 /akc.php
 /akp.php
 /ton.php
+/wp-content/plugins/erinyani/asix.php
