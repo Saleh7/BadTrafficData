@@ -50269,3 +50269,4 @@ http://ifconfig.me/
 /.api/.env
 /owa/auth/logon.aspx
 /ecp/Current/exporttool
+/wp-content/plugins/yanierin/akc.php
