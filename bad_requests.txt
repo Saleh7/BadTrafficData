@@ -50325,3 +50325,16 @@ http://ifconfig.me/
 /static/.git/config
 /html/.git/config
 /src/.git/config
+/list.php
+/View_55555.php
+/alonepage.php
+/article/view.php
+/mod/forum/view.php
+/faculty/show.php
+/show_ser.php
+/pd.php
+/showproduct.php
+/desc.php
+/tools/a-z/index.php
+/en/news_info.php
+/edu/show.php
