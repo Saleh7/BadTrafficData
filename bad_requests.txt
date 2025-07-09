@@ -50308,3 +50308,6 @@ http://ifconfig.me/
 /wp-includes/assets/admin.php
 /infoo.php
 /css/colors/blue/atomlib.php
+/wp-includes/images/psh.php
+/up.php?x=
+/0x1949.php
