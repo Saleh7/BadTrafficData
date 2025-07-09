@@ -50300,3 +50300,6 @@ http://ifconfig.me/
 /windows/win.ini
 /static/etc/passwd
 /dolphinscheduler/resources/download?fullName=file:///etc/passwd
+/php/components/logs.php
+/rest/users/1/settings/
+/core/authorize.php
