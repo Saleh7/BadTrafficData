@@ -50304,3 +50304,7 @@ http://ifconfig.me/
 /rest/users/1/settings/
 /core/authorize.php
 /components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php
+/wp-admin/yindu.php
+/wp-includes/assets/admin.php
+/infoo.php
+/css/colors/blue/atomlib.php
