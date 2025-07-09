@@ -50303,3 +50303,4 @@ http://ifconfig.me/
 /php/components/logs.php
 /rest/users/1/settings/
 /core/authorize.php
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php
