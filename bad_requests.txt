@@ -50311,3 +50311,17 @@ http://ifconfig.me/
 /wp-includes/images/psh.php
 /up.php?x=
 /0x1949.php
+/temp/.git/config
+/wp-admin/.git/config
+/git/config
+/administrator/.git/config
+/api/.git/config
+/dist/.git/config
+/sites/.git/config
+/www/.git/config
+/_git/config
+/assets/.git/config
+/production/.git/config
+/static/.git/config
+/html/.git/config
+/src/.git/config
