@@ -51125,3 +51125,16 @@ http://ifconfig.me/
 /vendor/phpmailer/phpmailer/src/SMTP/cache/functions-data.php
 /wp-content/plugins/akismet/admin-init.php
 /hwotqkwg.php?Fox=d3wL7
+/sponsor-page.php
+/doku.php
+/egarden/view_treelist.php
+/teacherDetail.php
+/13k.php
+/xinwen-detail.php
+/wap-zjzx_content.php
+/SpeciesSummary.php
+/affairsshow.php
+/dfile.php
+/plus/scxx_xminfo.php
+/help/help-show.php
+/en/tea.php
