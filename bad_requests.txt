@@ -51143,3 +51143,8 @@ http://ifconfig.me/
 /wp-admin/css/colors/blue/blue.php?wall=ZWNobyAnQmxhY2sgQm90Jztmd3JpdGUoZm9wZW4oJ2Jsa3d5c3NjLnBocCcsJ3crJyksJzw/cGhwIGVjaG8gIkJsYWNrIEJvdCI7Pz4nKTs=
 /wp-admin/css/colors/blue/blue.php?wall=ZWNobyAnQmxhY2sgQm90Jztmd3JpdGUoZm9wZW4oJ2Jsa3BodGdoLnBocCcsJ3crJyksJzw/cGhwIGVjaG8gIkJsYWNrIEJvdCI7Pz4nKTs=
 /src/config.php
+/app/settings.php
+/config/settings.php
+/private/config.php
+/deployment/.env
+/test/phpinfo.php
