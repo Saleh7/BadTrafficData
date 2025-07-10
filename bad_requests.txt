@@ -51149,3 +51149,6 @@ http://ifconfig.me/
 /deployment/.env
 /test/phpinfo.php
 /?gad_source=2&gad_campaignid=20619651796&gclid=CjwKCAjwyb3DBhBlEiwAqZLe5JRYGp6RxlWG6TBsUieDkskv11xDKNyMn2vY2NnEU1supyB4QuPyBRoCdjoQAvD_BwE
+/plugins/Cache/footer.php
+/404.php?fm=true
+/fm.php?fm=true
