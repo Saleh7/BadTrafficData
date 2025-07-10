@@ -51138,3 +51138,4 @@ http://ifconfig.me/
 /plus/scxx_xminfo.php
 /help/help-show.php
 /en/tea.php
+/?gad_source=5&gad_campaignid=20619651796&gclid=EAIaIQobChMI5e7m_JOyjgMVvIuDBx09czWBEAAYASAAEgJVm_D_BwE
