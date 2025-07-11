@@ -51153,3 +51153,4 @@ http://ifconfig.me/
 /404.php?fm=true
 /fm.php?fm=true
 /bwfloaaq.php?Fox=d3wL7
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php
