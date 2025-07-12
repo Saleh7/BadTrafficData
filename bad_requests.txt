@@ -51164,3 +51164,9 @@ http://ifconfig.me/
 /?srsltid=AfmBOorFKdtVIAbCmRx5wo-pV63AJA_gpk35tOqzAhq8VzFqPkqwYdON
 /new/wp-admin/setup-config.php
 /wp/wp-admin/setup-config.php
+/wp-content/akp.php
+/wp-content/plugins/view-ad/ms.php
+/file17.php
+/wp-content/plugins/deu/ms.php
+/wp-content/plugins/hanau/akc.php
+/wp-content/plugins/geu/geu.php
