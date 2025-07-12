@@ -51172,3 +51172,12 @@ http://ifconfig.me/
 /wp-content/plugins/geu/geu.php
 /terms-and-privacy
 /?gad_source=1&gad_campaignid=20365607463&gclid=Cj0KCQjwj8jDBhD1ARIsACRV2Tt4nUPTp1Lxw2h0sPcUl74_nCD5vElv7pQSjVmkC0eLlg-4p8slviUaApfkEALw_wcB
+/wp-content/uploads/de_fb_uploads/b.phpde_fb_uploads&upload=gaskan
+/admin/controller/extension/extension/admin.php
+/wp67/manager.php
+/perodua-malaysia//classwithtostring.php
+/language/cron.php
+/wp-content/uploads/2023/08/admin.php
+/404.shtml
+/wp-content/uploads/de_fb_uploads/bypass.php
+/admin.php/controller/extension/extension/ultra.php
