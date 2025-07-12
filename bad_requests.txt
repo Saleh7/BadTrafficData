@@ -51162,3 +51162,5 @@ http://ifconfig.me/
 /?gad_campaignid=20619651796&wbraid=ClMKCAjwyb3DBhAwEkMANSeWn0KfYjqwYgz2N133464pjRFAzqPybrPEzxTrGPOMCWMtyAQkReUYFVOu2vRSG1jjBZZ7M8Vo0Ve_7AmgsmWsGgKLQA
 /privacy-policy
 /?srsltid=AfmBOorFKdtVIAbCmRx5wo-pV63AJA_gpk35tOqzAhq8VzFqPkqwYdON
+/new/wp-admin/setup-config.php
+/wp/wp-admin/setup-config.php
