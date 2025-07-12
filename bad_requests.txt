@@ -51170,3 +51170,4 @@ http://ifconfig.me/
 /wp-content/plugins/deu/ms.php
 /wp-content/plugins/hanau/akc.php
 /wp-content/plugins/geu/geu.php
+/terms-and-privacy
