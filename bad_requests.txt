@@ -51182,3 +51182,4 @@ http://ifconfig.me/
 /wp-content/uploads/de_fb_uploads/bypass.php
 /admin.php/controller/extension/extension/ultra.php
 /components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_imaged.php
+/rest-api/about.php
