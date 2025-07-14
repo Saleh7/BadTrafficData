@@ -51254,3 +51254,9 @@ http://ifconfig.me/
 /lockindex.php
 /wp-includes/sodium_compat/src/Core/Curve25519/Ge/index.php
 /marketing/php-info.php
+/administrator/index2.php
+/mysql/web/index.php
+/wordpres/wp-admin/setup-config.php
+/wp-content/plugins/mailpress/mp-includes/action.php
+/administrator/index3.php
+/vendor/style.php
