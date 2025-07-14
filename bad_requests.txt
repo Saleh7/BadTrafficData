@@ -51227,3 +51227,13 @@ http://ifconfig.me/
 /LEAF.php
 /wp-content/plugins/wp-table-builder/inc/core/freemius/assets/ioxi-o.php
 /reisen/wp-login.php
+/wp-content/themes/rishi/db.php
+/wp-content/languages/themes/atomlib.php
+/wp-admin/images/my1.php
+/wp-content/plugins/elementor/assets/ioxi-o.php
+/wp-content/themes/jobart/db.php
+/wp-admin/includes/mariju.php
+/wp-admin/css/atomlib.php
+/feature/xampp/phpinfo.php
+/imge.php
+/444.php
