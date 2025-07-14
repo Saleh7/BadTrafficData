@@ -51300,3 +51300,4 @@ http://ifconfig.me/
 /?srsltid=AfmBOoo2knclK3fBxaCltQqeBNbAnbhhzZVeSvxHohLIAAWnuajZ1Pi0
 /?srsltid=AfmBOorVnydlGNgCZpPUu1y4ITsA64LY-FH6wtQxQEAniaAaIVtBJQfY
 /wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php
+/blog-verify
