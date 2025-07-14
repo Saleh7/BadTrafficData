@@ -51272,3 +51272,6 @@ http://ifconfig.me/
 /yanzshell.php
 /shellname.php
 /wp-includes/js/jcrop/jcrop.php
+/wp-includes/Requests/Exception/HTTP/HTTP.php
+/wp-includes/php-compat/mariju.php
+/wp-includes/blocks/list/index.php
