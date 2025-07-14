@@ -51219,3 +51219,8 @@ http://ifconfig.me/
 /PvT.php
 /assets/style.php
 /secba3.php
+/admin/assets/global/plugins/tinymce/plugins/filemanager/dialog.php
+/wp-admin/maint/mariju.php
+/ar/wp-content/themes/pridmag/db.php
+/nodeapi/pinfo.php
+/wp-content/themes/skatepark/db.php
