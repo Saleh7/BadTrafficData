@@ -51276,3 +51276,8 @@ http://ifconfig.me/
 /wp-includes/php-compat/mariju.php
 /wp-includes/blocks/list/index.php
 /?srsltid=AfmBOorvCBUuJccR-OQGOMqzxlJ-ALaQZ-LfJlaK53sOaikxPf6sX2Mz
+/plugins/servlet/snjCustomDesignConfig?fileName=../etc/passwd&fileMime=$textMime
+/RP?wsrp-url=file:///etc/passwd
+/common/down/file?filekey=/../../../../../../../../../etc/passwd
+/plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime
+/images//////////etc/passwd
