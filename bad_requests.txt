@@ -51214,3 +51214,8 @@ http://ifconfig.me/
 /wp-includes/fonts/wp-conflg.php
 /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 /config/tmp/config.php
+/wp-content/themes/twentytwenty/style.php
+/sqldb.php
+/PvT.php
+/assets/style.php
+/secba3.php
