@@ -51205,3 +51205,12 @@ http://ifconfig.me/
 /Mshell.php
 /wp-content/plugins/core-plugin/wp-error_log.php
 /wp-includes/sitemaps/providers/mariju.php
+/cgi-bin/class_api.php
+/wp-includes/Requests/atomlib.php
+/bp.php
+/xmlr.php
+/lara/services/info.php
+/wp-admin/user/users.php
+/wp-includes/fonts/wp-conflg.php
+/crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+/config/tmp/config.php
