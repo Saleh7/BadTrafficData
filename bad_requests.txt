@@ -51245,3 +51245,9 @@ http://ifconfig.me/
 /styple.php
 /wp-includes/certificates/moon.php
 /images/mariju.php
+/wp-includes/blocks/table/them/tmpl/index.php
+/wp-content/themes/classic/inc/index.php
+/plugins/content/apismtp/apismtp.php
+/wp-admin/network/mariju.php
+/api/upload/config.php
+/deploy/backup/info.php
