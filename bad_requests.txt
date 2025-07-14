@@ -51199,3 +51199,9 @@ http://ifconfig.me/
 /MyAdmin/index.php
 /prod/dashboard/infoss_php.php
 /zz.php/wp-includes/wp-includes_function.php/js/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php
+/bob.php
+/wp-content/plugins/db/uploader.php
+/wp-includes/IXR/mariju.php
+/Mshell.php
+/wp-content/plugins/core-plugin/wp-error_log.php
+/wp-includes/sitemaps/providers/mariju.php
