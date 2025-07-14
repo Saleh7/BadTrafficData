@@ -51224,3 +51224,6 @@ http://ifconfig.me/
 /ar/wp-content/themes/pridmag/db.php
 /nodeapi/pinfo.php
 /wp-content/themes/skatepark/db.php
+/LEAF.php
+/wp-content/plugins/wp-table-builder/inc/core/freemius/assets/ioxi-o.php
+/reisen/wp-login.php
