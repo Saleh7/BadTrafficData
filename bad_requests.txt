@@ -51252,3 +51252,5 @@ http://ifconfig.me/
 /api/upload/config.php
 /deploy/backup/info.php
 /lockindex.php
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/index.php
+/marketing/php-info.php
