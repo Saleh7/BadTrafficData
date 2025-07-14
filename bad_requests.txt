@@ -51188,3 +51188,4 @@ http://ifconfig.me/
 /awsstats/.env
 /laravael/core/.env
 /?srsltid=AfmBOoqN1noWUOaXDU1uYgZZf6IDk7oO2HreqAEvhsWn8k_UFTGdEqIU
+/?gad_source=2&gad_campaignid=20619651796&gclid=Cj0KCQjwss3DBhC3ARIsALdgYxM2trWNSOGRaQ4PWF9Cx3gGarQyPPKkd45xsi44ipPqMXISlGkmPLMaAi0JEALw_wcB
