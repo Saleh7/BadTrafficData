@@ -51192,3 +51192,10 @@ http://ifconfig.me/
 /unlockindex.php
 /cgi-bin/bak.php
 /src/server/phpinfo.php
+/helpdesk/vendor/htmlawed/htmlawed/gel4y.php
+/wp-content/fonts/themes.php
+/wp-admin/js/widgets/users.php
+/wp-content/outcms.php
+/MyAdmin/index.php
+/prod/dashboard/infoss_php.php
+/zz.php/wp-includes/wp-includes_function.php/js/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php
