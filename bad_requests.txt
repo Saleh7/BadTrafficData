@@ -51237,3 +51237,11 @@ http://ifconfig.me/
 /feature/xampp/phpinfo.php
 /imge.php
 /444.php
+/phpMyAdmin3/index.php
+/uni.php
+/wp-includes/rest-api/themes.php
+/assets/plugins/tinymce/plugins/filemanager/dialog.php
+/wp-content/plugins/seoplugin/db.php
+/styple.php
+/wp-includes/certificates/moon.php
+/images/mariju.php
