@@ -51270,3 +51270,5 @@ http://ifconfig.me/
 /wp-content/themes/atomlib.php
 /wp-content/themes/workart/db.php
 /yanzshell.php
+/shellname.php
+/wp-includes/js/jcrop/jcrop.php
