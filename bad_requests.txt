@@ -51287,3 +51287,12 @@ http://ifconfig.me/
 /app/.env.dev
 /solr/admin/metrics?wt=json
 /app/config/secrets.yml
+/config.yml.bak
+/config/env.yml
+/config/app.env
+/config/credentials.yml
+/backend/config.yaml
+/config/api.yml
+/config/auth.yml
+/config/service.yml
+/config/secrets.php
