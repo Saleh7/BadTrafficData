@@ -51313,3 +51313,5 @@ http://ifconfig.me/
 /wp-old
 /2022
 /2023
+/Test
+/phpdebugbar
