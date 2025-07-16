@@ -51403,3 +51403,4 @@ http://ifconfig.me/
 /core/site.sql
 /core/.env.bak
 /index-dev.php
+/metadata/instance
