@@ -51479,3 +51479,8 @@ http://ifconfig.me/
 /?srsltid=AfmBOoq-rHXiMw2b8D_OmPu4Sn5_xF8bXxftsnUTAWuoViUZf-IvLSty
 /?srsltid=AfmBOooYvrA678yqQwcRe_nWb_MF0yeyOuUPu0bW8dwyXMYBUJrdN5-P
 /?gad_source=5&gad_campaignid=21979123179&gclid=EAIaIQobChMIw8vc1pjCjgMVkI9QBh1E0ATtEAAYASAAEgJv4_D_BwE
+/wishlist/feeds
+/contact-old/feeds
+/contact-old/rss
+/contact-old/feed
+/order/feeds
