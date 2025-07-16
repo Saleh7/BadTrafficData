@@ -51337,3 +51337,4 @@ http://ifconfig.me/
 /admin/database.php
 /admin/.env~
 /admin/index-dev.php
+/api/healthz
