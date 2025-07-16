@@ -51308,3 +51308,5 @@ http://ifconfig.me/
 /Wordpress
 /Wp
 /OLD
+/New
+/NEW
