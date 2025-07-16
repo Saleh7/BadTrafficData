@@ -51325,3 +51325,15 @@ http://ifconfig.me/
 /sito
 /SITE
 /.cpanel/caches/config/.env
+/admin/debug.log
+/admin/.env.old
+/admin/site.conf
+/admin/.env.bak
+/admin/.env.save
+/admin/site.sql
+/apache.conf
+/admin/settings.php
+/admin/log.txt
+/admin/database.php
+/admin/.env~
+/admin/index-dev.php
