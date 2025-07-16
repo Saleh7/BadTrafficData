@@ -51310,3 +51310,5 @@ http://ifconfig.me/
 /OLD
 /New
 /NEW
+/wp-old
+/2022
