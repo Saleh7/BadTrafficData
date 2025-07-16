@@ -51319,3 +51319,5 @@ http://ifconfig.me/
 /Www
 /WWW
 /2021
+/Shop
+/SHOP
