@@ -51487,3 +51487,9 @@ http://ifconfig.me/
 /wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php
 /Qdlnvpuqcjyt
 /js/elfinder/php/connector.minimal.php
+/wp-includes/ID3/colour.php
+/wp-content/uploads/ahda.php
+/wp-includes/ID3/module.audio-video.asf-constructor.php
+/admin/cache.php
+/wp-admin/js/widgets/gool.php
+/admin/WebService/log.php
