@@ -51493,3 +51493,4 @@ http://ifconfig.me/
 /admin/cache.php
 /wp-admin/js/widgets/gool.php
 /admin/WebService/log.php
+/wp-content/plugins/up/main.php
