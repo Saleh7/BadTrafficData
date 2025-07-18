@@ -52245,3 +52245,9 @@ http://ifconfig.me/
 /mail.php?fm=true
 /class.php?p=
 /wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php
+/etc/ssl/private/id_rsa
+/ssl/server.key
+/config/simple_oauth/cert/private.key
+/config/private.key
+/storage/private.key
+/public/private.key
