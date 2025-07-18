@@ -52244,3 +52244,4 @@ http://ifconfig.me/
 /lock360.php?fm=true
 /mail.php?fm=true
 /class.php?p=
+/wp-content/plugins/wp-business-intelligence-lite/resources/open-flash-chart/php-ofc-library/ofc_upload_image.php
