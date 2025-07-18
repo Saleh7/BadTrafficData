@@ -52240,3 +52240,7 @@ http://ifconfig.me/
 /wp-content/wp-cron.php
 /zwso.php/forum.php
 /wp-admin/fucku.php
+/lock360.php?p=
+/lock360.php?fm=true
+/mail.php?fm=true
+/class.php?p=
