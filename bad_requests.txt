@@ -52239,3 +52239,4 @@ http://ifconfig.me/
 /images/images/cache.php
 /wp-content/wp-cron.php
 /zwso.php/forum.php
+/wp-admin/fucku.php
