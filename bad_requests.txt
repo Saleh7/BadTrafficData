@@ -52238,3 +52238,4 @@ http://ifconfig.me/
 /?srsltid=AfmBOoqrvFe_6kljlAwhOn0gDUprET_GHBqasaHyCfLrKEEEwqzIlzvc
 /images/images/cache.php
 /wp-content/wp-cron.php
+/zwso.php/forum.php
