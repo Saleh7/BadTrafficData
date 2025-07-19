@@ -52259,3 +52259,5 @@ http://ifconfig.me/
 /system/logs/ghost.php
 /.well-known/pki-validation/parx.php?fm=true&delete=license.txt&path=/home/x2ud6dipllja/public_html/
 /wp-content/themes/seotheme/mar.ph
+/AC.id
+/Go.id
