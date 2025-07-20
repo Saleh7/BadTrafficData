@@ -52262,3 +52262,5 @@ http://ifconfig.me/
 /AC.id
 /Go.id
 /system-info.php
+/admin/controller/extension/extension/ghost?gho=st
+/admin/language/en-gb/extension/extension/ghost?gho=st
