@@ -52274,3 +52274,11 @@ http://ifconfig.me/
 /wp-content/themes/classwithtostring.php
 /_layouts/15/spinstall0.aspx
 /_layouts/15/ToolPane.aspx
+/aa.php?jknkbu=7kpzd1
+/wp-content/about.php7
+/wp-includes/php-compat/about.php7
+/wp-includes/Requests/?path=/opt/bitnami/wordpress
+/wp-includes/js/swfupload/about.php7
+/wp-content/plugins/shell//text.php
+/wp-content/themes/pridmag//ioxi-o.php
+/css/xmrlpc.php/?v=682c0ad28385
