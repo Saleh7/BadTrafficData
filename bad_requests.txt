@@ -52291,3 +52291,5 @@ http://ifconfig.me/
 /readme/classwithtostring.php.php
 /atomlib.ph
 /index/on.php
+/wp-content/plugins/xt/php
+/wp-admin/maint/php
