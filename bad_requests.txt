@@ -52282,3 +52282,8 @@ http://ifconfig.me/
 /wp-content/plugins/shell//text.php
 /wp-content/themes/pridmag//ioxi-o.php
 /css/xmrlpc.php/?v=682c0ad28385
+/alfa
+/tring.php
+/file.ph
+/abo/wp-admin/mut.php
+/autoload_classmap.php?p
