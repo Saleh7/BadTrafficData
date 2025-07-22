@@ -52300,3 +52300,4 @@ http://ifconfig.me/
 /index/index
 /h4x0r.html
 /xxxss
+/wp-content/plugins/pagodabon/pagodabon.php
