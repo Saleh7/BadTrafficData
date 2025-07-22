@@ -52302,3 +52302,5 @@ http://ifconfig.me/
 /xxxss
 /wp-content/plugins/pagodabon/pagodabon.php
 /?srsltid=AfmBOorKkmf_9Yl5os3trFQOKshL2Mxv61RQ-9ebeMLPxxhaWm5eHL9N
+/inputs.php?https://dunamisconcept.com.ng/item.php
+/ctg-bin.php
