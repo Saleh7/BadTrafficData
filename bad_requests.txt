@@ -52309,3 +52309,7 @@ http://ifconfig.me/
 /vjpputgo.php?Fox=d3wL7
 /baker.php
 /ote.php?ote
+/.well-known/pki-validation/alfacgiapi/wawe_gH298.php
+/web/wp-login.php
+/wp-includes//about.php
+/assets/images/images.php
