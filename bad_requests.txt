@@ -52294,3 +52294,8 @@ http://ifconfig.me/
 /wp-content/plugins/xt/php
 /wp-admin/maint/php
 /install-php-7-on-centos-6-centos-7-rhel-7-redhat-7/
+/wow/
+/modules-mod-simplefileuploadv1-3-elements-filemanager-php
+/web/20230609003228/http://us.vclart.net/vcl/Artists/
+/index/index
+/h4x0r.html
