@@ -52313,3 +52313,4 @@ http://ifconfig.me/
 /web/wp-login.php
 /wp-includes//about.php
 /assets/images/images.php
+/wp-content/plugins/goqoceceqo/goqoceceqo.php
