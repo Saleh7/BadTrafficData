@@ -52293,3 +52293,4 @@ http://ifconfig.me/
 /index/on.php
 /wp-content/plugins/xt/php
 /wp-admin/maint/php
+/install-php-7-on-centos-6-centos-7-rhel-7-redhat-7/
