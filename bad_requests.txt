@@ -52635,3 +52635,6 @@ http://ifconfig.me/
 /blog_article?article_id='.print(md5(31337)).'
 /blog_article?article_id=../../../../../../../../../../../../../../windows/win.ini
 /another_param?file=../../../../etc/passwd
+/cf-fonts/v/noto-naskh-arabic/5.0.18/latin/wght/........................................................................../../../../../../../../windows/win.ini
+/cf-fonts/v/noto-naskh-arabic/5.0.18/latin/wght/........................................................................../../../../../../../../etc/passwd
+/nmaplowercheck1753288707
