@@ -52638,3 +52638,5 @@ http://ifconfig.me/
 /cf-fonts/v/noto-naskh-arabic/5.0.18/latin/wght/........................................................................../../../../../../../../windows/win.ini
 /cf-fonts/v/noto-naskh-arabic/5.0.18/latin/wght/........................................................................../../../../../../../../etc/passwd
 /nmaplowercheck1753288707
+/cf-fonts/s/noto-sans-arabic/../../../web.config
+/cf-fonts/s/noto-sans-arabic/../../../Gemfile
