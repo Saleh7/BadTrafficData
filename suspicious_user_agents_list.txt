@@ -179,3 +179,4 @@ Hello( from Palo Alto Networks, find out more about our scans in https://docs-co
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; FunWebProducts)
 sqlmap/1.9.6#stable (https://sqlmap.org)
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0 Gecko/20100101 Firefox/40.1';alert/XSS/);//
+""( { :; }; echo ; /bin/bash -c 'cat /etc/passwd'"")
