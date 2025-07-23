@@ -52320,3 +52320,11 @@ http://ifconfig.me/
 /components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php
 /?srsltid=AfmBOoqWPB0Abm2Ej0xxJ-9-6hwyResjdE_KIrexkij6wwAe-Ia6CV9E
 /wp-content/plugins/definite-unique/license.txt
+/nmaplowercheck1753286420
+/tomcat/manager/text/
+/api/id/
+/view/viewer_index.shtml
+/evox/about
+/HNAP1
+/manager/text/
+/PSIA/Custom/SelfExt/userCheck
