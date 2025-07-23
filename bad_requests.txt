@@ -84858,3 +84858,17 @@ http://ifconfig.me/
 /symfony/_profiler/empty/search/results?limit=10
 /wp-content/themes/altair/images/flip/
 /events/EventRsvp.aspx
+/drupal/
+/core/install.php?profile=default
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
+/jolokia/version
+/teamquest/cgi-bin/login
+/user/login?destination=/
+/ReportServer/pages/ReportViewer.aspx
+/dana-na/auth/url_admin/welcome.cgi
+/api/whoami
+/sqlite/
+/Orion/Login.aspx
+/wordpress/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
+/.perf
+/jkstatus/
