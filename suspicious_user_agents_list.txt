@@ -4853,3 +4853,5 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) 
 Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.8 Gecko/20051130 Firefox/1.5)
 User-Agent:Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13
 Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0.2.6; MSIECrawler)
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALCJS; rv:11.0 like Gecko)
+Opera/9.10( (Windows NT 5.1; U; pt))
