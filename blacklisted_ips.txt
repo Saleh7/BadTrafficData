@@ -22479,3 +22479,4 @@ Blacklisted IPs (IPv4 and IPv6):
 34.12.88.38
 125.88.174.215
 2a01:cb04:11ab:2100:c75:ee6e:9dae:fbe0
+2804:29b8:508b:994:6dff:eb12:e7f6:5fd
