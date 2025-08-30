@@ -4857,3 +4857,4 @@ Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALCJS; rv:11.0 like Gecko)
 Opera/9.10( (Windows NT 5.1; U; pt))
 masscan(-ng/1.3 (https://github.com/bi-zone/masscan-ng))
 *
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; MAAU; NP08; rv:11.0 like Gecko)
