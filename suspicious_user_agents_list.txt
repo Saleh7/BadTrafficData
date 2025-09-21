@@ -6127,3 +6127,4 @@ Opera/9.10( (Windows NT 5.1; U; es-es))
 Mozilla/5.0 (X11; U; SunOS sun4u; en-US; rv:1.8.1 Gecko/20061024 Firefox/2.0)
 security-polaris/3.0.43
 Opera/9.10( (Windows NT 6.0; U; it-IT))
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MDDCJS; rv:11.0 like Gecko)
