@@ -25540,3 +25540,4 @@ Blacklisted IPs (IPv4 and IPv6):
 5.188.9.85
 109.197.31.89
 173.249.45.247
+2a0a:8302:37e2:ffff:52ff:20ff:fec9:afa9
