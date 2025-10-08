@@ -25600,3 +25600,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512b:2541::3b6:34
 34.26.8.57
 2a09:bac2:5128:26aa::3da:35
+2001:16a2:c3f0:16fd:2112:92c8:ca28:b538
