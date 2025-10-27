@@ -27071,3 +27071,4 @@ Blacklisted IPs (IPv4 and IPv6):
 18.179.60.19
 2a02:6ea0:c276:1003:1d4c:d7e3:43ef:ae54
 161.118.199.184
+2a09:bac3:512c:248c::3a4:4d
