@@ -28099,3 +28099,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5035:14dc::214:87
 2001:16a2:c1c2:1d7:ccaa:ccd9:b848:aa99
 37.19.195.82
+37.19.195.80
