@@ -28875,3 +28875,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:16a2:c053:fce6:c98:28a8:fd3d:8572
 156.59.198.135
 157.66.56.146
+2402:e280:3e21:a7:fc5e:a6df:14ba:eb92
