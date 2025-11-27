@@ -29538,3 +29538,4 @@ Blacklisted IPs (IPv4 and IPv6):
 65.109.190.65
 2a01:4f9:c011:5edd::1
 2a09:bac2:5128:2c5a::46b:6d
+1.24.16.225
