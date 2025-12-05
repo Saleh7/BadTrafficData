@@ -30247,3 +30247,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d34d:0:e800:0:f
 196.251.100.13
 2804:7f0:aa1d:d0b2:a527:daba:5bd1:31e8
+2602:fa59:9:859::1
