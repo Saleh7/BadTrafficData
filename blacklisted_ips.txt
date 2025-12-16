@@ -31470,3 +31470,4 @@ Blacklisted IPs (IPv4 and IPv6):
 217.154.69.208
 2a09:bac3:d527:18f0::27c:b5
 2a09:bac3:512b:26aa::3da:46
+34.94.147.72
