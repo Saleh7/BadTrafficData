@@ -31520,3 +31520,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d34d:0:f000:0:2
 2a09:bac2:d520:261e::3cc:5f
 68.183.13.61
+2a09:bac3:512a:14dc::214:81
