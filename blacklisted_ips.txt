@@ -32003,3 +32003,4 @@ Blacklisted IPs (IPv4 and IPv6):
 41.85.188.113
 2a09:bac2:d526:261e::3cc:55
 2a04:4e41:216:eb7f::d67c:eb7f
+2a09:bac3:d521:2478::3a2:34
