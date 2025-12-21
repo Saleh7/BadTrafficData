@@ -32002,3 +32002,4 @@ Blacklisted IPs (IPv4 and IPv6):
 172.105.34.125
 41.85.188.113
 2a09:bac2:d526:261e::3cc:55
+2a04:4e41:216:eb7f::d67c:eb7f
