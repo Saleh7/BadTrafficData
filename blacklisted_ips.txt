@@ -32271,3 +32271,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5148:261e::3cc:61
 2a09:bac2:5131:1f5::32:12c
 2a09:bac3:5130:18fa::27d:91
+68.183.1.40
