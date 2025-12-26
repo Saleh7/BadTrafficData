@@ -32543,3 +32543,4 @@ Blacklisted IPs (IPv4 and IPv6):
 197.36.32.243
 2a02:26f7:f6d9:a08a:0:1000:0:c
 2a09:bac3:d527:261e::3cc:64
+2a09:bac3:d521:37d::59:53
