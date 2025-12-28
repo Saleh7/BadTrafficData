@@ -7467,3 +7467,4 @@ Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU
 Mozilla/4.7(8 (Windows 2000; U) Opera 6.01  [en])
 Shell(Bot 2.0)
 Mozilla/5.0 (Security Scanner)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP08; NP08; MAAU)
