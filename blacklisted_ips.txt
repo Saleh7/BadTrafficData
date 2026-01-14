@@ -34340,3 +34340,4 @@ Blacklisted IPs (IPv4 and IPv6):
 191.101.157.87
 2a02:26f7:c8d0:e8ba:0:c000:0:c
 2a09:bac3:512d:2dc::49:173
+2a09:bac3:512e:14f0::216:cc
