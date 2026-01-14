@@ -34358,3 +34358,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d526:261e::3cc:31
 2a09:bac2:512e:150f::219:b2
 2a09:bac2:512e:191::28:133
+2a09:bac3:512c:254b::3b7:35
