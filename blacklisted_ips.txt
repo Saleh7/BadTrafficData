@@ -34768,3 +34768,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d34d:0:2800:0:c
 2a02:26f7:f940:d34d::4
 2a09:bac3:512d:2541::3b6:63
+2a09:bac3:512b:2482::3a3:e
