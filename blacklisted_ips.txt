@@ -34930,3 +34930,4 @@ Blacklisted IPs (IPv4 and IPv6):
 100.42.177.198
 159.195.31.20
 2a09:bac2:512b:26b4::3db:2d
+2a09:bac2:512e:18fa::27d:78
