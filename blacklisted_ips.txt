@@ -35040,3 +35040,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:512a:26aa::3da:7
 2a09:bac3:512a:1519::21a:5e
 18.222.198.47
+2a09:bac3:5132:26c8::3dd:3c
