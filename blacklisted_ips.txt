@@ -35831,3 +35831,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac1:76c0:450::2db:a9
 2a09:bac3:512e:2541::3b6:21
 2a09:bac3:512a:1eb::31:1b5
+2a09:bac2:5128:2496::3a5:4b
