@@ -35940,3 +35940,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:512e:26d2::3de:41
 4.194.157.152
 2a09:bac2:d522:261e::3cc:60
+2a09:bac2:d534:37d::59:45
