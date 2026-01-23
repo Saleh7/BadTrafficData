@@ -35950,3 +35950,4 @@ Blacklisted IPs (IPv4 and IPv6):
 112.164.20.69
 2a09:bac2:512e:1f5::32:b0
 2a09:bac2:512e:2c5a::46b:73
+2a09:bac2:512e:1c82::2d7:66
