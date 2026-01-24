@@ -36123,3 +36123,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:261e::3cc:66
 2a09:bac3:512f:254b::3b7:43
 167.71.230.43
+2a09:bac3:512a:245a::39f:9b
