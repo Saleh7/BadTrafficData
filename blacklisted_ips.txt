@@ -36098,3 +36098,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5132:26fa::3e2:45
 2a09:bac3:512e:294b::41d:5b
 2a09:bac3:512f:126e::1d6:4d
+134.122.101.15
