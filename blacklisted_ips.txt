@@ -36135,3 +36135,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d523:28a0::40c:56
 147.135.40.102
 2a09:bac3:512c:18fa::27d:e0
+67.83.8.129
