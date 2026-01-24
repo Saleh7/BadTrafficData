@@ -36115,3 +36115,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5129:261e::3cc:56
 2a09:bac3:512b:2650::3d1:34
 2a09:bac3:512e:ebe::178:178
+80.94.92.69
