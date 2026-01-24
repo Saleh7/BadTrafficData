@@ -36101,3 +36101,4 @@ Blacklisted IPs (IPv4 and IPv6):
 134.122.101.15
 2a09:bac3:5128:2c5a::46b:28
 2a09:bac3:512c:245a::39f:3d
+2a09:bac2:5128:254b::3b7:6c
