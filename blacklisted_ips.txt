@@ -36252,3 +36252,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:254b::3b7:1c
 2a04:4e41:216:d429::8a6e:d429
 2a09:bac2:5129:261e::3cc:44
+2a09:bac2:512e:245a::39f:74
