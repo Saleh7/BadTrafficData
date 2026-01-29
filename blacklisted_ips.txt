@@ -36790,3 +36790,4 @@ Blacklisted IPs (IPv4 and IPv6):
 89.251.0.174
 167.172.36.115
 2a09:bac2:5134:26b4::3db:4f
+2a09:bac2:512e:1f5::32:cb
