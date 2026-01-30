@@ -36905,3 +36905,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d534:261e::3cc:6f
 20.239.58.151
 34.102.45.130
+2001:16a2:c0aa:af5a:387c:4bda:aa5d:74f3
