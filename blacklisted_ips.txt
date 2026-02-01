@@ -37098,3 +37098,4 @@ Blacklisted IPs (IPv4 and IPv6):
 104.211.72.80
 2a09:bac2:5128:1eb::31:10a
 192.142.25.95
+2a09:bac3:512e:23af::38e:6e
