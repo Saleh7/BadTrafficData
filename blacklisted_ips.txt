@@ -37229,3 +37229,4 @@ Blacklisted IPs (IPv4 and IPv6):
 35.196.228.143
 2a09:bac3:d522:248c::3a4:8
 2a09:bac2:512a:26fa::3e2:2e
+2a09:bac3:512e:245a::39f:c5
