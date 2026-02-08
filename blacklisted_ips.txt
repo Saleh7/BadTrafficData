@@ -37771,3 +37771,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d341::1
 2a09:bac3:512b:2a0::43:5d
 159.223.75.21
+2a09:bac2:512c:37d::59:3b
