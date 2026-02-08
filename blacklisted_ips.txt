@@ -37778,3 +37778,4 @@ Blacklisted IPs (IPv4 and IPv6):
 23.94.81.18
 3.86.102.192
 2a02:26f7:f940:d34d::e
+2a09:bac2:512b:28b4::40e:c
