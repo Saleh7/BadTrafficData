@@ -37840,3 +37840,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:cb80:4051:8fec:d564:267d:8af7:fa1c
 134.209.93.117
 20.48.253.154
+2a09:bac2:512f:1c82::2d7:3c
