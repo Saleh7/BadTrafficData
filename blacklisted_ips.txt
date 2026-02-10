@@ -38071,3 +38071,4 @@ Blacklisted IPs (IPv4 and IPv6):
 197.38.20.109
 2a09:bac2:5129:26d2::3de:b
 2a09:bac2:5129:245a::39f:5
+2a04:4e41:1804:3ca1::ef75:3ca1
