@@ -38262,3 +38262,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d526:261e::3cc:16
 2600:1900:4020:5ea:0:3ba::
 2a09:bac2:d526:1c82::2d7:f4
+2a09:bac2:5129:2496::3a5:5b
