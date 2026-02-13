@@ -38498,3 +38498,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:37d::59:4c
 2a09:bac3:512e:2496::3a5:5f
 2a09:bac3:512e:232::38:99
+2a09:bac3:d521:261e::3cc:41
