@@ -38550,3 +38550,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:26aa::3da:28
 2a09:bac2:5137:28d2::411:c
 2a09:bac2:d521:1b4b::2b8:97
+2a09:bac3:512c:246e::3a1:27
