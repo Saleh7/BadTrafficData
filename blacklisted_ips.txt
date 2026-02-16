@@ -38869,3 +38869,4 @@ Blacklisted IPs (IPv4 and IPv6):
 207.180.241.56
 2a09:bac3:d526:18f0::27c:16
 2a09:bac3:512a:37d::59:4f
+2a09:bac3:512f:14dc::214:96
