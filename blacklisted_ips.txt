@@ -39153,3 +39153,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d341:0:9800:0:c
 2a09:bac3:512e:d2::15:3e3
 2803:9810:4eb9:dc10:6da3:44e0:a48d:b46f
+2a09:bac3:5129:270f::3e4:17
