@@ -39114,3 +39114,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d341:0:9800:0:2
 2a09:bac2:d523:280a::3fd:42
 2a02:26f7:f940:d34d:0:6800:0:d
+2a09:bac3:d522:261e::3cc:6b
+2a09:bac3:5128:be::13:2ca
