@@ -39423,3 +39423,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d521:2482::3a3:5b
 123.27.127.199
 2a03:2880:f814:a::
+2a09:bac3:512e:26aa::3da:13
