@@ -39302,3 +39302,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5130:248c::3a4:1
 2a02:26f7:f940:d341:0:c000:0:3
 2a09:bac3:511e:261e::3cc:79
+2a09:bac3:512c:2541::3b6:75
+2a09:bac2:d523:26aa::3da:1f
