@@ -39375,3 +39375,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512d:18fa::27d:c
 2a09:bac2:5128:254b::3b7:35
 2a09:bac2:5132:28a0::40c:2e
+77.83.39.95
