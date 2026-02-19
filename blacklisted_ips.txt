@@ -39445,3 +39445,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.24.197.43
 2a02:26f7:f940:d341:0:d800:0:c
 2a09:bac2:5129:26aa::3da:25
+2a09:bac3:512e:4f0::7e:38
