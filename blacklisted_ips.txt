@@ -39555,3 +39555,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.214.159.60
 2a09:bac3:5128:26dc::3df:3c
 2a09:bac3:512b:191::28:12a
+2a09:bac2:5128:37d::59:52
