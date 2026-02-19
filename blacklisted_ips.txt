@@ -39500,3 +39500,4 @@ Blacklisted IPs (IPv4 and IPv6):
 89.167.23.144
 2a09:bac3:5128:26fa::3e2:45
 2a09:bac2:5128:2464::3a0:3
+2a09:bac3:5129:1eb::31:fb
