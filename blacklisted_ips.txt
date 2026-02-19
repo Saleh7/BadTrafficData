@@ -39525,3 +39525,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:2c5a::46b:f
 2a09:bac3:512e:2c5a::46b:e
 144.217.240.183
+2a09:bac3:d520:2e3c::49b:54
