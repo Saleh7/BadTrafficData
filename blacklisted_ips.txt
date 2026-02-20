@@ -39728,3 +39728,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:2e3c::49b:2d
 2a09:bac3:512b:191::28:17b
 136.158.3.237
+2a09:bac2:512e:14e6::215:e2
