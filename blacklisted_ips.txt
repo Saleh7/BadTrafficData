@@ -39627,3 +39627,4 @@ Blacklisted IPs (IPv4 and IPv6):
 60.42.11.125
 2a09:bac2:d521:1f5::32:104
 2a09:bac3:5130:2541::3b6:5b
+2a09:bac3:512a:1c82::2d7:b0
