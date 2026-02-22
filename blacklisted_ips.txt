@@ -40070,3 +40070,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d521:261e::3cc:1b
 52.237.113.170
 2a09:bac3:512e:191::28:e0
+2a09:bac2:512e:2478::3a2:18
