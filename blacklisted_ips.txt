@@ -40055,3 +40055,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:1eb::31:1ab
 2a09:bac3:512c:2a0::43:6f
 2a02:26f7:f940:d34d:0:c800:0:4
+2001:16a2:c079:1c0f:b104:1d47:6ff7:8aff
