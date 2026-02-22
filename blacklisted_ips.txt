@@ -40091,3 +40091,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac1:76a0:450::2e9:29
 2a09:bac3:5130:261e::3cc:3d
 137.59.155.170
+2a09:bac2:d521:28d2::411:3d
