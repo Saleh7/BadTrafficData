@@ -40139,3 +40139,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:4000:f000::15
 2a09:bac3:512e:2e3c::49b:1e
 2a09:bac3:512b:1b4b::2b8:ad
+2a02:26f7:f940:d341:0:9800:0:5
