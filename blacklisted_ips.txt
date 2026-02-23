@@ -40144,3 +40144,4 @@ Blacklisted IPs (IPv4 and IPv6):
 1.55.112.41
 2a09:bac3:512d:254b::3b7:4
 2a09:bac2:5129:261e::3cc:4c
+2a09:bac3:512e:26b4::3db:22
