@@ -40359,3 +40359,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:2c5a::46b:5d
 2a09:bac2:d520:1f5::32:113
 20.14.131.24
+40.80.83.34
