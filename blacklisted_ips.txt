@@ -40473,3 +40473,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:1f5::32:134
 92.118.39.63
 2a09:bac3:512a:261e::3cc:44
+2a09:bac3:512b:2a0::43:8a
