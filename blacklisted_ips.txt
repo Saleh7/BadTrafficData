@@ -40399,3 +40399,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:512a:254b::3b7:2a
 151.240.33.29
 2a09:bac2:5128:18fa::27d:aa
+2a04:4e41:216:60c7::8997:60c7
