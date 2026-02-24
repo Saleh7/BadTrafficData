@@ -40330,3 +40330,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.92.234.66
 2a09:bac3:512a:14dc::214:9a
 2a09:bac3:d521:37d::59:3a
+80.94.92.65
