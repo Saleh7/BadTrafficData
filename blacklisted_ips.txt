@@ -40303,3 +40303,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512d:245a::39f:bf
 175.43.31.186
 167.99.65.41
+2a09:bac3:5128:1f5::32:db
