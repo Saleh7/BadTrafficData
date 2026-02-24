@@ -40305,3 +40305,4 @@ Blacklisted IPs (IPv4 and IPv6):
 167.99.65.41
 2a09:bac3:5128:1f5::32:db
 2a09:bac2:5132:270f::3e4:19
+2a09:bac2:512f:1282::1d8:1fa
