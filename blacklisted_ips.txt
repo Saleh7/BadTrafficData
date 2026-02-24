@@ -40435,3 +40435,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512a:245a::39f:8c
 120.48.0.142
 2a09:bac2:5132:18f0::27c:dd
+2a09:bac2:d524:37d::59:48
