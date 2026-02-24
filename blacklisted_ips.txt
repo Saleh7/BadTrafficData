@@ -40441,3 +40441,4 @@ Blacklisted IPs (IPv4 and IPv6):
 111.26.163.33
 2001:16a2:c038:2bfe:cca9:d215:dafb:3082
 180.111.30.245
+2a02:a03f:889c:5e01:7c7a:57f:bb7c:515d
