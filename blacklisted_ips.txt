@@ -40584,3 +40584,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d34d::c
 2a09:bac3:512e:261e::3cc:54
 2a09:bac3:512c:26b4::3db:1c
+2a09:bac2:5130:18f0::27c:6c
+2a09:bac2:5131:2c8::47:596
