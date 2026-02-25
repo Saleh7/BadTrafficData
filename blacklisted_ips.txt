@@ -40513,3 +40513,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5128:254b::3b7:4d
 2a09:bac2:d520:261e::3cc:68
 2a09:bac2:512c:26d2::3de:45
+2a09:bac2:d526:1f5::32:112
+66.175.239.131
