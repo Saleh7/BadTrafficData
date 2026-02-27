@@ -40770,3 +40770,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512c:126e::1d6:150
 2a09:bac3:512b:261e::3cc:2
 2a09:bac3:512f:37d::59:3b
+2a09:bac2:5129:2496::3a5:37
