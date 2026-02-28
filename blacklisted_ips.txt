@@ -40859,3 +40859,4 @@ Blacklisted IPs (IPv4 and IPv6):
 64.225.64.98
 2a09:bac3:512f:18fa::27d:bd
 2a09:bac3:512e:23cd::391:8a
+141.98.11.168
