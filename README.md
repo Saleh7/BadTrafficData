@@ -17,11 +17,11 @@ These files can be used to update firewall rules, monitor traffic patterns, or a
 | Database Name       | Total Entries |
 |---------------------|---------------|
 | `bad_requests`      | 1159307         |
-| `blacklisted_ips`      | 41079         |
+| `blacklisted_ips`      | 41080         |
 | `suspicious_user_agents_list`      | 14476         |
 
 ### Last Update Reports
-Report generated on: 2026-03-02 01:26:46
+Report generated on: 2026-03-02 01:28:46
 
 ## License
 MIT
