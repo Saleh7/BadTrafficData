@@ -41190,3 +41190,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512d:1f5::32:118
 2a02:9b0:e7:8a99:6ffe:d2fc:7ab:b878
 178.16.52.204
+193.36.225.248
