@@ -41150,3 +41150,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:2541::3b6:20
 13.71.189.74
 2a09:bac2:d521:261e::3cc:72
+2a09:bac2:512a:37d::59:3e
