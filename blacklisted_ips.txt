@@ -41880,3 +41880,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2804:7f0:b8c0:4183:242f:c70c:61bc:abb
 2a02:26f7:f940:d34d:0:6800:0:5
 2a09:bac3:d521:18f0::27c:55
+2001:16a2:c16c:9b7f:c14b:eed8:cfa1:c981
