@@ -42813,3 +42813,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2800:e2:1080:1940:101f:d014:89de:1c3c
 101.249.61.205
 2402:3a80:1e15:525f:5df1:7ac5:a1ba:d9ed
+2a09:bac3:d522:270f::3e4:3e
