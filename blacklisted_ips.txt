@@ -43138,3 +43138,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5136:be::13:242
 2a09:bac3:d527:26a0::3d9:33
 84.54.33.202
+2a09:bac3:512f:270f::3e4:56
