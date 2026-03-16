@@ -43117,3 +43117,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512a:26fa::3e2:f
 124.6.131.75
 2404:c0:c602:7eec:7d8e:65c4:7a27:fe7b
+2a09:bac3:512a:294b::41d:6c
