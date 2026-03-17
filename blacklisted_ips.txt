@@ -43290,3 +43290,4 @@ Blacklisted IPs (IPv4 and IPv6):
 178.128.251.250
 2a09:bac3:d521:26dc::3df:32
 2a09:bac2:5128:245a::39f:ce
+2a09:bac2:5134:191::28:126
