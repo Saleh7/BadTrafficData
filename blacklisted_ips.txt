@@ -43251,3 +43251,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:26dc::3df:33
 161.35.144.238
 2a09:bac3:512a:1478::20a:e5
+2a09:bac2:512a:294b::41d:12
