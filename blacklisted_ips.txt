@@ -43479,3 +43479,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:c358:809e:0:3800:0:8
 2a09:bac2:512e:1eb::31:19d
 2a09:bac2:512f:37d::59:44
+2a09:bac3:512e:14f0::216:bc
