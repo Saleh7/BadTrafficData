@@ -43360,3 +43360,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d521:14dc::214:7d
 74.125.216.36
 170.64.179.59
+2a09:bac2:512e:2c5a::46b:6c
