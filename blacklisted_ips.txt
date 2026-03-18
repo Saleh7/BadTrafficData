@@ -43430,3 +43430,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:245a::39f:10
 2a09:bac2:512b:14e6::215:98
 2a02:26f7:f940:d346:0:2000:0:a
+2a09:bac3:512e:ebe::178:160
