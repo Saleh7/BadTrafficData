@@ -43605,3 +43605,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512b:254b::3b7:5
 2a09:bac3:512e:28b4::40e:2f
 2a09:bac3:5131:270f::3e4:8
+2a09:bac3:d521:245a::39f:c3
