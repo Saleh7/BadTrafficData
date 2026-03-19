@@ -43649,3 +43649,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:512f:1b4b::2b8:6
 2a09:bac2:5129:14dc::214:a8
 75.119.132.166
+2a09:bac3:512a:14f0::216:b1
