@@ -43738,3 +43738,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d525:254b::3b7:1f
 2a09:bac3:512f:2a0::43:64
 2a09:bac3:d520:2a0::43:58
+2a09:bac3:5128:37d::59:3b
