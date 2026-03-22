@@ -43984,3 +43984,4 @@ Blacklisted IPs (IPv4 and IPv6):
 45.88.138.44
 185.193.67.205
 2a09:bac2:512c:1eb::31:1b2
+2a09:bac2:512a:1c82::2d7:9e
