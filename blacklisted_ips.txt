@@ -44025,3 +44025,4 @@ Blacklisted IPs (IPv4 and IPv6):
 182.74.241.2
 2a09:bac3:512f:2650::3d1:56
 2a09:bac2:512d:26aa::3da:16
+2a09:bac2:57c1:18fa::27d:7e
