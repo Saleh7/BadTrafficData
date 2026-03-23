@@ -44223,3 +44223,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d524:294b::41d:6e
 2a09:bac2:d521:37d::59:4f
 2a09:bac2:5131:14f0::216:6d
+52.187.249.150
