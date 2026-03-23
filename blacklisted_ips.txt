@@ -44146,3 +44146,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:e68:6a41:f000:49e:b2e6:3abf:f9
 161.142.117.212
 2a09:bac2:d526:14dc::214:8e
+2a09:bac3:512f:254b::3b7:18
