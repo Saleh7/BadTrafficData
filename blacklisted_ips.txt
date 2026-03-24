@@ -44330,3 +44330,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:26dc::3df:1a
 103.59.160.82
 20.211.123.94
+2a09:bac2:5132:246e::3a1:5a
