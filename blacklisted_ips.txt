@@ -44566,3 +44566,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5129:1282::1d8:1ae
 2a02:26f7:f940:d34d:0:8000:0:e
 2a09:bac3:5129:26dc::3df:66
+2a09:bac3:5129:2541::3b6:6f
