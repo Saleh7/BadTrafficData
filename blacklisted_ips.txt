@@ -44473,3 +44473,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d346:0:e800::
 2a09:bac2:d526:254b::3b7:5e
 2a09:bac3:512c:26c8::3dd:8
+2a09:bac3:512c:28b4::40e:42
