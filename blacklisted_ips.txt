@@ -44619,3 +44619,4 @@ Blacklisted IPs (IPv4 and IPv6):
 74.235.238.88
 2a09:bac3:d521:26fa::3e2:4d
 43.128.81.242
+2a09:bac3:d521:37d::59:3e
