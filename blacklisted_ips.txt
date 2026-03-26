@@ -44698,3 +44698,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.104.216.159
 2a02:9b0:b2:8e01:ce28:aaff:fea4:562f
 2a02:26f7:f940:d34d:0:2800:0:2
+2a09:bac3:d520:37d::59:3e
