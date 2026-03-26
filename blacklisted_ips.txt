@@ -44701,3 +44701,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d520:37d::59:3e
 2a09:bac2:512b:1519::21a:a6
 2a09:bac2:512c:2c5a::46b:21
+66.132.172.105
