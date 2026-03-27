@@ -44879,3 +44879,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:cb80:42e0:1348:7d8e:bff9:117b:1883
 2a09:bac3:512e:23cd::391:8c
 2a02:26f7:f940:d346:0:d000:0:3
+2a09:bac2:512b:2541::3b6:44
