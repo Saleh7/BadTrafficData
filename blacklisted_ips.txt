@@ -44829,3 +44829,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:ebe::178:14e
 159.65.149.231
 195.201.102.123
+2a09:bac3:512a:2c5a::46b:3d
