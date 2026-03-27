@@ -44799,3 +44799,4 @@ Blacklisted IPs (IPv4 and IPv6):
 14.225.18.21
 2a09:bac3:3076:1eb::31:133
 2a0a:5684:2add:ec47:ceb2:55ff:fe4b:f156
+2a09:bac2:512e:14e6::215:29
