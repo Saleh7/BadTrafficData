@@ -45010,3 +45010,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:26dc::3df:53
 2a09:bac3:5135:1eb::31:14c
 104.243.253.241
+2406:7400:11d:6ba8:49ea:11b5:1690:bc5c
