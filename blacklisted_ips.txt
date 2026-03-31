@@ -45449,3 +45449,4 @@ Blacklisted IPs (IPv4 and IPv6):
 66.249.66.67
 2a09:bac3:5136:2e3c::49b:52
 2a09:bac3:512a:270f::3e4:30
+2a04:4e41:216:23ce::e687:23ce
