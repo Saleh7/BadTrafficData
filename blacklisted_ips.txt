@@ -45520,3 +45520,4 @@ Blacklisted IPs (IPv4 and IPv6):
 213.108.0.35
 2a09:bac2:512a:265a::3d2:43
 2a09:bac2:512e:2541::3b6:43
+2a09:bac2:5136:2c5a::46b:76
