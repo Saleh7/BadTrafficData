@@ -16,12 +16,12 @@ These files can be used to update firewall rules, monitor traffic patterns, or a
 ### Databases Totals
 | Database Name       | Total Entries |
 |---------------------|---------------|
-| `bad_requests`      | 1163330         |
+| `bad_requests`      | 1163331         |
 | `blacklisted_ips`      | 46071         |
 | `suspicious_user_agents_list`      | 19540         |
 
 ### Last Update Reports
-Report generated on: 2026-04-05 23:09:24
+Report generated on: 2026-04-05 23:11:24
 
 ## License
 MIT
