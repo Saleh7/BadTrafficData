@@ -19540,3 +19540,4 @@ Opera/9.10(.(Windows NT 5.2; kk-KZ) Presto/2.9.178 Version/11.00)
 r00ts3c
 Opera/9.10(.(Windows NT 11.0; hu-HU) Presto/2.9.189 Version/11.00)
 Opera/8.81(.(X11; Linux x86_64; gd-GB) Presto/2.9.182 Version/12.00)
+Opera/9.28(.(X11; Linux x86_64; fr-LU) Presto/2.9.168 Version/12.00)
