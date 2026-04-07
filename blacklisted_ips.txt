@@ -46270,3 +46270,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5129:2dc3::48f:1a
 2a09:bac2:d522:2a0::43:7f
 2a09:bac2:512e:37d::59:4f
+2001:16a2:c21b:b763:948c:e5ee:fcda:bf8e
