@@ -46397,3 +46397,5 @@ Blacklisted IPs (IPv4 and IPv6):
 175.37.158.90
 2a09:bac2:512e:ebe::178:167
 2a09:bac2:d526:191::28:de
+2a09:bac2:4729:2c5a::46b:1e
+2a09:bac2:512d:28b4::40e:24
