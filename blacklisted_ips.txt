@@ -47021,3 +47021,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:511f:2464::3a0:72
 2a09:bac3:512f:1b4b::2b8:3a
 2a09:bac3:5129:14f0::216:b9
+2a02:26f7:df04:4000:3000::a
