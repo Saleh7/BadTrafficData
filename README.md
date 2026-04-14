@@ -18,10 +18,10 @@ These files can be used to update firewall rules, monitor traffic patterns, or a
 |---------------------|---------------|
 | `bad_requests`      | 1164041         |
 | `blacklisted_ips`      | 47005         |
-| `suspicious_user_agents_list`      | 20723         |
+| `suspicious_user_agents_list`      | 20726         |
 
 ### Last Update Reports
-Report generated on: 2026-04-14 06:27:41
+Report generated on: 2026-04-14 06:29:40
 
 ## License
 MIT
