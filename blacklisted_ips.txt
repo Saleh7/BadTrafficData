@@ -47330,3 +47330,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d526:26dc::3df:f
 2a09:bac3:d521:254b::3b7:3b
 2a09:bac2:441:37d::59:4c
+2a09:bac2:512d:254b::3b7:19
