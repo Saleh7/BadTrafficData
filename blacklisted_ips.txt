@@ -47640,3 +47640,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d523:254b::3b7:30
 2a09:bac2:512f:ebe::178:14f
 2a04:4e41:216:f9de::16e5:f9de
+2a09:bac2:5128:1478::20a:6e
