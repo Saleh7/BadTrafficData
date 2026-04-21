@@ -48169,3 +48169,4 @@ Blacklisted IPs (IPv4 and IPv6):
 62.60.131.165
 117.248.62.88
 2a09:bac2:5128:2769::3ed:f
+2a0a:5685:a1a9:4d7b:42b0:76ff:fe2a:1c80
