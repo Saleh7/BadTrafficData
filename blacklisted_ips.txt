@@ -48133,3 +48133,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a0a:5685:d1c6:2efe:52ff:20ff:fe36:9b04
 20.91.248.34
 2a09:bac3:5129:1eb::31:104
+2a09:bac2:5129:2541::3b6:2c
