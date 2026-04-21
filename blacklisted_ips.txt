@@ -48011,3 +48011,4 @@ Blacklisted IPs (IPv4 and IPv6):
 188.68.16.38
 2a09:bac2:512e:d2d::150:fc
 58.71.203.87
+2a09:bac3:d526:26c8::3dd:65
