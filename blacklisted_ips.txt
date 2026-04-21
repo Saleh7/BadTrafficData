@@ -48174,3 +48174,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512f:1c82::2d7:90
 2a09:bac2:5119:303c::4ce:2a
 2a09:bac3:d520:2e3c::49b:21
+2a09:bac2:d523:191::28:cb
