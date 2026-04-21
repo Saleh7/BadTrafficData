@@ -48025,3 +48025,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5136:246e::3a1:64
 2a09:bac3:512c:1eb::31:1b7
 2a09:bac3:5133:2482::3a3:15
+2a09:bac3:512f:15cd::22c:6f
