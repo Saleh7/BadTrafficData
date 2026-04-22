@@ -48262,3 +48262,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a02:26f7:f940:d34d:0:f000:0:b
 2a09:bac2:5128:2482::3a3:3e
 2a09:bac3:5128:23cd::391:7e
+2a09:bac2:5128:ebe::178:14f
