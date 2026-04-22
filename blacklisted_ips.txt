@@ -48300,3 +48300,4 @@ Blacklisted IPs (IPv4 and IPv6):
 171.37.47.177
 2a09:bac2:513a:18fa::27d:65
 2a09:bac3:512c:26d2::3de:2b
+2a09:bac2:d523:14e6::215:68
