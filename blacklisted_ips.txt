@@ -48448,3 +48448,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2620:121:5050:83:0:5d15:0:d
 2a09:bac2:512c:26b4::3db:a
 2a09:bac2:512e:c8::14:2c9
+2a09:bac2:5136:37d::59:55
