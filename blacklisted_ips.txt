@@ -48470,3 +48470,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5128:126e::1d6:23
 2a09:bac3:5129:26b4::3db:4b
 68.221.74.3
+2a09:bac2:5136:2e3c::49b:40
