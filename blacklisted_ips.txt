@@ -48523,3 +48523,4 @@ Blacklisted IPs (IPv4 and IPv6):
 156.59.26.153
 2a09:bac2:5136:26a0::3d9:4b
 2a09:bac3:511c:37d::59:5e
+2a09:bac3:512a:1b4b::2b8:96
