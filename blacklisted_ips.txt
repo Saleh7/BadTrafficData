@@ -48490,3 +48490,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d356:1e1e::300:11
 2a09:bac3:512d:246e::3a1:71
 2a09:bac3:5131:37d::59:5f
+2a09:bac3:512e:505::80:16c
