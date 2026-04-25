@@ -48830,3 +48830,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:57cf:4d2::7b:4a
 4.232.82.138
 93.201.53.70
+2a01:9700:3a2b:5c00:a9e5:289b:8c7d:83cb
