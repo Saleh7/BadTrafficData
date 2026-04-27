@@ -49096,3 +49096,4 @@ Blacklisted IPs (IPv4 and IPv6):
 87.236.176.157
 2a09:bac2:5130:191::28:10f
 2a09:bac2:512e:2c5a::46b:1d
+2a09:bac2:5129:1f5::32:10e
