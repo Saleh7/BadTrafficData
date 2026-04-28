@@ -49448,3 +49448,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:513b:191::28:c4
 2001:16a2:c14f:cdc:78a1:a186:b8:adeb
 2a09:bac3:512e:261e::3cc:11
+2001:16a2:c160:47cc:3998:d819:a888:aee2
