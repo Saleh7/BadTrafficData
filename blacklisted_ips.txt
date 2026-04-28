@@ -49505,3 +49505,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5138:191::28:140
 2001:16a4:600:5ef6:7d2d:d620:fe49:1a45
 2001:16a4:2e6:6f9f:198a:19cd:cb6e:bd3e
+2001:16a2:c149:dd95:2:2:5951:fcb3
