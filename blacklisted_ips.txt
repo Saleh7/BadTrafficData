@@ -49411,3 +49411,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5129:265a::3d2:1a
 2001:16a2:c183:ca80:44de:4498:8ddd:7eca
 2001:16a4:290:bafd:717c:ce0:dce6:80b3
+3.82.104.80
