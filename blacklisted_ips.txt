@@ -49256,3 +49256,4 @@ Blacklisted IPs (IPv4 and IPv6):
 139.59.254.1
 159.195.65.124
 2600:6c58:5b3f:e07b:49f8:a2c4:14cf:fc8d
+2a09:bac2:514c:246e::3a1:27
