@@ -49552,3 +49552,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d526:14f0::216:a3
 2001:16a4:2e1:41bb:86e:95ff:feb4:1afc
 45.126.208.204
+2001:16a4:292:f027:c9ed:c324:7a4b:a352
