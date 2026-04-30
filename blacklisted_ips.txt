@@ -49688,3 +49688,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5134:37d::59:3e
 77.110.125.193
 2a04:4e41:216:baf3::d074:baf3
+2a09:bac2:5128:270f::3e4:5e
