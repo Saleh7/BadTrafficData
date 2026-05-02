@@ -50060,3 +50060,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a04:4e41:216:bdaa::53cf:bdaa
 176.65.132.24
 77.40.48.226
+2a09:bac3:514e:2464::3a0:1c
