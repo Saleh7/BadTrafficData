@@ -21609,3 +21609,12 @@ Exabot
 security-polaris/3.0.47
 m
 Opera/8.81(.(X11; Linux i686; zu-ZA) Presto/2.9.171 Version/10.00)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36FTIvGBiv' OR 573=(SELECT 573 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.361i58mGqo')) OR 691=(SELECT 691 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36sjtkTlBJ')) OR 17=(SELECT 17 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.362BBxCCmK') OR 316=(SELECT 316 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36vS03Cdh2') OR 229=(SELECT 229 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36A2t9XzTJ')) OR 476=(SELECT 476 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36p6n1LUPQ' OR 750=(SELECT 750 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36H3uWWEUE') OR 512=(SELECT 512 FROM PG_SLEEP(15))--)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.360e6zWB0l' OR 451=(SELECT 451 FROM PG_SLEEP(15))--)
