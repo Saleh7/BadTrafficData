@@ -50145,3 +50145,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2001:16a4:a7:5ed9:9db3:56d8:58a5:9c12
 45.82.13.133
 101.36.122.183
+2001:16a2:c14e:7718:f8d2:4bbd:c65b:caef
