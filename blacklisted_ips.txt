@@ -50169,3 +50169,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5129:1c82::2d7:d9
 2001:16a4:29b:1ab1:f83c:7cd2:fc06:1f41
 2001:16a4:22e:bf18:28c1:2365:6faa:cb68
+192.3.90.20
