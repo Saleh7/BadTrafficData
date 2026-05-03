@@ -50210,3 +50210,4 @@ Blacklisted IPs (IPv4 and IPv6):
 89.203.142.96
 85.11.183.25
 2001:16a4:273:6b0f:ed2d:ae5d:9431:ccca
+2001:16a4:2b1:49d5:18ab:de05:453b:14dc
