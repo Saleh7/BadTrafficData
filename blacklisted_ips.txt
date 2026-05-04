@@ -50355,3 +50355,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:513f:1478::20a:d1
 2a09:bac2:d525:26dc::3df:16
 111.119.234.117
+2a09:bac2:5128:2e3c::49b:39
