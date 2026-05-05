@@ -50440,3 +50440,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:512b:26aa::3da:4c
 2a09:bac2:5137:248c::3a4:67
 2a02:26f7:f940:d34a:0:c000:0:b
+2a09:bac2:501:270f::3e4:1d
