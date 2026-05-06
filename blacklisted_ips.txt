@@ -50558,3 +50558,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5130:2541::3b6:29
 2a09:bac3:512c:2664::3d3:43
 2a09:bac3:d523:4f0::7e:6b
+2a09:bac2:5132:1478::20a:c3
