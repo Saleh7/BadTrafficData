@@ -50972,3 +50972,4 @@ Blacklisted IPs (IPv4 and IPv6):
 91.196.152.110
 2a0e:cd41:90b5:1704:f6f2:6dff:fecb:ccb7
 2a09:bac3:512e:1b4b::2b8:1c
+2a09:bac3:512e:2482::3a3:2c
