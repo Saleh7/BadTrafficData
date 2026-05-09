@@ -50970,3 +50970,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a03:2880:f806:4f::
 2a03:2880:f806:10::
 91.196.152.110
+2a0e:cd41:90b5:1704:f6f2:6dff:fecb:ccb7
