@@ -51115,3 +51115,4 @@ Blacklisted IPs (IPv4 and IPv6):
 140.238.52.97
 2a09:bac3:512e:2464::3a0:6b
 2a09:bac3:512f:37d::59:59
+2a09:bac3:5128:d2::15:3df
