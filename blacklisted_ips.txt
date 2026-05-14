@@ -51465,3 +51465,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d521:4f0::7e:50
 2a09:bac2:5128:14f0::216:6f
 202.29.215.10
+2a09:bac2:5130:26aa::3da:2c
