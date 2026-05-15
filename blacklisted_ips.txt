@@ -51580,3 +51580,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2602:fb54:1a00::26
 2a09:bac2:512b:245a::39f:cd
 2a09:bac2:5137:4f0::7e:7a
+20.221.66.142
