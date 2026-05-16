@@ -51762,3 +51762,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2600:1900:4120:ceed:0:8b5::
 2a09:bac3:512b:18f0::27c:99
 2a09:bac3:512f:1eb::31:120
+2a09:bac3:512b:245a::39f:8d
