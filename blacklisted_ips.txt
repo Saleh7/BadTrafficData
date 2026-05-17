@@ -51900,3 +51900,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d523:26e6::3e0:59
 2a09:bac2:513d:37d::59:3d
 34.50.189.33
+2001:16a4:218:ff12:803b:eb1b:17b1:f61d
