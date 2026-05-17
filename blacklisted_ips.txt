@@ -51878,3 +51878,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5136:245a::39f:bd
 2a09:bac2:512e:4f0::7e:66
 66.132.195.68
+2a09:bac2:5136:1c82::2d7:cf
