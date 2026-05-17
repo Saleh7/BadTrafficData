@@ -51961,3 +51961,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5136:26fa::3e2:2f
 2a02:26f7:f940:d346:0:8000:0:5
 2a09:bac3:512e:4f0::7e:52
+2a09:bac3:d522:28a0::40c:35
