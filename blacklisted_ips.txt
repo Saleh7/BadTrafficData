@@ -52075,3 +52075,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5133:26aa::3da:32
 156.146.49.182
 2001:16a4:a2:a0aa:18b0:aa36:c7c4:98f4
+2a09:bac2:d523:1c6e::2d5:17
