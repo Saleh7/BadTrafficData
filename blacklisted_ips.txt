@@ -52101,3 +52101,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5129:4f0::7e:59
 2a09:bac3:5129:265a::3d2:46
 2a09:bac3:d521:4f0::7e:4b
+8.230.121.145
