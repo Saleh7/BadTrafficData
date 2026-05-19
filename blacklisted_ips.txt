@@ -52305,3 +52305,4 @@ Blacklisted IPs (IPv4 and IPv6):
 145.241.123.102
 2a09:bac2:5129:18fa::27d:bf
 2a09:bac3:5136:261e::3cc:63
+2a09:bac2:d523:1eb::31:10a
