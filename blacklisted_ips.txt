@@ -52173,3 +52173,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:d526:4f0::7e:70
 2a09:bac2:d526:4f0::7e:73
 94.26.106.147
+2a09:bac2:5129:254b::3b7:7
