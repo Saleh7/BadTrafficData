@@ -52179,3 +52179,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.226.69.141
 2a09:bac2:5131:26b4::3db:8
 2001:16a4:293:faa6:fdd5:6832:ec69:5aae
+2a09:bac2:511e:2478::3a2:41
