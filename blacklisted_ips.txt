@@ -52169,3 +52169,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.226.13.15
 2a09:bac3:5136:191::28:125
 2a09:bac3:512e:26dc::3df:60
+2a09:bac2:5136:26aa::3da:49
