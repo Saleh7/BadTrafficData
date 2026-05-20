@@ -52434,3 +52434,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:248c::3a4:54
 34.148.206.86
 2406:da14:1d21:4c00:1a8a:80ac:9d60:7f98
+2a09:bac2:511a:26fa::3e2:3b
