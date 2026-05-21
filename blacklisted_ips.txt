@@ -52550,3 +52550,4 @@ Blacklisted IPs (IPv4 and IPv6):
 168.144.98.32
 2a09:bac2:5129:2e3c::49b:34
 2a09:bac3:512d:1282::1d8:62
+2a09:bac3:d523:4f0::7e:6a
