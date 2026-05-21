@@ -52587,3 +52587,4 @@ Blacklisted IPs (IPv4 and IPv6):
 122.160.22.50
 2a09:bac2:5130:4f0::7e:85
 2a09:bac3:5128:4f0::7e:5f
+2a09:bac3:d525:1b4b::2b8:5c
