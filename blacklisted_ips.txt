@@ -52979,3 +52979,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5128:1c82::2d7:108
 2a02:26f7:f940:d34e:0:e800:0:b
 2a09:bac2:d521:26dc::3df:12
+2a09:bac3:5136:18f0::27c:9
