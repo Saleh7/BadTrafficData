@@ -52959,3 +52959,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5136:191::28:152
 2a09:bac3:512e:4f0::7e:85
 2a09:bac2:5149:4f0::7e:50
+2a09:bac3:512e:191::28:e3
