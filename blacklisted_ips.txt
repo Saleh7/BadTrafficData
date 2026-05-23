@@ -52877,3 +52877,6 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:1eb::31:1ac
 2a09:bac2:d520:4f0::7e:86
 2a09:bac2:511b:26aa::3da:8
+2a09:bac2:d521:26fa::3e2:42
+20.48.50.156
+147.45.50.147
