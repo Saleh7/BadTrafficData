@@ -53055,3 +53055,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:512e:4f0::7e:4d
 2a09:bac2:5133:248c::3a4:36
 134.209.29.194
+2a09:bac2:d522:4f0::7e:4c
