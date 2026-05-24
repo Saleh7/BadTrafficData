@@ -53150,3 +53150,4 @@ Blacklisted IPs (IPv4 and IPv6):
 20.9.45.132
 2a09:bac2:512f:4f0::7e:4c
 2a09:bac3:d527:26c8::3dd:5a
+2a09:bac3:512e:4f0::7e:89
