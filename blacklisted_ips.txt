@@ -53271,3 +53271,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:d522:23cd::391:6e
 2a09:bac2:512b:245a::39f:a8
 2a09:bac2:512d:294b::41d:56
+2a02:2479:c6:f00::1
+2a09:bac2:d526:2773::3ee:1f
