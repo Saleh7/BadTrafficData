@@ -53351,3 +53351,5 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5136:18fa::27d:e5
 91.224.92.34
 2600:1f18:26d4:7e01:a996:cdea:6b46:205d
+2a09:bac2:5149:4f0::7e:6a
+2a09:bac3:d526:232::38:9e
