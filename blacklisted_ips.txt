@@ -53267,3 +53267,4 @@ Blacklisted IPs (IPv4 and IPv6):
 34.66.192.123
 2a09:bac3:512a:14f0::216:c2
 2a09:bac3:512a:28d2::411:15
+2a09:bac2:d520:26d2::3de:25
