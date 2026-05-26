@@ -53428,3 +53428,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2600:1f18:26d4:7e01:9fba:5d6b:209b:90a9
 2a09:bac3:d526:4f0::7e:85
 2a09:bac3:5129:26aa::3da:4c
+2a09:bac3:5148:4f0::7e:79
