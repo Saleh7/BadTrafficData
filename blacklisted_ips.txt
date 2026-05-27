@@ -53675,3 +53675,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2406:da18:1ad4:2600:3bdf:4a7b:b4b8:b884
 2a03:2880:7ff:5d::
 136.117.192.160
+2a09:bac3:513e:265a::3d2:60
