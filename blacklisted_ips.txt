@@ -53809,3 +53809,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2600:1f18:26d4:7e01:9e71:a3a9:bbe8:8b4c
 2a09:bac2:5136:254b::3b7:4b
 34.169.11.72
+2a09:bac2:512e:2a0::43:9b
