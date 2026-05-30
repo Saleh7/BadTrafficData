@@ -54048,3 +54048,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac3:5135:4f0::7e:55
 2a09:bac3:512e:2541::3b6:5e
 2a09:bac2:512f:2c5a::46b:54
+2a09:bac2:d521:254b::3b7:1c
