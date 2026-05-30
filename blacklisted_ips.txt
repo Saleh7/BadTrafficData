@@ -53978,3 +53978,4 @@ Blacklisted IPs (IPv4 and IPv6):
 2a09:bac2:5131:18f0::27c:60
 2a09:bac3:513e:2650::3d1:3a
 2a09:bac3:512e:14f0::216:99
+2a04:4e41:216:36ae::8edd:36ae
